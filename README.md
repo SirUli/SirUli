@@ -41,8 +41,8 @@
 
 #### ⭐ Recent Stars
 
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity (3 days ago)
-- [mriscoc/Marlin_Ender3v2](https://github.com/mriscoc/Marlin_Ender3v2) - This Marlin is an optimized firmware for Ender 3v2 3D printers. | It is based upon original Marlin repository and has many improvements from the bugfix branch. (4 weeks ago)
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity (4 days ago)
+- [mriscoc/Marlin_Ender3v2](https://github.com/mriscoc/Marlin_Ender3v2) - This Marlin is an optimized firmware for Ender 3v2 3D printers. | It is based upon original Marlin repository and has many improvements from the bugfix branch. (1 month ago)
 - [emelianov/modbus-esp8266](https://github.com/emelianov/modbus-esp8266) - Most complete Modbus library for Arduino. A library that allows your Arduino board to communicate via Modbus protocol, acting as a master, slave or both. Supports network transport (Modbus TCP) and Serial line/RS-485 (Modbus RTU). Supports Modbus TCP Security for ESP8266/ESP32. (1 month ago)
 - [Aircoookie/WLED](https://github.com/Aircoookie/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi! (3 months ago)
 - [vekexasia/comfoair-esp32](https://github.com/vekexasia/comfoair-esp32) - Interact with Zehnder Comfoair with esp32 (4 months ago)
