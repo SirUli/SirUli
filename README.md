@@ -20,10 +20,10 @@
 
 #### 🔨 Recent Pull Requests
 
-- [Create .travis.yml](https://github.com/SirUli/esp32-miflora-mqtt/pull/4) on [SirUli/esp32-miflora-mqtt](https://github.com/SirUli/esp32-miflora-mqtt) (5 months ago)
-- [Update README.md](https://github.com/SirUli/esp32-miflora-mqtt/pull/3) on [SirUli/esp32-miflora-mqtt](https://github.com/SirUli/esp32-miflora-mqtt) (5 months ago)
-- [Postpone all wifi and mqtt activities until all BLE stuff is done](https://github.com/SirUli/esp32-miflora-mqtt/pull/2) on [SirUli/esp32-miflora-mqtt](https://github.com/SirUli/esp32-miflora-mqtt) (5 months ago)
-- [Add platformio configuration.](https://github.com/SirUli/esp32-miflora-mqtt/pull/1) on [SirUli/esp32-miflora-mqtt](https://github.com/SirUli/esp32-miflora-mqtt) (5 months ago)
+- [Create .travis.yml](https://github.com/SirUli/esp32-miflora-mqtt/pull/4) on [SirUli/esp32-miflora-mqtt](https://github.com/SirUli/esp32-miflora-mqtt) (6 months ago)
+- [Update README.md](https://github.com/SirUli/esp32-miflora-mqtt/pull/3) on [SirUli/esp32-miflora-mqtt](https://github.com/SirUli/esp32-miflora-mqtt) (6 months ago)
+- [Postpone all wifi and mqtt activities until all BLE stuff is done](https://github.com/SirUli/esp32-miflora-mqtt/pull/2) on [SirUli/esp32-miflora-mqtt](https://github.com/SirUli/esp32-miflora-mqtt) (6 months ago)
+- [Add platformio configuration.](https://github.com/SirUli/esp32-miflora-mqtt/pull/1) on [SirUli/esp32-miflora-mqtt](https://github.com/SirUli/esp32-miflora-mqtt) (6 months ago)
 - [Add date format 01. Januar, 2019 / 01 Januar 2019](https://github.com/stweiss/FileBasedMiniDMS/pull/12) on [stweiss/FileBasedMiniDMS](https://github.com/stweiss/FileBasedMiniDMS) (2 years ago)
 - [Implementation of #7 (Missing offset)](https://github.com/SirUli/MAX6675/pull/8) on [SirUli/MAX6675](https://github.com/SirUli/MAX6675) (2 years ago)
 - [Fixing #29, Travis CI integration and ESP8266 Fixes](https://github.com/bogde/HX711/pull/40) on [bogde/HX711](https://github.com/bogde/HX711) (5 years ago)
@@ -45,7 +45,7 @@
 - [mriscoc/Marlin_Ender3v2](https://github.com/mriscoc/Marlin_Ender3v2) - This Marlin is an optimized firmware for Ender 3v2 3D printers. | It is based upon original Marlin repository and has many improvements from the bugfix branch. (1 month ago)
 - [emelianov/modbus-esp8266](https://github.com/emelianov/modbus-esp8266) - Most complete Modbus library for Arduino. A library that allows your Arduino board to communicate via Modbus protocol, acting as a master, slave or both. Supports network transport (Modbus TCP) and Serial line/RS-485 (Modbus RTU). Supports Modbus TCP Security for ESP8266/ESP32. (1 month ago)
 - [Aircoookie/WLED](https://github.com/Aircoookie/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi! (3 months ago)
-- [vekexasia/comfoair-esp32](https://github.com/vekexasia/comfoair-esp32) - Interact with Zehnder Comfoair with esp32 (4 months ago)
+- [vekexasia/comfoair-esp32](https://github.com/vekexasia/comfoair-esp32) - Interact with Zehnder Comfoair with esp32 (5 months ago)
 - [renovatebot/internal-tools](https://github.com/renovatebot/internal-tools) - Renovate internal build tools (5 months ago)
 - [ansible-collections/community.general](https://github.com/ansible-collections/community.general) - Ansible Community General Collection (5 months ago)
 - [recomedia/x1-logic-nodes](https://github.com/recomedia/x1-logic-nodes) - Logikbausteine für Gira X1/L1 KNX Server/Logikmodul (6 months ago)
