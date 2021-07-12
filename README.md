@@ -41,6 +41,7 @@
 
 #### ⭐ Recent Stars
 
+- [mcer12/Hugo-ESP8266](https://github.com/mcer12/Hugo-ESP8266) - Hugo is a 4-button ESP8266 Wi-Fi Remote, Arduino compatible and simple to use. (today)
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity (1 week ago)
 - [mriscoc/Marlin_Ender3v2](https://github.com/mriscoc/Marlin_Ender3v2) - This Marlin is an optimized firmware for Ender 3v2 3D printers. | It is based upon original Marlin repository and has many improvements from the bugfix branch. (1 month ago)
 - [emelianov/modbus-esp8266](https://github.com/emelianov/modbus-esp8266) - Most complete Modbus library for Arduino. A library that allows your Arduino board to communicate via Modbus protocol, acting as a master, slave or both. Supports network transport (Modbus TCP) and Serial line/RS-485 (Modbus RTU). Supports Modbus TCP Security for ESP8266/ESP32. (1 month ago)
@@ -50,7 +51,6 @@
 - [ansible-collections/community.general](https://github.com/ansible-collections/community.general) - Ansible Community General Collection (6 months ago)
 - [recomedia/x1-logic-nodes](https://github.com/recomedia/x1-logic-nodes) - Logikbausteine für Gira X1/L1 KNX Server/Logikmodul (6 months ago)
 - [s01iD/GiraLogicNodes](https://github.com/s01iD/GiraLogicNodes) - This projects contains &#39;Logic Nodes&#39; that can run on Gira X1 and Gira L1 (devices for KNX building automation / smart home, see https://www.gira.com/en). (6 months ago)
-- [jpcornil-git/Gira-LogicNodes](https://github.com/jpcornil-git/Gira-LogicNodes) - Logic Nodes for GIRA X1 (6 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
