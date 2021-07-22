@@ -33,7 +33,7 @@
 
 #### 📜 My recent blog posts
 
-- [Ansible: Nutzung des „copy“ moduls auf vault dateien führt zu Passwortabfrage](https://wolf-u.li/6115/ansible-nutzung-des-copy-moduls-auf-vault-dateien-fuehrt-zu-passwortabfrage/) (9 months ago)
+- [Ansible: Nutzung des „copy“ moduls auf vault dateien führt zu Passwortabfrage](https://wolf-u.li/6115/ansible-nutzung-des-copy-moduls-auf-vault-dateien-fuehrt-zu-passwortabfrage/) (10 months ago)
 - [Einbindung der ESENTA SIAS (S)IP Türsprechanlage ins Smarthome (FHEM) – Anwendungsfälle](https://wolf-u.li/6109/einbindung-der-esenta-sias-sip-tuersprechanlage-ins-smarthome-fhem-anwendungsfaelle/) (10 months ago)
 - [Benachrichtigung per Telegram beim Klingeln an der ESENTA SIAS (S)IP Türsprechanlage](https://wolf-u.li/6073/benachrichtigung-per-telegram-beim-klingeln-an-der-esenta-sias-sip-tuersprechanlage/) (10 months ago)
 - [ESENTA SIAS (S)IP Türsprechanlage – Der Einbau der Türsprechstation](https://wolf-u.li/6066/esenta-sias-sip-tuersprechanlage-der-einbau-der-tuersprechstation/) (10 months ago)
@@ -41,7 +41,7 @@
 
 #### ⭐ Recent Stars
 
-- [jusbrasil/JavaScript-autoComplete](https://github.com/jusbrasil/JavaScript-autoComplete) - An extremely lightweight and powerful vanilla JavaScript completion suggester. (1 day ago)
+- [jusbrasil/JavaScript-autoComplete](https://github.com/jusbrasil/JavaScript-autoComplete) - An extremely lightweight and powerful vanilla JavaScript completion suggester. (2 days ago)
 - [mcer12/Hugo-ESP8266](https://github.com/mcer12/Hugo-ESP8266) - Hugo is a 4-button ESP8266 Wi-Fi Remote, Arduino compatible and simple to use. (1 week ago)
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity (3 weeks ago)
 - [mriscoc/Marlin_Ender3v2](https://github.com/mriscoc/Marlin_Ender3v2) - This Marlin is an optimized firmware for Ender 3v2 3D printers. | It is based upon original Marlin repository and has many improvements from the bugfix branch. (1 month ago)
