@@ -41,6 +41,7 @@
 
 #### ⭐ Recent Stars
 
+- [olalid/SmartRoomSensor](https://github.com/olalid/SmartRoomSensor) - Smarter replacement for the RG20 room sensor that is an optional extra for some NIBE heat pumps. (today)
 - [jusbrasil/JavaScript-autoComplete](https://github.com/jusbrasil/JavaScript-autoComplete) - An extremely lightweight and powerful vanilla JavaScript completion suggester. (1 week ago)
 - [mcer12/Hugo-ESP8266](https://github.com/mcer12/Hugo-ESP8266) - Hugo is a 4-button ESP8266 Wi-Fi Remote, Arduino compatible and simple to use. (2 weeks ago)
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity (1 month ago)
@@ -50,7 +51,6 @@
 - [vekexasia/comfoair-esp32](https://github.com/vekexasia/comfoair-esp32) - Interact with Zehnder Comfoair with esp32 (5 months ago)
 - [renovatebot/internal-tools](https://github.com/renovatebot/internal-tools) - Renovate internal build tools (6 months ago)
 - [ansible-collections/community.general](https://github.com/ansible-collections/community.general) - Ansible Community General Collection (6 months ago)
-- [recomedia/x1-logic-nodes](https://github.com/recomedia/x1-logic-nodes) - Logikbausteine für Gira X1/L1 KNX Server/Logikmodul (7 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
