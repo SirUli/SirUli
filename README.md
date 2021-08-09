@@ -43,7 +43,7 @@
 
 - [olalid/SmartRoomSensor](https://github.com/olalid/SmartRoomSensor) - Smarter replacement for the RG20 room sensor that is an optional extra for some NIBE heat pumps. (1 week ago)
 - [jusbrasil/JavaScript-autoComplete](https://github.com/jusbrasil/JavaScript-autoComplete) - An extremely lightweight and powerful vanilla JavaScript completion suggester. (2 weeks ago)
-- [mcer12/Hugo-ESP8266](https://github.com/mcer12/Hugo-ESP8266) - Hugo is a 4-button ESP8266 Wi-Fi Remote, Arduino compatible and simple to use. (3 weeks ago)
+- [mcer12/Hugo-ESP8266](https://github.com/mcer12/Hugo-ESP8266) - Hugo is a 4-button ESP8266 Wi-Fi Remote, Arduino compatible and simple to use. (4 weeks ago)
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity (1 month ago)
 - [mriscoc/Marlin_Ender3v2](https://github.com/mriscoc/Marlin_Ender3v2) - This Marlin is an optimized firmware for Ender 3v2 3D printers. | It is based upon original Marlin repository and has many improvements from the bugfix branch. (2 months ago)
 - [emelianov/modbus-esp8266](https://github.com/emelianov/modbus-esp8266) - Most complete Modbus library for Arduino. A library that allows your Arduino board to communicate via Modbus protocol, acting as a master, slave or both. Supports network transport (Modbus TCP) and Serial line/RS-485 (Modbus RTU). Supports Modbus TCP Security for ESP8266/ESP32. (2 months ago)
