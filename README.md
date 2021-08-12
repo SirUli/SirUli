@@ -59,8 +59,8 @@ For more information, see [the sponsors page](https://github.com/sponsors/SirUli
 
 #### 👯 Recent followers
 
-- [Novusvetus](https://github.com/Novusvetus)
 - [oleekhunkhuntod](https://github.com/oleekhunkhuntod)
 - [donJorgito](https://github.com/donJorgito)
 - [PrieJos](https://github.com/PrieJos)
 - [Dmitriy-Vas](https://github.com/Dmitriy-Vas)
+- [Neustradamus](https://github.com/Neustradamus)
