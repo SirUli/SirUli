@@ -20,10 +20,10 @@
 
 #### 🔨 Recent Pull Requests
 
-- [Create .travis.yml](https://github.com/SirUli/esp32-miflora-mqtt/pull/4) on [SirUli/esp32-miflora-mqtt](https://github.com/SirUli/esp32-miflora-mqtt) (7 months ago)
-- [Update README.md](https://github.com/SirUli/esp32-miflora-mqtt/pull/3) on [SirUli/esp32-miflora-mqtt](https://github.com/SirUli/esp32-miflora-mqtt) (7 months ago)
-- [Postpone all wifi and mqtt activities until all BLE stuff is done](https://github.com/SirUli/esp32-miflora-mqtt/pull/2) on [SirUli/esp32-miflora-mqtt](https://github.com/SirUli/esp32-miflora-mqtt) (7 months ago)
-- [Add platformio configuration.](https://github.com/SirUli/esp32-miflora-mqtt/pull/1) on [SirUli/esp32-miflora-mqtt](https://github.com/SirUli/esp32-miflora-mqtt) (7 months ago)
+- [Create .travis.yml](https://github.com/SirUli/esp32-miflora-mqtt/pull/4) on [SirUli/esp32-miflora-mqtt](https://github.com/SirUli/esp32-miflora-mqtt) (8 months ago)
+- [Update README.md](https://github.com/SirUli/esp32-miflora-mqtt/pull/3) on [SirUli/esp32-miflora-mqtt](https://github.com/SirUli/esp32-miflora-mqtt) (8 months ago)
+- [Postpone all wifi and mqtt activities until all BLE stuff is done](https://github.com/SirUli/esp32-miflora-mqtt/pull/2) on [SirUli/esp32-miflora-mqtt](https://github.com/SirUli/esp32-miflora-mqtt) (8 months ago)
+- [Add platformio configuration.](https://github.com/SirUli/esp32-miflora-mqtt/pull/1) on [SirUli/esp32-miflora-mqtt](https://github.com/SirUli/esp32-miflora-mqtt) (8 months ago)
 - [Add date format 01. Januar, 2019 / 01 Januar 2019](https://github.com/stweiss/FileBasedMiniDMS/pull/12) on [stweiss/FileBasedMiniDMS](https://github.com/stweiss/FileBasedMiniDMS) (2 years ago)
 - [Implementation of #7 (Missing offset)](https://github.com/SirUli/MAX6675/pull/8) on [SirUli/MAX6675](https://github.com/SirUli/MAX6675) (2 years ago)
 - [Fixing #29, Travis CI integration and ESP8266 Fixes](https://github.com/bogde/HX711/pull/40) on [bogde/HX711](https://github.com/bogde/HX711) (5 years ago)
@@ -34,7 +34,7 @@
 #### 📜 My recent blog posts
 
 - [Gira X1: Abruf der Notfallapotheke](https://wolf-u.li/6122/gira-x1-abruf-der-notfallapotheke/) (2 weeks ago)
-- [Synology Hyper Backup mit Google Drive: „Vorgang fehlgeschlagen“](https://wolf-u.li/6141/synology-hyper-backup-mit-google-drive-vorgang-fehlgeschlagen/) (2 weeks ago)
+- [Synology Hyper Backup mit Google Drive: „Vorgang fehlgeschlagen“](https://wolf-u.li/6141/synology-hyper-backup-mit-google-drive-vorgang-fehlgeschlagen/) (3 weeks ago)
 - [Flashen des WT32-ETH01 – Ein ESP32 mit LAN &#43; WiFi/WLAN](https://wolf-u.li/6135/flashen-des-wt32-eth01-ein-esp32-mit-lan-wifiwlan/) (1 month ago)
 - [Ansible: Nutzung des „copy“ moduls auf vault dateien führt zu Passwortabfrage](https://wolf-u.li/6115/ansible-nutzung-des-copy-moduls-auf-vault-dateien-fuehrt-zu-passwortabfrage/) (11 months ago)
 - [Einbindung der ESENTA SIAS (S)IP Türsprechanlage ins Smarthome (FHEM) – Anwendungsfälle](https://wolf-u.li/6109/einbindung-der-esenta-sias-sip-tuersprechanlage-ins-smarthome-fhem-anwendungsfaelle/) (1 year ago)
@@ -48,7 +48,7 @@
 - [mriscoc/Marlin_Ender3v2](https://github.com/mriscoc/Marlin_Ender3v2) - This Marlin is an optimized firmware for Ender 3v2 3D printers. | It is based upon original Marlin repository and has many improvements from the bugfix branch. (3 months ago)
 - [emelianov/modbus-esp8266](https://github.com/emelianov/modbus-esp8266) - Most complete Modbus library for Arduino. A library that allows your Arduino board to communicate via Modbus protocol, acting as a master, slave or both. Supports network transport (Modbus TCP) and Serial line/RS-485 (Modbus RTU). Supports Modbus TCP Security for ESP8266/ESP32. (3 months ago)
 - [Aircoookie/WLED](https://github.com/Aircoookie/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi! (5 months ago)
-- [vekexasia/comfoair-esp32](https://github.com/vekexasia/comfoair-esp32) - Interact with Zehnder Comfoair with esp32 (6 months ago)
+- [vekexasia/comfoair-esp32](https://github.com/vekexasia/comfoair-esp32) - Interact with Zehnder Comfoair with esp32 (7 months ago)
 - [renovatebot/internal-tools](https://github.com/renovatebot/internal-tools) - Renovate internal build tools (7 months ago)
 - [ansible-collections/community.general](https://github.com/ansible-collections/community.general) - Ansible Community General Collection (7 months ago)
 
