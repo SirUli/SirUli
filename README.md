@@ -41,12 +41,12 @@
 
 #### ⭐ Recent Stars
 
-- [dwainscheeren/dwains-lovelace-dashboard](https://github.com/dwainscheeren/dwains-lovelace-dashboard) - An auto generating Home Assistant Lovelace UI dashboard for desktop, tablet and mobile by Dwains for desktop, tablet, mobile (today)
-- [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com. (today)
-- [ansible-collections/community.vmware](https://github.com/ansible-collections/community.vmware) - Ansible Collection for VMWare (today)
-- [ansible/awx](https://github.com/ansible/awx) - AWX Project (today)
-- [ansible/ansible-runner](https://github.com/ansible/ansible-runner) - A tool and python library that helps when interfacing with Ansible directly or as part of another system whether that be through a container image interface, as a standalone tool, or as a Python module that can be imported. The goal is to provide a stable and consistent interface abstraction to Ansible. (today)
-- [ansible-community/ansible-lint](https://github.com/ansible-community/ansible-lint) - Best practices checker for Ansible (today)
+- [dwainscheeren/dwains-lovelace-dashboard](https://github.com/dwainscheeren/dwains-lovelace-dashboard) - An auto generating Home Assistant Lovelace UI dashboard for desktop, tablet and mobile by Dwains for desktop, tablet, mobile (1 day ago)
+- [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com. (1 day ago)
+- [ansible-collections/community.vmware](https://github.com/ansible-collections/community.vmware) - Ansible Collection for VMWare (1 day ago)
+- [ansible/awx](https://github.com/ansible/awx) - AWX Project (1 day ago)
+- [ansible/ansible-runner](https://github.com/ansible/ansible-runner) - A tool and python library that helps when interfacing with Ansible directly or as part of another system whether that be through a container image interface, as a standalone tool, or as a Python module that can be imported. The goal is to provide a stable and consistent interface abstraction to Ansible. (1 day ago)
+- [ansible-community/ansible-lint](https://github.com/ansible-community/ansible-lint) - Best practices checker for Ansible (1 day ago)
 - [olalid/SmartRoomSensor](https://github.com/olalid/SmartRoomSensor) - Smarter replacement for the RG20 room sensor that is an optional extra for some NIBE heat pumps. (1 month ago)
 - [jusbrasil/JavaScript-autoComplete](https://github.com/jusbrasil/JavaScript-autoComplete) - An extremely lightweight and powerful vanilla JavaScript completion suggester. (1 month ago)
 - [mcer12/Hugo-ESP8266](https://github.com/mcer12/Hugo-ESP8266) - Hugo is a 4-button ESP8266 Wi-Fi Remote, Arduino compatible and simple to use. (1 month ago)
