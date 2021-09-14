@@ -33,11 +33,11 @@
 
 #### 📜 My recent blog posts
 
+- [Home Assistant Operating System in VMware ESXi 7 installieren](https://wolf-u.li/6151/home-assistant-operating-system-in-vmware-esxi-7-installieren/) (today)
 - [Gira X1: Abruf der Notfallapotheke](https://wolf-u.li/6122/gira-x1-abruf-der-notfallapotheke/) (3 weeks ago)
 - [Synology Hyper Backup mit Google Drive: „Vorgang fehlgeschlagen“](https://wolf-u.li/6141/synology-hyper-backup-mit-google-drive-vorgang-fehlgeschlagen/) (4 weeks ago)
 - [Flashen des WT32-ETH01 – Ein ESP32 mit LAN &#43; WiFi/WLAN](https://wolf-u.li/6135/flashen-des-wt32-eth01-ein-esp32-mit-lan-wifiwlan/) (1 month ago)
 - [Ansible: Nutzung des „copy“ moduls auf vault dateien führt zu Passwortabfrage](https://wolf-u.li/6115/ansible-nutzung-des-copy-moduls-auf-vault-dateien-fuehrt-zu-passwortabfrage/) (11 months ago)
-- [Einbindung der ESENTA SIAS (S)IP Türsprechanlage ins Smarthome (FHEM) – Anwendungsfälle](https://wolf-u.li/6109/einbindung-der-esenta-sias-sip-tuersprechanlage-ins-smarthome-fhem-anwendungsfaelle/) (1 year ago)
 
 #### ⭐ Recent Stars
 
