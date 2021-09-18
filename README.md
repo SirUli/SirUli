@@ -33,8 +33,8 @@
 
 #### 📜 My recent blog posts
 
-- [Migration von Synology DS215J auf DS720&#43;](https://wolf-u.li/6143/migration-von-synology-ds215j-auf-ds720/) (2 days ago)
-- [Home Assistant Operating System in VMware ESXi 7 installieren](https://wolf-u.li/6151/home-assistant-operating-system-in-vmware-esxi-7-installieren/) (3 days ago)
+- [Migration von Synology DS215J auf DS720&#43;](https://wolf-u.li/6143/migration-von-synology-ds215j-auf-ds720/) (3 days ago)
+- [Home Assistant Operating System in VMware ESXi 7 installieren](https://wolf-u.li/6151/home-assistant-operating-system-in-vmware-esxi-7-installieren/) (4 days ago)
 - [Gira X1: Abruf der Notfallapotheke](https://wolf-u.li/6122/gira-x1-abruf-der-notfallapotheke/) (4 weeks ago)
 - [Synology Hyper Backup mit Google Drive: „Vorgang fehlgeschlagen“](https://wolf-u.li/6141/synology-hyper-backup-mit-google-drive-vorgang-fehlgeschlagen/) (1 month ago)
 - [Flashen des WT32-ETH01 – Ein ESP32 mit LAN &#43; WiFi/WLAN](https://wolf-u.li/6135/flashen-des-wt32-eth01-ein-esp32-mit-lan-wifiwlan/) (1 month ago)
@@ -48,7 +48,7 @@
 - [ansible/ansible-runner](https://github.com/ansible/ansible-runner) - A tool and python library that helps when interfacing with Ansible directly or as part of another system whether that be through a container image interface, as a standalone tool, or as a Python module that can be imported. The goal is to provide a stable and consistent interface abstraction to Ansible. (1 week ago)
 - [ansible-community/ansible-lint](https://github.com/ansible-community/ansible-lint) - Best practices checker for Ansible (1 week ago)
 - [olalid/SmartRoomSensor](https://github.com/olalid/SmartRoomSensor) - Smarter replacement for the RG20 room sensor that is an optional extra for some NIBE heat pumps. (1 month ago)
-- [jusbrasil/JavaScript-autoComplete](https://github.com/jusbrasil/JavaScript-autoComplete) - An extremely lightweight and powerful vanilla JavaScript completion suggester. (1 month ago)
+- [jusbrasil/JavaScript-autoComplete](https://github.com/jusbrasil/JavaScript-autoComplete) - An extremely lightweight and powerful vanilla JavaScript completion suggester. (2 months ago)
 - [mcer12/Hugo-ESP8266](https://github.com/mcer12/Hugo-ESP8266) - Hugo is a 4-button ESP8266 Wi-Fi Remote, Arduino compatible and simple to use. (2 months ago)
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity (2 months ago)
 
