@@ -41,6 +41,7 @@
 
 #### ⭐ Recent Stars
 
+- [pryorda/vmware_exporter](https://github.com/pryorda/vmware_exporter) - VMWare vCenter Exporter for Prometheus (today)
 - [dwainscheeren/dwains-lovelace-dashboard](https://github.com/dwainscheeren/dwains-lovelace-dashboard) - An auto generating Home Assistant Lovelace UI dashboard for desktop, tablet and mobile by Dwains for desktop, tablet, mobile (2 weeks ago)
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com. (2 weeks ago)
 - [ansible-collections/community.vmware](https://github.com/ansible-collections/community.vmware) - Ansible Collection for VMWare (2 weeks ago)
@@ -50,7 +51,6 @@
 - [olalid/SmartRoomSensor](https://github.com/olalid/SmartRoomSensor) - Smarter replacement for the RG20 room sensor that is an optional extra for some NIBE heat pumps. (1 month ago)
 - [jusbrasil/JavaScript-autoComplete](https://github.com/jusbrasil/JavaScript-autoComplete) - An extremely lightweight and powerful vanilla JavaScript completion suggester. (2 months ago)
 - [mcer12/Hugo-ESP8266](https://github.com/mcer12/Hugo-ESP8266) - Hugo is a 4-button ESP8266 Wi-Fi Remote, Arduino compatible and simple to use. (2 months ago)
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
