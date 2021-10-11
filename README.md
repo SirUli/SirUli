@@ -33,7 +33,7 @@
 
 #### 📜 My recent blog posts
 
-- [esxcli: Got no data from process](https://wolf-u.li/6173/esxcli-got-no-data-from-process/) (today)
+- [esxcli: Got no data from process](https://wolf-u.li/6173/esxcli-got-no-data-from-process/) (1 day ago)
 - [Homeassistant Lovelace Card für Volvo OnCall Integration](https://wolf-u.li/6170/homeassistant-lovelace-card-fuer-volvo-oncall-integration/) (1 week ago)
 - [Migration von Synology DS215J auf DS720&#43;](https://wolf-u.li/6143/migration-von-synology-ds215j-auf-ds720/) (3 weeks ago)
 - [Home Assistant Operating System in VMware ESXi 7 installieren](https://wolf-u.li/6151/home-assistant-operating-system-in-vmware-esxi-7-installieren/) (3 weeks ago)
