@@ -33,11 +33,11 @@
 
 #### 📜 My recent blog posts
 
+- [Auflisten des Inhalts von SAP Transport data files](https://wolf-u.li/6176/auflisten-des-inhalts-von-sap-transport-data-files/) (today)
 - [esxcli: Got no data from process](https://wolf-u.li/6173/esxcli-got-no-data-from-process/) (2 days ago)
 - [Homeassistant Lovelace Card für Volvo OnCall Integration](https://wolf-u.li/6170/homeassistant-lovelace-card-fuer-volvo-oncall-integration/) (1 week ago)
 - [Migration von Synology DS215J auf DS720&#43;](https://wolf-u.li/6143/migration-von-synology-ds215j-auf-ds720/) (3 weeks ago)
 - [Home Assistant Operating System in VMware ESXi 7 installieren](https://wolf-u.li/6151/home-assistant-operating-system-in-vmware-esxi-7-installieren/) (4 weeks ago)
-- [Gira X1: Abruf der Notfallapotheke](https://wolf-u.li/6122/gira-x1-abruf-der-notfallapotheke/) (1 month ago)
 
 #### ⭐ Recent Stars
 
