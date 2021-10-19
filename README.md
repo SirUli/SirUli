@@ -33,7 +33,7 @@
 
 #### 📜 My recent blog posts
 
-- [Auflisten des Inhalts von SAP Transport data files](https://wolf-u.li/6176/auflisten-des-inhalts-von-sap-transport-data-files/) (6 days ago)
+- [Auflisten des Inhalts von SAP Transport data files](https://wolf-u.li/6176/auflisten-des-inhalts-von-sap-transport-data-files/) (1 week ago)
 - [esxcli: Got no data from process](https://wolf-u.li/6173/esxcli-got-no-data-from-process/) (1 week ago)
 - [Homeassistant Lovelace Card für Volvo OnCall Integration](https://wolf-u.li/6170/homeassistant-lovelace-card-fuer-volvo-oncall-integration/) (2 weeks ago)
 - [Migration von Synology DS215J auf DS720&#43;](https://wolf-u.li/6143/migration-von-synology-ds215j-auf-ds720/) (1 month ago)
@@ -41,8 +41,8 @@
 
 #### ⭐ Recent Stars
 
-- [AlexPresso/VideoStation-FFMPEG-Patcher](https://github.com/AlexPresso/VideoStation-FFMPEG-Patcher) - Patcher to enable DTS, EAC3 and TrueHD support to Synology VideoStation (DSM 7.0 ready) (5 days ago)
-- [vmstan/gravity-sync](https://github.com/vmstan/gravity-sync) - An easy way to synchronize the blocklist and local DNS configurations of multiple Pi-hole 5.x instances. (6 days ago)
+- [AlexPresso/VideoStation-FFMPEG-Patcher](https://github.com/AlexPresso/VideoStation-FFMPEG-Patcher) - Patcher to enable DTS, EAC3 and TrueHD support to Synology VideoStation (DSM 7.0 ready) (6 days ago)
+- [vmstan/gravity-sync](https://github.com/vmstan/gravity-sync) - An easy way to synchronize the blocklist and local DNS configurations of multiple Pi-hole 5.x instances. (1 week ago)
 - [pryorda/vmware_exporter](https://github.com/pryorda/vmware_exporter) - VMWare vCenter Exporter for Prometheus (3 weeks ago)
 - [dwainscheeren/dwains-lovelace-dashboard](https://github.com/dwainscheeren/dwains-lovelace-dashboard) - An auto generating Home Assistant Lovelace UI dashboard for desktop, tablet and mobile by Dwains for desktop, tablet, mobile (1 month ago)
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com. (1 month ago)
