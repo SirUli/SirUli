@@ -41,6 +41,7 @@
 
 #### ⭐ Recent Stars
 
+- [pinae/PrinterCaseServo](https://github.com/pinae/PrinterCaseServo) - Ventilation control with a 12cm fan and vent door motorized by a servo (today)
 - [AlexPresso/VideoStation-FFMPEG-Patcher](https://github.com/AlexPresso/VideoStation-FFMPEG-Patcher) - Patcher to enable DTS, EAC3 and TrueHD support to Synology VideoStation (DSM 7.0 ready) (1 week ago)
 - [vmstan/gravity-sync](https://github.com/vmstan/gravity-sync) - An easy way to synchronize the blocklist and local DNS configurations of multiple Pi-hole 5.x instances. (1 week ago)
 - [pryorda/vmware_exporter](https://github.com/pryorda/vmware_exporter) - VMWare vCenter Exporter for Prometheus (1 month ago)
@@ -50,7 +51,6 @@
 - [ansible/awx](https://github.com/ansible/awx) - AWX Project (1 month ago)
 - [ansible/ansible-runner](https://github.com/ansible/ansible-runner) - A tool and python library that helps when interfacing with Ansible directly or as part of another system whether that be through a container image interface, as a standalone tool, or as a Python module that can be imported. The goal is to provide a stable and consistent interface abstraction to Ansible. (1 month ago)
 - [ansible-community/ansible-lint](https://github.com/ansible-community/ansible-lint) - Best practices checker for Ansible (1 month ago)
-- [olalid/SmartRoomSensor](https://github.com/olalid/SmartRoomSensor) - Smarter replacement for the RG20 room sensor that is an optional extra for some NIBE heat pumps. (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
