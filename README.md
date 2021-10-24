@@ -34,14 +34,14 @@
 #### 📜 My recent blog posts
 
 - [Auflisten des Inhalts von SAP Transport data files](https://wolf-u.li/6176/auflisten-des-inhalts-von-sap-transport-data-files/) (1 week ago)
-- [esxcli: Got no data from process](https://wolf-u.li/6173/esxcli-got-no-data-from-process/) (1 week ago)
+- [esxcli: Got no data from process](https://wolf-u.li/6173/esxcli-got-no-data-from-process/) (2 weeks ago)
 - [Homeassistant Lovelace Card für Volvo OnCall Integration](https://wolf-u.li/6170/homeassistant-lovelace-card-fuer-volvo-oncall-integration/) (3 weeks ago)
 - [Migration von Synology DS215J auf DS720&#43;](https://wolf-u.li/6143/migration-von-synology-ds215j-auf-ds720/) (1 month ago)
 - [Home Assistant Operating System in VMware ESXi 7 installieren](https://wolf-u.li/6151/home-assistant-operating-system-in-vmware-esxi-7-installieren/) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [pinae/PrinterCaseServo](https://github.com/pinae/PrinterCaseServo) - Ventilation control with a 12cm fan and vent door motorized by a servo (today)
+- [pinae/PrinterCaseServo](https://github.com/pinae/PrinterCaseServo) - Ventilation control with a 12cm fan and vent door motorized by a servo (1 day ago)
 - [AlexPresso/VideoStation-FFMPEG-Patcher](https://github.com/AlexPresso/VideoStation-FFMPEG-Patcher) - Patcher to enable DTS, EAC3 and TrueHD support to Synology VideoStation (DSM 7.0 ready) (1 week ago)
 - [vmstan/gravity-sync](https://github.com/vmstan/gravity-sync) - An easy way to synchronize the blocklist and local DNS configurations of multiple Pi-hole 5.x instances. (1 week ago)
 - [pryorda/vmware_exporter](https://github.com/pryorda/vmware_exporter) - VMWare vCenter Exporter for Prometheus (1 month ago)
