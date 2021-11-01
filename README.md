@@ -41,7 +41,7 @@
 
 #### ⭐ Recent Stars
 
-- [sle118/squeezelite-esp32](https://github.com/sle118/squeezelite-esp32) - squeezelite ported to esp32 (today)
+- [sle118/squeezelite-esp32](https://github.com/sle118/squeezelite-esp32) - squeezelite ported to esp32 (1 day ago)
 - [pinae/PrinterCaseServo](https://github.com/pinae/PrinterCaseServo) - Ventilation control with a 12cm fan and vent door motorized by a servo (1 week ago)
 - [AlexPresso/VideoStation-FFMPEG-Patcher](https://github.com/AlexPresso/VideoStation-FFMPEG-Patcher) - Patcher to enable DTS, EAC3 and TrueHD support to Synology VideoStation (DSM 7.0 ready) (2 weeks ago)
 - [vmstan/gravity-sync](https://github.com/vmstan/gravity-sync) - An easy way to synchronize the blocklist and local DNS configurations of multiple Pi-hole 5.x instances. (2 weeks ago)
