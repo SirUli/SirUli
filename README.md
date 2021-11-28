@@ -37,13 +37,13 @@
 - [Home Assistant: Generation of long term statistics will be suppressed unless the unit changes back](https://wolf-u.li/6178/home-assistant-generation-of-long-term-statistics-will-be-suppressed-unless-the-unit-changes-back/) (1 month ago)
 - [Auflisten des Inhalts von SAP Transport data files](https://wolf-u.li/6176/auflisten-des-inhalts-von-sap-transport-data-files/) (1 month ago)
 - [esxcli: Got no data from process](https://wolf-u.li/6173/esxcli-got-no-data-from-process/) (1 month ago)
-- [Homeassistant Lovelace Card für Volvo OnCall Integration](https://wolf-u.li/6170/homeassistant-lovelace-card-fuer-volvo-oncall-integration/) (1 month ago)
+- [Homeassistant Lovelace Card für Volvo OnCall Integration](https://wolf-u.li/6170/homeassistant-lovelace-card-fuer-volvo-oncall-integration/) (2 months ago)
 
 #### ⭐ Recent Stars
 
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem https://hoppscotch.io (1 week ago)
-- [rickkas7/DS2482-RK](https://github.com/rickkas7/DS2482-RK) - DS2482 I2C to 1-Wire Library for Particle devices (1 week ago)
-- [sle118/squeezelite-esp32](https://github.com/sle118/squeezelite-esp32) - squeezelite ported to esp32 (3 weeks ago)
+- [rickkas7/DS2482-RK](https://github.com/rickkas7/DS2482-RK) - DS2482 I2C to 1-Wire Library for Particle devices (2 weeks ago)
+- [sle118/squeezelite-esp32](https://github.com/sle118/squeezelite-esp32) - squeezelite ported to esp32 (4 weeks ago)
 - [pinae/PrinterCaseServo](https://github.com/pinae/PrinterCaseServo) - Ventilation control with a 12cm fan and vent door motorized by a servo (1 month ago)
 - [AlexPresso/VideoStation-FFMPEG-Patcher](https://github.com/AlexPresso/VideoStation-FFMPEG-Patcher) - Patcher to enable DTS, EAC3 and TrueHD support to Synology VideoStation (DSM 7.0 ready) (1 month ago)
 - [vmstan/gravity-sync](https://github.com/vmstan/gravity-sync) - An easy way to synchronize the blocklist and local DNS configurations of multiple Pi-hole 5.x instances. (1 month ago)
