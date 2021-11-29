@@ -33,7 +33,7 @@
 
 #### 📜 My recent blog posts
 
-- [Synology DS720&#43; – Nutzung einer SSD als Volume](https://wolf-u.li/6184/synology-ds720-nutzung-einer-ssd-als-volume/) (today)
+- [Synology DS720&#43; – Nutzung einer SSD als Volume](https://wolf-u.li/6184/synology-ds720-nutzung-einer-ssd-als-volume/) (1 day ago)
 - [PINOUT des WT32-ETH01 – ESP32 Modul mit Ethernet](https://wolf-u.li/6181/pinout-des-wt32-eth01-esp32-modul-mit-ethernet/) (1 month ago)
 - [Home Assistant: Generation of long term statistics will be suppressed unless the unit changes back](https://wolf-u.li/6178/home-assistant-generation-of-long-term-statistics-will-be-suppressed-unless-the-unit-changes-back/) (1 month ago)
 - [Auflisten des Inhalts von SAP Transport data files](https://wolf-u.li/6176/auflisten-des-inhalts-von-sap-transport-data-files/) (1 month ago)
