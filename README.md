@@ -43,7 +43,7 @@
 
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem https://hoppscotch.io (1 month ago)
 - [rickkas7/DS2482-RK](https://github.com/rickkas7/DS2482-RK) - DS2482 I2C to 1-Wire Library for Particle devices (1 month ago)
-- [sle118/squeezelite-esp32](https://github.com/sle118/squeezelite-esp32) - squeezelite ported to esp32 (1 month ago)
+- [sle118/squeezelite-esp32](https://github.com/sle118/squeezelite-esp32) - squeezelite ported to esp32 (2 months ago)
 - [pinae/PrinterCaseServo](https://github.com/pinae/PrinterCaseServo) - Ventilation control with a 12cm fan and vent door motorized by a servo (2 months ago)
 - [AlexPresso/VideoStation-FFMPEG-Patcher](https://github.com/AlexPresso/VideoStation-FFMPEG-Patcher) - Patcher to enable DTS, EAC3 and TrueHD support to Synology VideoStation (DSM 7.0 ready) (2 months ago)
 - [vmstan/gravity-sync](https://github.com/vmstan/gravity-sync) - An easy way to synchronize the blocklist and local DNS configurations of multiple Pi-hole 5.x instances. (2 months ago)
