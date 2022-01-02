@@ -41,7 +41,7 @@
 
 #### ⭐ Recent Stars
 
-- [LAB02-Research/HASS.Agent](https://github.com/LAB02-Research/HASS.Agent) - Windows-based client for Home Assistant. Provides notifications, quick actions, commands, sensors and more. (1 day ago)
+- [LAB02-Research/HASS.Agent](https://github.com/LAB02-Research/HASS.Agent) - Windows-based client for Home Assistant. Provides notifications, quick actions, commands, sensors and more. (2 days ago)
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem https://hoppscotch.io (1 month ago)
 - [rickkas7/DS2482-RK](https://github.com/rickkas7/DS2482-RK) - DS2482 I2C to 1-Wire Library for Particle devices (1 month ago)
 - [sle118/squeezelite-esp32](https://github.com/sle118/squeezelite-esp32) - squeezelite ported to esp32 (2 months ago)
