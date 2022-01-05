@@ -20,10 +20,10 @@
 
 #### 🔨 Recent Pull Requests
 
-- [Create .travis.yml](https://github.com/SirUli/esp32-miflora-mqtt/pull/4) on [SirUli/esp32-miflora-mqtt](https://github.com/SirUli/esp32-miflora-mqtt) (11 months ago)
-- [Update README.md](https://github.com/SirUli/esp32-miflora-mqtt/pull/3) on [SirUli/esp32-miflora-mqtt](https://github.com/SirUli/esp32-miflora-mqtt) (11 months ago)
-- [Postpone all wifi and mqtt activities until all BLE stuff is done](https://github.com/SirUli/esp32-miflora-mqtt/pull/2) on [SirUli/esp32-miflora-mqtt](https://github.com/SirUli/esp32-miflora-mqtt) (11 months ago)
-- [Add platformio configuration.](https://github.com/SirUli/esp32-miflora-mqtt/pull/1) on [SirUli/esp32-miflora-mqtt](https://github.com/SirUli/esp32-miflora-mqtt) (11 months ago)
+- [Create .travis.yml](https://github.com/SirUli/esp32-miflora-mqtt/pull/4) on [SirUli/esp32-miflora-mqtt](https://github.com/SirUli/esp32-miflora-mqtt) (1 year ago)
+- [Update README.md](https://github.com/SirUli/esp32-miflora-mqtt/pull/3) on [SirUli/esp32-miflora-mqtt](https://github.com/SirUli/esp32-miflora-mqtt) (1 year ago)
+- [Postpone all wifi and mqtt activities until all BLE stuff is done](https://github.com/SirUli/esp32-miflora-mqtt/pull/2) on [SirUli/esp32-miflora-mqtt](https://github.com/SirUli/esp32-miflora-mqtt) (1 year ago)
+- [Add platformio configuration.](https://github.com/SirUli/esp32-miflora-mqtt/pull/1) on [SirUli/esp32-miflora-mqtt](https://github.com/SirUli/esp32-miflora-mqtt) (1 year ago)
 - [Add date format 01. Januar, 2019 / 01 Januar 2019](https://github.com/stweiss/FileBasedMiniDMS/pull/12) on [stweiss/FileBasedMiniDMS](https://github.com/stweiss/FileBasedMiniDMS) (2 years ago)
 - [Implementation of #7 (Missing offset)](https://github.com/SirUli/MAX6675/pull/8) on [SirUli/MAX6675](https://github.com/SirUli/MAX6675) (2 years ago)
 - [Fixing #29, Travis CI integration and ESP8266 Fixes](https://github.com/bogde/HX711/pull/40) on [bogde/HX711](https://github.com/bogde/HX711) (5 years ago)
@@ -41,7 +41,7 @@
 
 #### ⭐ Recent Stars
 
-- [LAB02-Research/HASS.Agent](https://github.com/LAB02-Research/HASS.Agent) - Windows-based client for Home Assistant. Provides notifications, quick actions, commands, sensors and more. (4 days ago)
+- [LAB02-Research/HASS.Agent](https://github.com/LAB02-Research/HASS.Agent) - Windows-based client for Home Assistant. Provides notifications, quick actions, commands, sensors and more. (5 days ago)
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem https://hoppscotch.io (1 month ago)
 - [rickkas7/DS2482-RK](https://github.com/rickkas7/DS2482-RK) - DS2482 I2C to 1-Wire Library for Particle devices (1 month ago)
 - [sle118/squeezelite-esp32](https://github.com/sle118/squeezelite-esp32) - squeezelite ported to esp32 (2 months ago)
