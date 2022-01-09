@@ -33,11 +33,11 @@
 
 #### 📜 My recent blog posts
 
+- [RGBW LED (SK6812) mit ESPHome betreiben](https://wolf-u.li/6195/rgbw-led-sk6812-mit-esphome-betreiben/) (today)
 - [Synology DS720&#43; – Nutzung einer SSD als Volume](https://wolf-u.li/6184/synology-ds720-nutzung-einer-ssd-als-volume/) (1 month ago)
 - [PINOUT des WT32-ETH01 – ESP32 Modul mit Ethernet](https://wolf-u.li/6181/pinout-des-wt32-eth01-esp32-modul-mit-ethernet/) (2 months ago)
 - [Home Assistant: Generation of long term statistics will be suppressed unless the unit changes back](https://wolf-u.li/6178/home-assistant-generation-of-long-term-statistics-will-be-suppressed-unless-the-unit-changes-back/) (2 months ago)
 - [Auflisten des Inhalts von SAP Transport data files](https://wolf-u.li/6176/auflisten-des-inhalts-von-sap-transport-data-files/) (2 months ago)
-- [esxcli: Got no data from process](https://wolf-u.li/6173/esxcli-got-no-data-from-process/) (3 months ago)
 
 #### ⭐ Recent Stars
 
