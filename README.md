@@ -41,6 +41,7 @@
 
 #### ⭐ Recent Stars
 
+- [xlab-steampunk/ansible-doc-extractor](https://github.com/xlab-steampunk/ansible-doc-extractor) - Extract documentation from Ansible modules (today)
 - [LAB02-Research/HASS.Agent](https://github.com/LAB02-Research/HASS.Agent) - Windows-based client for Home Assistant. Provides notifications, quick actions, commands, sensors and more. (1 week ago)
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io (1 month ago)
 - [rickkas7/DS2482-RK](https://github.com/rickkas7/DS2482-RK) - DS2482 I2C to 1-Wire Library for Particle devices (1 month ago)
@@ -50,7 +51,6 @@
 - [vmstan/gravity-sync](https://github.com/vmstan/gravity-sync) - An easy way to synchronize the blocklist and local DNS configurations of multiple Pi-hole 5.x instances. (3 months ago)
 - [pryorda/vmware_exporter](https://github.com/pryorda/vmware_exporter) - VMWare vCenter Exporter for Prometheus (3 months ago)
 - [dwainscheeren/dwains-lovelace-dashboard](https://github.com/dwainscheeren/dwains-lovelace-dashboard) - An auto generating Home Assistant Lovelace UI dashboard for desktop, tablet and mobile by Dwains for desktop, tablet, mobile (4 months ago)
-- [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com. (4 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
