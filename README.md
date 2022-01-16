@@ -33,7 +33,7 @@
 
 #### 📜 My recent blog posts
 
-- [RGBW LED (SK6812) mit ESPHome betreiben](https://wolf-u.li/6195/rgbw-led-sk6812-mit-esphome-betreiben/) (6 days ago)
+- [RGBW LED (SK6812) mit ESPHome betreiben](https://wolf-u.li/6195/rgbw-led-sk6812-mit-esphome-betreiben/) (1 week ago)
 - [Synology DS720&#43; – Nutzung einer SSD als Volume](https://wolf-u.li/6184/synology-ds720-nutzung-einer-ssd-als-volume/) (1 month ago)
 - [PINOUT des WT32-ETH01 – ESP32 Modul mit Ethernet](https://wolf-u.li/6181/pinout-des-wt32-eth01-esp32-modul-mit-ethernet/) (2 months ago)
 - [Home Assistant: Generation of long term statistics will be suppressed unless the unit changes back](https://wolf-u.li/6178/home-assistant-generation-of-long-term-statistics-will-be-suppressed-unless-the-unit-changes-back/) (2 months ago)
@@ -41,11 +41,11 @@
 
 #### ⭐ Recent Stars
 
-- [bentasker/HomeAssistantAddons](https://github.com/bentasker/HomeAssistantAddons) -  (1 day ago)
-- [astanin/python-tabulate](https://github.com/astanin/python-tabulate) - Pretty-print tabular data in Python, a library and a command-line utility. Repository migrated from bitbucket.org/astanin/python-tabulate. (1 day ago)
-- [xlab-steampunk/ansible-doc-extractor](https://github.com/xlab-steampunk/ansible-doc-extractor) - Extract documentation from Ansible modules (4 days ago)
+- [bentasker/HomeAssistantAddons](https://github.com/bentasker/HomeAssistantAddons) -  (2 days ago)
+- [astanin/python-tabulate](https://github.com/astanin/python-tabulate) - Pretty-print tabular data in Python, a library and a command-line utility. Repository migrated from bitbucket.org/astanin/python-tabulate. (2 days ago)
+- [xlab-steampunk/ansible-doc-extractor](https://github.com/xlab-steampunk/ansible-doc-extractor) - Extract documentation from Ansible modules (5 days ago)
 - [LAB02-Research/HASS.Agent](https://github.com/LAB02-Research/HASS.Agent) - Windows-based client for Home Assistant. Provides notifications, quick actions, commands, sensors and more. (2 weeks ago)
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io (1 month ago)
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io (2 months ago)
 - [rickkas7/DS2482-RK](https://github.com/rickkas7/DS2482-RK) - DS2482 I2C to 1-Wire Library for Particle devices (2 months ago)
 - [sle118/squeezelite-esp32](https://github.com/sle118/squeezelite-esp32) - squeezelite ported to esp32 (2 months ago)
 - [pinae/PrinterCaseServo](https://github.com/pinae/PrinterCaseServo) - Ventilation control with a 12cm fan and vent door motorized by a servo (2 months ago)
