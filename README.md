@@ -20,6 +20,7 @@
 
 #### 🔨 Recent Pull Requests
 
+- [Add missing device_classes to sensors](https://github.com/keesschollaart81/vscode-home-assistant/pull/1861) on [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) (today)
 - [Create .travis.yml](https://github.com/SirUli/esp32-miflora-mqtt/pull/4) on [SirUli/esp32-miflora-mqtt](https://github.com/SirUli/esp32-miflora-mqtt) (1 year ago)
 - [Update README.md](https://github.com/SirUli/esp32-miflora-mqtt/pull/3) on [SirUli/esp32-miflora-mqtt](https://github.com/SirUli/esp32-miflora-mqtt) (1 year ago)
 - [Postpone all wifi and mqtt activities until all BLE stuff is done](https://github.com/SirUli/esp32-miflora-mqtt/pull/2) on [SirUli/esp32-miflora-mqtt](https://github.com/SirUli/esp32-miflora-mqtt) (1 year ago)
@@ -29,7 +30,6 @@
 - [Fixing #29, Travis CI integration and ESP8266 Fixes](https://github.com/bogde/HX711/pull/40) on [bogde/HX711](https://github.com/bogde/HX711) (5 years ago)
 - [Adding Travis CI configuration file](https://github.com/Makuna/Task/pull/14) on [Makuna/Task](https://github.com/Makuna/Task) (5 years ago)
 - [Getting Hardware SPI to local library](https://github.com/SirUli/MAX6675/pull/4) on [SirUli/MAX6675](https://github.com/SirUli/MAX6675) (5 years ago)
-- [Add include guard](https://github.com/SirUli/MAX6675/pull/3) on [SirUli/MAX6675](https://github.com/SirUli/MAX6675) (5 years ago)
 
 #### 📜 My recent blog posts
 
