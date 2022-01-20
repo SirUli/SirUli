@@ -2,6 +2,7 @@
 
 #### 👷 Recent Contributions
 
+- [ansible-community/ansible-lint](https://github.com/ansible-community/ansible-lint) - Best practices checker for Ansible (today)
 - [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) - Visual Studio Code Extension for Home Assistant. ⭐ if you think this is cool! (4 days ago)
 
 #### 🌱 Latest projects
@@ -19,6 +20,7 @@
 #### 🔭 Recent Releases
 
 - [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) ([v1.24.0](https://github.com/keesschollaart81/vscode-home-assistant/releases/tag/v1.24.0), 4 days ago) - Visual Studio Code Extension for Home Assistant. ⭐ if you think this is cool!
+- [ansible-community/ansible-lint](https://github.com/ansible-community/ansible-lint) ([v5.3.2](https://github.com/ansible-community/ansible-lint/releases/tag/v5.3.2), 1 week ago) - Best practices checker for Ansible
 
 #### 🔨 Recent Pull Requests
 
