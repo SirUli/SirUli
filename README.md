@@ -2,8 +2,8 @@
 
 #### 👷 Recent Contributions
 
-- [ansible-community/ansible-lint](https://github.com/ansible-community/ansible-lint) - Best practices checker for Ansible (today)
-- [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) - Visual Studio Code Extension for Home Assistant. ⭐ if you think this is cool! (4 days ago)
+- [ansible-community/ansible-lint](https://github.com/ansible-community/ansible-lint) - Best practices checker for Ansible (1 day ago)
+- [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) - Visual Studio Code Extension for Home Assistant. ⭐ if you think this is cool! (5 days ago)
 
 #### 🌱 Latest projects
 
@@ -19,13 +19,13 @@
 
 #### 🔭 Recent Releases
 
-- [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) ([v1.24.0](https://github.com/keesschollaart81/vscode-home-assistant/releases/tag/v1.24.0), 4 days ago) - Visual Studio Code Extension for Home Assistant. ⭐ if you think this is cool!
+- [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) ([v1.24.0](https://github.com/keesschollaart81/vscode-home-assistant/releases/tag/v1.24.0), 5 days ago) - Visual Studio Code Extension for Home Assistant. ⭐ if you think this is cool!
 - [ansible-community/ansible-lint](https://github.com/ansible-community/ansible-lint) ([v5.3.2](https://github.com/ansible-community/ansible-lint/releases/tag/v5.3.2), 1 week ago) - Best practices checker for Ansible
 
 #### 🔨 Recent Pull Requests
 
-- [Allow noqa to be used in more lintable kinds](https://github.com/ansible-community/ansible-lint/pull/1819) on [ansible-community/ansible-lint](https://github.com/ansible-community/ansible-lint) (1 day ago)
-- [Add new device_classes to (binary) sensors](https://github.com/keesschollaart81/vscode-home-assistant/pull/1861) on [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) (4 days ago)
+- [Allow noqa to be used in more lintable kinds](https://github.com/ansible-community/ansible-lint/pull/1819) on [ansible-community/ansible-lint](https://github.com/ansible-community/ansible-lint) (2 days ago)
+- [Add new device_classes to (binary) sensors](https://github.com/keesschollaart81/vscode-home-assistant/pull/1861) on [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) (5 days ago)
 - [Create .travis.yml](https://github.com/SirUli/esp32-miflora-mqtt/pull/4) on [SirUli/esp32-miflora-mqtt](https://github.com/SirUli/esp32-miflora-mqtt) (1 year ago)
 - [Update README.md](https://github.com/SirUli/esp32-miflora-mqtt/pull/3) on [SirUli/esp32-miflora-mqtt](https://github.com/SirUli/esp32-miflora-mqtt) (1 year ago)
 - [Postpone all wifi and mqtt activities until all BLE stuff is done](https://github.com/SirUli/esp32-miflora-mqtt/pull/2) on [SirUli/esp32-miflora-mqtt](https://github.com/SirUli/esp32-miflora-mqtt) (1 year ago)
@@ -45,15 +45,15 @@
 
 #### ⭐ Recent Stars
 
-- [leinich/ha-wordclock-esphome](https://github.com/leinich/ha-wordclock-esphome) - ESPHome Wordclock - based on esphome (today)
-- [bentasker/HomeAssistantAddons](https://github.com/bentasker/HomeAssistantAddons) -  (6 days ago)
-- [astanin/python-tabulate](https://github.com/astanin/python-tabulate) - Pretty-print tabular data in Python, a library and a command-line utility. Repository migrated from bitbucket.org/astanin/python-tabulate. (6 days ago)
+- [leinich/ha-wordclock-esphome](https://github.com/leinich/ha-wordclock-esphome) - ESPHome Wordclock - based on esphome (1 day ago)
+- [bentasker/HomeAssistantAddons](https://github.com/bentasker/HomeAssistantAddons) -  (1 week ago)
+- [astanin/python-tabulate](https://github.com/astanin/python-tabulate) - Pretty-print tabular data in Python, a library and a command-line utility. Repository migrated from bitbucket.org/astanin/python-tabulate. (1 week ago)
 - [xlab-steampunk/ansible-doc-extractor](https://github.com/xlab-steampunk/ansible-doc-extractor) - Extract documentation from Ansible modules (1 week ago)
-- [LAB02-Research/HASS.Agent](https://github.com/LAB02-Research/HASS.Agent) - Windows-based client for Home Assistant. Provides notifications, quick actions, commands, sensors and more. (2 weeks ago)
+- [LAB02-Research/HASS.Agent](https://github.com/LAB02-Research/HASS.Agent) - Windows-based client for Home Assistant. Provides notifications, quick actions, commands, sensors and more. (3 weeks ago)
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io (2 months ago)
 - [rickkas7/DS2482-RK](https://github.com/rickkas7/DS2482-RK) - DS2482 I2C to 1-Wire Library for Particle devices (2 months ago)
 - [sle118/squeezelite-esp32](https://github.com/sle118/squeezelite-esp32) - squeezelite ported to esp32 (2 months ago)
-- [pinae/PrinterCaseServo](https://github.com/pinae/PrinterCaseServo) - Ventilation control with a 12cm fan and vent door motorized by a servo (2 months ago)
+- [pinae/PrinterCaseServo](https://github.com/pinae/PrinterCaseServo) - Ventilation control with a 12cm fan and vent door motorized by a servo (3 months ago)
 - [AlexPresso/VideoStation-FFMPEG-Patcher](https://github.com/AlexPresso/VideoStation-FFMPEG-Patcher) - Patcher to enable DTS, EAC3 and TrueHD support to Synology VideoStation (DSM 7.0 ready) (3 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
