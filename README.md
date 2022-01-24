@@ -45,6 +45,8 @@
 
 #### ⭐ Recent Stars
 
+- [ansible/ansible-builder](https://github.com/ansible/ansible-builder) - An Ansible execution environment builder (today)
+- [cathiele/hassio-addons](https://github.com/cathiele/hassio-addons) - hass.io addon repository (today)
 - [leinich/ha-wordclock-esphome](https://github.com/leinich/ha-wordclock-esphome) - ESPHome Wordclock - based on esphome (4 days ago)
 - [bentasker/HomeAssistantAddons](https://github.com/bentasker/HomeAssistantAddons) -  (1 week ago)
 - [astanin/python-tabulate](https://github.com/astanin/python-tabulate) - Pretty-print tabular data in Python, a library and a command-line utility. Repository migrated from bitbucket.org/astanin/python-tabulate. (1 week ago)
@@ -53,8 +55,6 @@
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io (2 months ago)
 - [rickkas7/DS2482-RK](https://github.com/rickkas7/DS2482-RK) - DS2482 I2C to 1-Wire Library for Particle devices (2 months ago)
 - [sle118/squeezelite-esp32](https://github.com/sle118/squeezelite-esp32) - squeezelite ported to esp32 (2 months ago)
-- [pinae/PrinterCaseServo](https://github.com/pinae/PrinterCaseServo) - Ventilation control with a 12cm fan and vent door motorized by a servo (3 months ago)
-- [AlexPresso/VideoStation-FFMPEG-Patcher](https://github.com/AlexPresso/VideoStation-FFMPEG-Patcher) - Patcher to enable DTS, EAC3 and TrueHD support to Synology VideoStation (DSM 7.0 ready) (3 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
