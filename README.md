@@ -45,8 +45,8 @@
 
 #### ⭐ Recent Stars
 
-- [ansible/ansible-builder](https://github.com/ansible/ansible-builder) - An Ansible execution environment builder (4 days ago)
-- [cathiele/hassio-addons](https://github.com/cathiele/hassio-addons) - hass.io addon repository (4 days ago)
+- [ansible/ansible-builder](https://github.com/ansible/ansible-builder) - An Ansible execution environment builder (5 days ago)
+- [cathiele/hassio-addons](https://github.com/cathiele/hassio-addons) - hass.io addon repository (5 days ago)
 - [leinich/ha-wordclock-esphome](https://github.com/leinich/ha-wordclock-esphome) - ESPHome Wordclock - based on esphome (1 week ago)
 - [bentasker/HomeAssistantAddons](https://github.com/bentasker/HomeAssistantAddons) -  (2 weeks ago)
 - [astanin/python-tabulate](https://github.com/astanin/python-tabulate) - Pretty-print tabular data in Python, a library and a command-line utility. Repository migrated from bitbucket.org/astanin/python-tabulate. (2 weeks ago)
@@ -54,7 +54,7 @@
 - [LAB02-Research/HASS.Agent](https://github.com/LAB02-Research/HASS.Agent) - Windows-based client for Home Assistant. Provides notifications, quick actions, commands, sensors and more. (4 weeks ago)
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io (2 months ago)
 - [rickkas7/DS2482-RK](https://github.com/rickkas7/DS2482-RK) - DS2482 I2C to 1-Wire Library for Particle devices (2 months ago)
-- [sle118/squeezelite-esp32](https://github.com/sle118/squeezelite-esp32) - squeezelite ported to esp32 (2 months ago)
+- [sle118/squeezelite-esp32](https://github.com/sle118/squeezelite-esp32) - squeezelite ported to esp32 (3 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
