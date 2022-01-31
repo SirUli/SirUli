@@ -20,7 +20,7 @@
 #### 🔭 Recent Releases
 
 - [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) ([v1.24.0](https://github.com/keesschollaart81/vscode-home-assistant/releases/tag/v1.24.0), 2 weeks ago) - Visual Studio Code Extension for Home Assistant. ⭐ if you think this is cool!
-- [ansible-community/ansible-lint](https://github.com/ansible-community/ansible-lint) ([v5.3.2](https://github.com/ansible-community/ansible-lint/releases/tag/v5.3.2), 2 weeks ago) - Best practices checker for Ansible
+- [ansible-community/ansible-lint](https://github.com/ansible-community/ansible-lint) ([v5.3.2](https://github.com/ansible-community/ansible-lint/releases/tag/v5.3.2), 3 weeks ago) - Best practices checker for Ansible
 
 #### 🔨 Recent Pull Requests
 
@@ -45,8 +45,8 @@
 
 #### ⭐ Recent Stars
 
-- [ansible/ansible-builder](https://github.com/ansible/ansible-builder) - An Ansible execution environment builder (6 days ago)
-- [cathiele/hassio-addons](https://github.com/cathiele/hassio-addons) - hass.io addon repository (6 days ago)
+- [ansible/ansible-builder](https://github.com/ansible/ansible-builder) - An Ansible execution environment builder (1 week ago)
+- [cathiele/hassio-addons](https://github.com/cathiele/hassio-addons) - hass.io addon repository (1 week ago)
 - [leinich/ha-wordclock-esphome](https://github.com/leinich/ha-wordclock-esphome) - ESPHome Wordclock - based on esphome (1 week ago)
 - [bentasker/HomeAssistantAddons](https://github.com/bentasker/HomeAssistantAddons) -  (2 weeks ago)
 - [astanin/python-tabulate](https://github.com/astanin/python-tabulate) - Pretty-print tabular data in Python, a library and a command-line utility. Repository migrated from bitbucket.org/astanin/python-tabulate. (2 weeks ago)
