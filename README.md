@@ -50,7 +50,7 @@
 - [leinich/ha-wordclock-esphome](https://github.com/leinich/ha-wordclock-esphome) - ESPHome Wordclock - based on esphome (1 week ago)
 - [bentasker/HomeAssistantAddons](https://github.com/bentasker/HomeAssistantAddons) -  (2 weeks ago)
 - [astanin/python-tabulate](https://github.com/astanin/python-tabulate) - Pretty-print tabular data in Python, a library and a command-line utility. Repository migrated from bitbucket.org/astanin/python-tabulate. (2 weeks ago)
-- [xlab-steampunk/ansible-doc-extractor](https://github.com/xlab-steampunk/ansible-doc-extractor) - Extract documentation from Ansible modules (2 weeks ago)
+- [xlab-steampunk/ansible-doc-extractor](https://github.com/xlab-steampunk/ansible-doc-extractor) - Extract documentation from Ansible modules (3 weeks ago)
 - [LAB02-Research/HASS.Agent](https://github.com/LAB02-Research/HASS.Agent) - Windows-based client for Home Assistant. Provides notifications, quick actions, commands, sensors and more. (1 month ago)
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io (2 months ago)
 - [rickkas7/DS2482-RK](https://github.com/rickkas7/DS2482-RK) - DS2482 I2C to 1-Wire Library for Particle devices (2 months ago)
