@@ -45,12 +45,12 @@
 
 #### ⭐ Recent Stars
 
-- [SAP-samples/frun-csa-policies-best-practices](https://github.com/SAP-samples/frun-csa-policies-best-practices) - Best practices check examples for creating CSA policies in SAP Focused Run (2 days ago)
+- [SAP-samples/frun-csa-policies-best-practices](https://github.com/SAP-samples/frun-csa-policies-best-practices) - Best practices check examples for creating CSA policies in SAP Focused Run (3 days ago)
 - [ansible/ansible-builder](https://github.com/ansible/ansible-builder) - An Ansible execution environment builder (2 weeks ago)
 - [cathiele/hassio-addons](https://github.com/cathiele/hassio-addons) - hass.io addon repository (2 weeks ago)
 - [leinich/ha-wordclock-esphome](https://github.com/leinich/ha-wordclock-esphome) - ESPHome Wordclock - based on esphome (3 weeks ago)
-- [bentasker/HomeAssistantAddons](https://github.com/bentasker/HomeAssistantAddons) -  (3 weeks ago)
-- [astanin/python-tabulate](https://github.com/astanin/python-tabulate) - Pretty-print tabular data in Python, a library and a command-line utility. Repository migrated from bitbucket.org/astanin/python-tabulate. (3 weeks ago)
+- [bentasker/HomeAssistantAddons](https://github.com/bentasker/HomeAssistantAddons) -  (4 weeks ago)
+- [astanin/python-tabulate](https://github.com/astanin/python-tabulate) - Pretty-print tabular data in Python, a library and a command-line utility. Repository migrated from bitbucket.org/astanin/python-tabulate. (4 weeks ago)
 - [xlab-steampunk/ansible-doc-extractor](https://github.com/xlab-steampunk/ansible-doc-extractor) - Extract documentation from Ansible modules (1 month ago)
 - [LAB02-Research/HASS.Agent](https://github.com/LAB02-Research/HASS.Agent) - Windows-based client for Home Assistant. Provides notifications, quick actions, commands, sensors and more. (1 month ago)
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io (2 months ago)
