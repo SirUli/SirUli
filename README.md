@@ -45,8 +45,8 @@
 
 #### ⭐ Recent Stars
 
-- [thrutheframe/Tiki3](https://github.com/thrutheframe/Tiki3) - A mount and fan duct system for Creality Ender 3/3pro/3V2 and Ender 5/5plus (today)
-- [SAP-samples/frun-csa-policies-best-practices](https://github.com/SAP-samples/frun-csa-policies-best-practices) - Best practices check examples for creating CSA policies in SAP Focused Run (3 days ago)
+- [thrutheframe/Tiki3](https://github.com/thrutheframe/Tiki3) - A mount and fan duct system for Creality Ender 3/3pro/3V2 and Ender 5/5plus (1 day ago)
+- [SAP-samples/frun-csa-policies-best-practices](https://github.com/SAP-samples/frun-csa-policies-best-practices) - Best practices check examples for creating CSA policies in SAP Focused Run (4 days ago)
 - [ansible/ansible-builder](https://github.com/ansible/ansible-builder) - An Ansible execution environment builder (2 weeks ago)
 - [cathiele/hassio-addons](https://github.com/cathiele/hassio-addons) - hass.io addon repository (2 weeks ago)
 - [leinich/ha-wordclock-esphome](https://github.com/leinich/ha-wordclock-esphome) - ESPHome Wordclock - based on esphome (3 weeks ago)
