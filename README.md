@@ -19,7 +19,7 @@
 
 #### 🔭 Recent Releases
 
-- [ansible-community/ansible-lint](https://github.com/ansible-community/ansible-lint) ([v5.4.0](https://github.com/ansible-community/ansible-lint/releases/tag/v5.4.0), 1 day ago) - Best practices checker for Ansible
+- [ansible-community/ansible-lint](https://github.com/ansible-community/ansible-lint) ([v5.4.0](https://github.com/ansible-community/ansible-lint/releases/tag/v5.4.0), 2 days ago) - Best practices checker for Ansible
 - [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) ([v1.24.0](https://github.com/keesschollaart81/vscode-home-assistant/releases/tag/v1.24.0), 4 weeks ago) - Visual Studio Code Extension for Home Assistant. ⭐ if you think this is cool!
 
 #### 🔨 Recent Pull Requests
@@ -45,10 +45,10 @@
 
 #### ⭐ Recent Stars
 
-- [thrutheframe/Tiki3](https://github.com/thrutheframe/Tiki3) - A mount and fan duct system for Creality Ender 3/3pro/3V2 and Ender 5/5plus (2 days ago)
-- [SAP-samples/frun-csa-policies-best-practices](https://github.com/SAP-samples/frun-csa-policies-best-practices) - Best practices check examples for creating CSA policies in SAP Focused Run (5 days ago)
-- [ansible/ansible-builder](https://github.com/ansible/ansible-builder) - An Ansible execution environment builder (2 weeks ago)
-- [cathiele/hassio-addons](https://github.com/cathiele/hassio-addons) - hass.io addon repository (2 weeks ago)
+- [thrutheframe/Tiki3](https://github.com/thrutheframe/Tiki3) - A mount and fan duct system for Creality Ender 3/3pro/3V2 and Ender 5/5plus (3 days ago)
+- [SAP-samples/frun-csa-policies-best-practices](https://github.com/SAP-samples/frun-csa-policies-best-practices) - Best practices check examples for creating CSA policies in SAP Focused Run (6 days ago)
+- [ansible/ansible-builder](https://github.com/ansible/ansible-builder) - An Ansible execution environment builder (3 weeks ago)
+- [cathiele/hassio-addons](https://github.com/cathiele/hassio-addons) - hass.io addon repository (3 weeks ago)
 - [leinich/ha-wordclock-esphome](https://github.com/leinich/ha-wordclock-esphome) - ESPHome Wordclock - based on esphome (3 weeks ago)
 - [bentasker/HomeAssistantAddons](https://github.com/bentasker/HomeAssistantAddons) -  (1 month ago)
 - [astanin/python-tabulate](https://github.com/astanin/python-tabulate) - Pretty-print tabular data in Python, a library and a command-line utility. Repository migrated from bitbucket.org/astanin/python-tabulate. (1 month ago)
