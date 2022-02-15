@@ -24,6 +24,7 @@
 
 #### 🔨 Recent Pull Requests
 
+- [fix: file collection after deprecation of &#39;py&#39; in pytest](https://github.com/ansible-community/pytest-molecule/pull/114) on [ansible-community/pytest-molecule](https://github.com/ansible-community/pytest-molecule) (today)
 - [Allow noqa to be used in more lintable kinds](https://github.com/ansible-community/ansible-lint/pull/1819) on [ansible-community/ansible-lint](https://github.com/ansible-community/ansible-lint) (3 weeks ago)
 - [Add new device_classes to (binary) sensors](https://github.com/keesschollaart81/vscode-home-assistant/pull/1861) on [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) (1 month ago)
 - [Create .travis.yml](https://github.com/SirUli/esp32-miflora-mqtt/pull/4) on [SirUli/esp32-miflora-mqtt](https://github.com/SirUli/esp32-miflora-mqtt) (1 year ago)
@@ -33,7 +34,6 @@
 - [Add date format 01. Januar, 2019 / 01 Januar 2019](https://github.com/stweiss/FileBasedMiniDMS/pull/12) on [stweiss/FileBasedMiniDMS](https://github.com/stweiss/FileBasedMiniDMS) (2 years ago)
 - [Implementation of #7 (Missing offset)](https://github.com/SirUli/MAX6675/pull/8) on [SirUli/MAX6675](https://github.com/SirUli/MAX6675) (3 years ago)
 - [Fixing #29, Travis CI integration and ESP8266 Fixes](https://github.com/bogde/HX711/pull/40) on [bogde/HX711](https://github.com/bogde/HX711) (5 years ago)
-- [Adding Travis CI configuration file](https://github.com/Makuna/Task/pull/14) on [Makuna/Task](https://github.com/Makuna/Task) (5 years ago)
 
 #### 📜 My recent blog posts
 
