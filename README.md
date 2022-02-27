@@ -19,7 +19,7 @@
 
 #### 🔭 Recent Releases
 
-- [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) ([v1.26.0](https://github.com/keesschollaart81/vscode-home-assistant/releases/tag/v1.26.0), 6 days ago) - Visual Studio Code Extension for Home Assistant. ⭐ if you think this is cool!
+- [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) ([v1.26.0](https://github.com/keesschollaart81/vscode-home-assistant/releases/tag/v1.26.0), 1 week ago) - Visual Studio Code Extension for Home Assistant. ⭐ if you think this is cool!
 - [ansible-community/ansible-lint](https://github.com/ansible-community/ansible-lint) ([v5.4.0](https://github.com/ansible-community/ansible-lint/releases/tag/v5.4.0), 2 weeks ago) - Best practices checker for Ansible
 
 #### 🔨 Recent Pull Requests
@@ -45,7 +45,7 @@
 
 #### ⭐ Recent Stars
 
-- [ssieb/custom_components](https://github.com/ssieb/custom_components) - My collection of components for esphome (4 days ago)
+- [ssieb/custom_components](https://github.com/ssieb/custom_components) - My collection of components for esphome (5 days ago)
 - [ansible-community/molecule-docker](https://github.com/ansible-community/molecule-docker) - Molecule Docker Driver allows molecule users to test Ansible code using docker containers. (1 week ago)
 - [thrutheframe/Tiki3](https://github.com/thrutheframe/Tiki3) - A mount and fan duct system for Creality Ender 3/3pro/3V2 and Ender 5/5plus (2 weeks ago)
 - [SAP-samples/frun-csa-policies-best-practices](https://github.com/SAP-samples/frun-csa-policies-best-practices) - Best practices check examples for creating CSA policies in SAP Focused Run (2 weeks ago)
