@@ -45,6 +45,7 @@
 
 #### ⭐ Recent Stars
 
+- [Raabi91/moonraker-telegram](https://github.com/Raabi91/moonraker-telegram) - A Script/Programm to send the printer State before, during and after a print via Telegram Messenger. But its only Working with moonraker (today)
 - [ssieb/custom_components](https://github.com/ssieb/custom_components) - My collection of components for esphome (2 weeks ago)
 - [ansible-community/molecule-docker](https://github.com/ansible-community/molecule-docker) - Molecule Docker Driver allows molecule users to test Ansible code using docker containers. (3 weeks ago)
 - [thrutheframe/Tiki3](https://github.com/thrutheframe/Tiki3) - A mount and fan duct system for Creality Ender 3/3pro/3V2 and Ender 5/5plus (3 weeks ago)
@@ -54,7 +55,6 @@
 - [leinich/ha-wordclock-esphome](https://github.com/leinich/ha-wordclock-esphome) - ESPHome Wordclock - based on esphome (1 month ago)
 - [bentasker/HomeAssistantAddons](https://github.com/bentasker/HomeAssistantAddons) -  (1 month ago)
 - [astanin/python-tabulate](https://github.com/astanin/python-tabulate) - Pretty-print tabular data in Python, a library and a command-line utility. Repository migrated from bitbucket.org/astanin/python-tabulate. (1 month ago)
-- [xlab-steampunk/ansible-doc-extractor](https://github.com/xlab-steampunk/ansible-doc-extractor) - Extract documentation from Ansible modules (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
