@@ -45,6 +45,9 @@
 
 #### ⭐ Recent Stars
 
+- [mainsail-crew/mainsail](https://github.com/mainsail-crew/mainsail) - Mainsail is the popular web interface for Klipper (today)
+- [Arksine/moonraker](https://github.com/Arksine/moonraker) - Web API Server for Klipper (today)
+- [Klipper3d/klipper](https://github.com/Klipper3d/klipper) - Klipper is a 3d-printer firmware (today)
 - [Raabi91/moonraker-telegram](https://github.com/Raabi91/moonraker-telegram) - A Script/Programm to send the printer State before, during and after a print via Telegram Messenger. But its only Working with moonraker (today)
 - [ssieb/custom_components](https://github.com/ssieb/custom_components) - My collection of components for esphome (2 weeks ago)
 - [ansible-community/molecule-docker](https://github.com/ansible-community/molecule-docker) - Molecule Docker Driver allows molecule users to test Ansible code using docker containers. (3 weeks ago)
@@ -52,9 +55,6 @@
 - [SAP-samples/frun-csa-policies-best-practices](https://github.com/SAP-samples/frun-csa-policies-best-practices) - Best practices check examples for creating CSA policies in SAP Focused Run (1 month ago)
 - [ansible/ansible-builder](https://github.com/ansible/ansible-builder) - An Ansible execution environment builder (1 month ago)
 - [cathiele/hassio-addons](https://github.com/cathiele/hassio-addons) - hass.io addon repository (1 month ago)
-- [leinich/ha-wordclock-esphome](https://github.com/leinich/ha-wordclock-esphome) - ESPHome Wordclock - based on esphome (1 month ago)
-- [bentasker/HomeAssistantAddons](https://github.com/bentasker/HomeAssistantAddons) -  (1 month ago)
-- [astanin/python-tabulate](https://github.com/astanin/python-tabulate) - Pretty-print tabular data in Python, a library and a command-line utility. Repository migrated from bitbucket.org/astanin/python-tabulate. (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
