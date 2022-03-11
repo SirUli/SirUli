@@ -19,7 +19,7 @@
 
 #### 🔭 Recent Releases
 
-- [ansible-community/ansible-lint](https://github.com/ansible-community/ansible-lint) ([v6.0.0a1](https://github.com/ansible-community/ansible-lint/releases/tag/v6.0.0a1), today) - Best practices checker for Ansible
+- [ansible-community/ansible-lint](https://github.com/ansible-community/ansible-lint) ([v6.0.0a1](https://github.com/ansible-community/ansible-lint/releases/tag/v6.0.0a1), 1 day ago) - Best practices checker for Ansible
 - [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) ([v1.26.0](https://github.com/keesschollaart81/vscode-home-assistant/releases/tag/v1.26.0), 2 weeks ago) - Visual Studio Code Extension for Home Assistant. ⭐ if you think this is cool!
 
 #### 🔨 Recent Pull Requests
@@ -41,17 +41,17 @@
 - [Synology DS720&#43; – Nutzung einer SSD als Volume](https://wolf-u.li/6184/synology-ds720-nutzung-einer-ssd-als-volume/) (3 months ago)
 - [PINOUT des WT32-ETH01 – ESP32 Modul mit Ethernet](https://wolf-u.li/6181/pinout-des-wt32-eth01-esp32-modul-mit-ethernet/) (4 months ago)
 - [Home Assistant: Generation of long term statistics will be suppressed unless the unit changes back](https://wolf-u.li/6178/home-assistant-generation-of-long-term-statistics-will-be-suppressed-unless-the-unit-changes-back/) (4 months ago)
-- [Auflisten des Inhalts von SAP Transport data files](https://wolf-u.li/6176/auflisten-des-inhalts-von-sap-transport-data-files/) (4 months ago)
+- [Auflisten des Inhalts von SAP Transport data files](https://wolf-u.li/6176/auflisten-des-inhalts-von-sap-transport-data-files/) (5 months ago)
 
 #### ⭐ Recent Stars
 
-- [mainsail-crew/mainsail](https://github.com/mainsail-crew/mainsail) - Mainsail is the popular web interface for Klipper (today)
-- [Arksine/moonraker](https://github.com/Arksine/moonraker) - Web API Server for Klipper (today)
-- [Klipper3d/klipper](https://github.com/Klipper3d/klipper) - Klipper is a 3d-printer firmware (today)
-- [Raabi91/moonraker-telegram](https://github.com/Raabi91/moonraker-telegram) - A Script/Programm to send the printer State before, during and after a print via Telegram Messenger. But its only Working with moonraker (today)
+- [mainsail-crew/mainsail](https://github.com/mainsail-crew/mainsail) - Mainsail is the popular web interface for Klipper (1 day ago)
+- [Arksine/moonraker](https://github.com/Arksine/moonraker) - Web API Server for Klipper (1 day ago)
+- [Klipper3d/klipper](https://github.com/Klipper3d/klipper) - Klipper is a 3d-printer firmware (1 day ago)
+- [Raabi91/moonraker-telegram](https://github.com/Raabi91/moonraker-telegram) - A Script/Programm to send the printer State before, during and after a print via Telegram Messenger. But its only Working with moonraker (1 day ago)
 - [ssieb/custom_components](https://github.com/ssieb/custom_components) - My collection of components for esphome (2 weeks ago)
 - [ansible-community/molecule-docker](https://github.com/ansible-community/molecule-docker) - Molecule Docker Driver allows molecule users to test Ansible code using docker containers. (3 weeks ago)
-- [thrutheframe/Tiki3](https://github.com/thrutheframe/Tiki3) - A mount and fan duct system for Creality Ender 3/3pro/3V2 and Ender 5/5plus (3 weeks ago)
+- [thrutheframe/Tiki3](https://github.com/thrutheframe/Tiki3) - A mount and fan duct system for Creality Ender 3/3pro/3V2 and Ender 5/5plus (4 weeks ago)
 - [SAP-samples/frun-csa-policies-best-practices](https://github.com/SAP-samples/frun-csa-policies-best-practices) - Best practices check examples for creating CSA policies in SAP Focused Run (1 month ago)
 - [ansible/ansible-builder](https://github.com/ansible/ansible-builder) - An Ansible execution environment builder (1 month ago)
 - [cathiele/hassio-addons](https://github.com/cathiele/hassio-addons) - hass.io addon repository (1 month ago)
