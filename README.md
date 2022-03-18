@@ -45,6 +45,7 @@
 
 #### ⭐ Recent Stars
 
+- [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My home assistant addons (today)
 - [thewhobox/Kaenx](https://github.com/thewhobox/Kaenx) - Inbetriebnahmesoftware für KNX Geräte (5 days ago)
 - [mainsail-crew/mainsail](https://github.com/mainsail-crew/mainsail) - Mainsail is the popular web interface for Klipper (1 week ago)
 - [Arksine/moonraker](https://github.com/Arksine/moonraker) - Web API Server for Klipper (1 week ago)
@@ -54,7 +55,6 @@
 - [ansible-community/molecule-docker](https://github.com/ansible-community/molecule-docker) - Molecule Docker Driver allows molecule users to test Ansible code using docker containers. (1 month ago)
 - [thrutheframe/Tiki3](https://github.com/thrutheframe/Tiki3) - A mount and fan duct system for Creality Ender 3/3pro/3V2 and Ender 5/5plus (1 month ago)
 - [SAP-samples/frun-csa-policies-best-practices](https://github.com/SAP-samples/frun-csa-policies-best-practices) - Best practices check examples for creating CSA policies in SAP Focused Run (1 month ago)
-- [ansible/ansible-builder](https://github.com/ansible/ansible-builder) - An Ansible execution environment builder (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
