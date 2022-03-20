@@ -19,13 +19,13 @@
 
 #### 🔭 Recent Releases
 
-- [ansible-community/ansible-lint](https://github.com/ansible-community/ansible-lint) ([v6.0.1](https://github.com/ansible-community/ansible-lint/releases/tag/v6.0.1), 1 day ago) - Best practices checker for Ansible
-- [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) ([v1.26.0](https://github.com/keesschollaart81/vscode-home-assistant/releases/tag/v1.26.0), 3 weeks ago) - Visual Studio Code Extension for Home Assistant. ⭐ if you think this is cool!
+- [ansible-community/ansible-lint](https://github.com/ansible-community/ansible-lint) ([v6.0.1](https://github.com/ansible-community/ansible-lint/releases/tag/v6.0.1), 2 days ago) - Best practices checker for Ansible
+- [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) ([v1.26.0](https://github.com/keesschollaart81/vscode-home-assistant/releases/tag/v1.26.0), 4 weeks ago) - Visual Studio Code Extension for Home Assistant. ⭐ if you think this is cool!
 
 #### 🔨 Recent Pull Requests
 
 - [WIP: file collection after deprecation of &#39;py&#39; in pytest](https://github.com/ansible-community/pytest-molecule/pull/114) on [ansible-community/pytest-molecule](https://github.com/ansible-community/pytest-molecule) (1 month ago)
-- [Allow noqa to be used in more lintable kinds](https://github.com/ansible-community/ansible-lint/pull/1819) on [ansible-community/ansible-lint](https://github.com/ansible-community/ansible-lint) (1 month ago)
+- [Allow noqa to be used in more lintable kinds](https://github.com/ansible-community/ansible-lint/pull/1819) on [ansible-community/ansible-lint](https://github.com/ansible-community/ansible-lint) (2 months ago)
 - [Add new device_classes to (binary) sensors](https://github.com/keesschollaart81/vscode-home-assistant/pull/1861) on [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) (2 months ago)
 - [Create .travis.yml](https://github.com/SirUli/esp32-miflora-mqtt/pull/4) on [SirUli/esp32-miflora-mqtt](https://github.com/SirUli/esp32-miflora-mqtt) (1 year ago)
 - [Update README.md](https://github.com/SirUli/esp32-miflora-mqtt/pull/3) on [SirUli/esp32-miflora-mqtt](https://github.com/SirUli/esp32-miflora-mqtt) (1 year ago)
@@ -45,8 +45,8 @@
 
 #### ⭐ Recent Stars
 
-- [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My home assistant addons (1 day ago)
-- [thewhobox/Kaenx](https://github.com/thewhobox/Kaenx) - Inbetriebnahmesoftware für KNX Geräte (6 days ago)
+- [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My home assistant addons (2 days ago)
+- [thewhobox/Kaenx](https://github.com/thewhobox/Kaenx) - Inbetriebnahmesoftware für KNX Geräte (1 week ago)
 - [mainsail-crew/mainsail](https://github.com/mainsail-crew/mainsail) - Mainsail is the popular web interface for Klipper (1 week ago)
 - [Arksine/moonraker](https://github.com/Arksine/moonraker) - Web API Server for Klipper (1 week ago)
 - [Klipper3d/klipper](https://github.com/Klipper3d/klipper) - Klipper is a 3d-printer firmware (1 week ago)
