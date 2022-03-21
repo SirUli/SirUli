@@ -2,7 +2,7 @@
 
 #### 👷 Recent Contributions
 
-- [ansible-community/ansible-lint](https://github.com/ansible-community/ansible-lint) - Best practices checker for Ansible (2 months ago)
+- [ansible/ansible-lint](https://github.com/ansible/ansible-lint) - Best practices checker for Ansible (2 months ago)
 - [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) - Visual Studio Code Extension for Home Assistant. ⭐ if you think this is cool! (2 months ago)
 
 #### 🌱 Latest projects
@@ -19,13 +19,13 @@
 
 #### 🔭 Recent Releases
 
-- [ansible-community/ansible-lint](https://github.com/ansible-community/ansible-lint) ([v6.0.1](https://github.com/ansible-community/ansible-lint/releases/tag/v6.0.1), 3 days ago) - Best practices checker for Ansible
+- [ansible/ansible-lint](https://github.com/ansible/ansible-lint) ([v6.0.1](https://github.com/ansible/ansible-lint/releases/tag/v6.0.1), 3 days ago) - Best practices checker for Ansible
 - [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) ([v1.26.0](https://github.com/keesschollaart81/vscode-home-assistant/releases/tag/v1.26.0), 4 weeks ago) - Visual Studio Code Extension for Home Assistant. ⭐ if you think this is cool!
 
 #### 🔨 Recent Pull Requests
 
 - [WIP: file collection after deprecation of &#39;py&#39; in pytest](https://github.com/ansible-community/pytest-molecule/pull/114) on [ansible-community/pytest-molecule](https://github.com/ansible-community/pytest-molecule) (1 month ago)
-- [Allow noqa to be used in more lintable kinds](https://github.com/ansible-community/ansible-lint/pull/1819) on [ansible-community/ansible-lint](https://github.com/ansible-community/ansible-lint) (2 months ago)
+- [Allow noqa to be used in more lintable kinds](https://github.com/ansible/ansible-lint/pull/1819) on [ansible/ansible-lint](https://github.com/ansible/ansible-lint) (2 months ago)
 - [Add new device_classes to (binary) sensors](https://github.com/keesschollaart81/vscode-home-assistant/pull/1861) on [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) (2 months ago)
 - [Create .travis.yml](https://github.com/SirUli/esp32-miflora-mqtt/pull/4) on [SirUli/esp32-miflora-mqtt](https://github.com/SirUli/esp32-miflora-mqtt) (1 year ago)
 - [Update README.md](https://github.com/SirUli/esp32-miflora-mqtt/pull/3) on [SirUli/esp32-miflora-mqtt](https://github.com/SirUli/esp32-miflora-mqtt) (1 year ago)
