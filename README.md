@@ -19,8 +19,8 @@
 
 #### 🔭 Recent Releases
 
-- [ansible/ansible-lint](https://github.com/ansible/ansible-lint) ([v6.0.1](https://github.com/ansible/ansible-lint/releases/tag/v6.0.1), 3 days ago) - Best practices checker for Ansible
-- [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) ([v1.26.0](https://github.com/keesschollaart81/vscode-home-assistant/releases/tag/v1.26.0), 4 weeks ago) - Visual Studio Code Extension for Home Assistant. ⭐ if you think this is cool!
+- [ansible/ansible-lint](https://github.com/ansible/ansible-lint) ([v6.0.1](https://github.com/ansible/ansible-lint/releases/tag/v6.0.1), 4 days ago) - Best practices checker for Ansible
+- [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) ([v1.26.0](https://github.com/keesschollaart81/vscode-home-assistant/releases/tag/v1.26.0), 1 month ago) - Visual Studio Code Extension for Home Assistant. ⭐ if you think this is cool!
 
 #### 🔨 Recent Pull Requests
 
@@ -45,13 +45,13 @@
 
 #### ⭐ Recent Stars
 
-- [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My home assistant addons (3 days ago)
+- [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My home assistant addons (4 days ago)
 - [thewhobox/Kaenx](https://github.com/thewhobox/Kaenx) - Inbetriebnahmesoftware für KNX Geräte (1 week ago)
 - [mainsail-crew/mainsail](https://github.com/mainsail-crew/mainsail) - Mainsail is the popular web interface for Klipper (1 week ago)
 - [Arksine/moonraker](https://github.com/Arksine/moonraker) - Web API Server for Klipper (1 week ago)
 - [Klipper3d/klipper](https://github.com/Klipper3d/klipper) - Klipper is a 3d-printer firmware (1 week ago)
 - [Raabi91/moonraker-telegram](https://github.com/Raabi91/moonraker-telegram) - A Script/Programm to send the printer State before, during and after a print via Telegram Messenger. But its only Working with moonraker (1 week ago)
-- [ssieb/custom_components](https://github.com/ssieb/custom_components) - My collection of components for esphome (3 weeks ago)
+- [ssieb/custom_components](https://github.com/ssieb/custom_components) - My collection of components for esphome (4 weeks ago)
 - [ansible-community/molecule-docker](https://github.com/ansible-community/molecule-docker) - Molecule Docker Driver allows molecule users to test Ansible code using docker containers. (1 month ago)
 - [thrutheframe/Tiki3](https://github.com/thrutheframe/Tiki3) - A mount and fan duct system for Creality Ender 3/3pro/3V2 and Ender 5/5plus (1 month ago)
 - [SAP-samples/frun-csa-policies-best-practices](https://github.com/SAP-samples/frun-csa-policies-best-practices) - Best practices check examples for creating CSA policies in SAP Focused Run (1 month ago)
