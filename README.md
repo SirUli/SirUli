@@ -19,12 +19,12 @@
 
 #### 🔭 Recent Releases
 
-- [ansible/ansible-lint](https://github.com/ansible/ansible-lint) ([v6.0.1](https://github.com/ansible/ansible-lint/releases/tag/v6.0.1), 4 days ago) - Best practices checker for Ansible
+- [ansible/ansible-lint](https://github.com/ansible/ansible-lint) ([v6.0.1](https://github.com/ansible/ansible-lint/releases/tag/v6.0.1), 5 days ago) - Best practices checker for Ansible
 - [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) ([v1.26.0](https://github.com/keesschollaart81/vscode-home-assistant/releases/tag/v1.26.0), 1 month ago) - Visual Studio Code Extension for Home Assistant. ⭐ if you think this is cool!
 
 #### 🔨 Recent Pull Requests
 
-- [Usage of shellcheck and beautysh &#43; spellchecks &amp; formatting](https://github.com/Raabi91/moonraker-telegram/pull/94) on [Raabi91/moonraker-telegram](https://github.com/Raabi91/moonraker-telegram) (today)
+- [Usage of shellcheck and beautysh &#43; spellchecks &amp; formatting](https://github.com/Raabi91/moonraker-telegram/pull/94) on [Raabi91/moonraker-telegram](https://github.com/Raabi91/moonraker-telegram) (1 day ago)
 - [WIP: file collection after deprecation of &#39;py&#39; in pytest](https://github.com/ansible-community/pytest-molecule/pull/114) on [ansible-community/pytest-molecule](https://github.com/ansible-community/pytest-molecule) (1 month ago)
 - [Allow noqa to be used in more lintable kinds](https://github.com/ansible/ansible-lint/pull/1819) on [ansible/ansible-lint](https://github.com/ansible/ansible-lint) (2 months ago)
 - [Add new device_classes to (binary) sensors](https://github.com/keesschollaart81/vscode-home-assistant/pull/1861) on [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) (2 months ago)
@@ -39,13 +39,13 @@
 
 - [RGBW LED (SK6812) mit ESPHome betreiben](https://wolf-u.li/6195/rgbw-led-sk6812-mit-esphome-betreiben/) (2 months ago)
 - [Synology DS720&#43; – Nutzung einer SSD als Volume](https://wolf-u.li/6184/synology-ds720-nutzung-einer-ssd-als-volume/) (3 months ago)
-- [PINOUT des WT32-ETH01 – ESP32 Modul mit Ethernet](https://wolf-u.li/6181/pinout-des-wt32-eth01-esp32-modul-mit-ethernet/) (4 months ago)
-- [Home Assistant: Generation of long term statistics will be suppressed unless the unit changes back](https://wolf-u.li/6178/home-assistant-generation-of-long-term-statistics-will-be-suppressed-unless-the-unit-changes-back/) (4 months ago)
+- [PINOUT des WT32-ETH01 – ESP32 Modul mit Ethernet](https://wolf-u.li/6181/pinout-des-wt32-eth01-esp32-modul-mit-ethernet/) (5 months ago)
+- [Home Assistant: Generation of long term statistics will be suppressed unless the unit changes back](https://wolf-u.li/6178/home-assistant-generation-of-long-term-statistics-will-be-suppressed-unless-the-unit-changes-back/) (5 months ago)
 - [Auflisten des Inhalts von SAP Transport data files](https://wolf-u.li/6176/auflisten-des-inhalts-von-sap-transport-data-files/) (5 months ago)
 
 #### ⭐ Recent Stars
 
-- [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My home assistant addons (4 days ago)
+- [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My home assistant addons (5 days ago)
 - [thewhobox/Kaenx](https://github.com/thewhobox/Kaenx) - Inbetriebnahmesoftware für KNX Geräte (1 week ago)
 - [mainsail-crew/mainsail](https://github.com/mainsail-crew/mainsail) - Mainsail is the popular web interface for Klipper (1 week ago)
 - [Arksine/moonraker](https://github.com/Arksine/moonraker) - Web API Server for Klipper (1 week ago)
