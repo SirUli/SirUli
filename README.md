@@ -2,6 +2,7 @@
 
 #### 👷 Recent Contributions
 
+- [Raabi91/moonraker-telegram](https://github.com/Raabi91/moonraker-telegram) - A Script/Programm to send the printer State before, during and after a print via Telegram Messenger. But its only Working with moonraker (1 day ago)
 - [ansible/ansible-lint](https://github.com/ansible/ansible-lint) - Best practices checker for Ansible (2 months ago)
 - [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) - Visual Studio Code Extension for Home Assistant. ⭐ if you think this is cool! (2 months ago)
 
@@ -21,6 +22,7 @@
 
 - [ansible/ansible-lint](https://github.com/ansible/ansible-lint) ([v6.0.1](https://github.com/ansible/ansible-lint/releases/tag/v6.0.1), 5 days ago) - Best practices checker for Ansible
 - [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) ([v1.26.0](https://github.com/keesschollaart81/vscode-home-assistant/releases/tag/v1.26.0), 1 month ago) - Visual Studio Code Extension for Home Assistant. ⭐ if you think this is cool!
+- [Raabi91/moonraker-telegram](https://github.com/Raabi91/moonraker-telegram) ([v1.0.2](https://github.com/Raabi91/moonraker-telegram/releases/tag/v1.0.2), 11 months ago) - A Script/Programm to send the printer State before, during and after a print via Telegram Messenger. But its only Working with moonraker
 
 #### 🔨 Recent Pull Requests
 
