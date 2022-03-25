@@ -28,6 +28,7 @@
 
 #### 🔨 Recent Pull Requests
 
+- [HTU21D - SI7021 is has id 0x15](https://github.com/Klipper3d/klipper/pull/5375) on [Klipper3d/klipper](https://github.com/Klipper3d/klipper) (today)
 - [Usage of shellcheck and beautysh &#43; spellchecks &amp; formatting](https://github.com/Raabi91/moonraker-telegram/pull/94) on [Raabi91/moonraker-telegram](https://github.com/Raabi91/moonraker-telegram) (3 days ago)
 - [WIP: file collection after deprecation of &#39;py&#39; in pytest](https://github.com/ansible-community/pytest-molecule/pull/114) on [ansible-community/pytest-molecule](https://github.com/ansible-community/pytest-molecule) (1 month ago)
 - [Allow noqa to be used in more lintable kinds](https://github.com/ansible/ansible-lint/pull/1819) on [ansible/ansible-lint](https://github.com/ansible/ansible-lint) (2 months ago)
@@ -37,7 +38,6 @@
 - [Postpone all wifi and mqtt activities until all BLE stuff is done](https://github.com/SirUli/esp32-miflora-mqtt/pull/2) on [SirUli/esp32-miflora-mqtt](https://github.com/SirUli/esp32-miflora-mqtt) (1 year ago)
 - [Add platformio configuration.](https://github.com/SirUli/esp32-miflora-mqtt/pull/1) on [SirUli/esp32-miflora-mqtt](https://github.com/SirUli/esp32-miflora-mqtt) (1 year ago)
 - [Add date format 01. Januar, 2019 / 01 Januar 2019](https://github.com/stweiss/FileBasedMiniDMS/pull/12) on [stweiss/FileBasedMiniDMS](https://github.com/stweiss/FileBasedMiniDMS) (2 years ago)
-- [Implementation of #7 (Missing offset)](https://github.com/SirUli/MAX6675/pull/8) on [SirUli/MAX6675](https://github.com/SirUli/MAX6675) (3 years ago)
 
 #### 📜 My recent blog posts
 
