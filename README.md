@@ -49,6 +49,7 @@
 
 #### ⭐ Recent Stars
 
+- [boltgolt/howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux (today)
 - [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My home assistant addons (1 week ago)
 - [thewhobox/Kaenx](https://github.com/thewhobox/Kaenx) - Inbetriebnahmesoftware für KNX Geräte (2 weeks ago)
 - [mainsail-crew/mainsail](https://github.com/mainsail-crew/mainsail) - Mainsail is the popular web interface for Klipper (2 weeks ago)
@@ -58,7 +59,6 @@
 - [ssieb/custom_components](https://github.com/ssieb/custom_components) - My collection of components for esphome (1 month ago)
 - [ansible-community/molecule-docker](https://github.com/ansible-community/molecule-docker) - Molecule Docker Driver allows molecule users to test Ansible code using docker containers. (1 month ago)
 - [thrutheframe/Tiki3](https://github.com/thrutheframe/Tiki3) - A mount and fan duct system for Creality Ender 3/3pro/3V2 and Ender 5/5plus (1 month ago)
-- [SAP-samples/frun-csa-policies-best-practices](https://github.com/SAP-samples/frun-csa-policies-best-practices) - Best practices check examples for creating CSA policies in SAP Focused Run (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
