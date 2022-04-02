@@ -49,6 +49,8 @@
 
 #### ⭐ Recent Stars
 
+- [fboender/ansible-cmdb](https://github.com/fboender/ansible-cmdb) - Generate host overview from ansible fact gathering output (today)
+- [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible (today)
 - [boltgolt/howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux (5 days ago)
 - [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My home assistant addons (2 weeks ago)
 - [thewhobox/Kaenx](https://github.com/thewhobox/Kaenx) - Inbetriebnahmesoftware für KNX Geräte (2 weeks ago)
@@ -57,8 +59,6 @@
 - [Klipper3d/klipper](https://github.com/Klipper3d/klipper) - Klipper is a 3d-printer firmware (3 weeks ago)
 - [Raabi91/moonraker-telegram](https://github.com/Raabi91/moonraker-telegram) - A Script/Programm to send the printer State before, during and after a print via Telegram Messenger. But its only Working with moonraker (3 weeks ago)
 - [ssieb/custom_components](https://github.com/ssieb/custom_components) - My collection of components for esphome (1 month ago)
-- [ansible-community/molecule-docker](https://github.com/ansible-community/molecule-docker) - Molecule Docker Driver allows molecule users to test Ansible code using docker containers. (1 month ago)
-- [thrutheframe/Tiki3](https://github.com/thrutheframe/Tiki3) - A mount and fan duct system for Creality Ender 3/3pro/3V2 and Ender 5/5plus (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
