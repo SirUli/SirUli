@@ -2,7 +2,7 @@
 
 #### 👷 Recent Contributions
 
-- [ansible-community/pytest-molecule](https://github.com/ansible-community/pytest-molecule) - Enables pytest to discover molecule scenarios and run them (1 week ago)
+- [ansible-community/pytest-molecule](https://github.com/ansible-community/pytest-molecule) - Enables pytest to discover molecule scenarios and run them (2 weeks ago)
 - [Raabi91/moonraker-telegram](https://github.com/Raabi91/moonraker-telegram) - A Script/Programm to send the printer State before, during and after a print via Telegram Messenger. But its only Working with moonraker (2 weeks ago)
 - [ansible/ansible-lint](https://github.com/ansible/ansible-lint) - Best practices checker for Ansible (2 months ago)
 - [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) - Visual Studio Code Extension for Home Assistant. ⭐ if you think this is cool! (2 months ago)
@@ -28,7 +28,7 @@
 
 #### 🔨 Recent Pull Requests
 
-- [HTU21D - SI7021 is has id 0x15](https://github.com/Klipper3d/klipper/pull/5375) on [Klipper3d/klipper](https://github.com/Klipper3d/klipper) (1 week ago)
+- [HTU21D - SI7021 is has id 0x15](https://github.com/Klipper3d/klipper/pull/5375) on [Klipper3d/klipper](https://github.com/Klipper3d/klipper) (2 weeks ago)
 - [Usage of shellcheck and beautysh &#43; spellchecks &amp; formatting](https://github.com/Raabi91/moonraker-telegram/pull/94) on [Raabi91/moonraker-telegram](https://github.com/Raabi91/moonraker-telegram) (2 weeks ago)
 - [WIP: file collection after deprecation of &#39;py&#39; in pytest](https://github.com/ansible-community/pytest-molecule/pull/114) on [ansible-community/pytest-molecule](https://github.com/ansible-community/pytest-molecule) (1 month ago)
 - [Allow noqa to be used in more lintable kinds](https://github.com/ansible/ansible-lint/pull/1819) on [ansible/ansible-lint](https://github.com/ansible/ansible-lint) (2 months ago)
@@ -49,10 +49,10 @@
 
 #### ⭐ Recent Stars
 
-- [fboender/ansible-cmdb](https://github.com/fboender/ansible-cmdb) - Generate host overview from ansible fact gathering output (5 days ago)
-- [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible (5 days ago)
+- [fboender/ansible-cmdb](https://github.com/fboender/ansible-cmdb) - Generate host overview from ansible fact gathering output (6 days ago)
+- [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible (6 days ago)
 - [boltgolt/howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux (1 week ago)
-- [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My home assistant addons (2 weeks ago)
+- [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My home assistant addons (3 weeks ago)
 - [thewhobox/Kaenx](https://github.com/thewhobox/Kaenx) - Inbetriebnahmesoftware für KNX Geräte (3 weeks ago)
 - [mainsail-crew/mainsail](https://github.com/mainsail-crew/mainsail) - Mainsail is the popular web interface for Klipper (4 weeks ago)
 - [Arksine/moonraker](https://github.com/Arksine/moonraker) - Web API Server for Klipper (4 weeks ago)
