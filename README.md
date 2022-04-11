@@ -51,7 +51,7 @@
 
 - [fboender/ansible-cmdb](https://github.com/fboender/ansible-cmdb) - Generate host overview from ansible fact gathering output (1 week ago)
 - [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible (1 week ago)
-- [boltgolt/howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux (1 week ago)
+- [boltgolt/howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux (2 weeks ago)
 - [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My home assistant addons (3 weeks ago)
 - [thewhobox/Kaenx](https://github.com/thewhobox/Kaenx) - Inbetriebnahmesoftware für KNX Geräte (4 weeks ago)
 - [mainsail-crew/mainsail](https://github.com/mainsail-crew/mainsail) - Mainsail is the popular web interface for Klipper (1 month ago)
