@@ -22,7 +22,7 @@
 
 #### 🔭 Recent Releases
 
-- [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) ([v1.28.0](https://github.com/keesschollaart81/vscode-home-assistant/releases/tag/v1.28.0), 2 days ago) - Visual Studio Code Extension for Home Assistant. ⭐ if you think this is cool!
+- [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) ([v1.28.0](https://github.com/keesschollaart81/vscode-home-assistant/releases/tag/v1.28.0), 3 days ago) - Visual Studio Code Extension for Home Assistant. ⭐ if you think this is cool!
 - [ansible-community/pytest-molecule](https://github.com/ansible-community/pytest-molecule) ([v2.0.0](https://github.com/ansible-community/pytest-molecule/releases/tag/v2.0.0), 3 weeks ago) - Enables pytest to discover molecule scenarios and run them
 - [ansible/ansible-lint](https://github.com/ansible/ansible-lint) ([v6.0.2](https://github.com/ansible/ansible-lint/releases/tag/v6.0.2), 1 month ago) - Best practices checker for Ansible
 - [Raabi91/moonraker-telegram](https://github.com/Raabi91/moonraker-telegram) ([v1.0.2](https://github.com/Raabi91/moonraker-telegram/releases/tag/v1.0.2), 1 year ago) - A Script/Programm to send the printer State before, during and after a print via Telegram Messenger. But its only Working with moonraker
@@ -52,8 +52,8 @@
 
 - [unifiedcommsguy/victron-dbus-fronius-smartmeter](https://github.com/unifiedcommsguy/victron-dbus-fronius-smartmeter) -  (1 week ago)
 - [stuartpittaway/diyBMSv4](https://github.com/stuartpittaway/diyBMSv4) - Version 4 of the diyBMS (1 week ago)
-- [fboender/ansible-cmdb](https://github.com/fboender/ansible-cmdb) - Generate host overview from ansible fact gathering output (2 weeks ago)
-- [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible (2 weeks ago)
+- [fboender/ansible-cmdb](https://github.com/fboender/ansible-cmdb) - Generate host overview from ansible fact gathering output (3 weeks ago)
+- [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible (3 weeks ago)
 - [boltgolt/howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux (3 weeks ago)
 - [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My home assistant addons (1 month ago)
 - [thewhobox/Kaenx](https://github.com/thewhobox/Kaenx) - Inbetriebnahmesoftware für KNX Geräte (1 month ago)
