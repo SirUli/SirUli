@@ -22,7 +22,7 @@
 
 #### 🔭 Recent Releases
 
-- [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) ([v1.28.0](https://github.com/keesschollaart81/vscode-home-assistant/releases/tag/v1.28.0), 6 days ago) - Visual Studio Code Extension for Home Assistant. ⭐ if you think this is cool!
+- [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) ([v1.28.0](https://github.com/keesschollaart81/vscode-home-assistant/releases/tag/v1.28.0), 1 week ago) - Visual Studio Code Extension for Home Assistant. ⭐ if you think this is cool!
 - [ansible-community/pytest-molecule](https://github.com/ansible-community/pytest-molecule) ([v2.0.0](https://github.com/ansible-community/pytest-molecule/releases/tag/v2.0.0), 4 weeks ago) - Enables pytest to discover molecule scenarios and run them
 - [ansible/ansible-lint](https://github.com/ansible/ansible-lint) ([v6.0.2](https://github.com/ansible/ansible-lint/releases/tag/v6.0.2), 1 month ago) - Best practices checker for Ansible
 - [Raabi91/moonraker-telegram](https://github.com/Raabi91/moonraker-telegram) ([v1.0.2](https://github.com/Raabi91/moonraker-telegram/releases/tag/v1.0.2), 1 year ago) - A Script/Programm to send the printer State before, during and after a print via Telegram Messenger. But its only Working with moonraker
@@ -43,7 +43,7 @@
 #### 📜 My recent blog posts
 
 - [RGBW LED (SK6812) mit ESPHome betreiben](https://wolf-u.li/6195/rgbw-led-sk6812-mit-esphome-betreiben/) (3 months ago)
-- [Synology DS720&#43; – Nutzung einer SSD als Volume](https://wolf-u.li/6184/synology-ds720-nutzung-einer-ssd-als-volume/) (4 months ago)
+- [Synology DS720&#43; – Nutzung einer SSD als Volume](https://wolf-u.li/6184/synology-ds720-nutzung-einer-ssd-als-volume/) (5 months ago)
 - [PINOUT des WT32-ETH01 – ESP32 Modul mit Ethernet](https://wolf-u.li/6181/pinout-des-wt32-eth01-esp32-modul-mit-ethernet/) (6 months ago)
 - [Home Assistant: Generation of long term statistics will be suppressed unless the unit changes back](https://wolf-u.li/6178/home-assistant-generation-of-long-term-statistics-will-be-suppressed-unless-the-unit-changes-back/) (6 months ago)
 - [Auflisten des Inhalts von SAP Transport data files](https://wolf-u.li/6176/auflisten-des-inhalts-von-sap-transport-data-files/) (6 months ago)
@@ -54,7 +54,7 @@
 - [stuartpittaway/diyBMSv4](https://github.com/stuartpittaway/diyBMSv4) - Version 4 of the diyBMS (2 weeks ago)
 - [fboender/ansible-cmdb](https://github.com/fboender/ansible-cmdb) - Generate host overview from ansible fact gathering output (3 weeks ago)
 - [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible (3 weeks ago)
-- [boltgolt/howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux (4 weeks ago)
+- [boltgolt/howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux (1 month ago)
 - [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My home assistant addons (1 month ago)
 - [thewhobox/Kaenx](https://github.com/thewhobox/Kaenx) - Inbetriebnahmesoftware für KNX Geräte (1 month ago)
 - [mainsail-crew/mainsail](https://github.com/mainsail-crew/mainsail) - Mainsail is the popular web interface for Klipper (1 month ago)
