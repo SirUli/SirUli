@@ -22,7 +22,7 @@
 
 #### 🔭 Recent Releases
 
-- [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) ([v1.29.0](https://github.com/keesschollaart81/vscode-home-assistant/releases/tag/v1.29.0), 1 day ago) - Visual Studio Code Extension for Home Assistant. ⭐ if you think this is cool!
+- [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) ([v1.29.0](https://github.com/keesschollaart81/vscode-home-assistant/releases/tag/v1.29.0), 2 days ago) - Visual Studio Code Extension for Home Assistant. ⭐ if you think this is cool!
 - [ansible-community/pytest-molecule](https://github.com/ansible-community/pytest-molecule) ([v2.0.0](https://github.com/ansible-community/pytest-molecule/releases/tag/v2.0.0), 1 month ago) - Enables pytest to discover molecule scenarios and run them
 - [ansible/ansible-lint](https://github.com/ansible/ansible-lint) ([v6.0.2](https://github.com/ansible/ansible-lint/releases/tag/v6.0.2), 1 month ago) - Best practices checker for Ansible
 - [Raabi91/moonraker-telegram](https://github.com/Raabi91/moonraker-telegram) ([v1.0.2](https://github.com/Raabi91/moonraker-telegram/releases/tag/v1.0.2), 1 year ago) - A Script/Programm to send the printer State before, during and after a print via Telegram Messenger. But its only Working with moonraker
