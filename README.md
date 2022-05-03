@@ -22,7 +22,7 @@
 
 #### 🔭 Recent Releases
 
-- [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) ([v1.29.0](https://github.com/keesschollaart81/vscode-home-assistant/releases/tag/v1.29.0), 5 days ago) - Visual Studio Code Extension for Home Assistant. ⭐ if you think this is cool!
+- [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) ([v1.29.0](https://github.com/keesschollaart81/vscode-home-assistant/releases/tag/v1.29.0), 6 days ago) - Visual Studio Code Extension for Home Assistant. ⭐ if you think this is cool!
 - [ansible-community/pytest-molecule](https://github.com/ansible-community/pytest-molecule) ([v2.0.0](https://github.com/ansible-community/pytest-molecule/releases/tag/v2.0.0), 1 month ago) - Enables pytest to discover molecule scenarios and run them
 - [ansible/ansible-lint](https://github.com/ansible/ansible-lint) ([v6.0.2](https://github.com/ansible/ansible-lint/releases/tag/v6.0.2), 1 month ago) - Best practices checker for Ansible
 - [Raabi91/moonraker-telegram](https://github.com/Raabi91/moonraker-telegram) ([v1.0.2](https://github.com/Raabi91/moonraker-telegram/releases/tag/v1.0.2), 1 year ago) - A Script/Programm to send the printer State before, during and after a print via Telegram Messenger. But its only Working with moonraker
@@ -50,7 +50,7 @@
 
 #### ⭐ Recent Stars
 
-- [Marv2190/Victron_MinSocByMonth](https://github.com/Marv2190/Victron_MinSocByMonth) - Script, welches den MinSoc von Victrongeräten nach dem aktuellen Monat steuert. (Ohne BatteryLife) (1 day ago)
+- [Marv2190/Victron_MinSocByMonth](https://github.com/Marv2190/Victron_MinSocByMonth) - Script, welches den MinSoc von Victrongeräten nach dem aktuellen Monat steuert. (Ohne BatteryLife) (2 days ago)
 - [unifiedcommsguy/victron-dbus-fronius-smartmeter](https://github.com/unifiedcommsguy/victron-dbus-fronius-smartmeter) -  (3 weeks ago)
 - [stuartpittaway/diyBMSv4](https://github.com/stuartpittaway/diyBMSv4) - Version 4 of the diyBMS (3 weeks ago)
 - [fboender/ansible-cmdb](https://github.com/fboender/ansible-cmdb) - Generate host overview from ansible fact gathering output (1 month ago)
