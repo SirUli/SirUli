@@ -50,7 +50,7 @@
 
 #### ⭐ Recent Stars
 
-- [Marv2190/Victron_MinSocByMonth](https://github.com/Marv2190/Victron_MinSocByMonth) - Script, welches den MinSoc von Victrongeräten nach dem aktuellen Monat steuert. (Ohne BatteryLife) (3 days ago)
+- [Marv2190/Victron_MinSocByMonth](https://github.com/Marv2190/Victron_MinSocByMonth) - Script, welches den MinSoc von Victrongeräten nach dem aktuellen Monat steuert. (Ohne BatteryLife) (4 days ago)
 - [unifiedcommsguy/victron-dbus-fronius-smartmeter](https://github.com/unifiedcommsguy/victron-dbus-fronius-smartmeter) -  (3 weeks ago)
 - [stuartpittaway/diyBMSv4](https://github.com/stuartpittaway/diyBMSv4) - Version 4 of the diyBMS (3 weeks ago)
 - [fboender/ansible-cmdb](https://github.com/fboender/ansible-cmdb) - Generate host overview from ansible fact gathering output (1 month ago)
