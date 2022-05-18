@@ -50,6 +50,7 @@
 
 #### ⭐ Recent Stars
 
+- [adityatelange/hugo_enc](https://github.com/adityatelange/hugo_enc) - A python3 CLI package to encrypt Hugo posts (today)
 - [CestLaGalere/weathersummary](https://github.com/CestLaGalere/weathersummary) - summarises data from weather component for Home Assistant. E.g. get min / max temp over last 24 hours, predicted rainfall. (3 days ago)
 - [pawcio50501/domoticz-VictronMultiplusII](https://github.com/pawcio50501/domoticz-VictronMultiplusII) - Domoticz plugin for the Victron Multiplus-II Inverter (1 week ago)
 - [optio50/Victron_Modbus_TCP](https://github.com/optio50/Victron_Modbus_TCP) - Victron Modbus TCP Example (1 week ago)
@@ -59,7 +60,6 @@
 - [unifiedcommsguy/victron-dbus-fronius-smartmeter](https://github.com/unifiedcommsguy/victron-dbus-fronius-smartmeter) -  (1 month ago)
 - [stuartpittaway/diyBMSv4](https://github.com/stuartpittaway/diyBMSv4) - Version 4 of the diyBMS (1 month ago)
 - [fboender/ansible-cmdb](https://github.com/fboender/ansible-cmdb) - Generate host overview from ansible fact gathering output (1 month ago)
-- [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
