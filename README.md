@@ -22,8 +22,8 @@
 
 #### 🔭 Recent Releases
 
-- [ansible/ansible-lint](https://github.com/ansible/ansible-lint) ([v6.2.1](https://github.com/ansible/ansible-lint/releases/tag/v6.2.1), 6 days ago) - Best practices checker for Ansible
-- [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) ([v1.29.3](https://github.com/keesschollaart81/vscode-home-assistant/releases/tag/v1.29.3), 6 days ago) - Visual Studio Code Extension for Home Assistant. ⭐ if you think this is cool!
+- [ansible/ansible-lint](https://github.com/ansible/ansible-lint) ([v6.2.1](https://github.com/ansible/ansible-lint/releases/tag/v6.2.1), 1 week ago) - Best practices checker for Ansible
+- [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) ([v1.29.3](https://github.com/keesschollaart81/vscode-home-assistant/releases/tag/v1.29.3), 1 week ago) - Visual Studio Code Extension for Home Assistant. ⭐ if you think this is cool!
 - [ansible-community/pytest-molecule](https://github.com/ansible-community/pytest-molecule) ([v2.0.0](https://github.com/ansible-community/pytest-molecule/releases/tag/v2.0.0), 1 month ago) - Enables pytest to discover molecule scenarios and run them
 - [Raabi91/moonraker-telegram](https://github.com/Raabi91/moonraker-telegram) ([v1.0.2](https://github.com/Raabi91/moonraker-telegram/releases/tag/v1.0.2), 1 year ago) - A Script/Programm to send the printer State before, during and after a print via Telegram Messenger. But its only Working with moonraker
 
@@ -50,7 +50,7 @@
 
 #### ⭐ Recent Stars
 
-- [adityatelange/hugo_enc](https://github.com/adityatelange/hugo_enc) - A python3 CLI package to encrypt Hugo posts (6 days ago)
+- [adityatelange/hugo_enc](https://github.com/adityatelange/hugo_enc) - A python3 CLI package to encrypt Hugo posts (1 week ago)
 - [CestLaGalere/weathersummary](https://github.com/CestLaGalere/weathersummary) - summarises data from weather component for Home Assistant. E.g. get min / max temp over last 24 hours, predicted rainfall. (1 week ago)
 - [pawcio50501/domoticz-VictronMultiplusII](https://github.com/pawcio50501/domoticz-VictronMultiplusII) - Domoticz plugin for the Victron Multiplus-II Inverter (2 weeks ago)
 - [optio50/Victron_Modbus_TCP](https://github.com/optio50/Victron_Modbus_TCP) - Victron Modbus TCP Example (2 weeks ago)
