@@ -51,12 +51,12 @@
 #### ⭐ Recent Stars
 
 - [adityatelange/hugo_enc](https://github.com/adityatelange/hugo_enc) - A python3 CLI package to encrypt Hugo posts (1 week ago)
-- [CestLaGalere/weathersummary](https://github.com/CestLaGalere/weathersummary) - summarises data from weather component for Home Assistant. E.g. get min / max temp over last 24 hours, predicted rainfall. (1 week ago)
-- [pawcio50501/domoticz-VictronMultiplusII](https://github.com/pawcio50501/domoticz-VictronMultiplusII) - Domoticz plugin for the Victron Multiplus-II Inverter (2 weeks ago)
-- [optio50/Victron_Modbus_TCP](https://github.com/optio50/Victron_Modbus_TCP) - Victron Modbus TCP Example (2 weeks ago)
-- [LHardwick-git/Victron-Service](https://github.com/LHardwick-git/Victron-Service) - Temperature and Humidity d-bus services for Victron GX (2 weeks ago)
-- [t0bias-r/venusos_acload_prioritize](https://github.com/t0bias-r/venusos_acload_prioritize) - Victron Venus OS addon: Prioritize AC load over battery charge in ESS mode 1 when the batteries are empty (2 weeks ago)
-- [Marv2190/Victron_MinSocByMonth](https://github.com/Marv2190/Victron_MinSocByMonth) - Script, welches den MinSoc von Victrongeräten nach dem aktuellen Monat steuert. (Ohne BatteryLife) (3 weeks ago)
+- [CestLaGalere/weathersummary](https://github.com/CestLaGalere/weathersummary) - summarises data from weather component for Home Assistant. E.g. get min / max temp over last 24 hours, predicted rainfall. (2 weeks ago)
+- [pawcio50501/domoticz-VictronMultiplusII](https://github.com/pawcio50501/domoticz-VictronMultiplusII) - Domoticz plugin for the Victron Multiplus-II Inverter (3 weeks ago)
+- [optio50/Victron_Modbus_TCP](https://github.com/optio50/Victron_Modbus_TCP) - Victron Modbus TCP Example (3 weeks ago)
+- [LHardwick-git/Victron-Service](https://github.com/LHardwick-git/Victron-Service) - Temperature and Humidity d-bus services for Victron GX (3 weeks ago)
+- [t0bias-r/venusos_acload_prioritize](https://github.com/t0bias-r/venusos_acload_prioritize) - Victron Venus OS addon: Prioritize AC load over battery charge in ESS mode 1 when the batteries are empty (3 weeks ago)
+- [Marv2190/Victron_MinSocByMonth](https://github.com/Marv2190/Victron_MinSocByMonth) - Script, welches den MinSoc von Victrongeräten nach dem aktuellen Monat steuert. (Ohne BatteryLife) (4 weeks ago)
 - [unifiedcommsguy/victron-dbus-fronius-smartmeter](https://github.com/unifiedcommsguy/victron-dbus-fronius-smartmeter) -  (1 month ago)
 - [stuartpittaway/diyBMSv4](https://github.com/stuartpittaway/diyBMSv4) - Version 4 of the diyBMS (1 month ago)
 - [fboender/ansible-cmdb](https://github.com/fboender/ansible-cmdb) - Generate host overview from ansible fact gathering output (1 month ago)
