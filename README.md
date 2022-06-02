@@ -50,6 +50,7 @@
 
 #### ⭐ Recent Stars
 
+- [benlaurie/gfdb](https://github.com/benlaurie/gfdb) - GridFinity Divider Boxes in Fusion 360 (today)
 - [adityatelange/hugo_enc](https://github.com/adityatelange/hugo_enc) - A python3 CLI package to encrypt Hugo posts (2 weeks ago)
 - [CestLaGalere/weathersummary](https://github.com/CestLaGalere/weathersummary) - summarises data from weather component for Home Assistant. E.g. get min / max temp over last 24 hours, predicted rainfall. (2 weeks ago)
 - [pawcio50501/domoticz-VictronMultiplusII](https://github.com/pawcio50501/domoticz-VictronMultiplusII) - Domoticz plugin for the Victron Multiplus-II Inverter (3 weeks ago)
@@ -59,7 +60,6 @@
 - [Marv2190/Victron_MinSocByMonth](https://github.com/Marv2190/Victron_MinSocByMonth) - Script, welches den MinSoc von Victrongeräten nach dem aktuellen Monat steuert. (Ohne BatteryLife) (1 month ago)
 - [unifiedcommsguy/victron-dbus-fronius-smartmeter](https://github.com/unifiedcommsguy/victron-dbus-fronius-smartmeter) -  (1 month ago)
 - [stuartpittaway/diyBMSv4](https://github.com/stuartpittaway/diyBMSv4) - Version 4 of the diyBMS (1 month ago)
-- [fboender/ansible-cmdb](https://github.com/fboender/ansible-cmdb) - Generate host overview from ansible fact gathering output (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
