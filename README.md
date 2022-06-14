@@ -22,7 +22,7 @@
 
 #### 🔭 Recent Releases
 
-- [ansible/ansible-lint](https://github.com/ansible/ansible-lint) ([v6.3.0](https://github.com/ansible/ansible-lint/releases/tag/v6.3.0), 4 days ago) - Best practices checker for Ansible
+- [ansible/ansible-lint](https://github.com/ansible/ansible-lint) ([v6.3.0](https://github.com/ansible/ansible-lint/releases/tag/v6.3.0), 5 days ago) - Best practices checker for Ansible
 - [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) ([v1.30.1](https://github.com/keesschollaart81/vscode-home-assistant/releases/tag/v1.30.1), 1 week ago) - Visual Studio Code Extension for Home Assistant. ⭐ if you think this is cool!
 - [ansible-community/pytest-molecule](https://github.com/ansible-community/pytest-molecule) ([v2.0.0](https://github.com/ansible-community/pytest-molecule/releases/tag/v2.0.0), 2 months ago) - Enables pytest to discover molecule scenarios and run them
 - [Raabi91/moonraker-telegram](https://github.com/Raabi91/moonraker-telegram) ([v1.0.2](https://github.com/Raabi91/moonraker-telegram/releases/tag/v1.0.2), 1 year ago) - A Script/Programm to send the printer State before, during and after a print via Telegram Messenger. But its only Working with moonraker
@@ -50,10 +50,10 @@
 
 #### ⭐ Recent Stars
 
-- [MiczFlor/RPi-Jukebox-RFID](https://github.com/MiczFlor/RPi-Jukebox-RFID) - A Raspberry Pi jukebox, playing local music, podcasts, web radio and streams triggered by RFID cards, web app or home automation. All plug and play via USB. GPIO scripts available. (6 days ago)
+- [MiczFlor/RPi-Jukebox-RFID](https://github.com/MiczFlor/RPi-Jukebox-RFID) - A Raspberry Pi jukebox, playing local music, podcasts, web radio and streams triggered by RFID cards, web app or home automation. All plug and play via USB. GPIO scripts available. (1 week ago)
 - [benlaurie/gfdb](https://github.com/benlaurie/gfdb) - GridFinity Divider Boxes in Fusion 360 (1 week ago)
 - [adityatelange/hugo_enc](https://github.com/adityatelange/hugo_enc) - A python3 CLI package to encrypt Hugo posts (3 weeks ago)
-- [CestLaGalere/weathersummary](https://github.com/CestLaGalere/weathersummary) - summarises data from weather component for Home Assistant. E.g. get min / max temp over last 24 hours, predicted rainfall. (4 weeks ago)
+- [CestLaGalere/weathersummary](https://github.com/CestLaGalere/weathersummary) - summarises data from weather component for Home Assistant. E.g. get min / max temp over last 24 hours, predicted rainfall. (1 month ago)
 - [pawcio50501/domoticz-VictronMultiplusII](https://github.com/pawcio50501/domoticz-VictronMultiplusII) - Domoticz plugin for the Victron Multiplus-II Inverter (1 month ago)
 - [optio50/Victron_Modbus_TCP](https://github.com/optio50/Victron_Modbus_TCP) - Victron Modbus TCP Example (1 month ago)
 - [LHardwick-git/Victron-Service](https://github.com/LHardwick-git/Victron-Service) - Temperature and Humidity d-bus services for Victron GX (1 month ago)
