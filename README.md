@@ -44,13 +44,13 @@
 
 - [RGBW LED (SK6812) mit ESPHome betreiben](https://wolf-u.li/6195/rgbw-led-sk6812-mit-esphome-betreiben/) (5 months ago)
 - [Synology DS720&#43; – Nutzung einer SSD als Volume](https://wolf-u.li/6184/synology-ds720-nutzung-einer-ssd-als-volume/) (6 months ago)
-- [PINOUT des WT32-ETH01 – ESP32 Modul mit Ethernet](https://wolf-u.li/6181/pinout-des-wt32-eth01-esp32-modul-mit-ethernet/) (7 months ago)
-- [Home Assistant: Generation of long term statistics will be suppressed unless the unit changes back](https://wolf-u.li/6178/home-assistant-generation-of-long-term-statistics-will-be-suppressed-unless-the-unit-changes-back/) (7 months ago)
+- [PINOUT des WT32-ETH01 – ESP32 Modul mit Ethernet](https://wolf-u.li/6181/pinout-des-wt32-eth01-esp32-modul-mit-ethernet/) (8 months ago)
+- [Home Assistant: Generation of long term statistics will be suppressed unless the unit changes back](https://wolf-u.li/6178/home-assistant-generation-of-long-term-statistics-will-be-suppressed-unless-the-unit-changes-back/) (8 months ago)
 - [Auflisten des Inhalts von SAP Transport data files](https://wolf-u.li/6176/auflisten-des-inhalts-von-sap-transport-data-files/) (8 months ago)
 
 #### ⭐ Recent Stars
 
-- [MiczFlor/RPi-Jukebox-RFID](https://github.com/MiczFlor/RPi-Jukebox-RFID) - A Raspberry Pi jukebox, playing local music, podcasts, web radio and streams triggered by RFID cards, web app or home automation. All plug and play via USB. GPIO scripts available. (1 week ago)
+- [MiczFlor/RPi-Jukebox-RFID](https://github.com/MiczFlor/RPi-Jukebox-RFID) - A Raspberry Pi jukebox, playing local music, podcasts, web radio and streams triggered by RFID cards, web app or home automation. All plug and play via USB. GPIO scripts available. (2 weeks ago)
 - [benlaurie/gfdb](https://github.com/benlaurie/gfdb) - GridFinity Divider Boxes in Fusion 360 (2 weeks ago)
 - [adityatelange/hugo_enc](https://github.com/adityatelange/hugo_enc) - A python3 CLI package to encrypt Hugo posts (1 month ago)
 - [CestLaGalere/weathersummary](https://github.com/CestLaGalere/weathersummary) - summarises data from weather component for Home Assistant. E.g. get min / max temp over last 24 hours, predicted rainfall. (1 month ago)
