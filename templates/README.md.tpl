@@ -21,7 +21,7 @@
 {{- end}}
 
 #### 📜 My recent blog posts
-{{range rss "https://wolf-u.li/rss" 5}}
+{{range rss "https://wolf-u.li/index.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
