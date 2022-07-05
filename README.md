@@ -50,7 +50,7 @@
 
 #### ⭐ Recent Stars
 
-- [MiczFlor/RPi-Jukebox-RFID](https://github.com/MiczFlor/RPi-Jukebox-RFID) - A Raspberry Pi jukebox, playing local music, podcasts, web radio and streams triggered by RFID cards, web app or home automation. All plug and play via USB. GPIO scripts available. (3 weeks ago)
+- [MiczFlor/RPi-Jukebox-RFID](https://github.com/MiczFlor/RPi-Jukebox-RFID) - A Raspberry Pi jukebox, playing local music, podcasts, web radio and streams triggered by RFID cards, web app or home automation. All plug and play via USB. GPIO scripts available. (4 weeks ago)
 - [benlaurie/gfdb](https://github.com/benlaurie/gfdb) - GridFinity Divider Boxes in Fusion 360 (1 month ago)
 - [adityatelange/hugo_enc](https://github.com/adityatelange/hugo_enc) - A python3 CLI package to encrypt Hugo posts (1 month ago)
 - [CestLaGalere/weathersummary](https://github.com/CestLaGalere/weathersummary) - summarises data from weather component for Home Assistant. E.g. get min / max temp over last 24 hours, predicted rainfall. (1 month ago)
