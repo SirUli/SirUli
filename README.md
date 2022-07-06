@@ -50,6 +50,7 @@
 
 #### ⭐ Recent Stars
 
+- [geoffdavis/esphome-mitsubishiheatpump](https://github.com/geoffdavis/esphome-mitsubishiheatpump) - ESPHome Climate Component for Mitsubishi Heatpumps using direct serial connection (today)
 - [MiczFlor/RPi-Jukebox-RFID](https://github.com/MiczFlor/RPi-Jukebox-RFID) - A Raspberry Pi jukebox, playing local music, podcasts, web radio and streams triggered by RFID cards, web app or home automation. All plug and play via USB. GPIO scripts available. (4 weeks ago)
 - [benlaurie/gfdb](https://github.com/benlaurie/gfdb) - GridFinity Divider Boxes in Fusion 360 (1 month ago)
 - [adityatelange/hugo_enc](https://github.com/adityatelange/hugo_enc) - A python3 CLI package to encrypt Hugo posts (1 month ago)
@@ -59,7 +60,6 @@
 - [LHardwick-git/Victron-Service](https://github.com/LHardwick-git/Victron-Service) - Temperature and Humidity d-bus services for Victron GX (1 month ago)
 - [t0bias-r/venusos_acload_prioritize](https://github.com/t0bias-r/venusos_acload_prioritize) - Victron Venus OS addon: Prioritize AC load over battery charge in ESS mode 1 when the batteries are empty (1 month ago)
 - [Marv2190/Victron_MinSocByMonth](https://github.com/Marv2190/Victron_MinSocByMonth) - Script, welches den MinSoc von Victrongeräten nach dem aktuellen Monat steuert. (Ohne BatteryLife) (2 months ago)
-- [unifiedcommsguy/victron-dbus-fronius-smartmeter](https://github.com/unifiedcommsguy/victron-dbus-fronius-smartmeter) -  (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
