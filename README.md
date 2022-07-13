@@ -50,8 +50,8 @@
 
 #### ⭐ Recent Stars
 
-- [rclone/rclone](https://github.com/rclone/rclone) - &#34;rsync for cloud storage&#34; - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files (today)
-- [geoffdavis/esphome-mitsubishiheatpump](https://github.com/geoffdavis/esphome-mitsubishiheatpump) - ESPHome Climate Component for Mitsubishi Heatpumps using direct serial connection (6 days ago)
+- [rclone/rclone](https://github.com/rclone/rclone) - &#34;rsync for cloud storage&#34; - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files (1 day ago)
+- [geoffdavis/esphome-mitsubishiheatpump](https://github.com/geoffdavis/esphome-mitsubishiheatpump) - ESPHome Climate Component for Mitsubishi Heatpumps using direct serial connection (1 week ago)
 - [MiczFlor/RPi-Jukebox-RFID](https://github.com/MiczFlor/RPi-Jukebox-RFID) - A Raspberry Pi jukebox, playing local music, podcasts, web radio and streams triggered by RFID cards, web app or home automation. All plug and play via USB. GPIO scripts available. (1 month ago)
 - [benlaurie/gfdb](https://github.com/benlaurie/gfdb) - GridFinity Divider Boxes in Fusion 360 (1 month ago)
 - [adityatelange/hugo_enc](https://github.com/adityatelange/hugo_enc) - A python3 CLI package to encrypt Hugo posts (1 month ago)
