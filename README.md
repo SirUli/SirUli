@@ -44,13 +44,13 @@
 
 - [Unknown Command &#34;M486&#34; in Klipper - Superslicer](https://wolf-u.li/unknown-command-m486-in-klipper-superslicer/) (3 months ago)
 - [RGBW LED (SK6812) mit ESPHome betreiben](https://wolf-u.li/rgbw-led-sk6812-mit-esphome-betreiben/) (6 months ago)
-- [Synology DS720&#43; - Nutzung einer SSD als Volume](https://wolf-u.li/synology-ds720-nutzung-einer-ssd-als-volume/) (7 months ago)
+- [Synology DS720&#43; - Nutzung einer SSD als Volume](https://wolf-u.li/synology-ds720-nutzung-einer-ssd-als-volume/) (8 months ago)
 - [PINOUT des WT32-ETH01 - ESP32 Modul mit Ethernet](https://wolf-u.li/pinout-des-wt32-eth01-esp32-modul-mit-ethernet/) (9 months ago)
 - [Home Assistant: Generation of long term statistics will be suppressed unless the unit changes back](https://wolf-u.li/home-assistant-generation-of-long-term-statistics-will-be-suppressed-unless-the-unit-changes-back/) (9 months ago)
 
 #### ⭐ Recent Stars
 
-- [rclone/rclone](https://github.com/rclone/rclone) - &#34;rsync for cloud storage&#34; - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files (1 week ago)
+- [rclone/rclone](https://github.com/rclone/rclone) - &#34;rsync for cloud storage&#34; - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files (2 weeks ago)
 - [geoffdavis/esphome-mitsubishiheatpump](https://github.com/geoffdavis/esphome-mitsubishiheatpump) - ESPHome Climate Component for Mitsubishi Heatpumps using direct serial connection (2 weeks ago)
 - [MiczFlor/RPi-Jukebox-RFID](https://github.com/MiczFlor/RPi-Jukebox-RFID) - A Raspberry Pi jukebox, playing local music, podcasts, web radio and streams triggered by RFID cards, web app or home automation. All plug and play via USB. GPIO scripts available. (1 month ago)
 - [benlaurie/gfdb](https://github.com/benlaurie/gfdb) - GridFinity Divider Boxes in Fusion 360 (1 month ago)
