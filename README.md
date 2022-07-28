@@ -50,6 +50,7 @@
 
 #### ⭐ Recent Stars
 
+- [fernwerker/ownDynDNS](https://github.com/fernwerker/ownDynDNS) - Self-hosted dynamic DNS php script for FRITZ!Box and netcup DNS API (today)
 - [rclone/rclone](https://github.com/rclone/rclone) - &#34;rsync for cloud storage&#34; - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files (2 weeks ago)
 - [geoffdavis/esphome-mitsubishiheatpump](https://github.com/geoffdavis/esphome-mitsubishiheatpump) - ESPHome Climate Component for Mitsubishi Heatpumps using direct serial connection (3 weeks ago)
 - [MiczFlor/RPi-Jukebox-RFID](https://github.com/MiczFlor/RPi-Jukebox-RFID) - A Raspberry Pi jukebox, playing local music, podcasts, web radio and streams triggered by RFID cards, web app or home automation. All plug and play via USB. GPIO scripts available. (1 month ago)
@@ -59,7 +60,6 @@
 - [pawcio50501/domoticz-VictronMultiplusII](https://github.com/pawcio50501/domoticz-VictronMultiplusII) - Domoticz plugin for the Victron Multiplus-II Inverter (2 months ago)
 - [optio50/Victron_Modbus_TCP](https://github.com/optio50/Victron_Modbus_TCP) - Victron Modbus TCP Example (2 months ago)
 - [LHardwick-git/Victron-Service](https://github.com/LHardwick-git/Victron-Service) - Temperature and Humidity d-bus services for Victron GX (2 months ago)
-- [t0bias-r/venusos_acload_prioritize](https://github.com/t0bias-r/venusos_acload_prioritize) - Victron Venus OS addon: Prioritize AC load over battery charge in ESS mode 1 when the batteries are empty (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
