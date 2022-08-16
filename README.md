@@ -55,7 +55,7 @@
 - [geoffdavis/esphome-mitsubishiheatpump](https://github.com/geoffdavis/esphome-mitsubishiheatpump) - ESPHome Climate Component for Mitsubishi Heatpumps using direct serial connection (1 month ago)
 - [MiczFlor/RPi-Jukebox-RFID](https://github.com/MiczFlor/RPi-Jukebox-RFID) - A Raspberry Pi jukebox, playing local music, podcasts, web radio and streams triggered by RFID cards, web app or home automation. All plug and play via USB. GPIO scripts available. (2 months ago)
 - [benlaurie/gfdb](https://github.com/benlaurie/gfdb) - GridFinity Divider Boxes in Fusion 360 (2 months ago)
-- [adityatelange/hugo_enc](https://github.com/adityatelange/hugo_enc) - A python3 CLI package to encrypt Hugo posts (2 months ago)
+- [adityatelange/hugo_enc](https://github.com/adityatelange/hugo_enc) - A python3 CLI package to encrypt Hugo posts (3 months ago)
 - [CestLaGalere/weathersummary](https://github.com/CestLaGalere/weathersummary) - summarises data from weather component for Home Assistant. E.g. get min / max temp over last 24 hours, predicted rainfall. (3 months ago)
 - [pawcio50501/domoticz-VictronMultiplusII](https://github.com/pawcio50501/domoticz-VictronMultiplusII) - Domoticz plugin for the Victron Multiplus-II Inverter (3 months ago)
 - [optio50/Victron_Modbus_TCP](https://github.com/optio50/Victron_Modbus_TCP) - Victron Modbus TCP Example (3 months ago)
