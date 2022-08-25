@@ -50,6 +50,8 @@
 
 #### ⭐ Recent Stars
 
+- [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database (today)
+- [AlejandroHerr/home-assistant-addon-influxdb2](https://github.com/AlejandroHerr/home-assistant-addon-influxdb2) - InfluxDB 2.0 Add-on for Home Assistant (today)
 - [trixing/venus.dbus-fronius-smartmeter](https://github.com/trixing/venus.dbus-fronius-smartmeter) - A service for Venus OS, reading smart meter data from a Fronius system and making the values available on dbus. (6 days ago)
 - [fernwerker/ownDynDNS](https://github.com/fernwerker/ownDynDNS) - Self-hosted dynamic DNS php script for FRITZ!Box and netcup DNS API (4 weeks ago)
 - [rclone/rclone](https://github.com/rclone/rclone) - &#34;rsync for cloud storage&#34; - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files (1 month ago)
@@ -58,8 +60,6 @@
 - [benlaurie/gfdb](https://github.com/benlaurie/gfdb) - GridFinity Divider Boxes in Fusion 360 (2 months ago)
 - [adityatelange/hugo_enc](https://github.com/adityatelange/hugo_enc) - A python3 CLI package to encrypt Hugo posts (3 months ago)
 - [CestLaGalere/weathersummary](https://github.com/CestLaGalere/weathersummary) - summarises data from weather component for Home Assistant. E.g. get min / max temp over last 24 hours, predicted rainfall. (3 months ago)
-- [pawcio50501/domoticz-VictronMultiplusII](https://github.com/pawcio50501/domoticz-VictronMultiplusII) - Domoticz plugin for the Victron Multiplus-II Inverter (3 months ago)
-- [optio50/Victron_Modbus_TCP](https://github.com/optio50/Victron_Modbus_TCP) - Victron Modbus TCP Example (3 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
