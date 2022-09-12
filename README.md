@@ -68,8 +68,8 @@ For more information, see [the sponsors page](https://github.com/sponsors/SirUli
 
 #### 👯 Recent followers
 
+- [issic](https://github.com/issic)
 - [aramirol](https://github.com/aramirol)
 - [pjnovas](https://github.com/pjnovas)
 - [Woki-Leo](https://github.com/Woki-Leo)
 - [zhongminlin](https://github.com/zhongminlin)
-- [oleekhunkhuntod](https://github.com/oleekhunkhuntod)
