@@ -50,6 +50,9 @@
 
 #### ⭐ Recent Stars
 
+- [victronenergy/dbus-spy](https://github.com/victronenergy/dbus-spy) -  (today)
+- [hans-olav/dbus-nextion](https://github.com/hans-olav/dbus-nextion) - Nextion LCD integration with Victron Energy equipment on Raspberry Pi (today)
+- [liaan/victron-dbus-mqtt-ro](https://github.com/liaan/victron-dbus-mqtt-ro) - Victron Dbus-mqtt  Read Only version just pushing data all the time to mqtt (today)
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database (2 weeks ago)
 - [AlejandroHerr/home-assistant-addon-influxdb2](https://github.com/AlejandroHerr/home-assistant-addon-influxdb2) - InfluxDB 2.0 Add-on for Home Assistant (2 weeks ago)
 - [trixing/venus.dbus-fronius-smartmeter](https://github.com/trixing/venus.dbus-fronius-smartmeter) - A service for Venus OS, reading smart meter data from a Fronius system and making the values available on dbus. (3 weeks ago)
@@ -57,9 +60,6 @@
 - [rclone/rclone](https://github.com/rclone/rclone) - &#34;rsync for cloud storage&#34; - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files (2 months ago)
 - [geoffdavis/esphome-mitsubishiheatpump](https://github.com/geoffdavis/esphome-mitsubishiheatpump) - ESPHome Climate Component for Mitsubishi Heatpumps using direct serial connection (2 months ago)
 - [MiczFlor/RPi-Jukebox-RFID](https://github.com/MiczFlor/RPi-Jukebox-RFID) - A Raspberry Pi jukebox, playing local music, podcasts, web radio and streams triggered by RFID cards, web app or home automation. All plug and play via USB. GPIO scripts available. (3 months ago)
-- [benlaurie/gfdb](https://github.com/benlaurie/gfdb) - GridFinity Divider Boxes in Fusion 360 (3 months ago)
-- [adityatelange/hugo_enc](https://github.com/adityatelange/hugo_enc) - A python3 CLI package to encrypt Hugo posts (3 months ago)
-- [CestLaGalere/weathersummary](https://github.com/CestLaGalere/weathersummary) - summarises data from weather component for Home Assistant. E.g. get min / max temp over last 24 hours, predicted rainfall. (4 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
