@@ -24,7 +24,7 @@
 
 #### 🔭 Recent Releases
 
-- [SirUli/victron-dbus-fronius-smartmeter](https://github.com/SirUli/victron-dbus-fronius-smartmeter) ([v1.4](https://github.com/SirUli/victron-dbus-fronius-smartmeter/releases/tag/v1.4), today) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus
+- [SirUli/victron-dbus-fronius-smartmeter](https://github.com/SirUli/victron-dbus-fronius-smartmeter) ([v1.6](https://github.com/SirUli/victron-dbus-fronius-smartmeter/releases/tag/v1.6), today) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus
 - [ansible/ansible-lint](https://github.com/ansible/ansible-lint) ([v6.5.2](https://github.com/ansible/ansible-lint/releases/tag/v6.5.2), 2 weeks ago) - Best practices checker for Ansible
 - [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) ([v1.30.1](https://github.com/keesschollaart81/vscode-home-assistant/releases/tag/v1.30.1), 3 months ago) - Visual Studio Code Extension for Home Assistant. ⭐ if you think this is cool!
 - [ansible-community/pytest-molecule](https://github.com/ansible-community/pytest-molecule) ([v2.0.0](https://github.com/ansible-community/pytest-molecule/releases/tag/v2.0.0), 5 months ago) - Enables pytest to discover molecule scenarios and run them
