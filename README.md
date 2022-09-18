@@ -2,10 +2,10 @@
 
 #### 👷 Recent Contributions
 
-- [SirUli/victron-dbus-fronius-smartmeter](https://github.com/SirUli/victron-dbus-fronius-smartmeter) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus (1 day ago)
+- [SirUli/victron-dbus-fronius-smartmeter](https://github.com/SirUli/victron-dbus-fronius-smartmeter) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus (2 days ago)
 - [Klipper3d/klipper](https://github.com/Klipper3d/klipper) - Klipper is a 3d-printer firmware (5 months ago)
 - [ansible-community/pytest-molecule](https://github.com/ansible-community/pytest-molecule) - Enables pytest to discover molecule scenarios and run them (5 months ago)
-- [Raabi91/moonraker-telegram](https://github.com/Raabi91/moonraker-telegram) - A Script/Programm to send the printer State before, during and after a print via Telegram Messenger. But its only Working with moonraker (5 months ago)
+- [Raabi91/moonraker-telegram](https://github.com/Raabi91/moonraker-telegram) - A Script/Programm to send the printer State before, during and after a print via Telegram Messenger. But its only Working with moonraker (6 months ago)
 - [ansible/ansible-lint](https://github.com/ansible/ansible-lint) - Best practices checker for Ansible (8 months ago)
 - [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) - Visual Studio Code Extension for Home Assistant. ⭐ if you think this is cool! (8 months ago)
 
@@ -24,7 +24,7 @@
 
 #### 🔭 Recent Releases
 
-- [SirUli/victron-dbus-fronius-smartmeter](https://github.com/SirUli/victron-dbus-fronius-smartmeter) ([v1.6](https://github.com/SirUli/victron-dbus-fronius-smartmeter/releases/tag/v1.6), 1 day ago) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus
+- [SirUli/victron-dbus-fronius-smartmeter](https://github.com/SirUli/victron-dbus-fronius-smartmeter) ([v1.6](https://github.com/SirUli/victron-dbus-fronius-smartmeter/releases/tag/v1.6), 2 days ago) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus
 - [ansible/ansible-lint](https://github.com/ansible/ansible-lint) ([v6.5.2](https://github.com/ansible/ansible-lint/releases/tag/v6.5.2), 2 weeks ago) - Best practices checker for Ansible
 - [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) ([v1.30.1](https://github.com/keesschollaart81/vscode-home-assistant/releases/tag/v1.30.1), 3 months ago) - Visual Studio Code Extension for Home Assistant. ⭐ if you think this is cool!
 - [ansible-community/pytest-molecule](https://github.com/ansible-community/pytest-molecule) ([v2.0.0](https://github.com/ansible-community/pytest-molecule/releases/tag/v2.0.0), 5 months ago) - Enables pytest to discover molecule scenarios and run them
@@ -33,7 +33,7 @@
 #### 🔨 Recent Pull Requests
 
 - [HTU21D - SI7021 is has id 0x15](https://github.com/Klipper3d/klipper/pull/5375) on [Klipper3d/klipper](https://github.com/Klipper3d/klipper) (5 months ago)
-- [Usage of shellcheck and beautysh &#43; spellchecks &amp; formatting](https://github.com/Raabi91/moonraker-telegram/pull/94) on [Raabi91/moonraker-telegram](https://github.com/Raabi91/moonraker-telegram) (5 months ago)
+- [Usage of shellcheck and beautysh &#43; spellchecks &amp; formatting](https://github.com/Raabi91/moonraker-telegram/pull/94) on [Raabi91/moonraker-telegram](https://github.com/Raabi91/moonraker-telegram) (6 months ago)
 - [WIP: file collection after deprecation of &#39;py&#39; in pytest](https://github.com/ansible-community/pytest-molecule/pull/114) on [ansible-community/pytest-molecule](https://github.com/ansible-community/pytest-molecule) (7 months ago)
 - [Allow noqa to be used in more lintable kinds](https://github.com/ansible/ansible-lint/pull/1819) on [ansible/ansible-lint](https://github.com/ansible/ansible-lint) (8 months ago)
 - [Add new device_classes to (binary) sensors](https://github.com/keesschollaart81/vscode-home-assistant/pull/1861) on [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) (8 months ago)
@@ -53,13 +53,13 @@
 
 #### ⭐ Recent Stars
 
-- [SirUli/victron-dbus-fronius-smartmeter](https://github.com/SirUli/victron-dbus-fronius-smartmeter) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus (2 days ago)
-- [victronenergy/dbus-spy](https://github.com/victronenergy/dbus-spy) -  (4 days ago)
-- [hans-olav/dbus-nextion](https://github.com/hans-olav/dbus-nextion) - Nextion LCD integration with Victron Energy equipment on Raspberry Pi (4 days ago)
-- [liaan/victron-dbus-mqtt-ro](https://github.com/liaan/victron-dbus-mqtt-ro) - Victron Dbus-mqtt  Read Only version just pushing data all the time to mqtt (4 days ago)
+- [SirUli/victron-dbus-fronius-smartmeter](https://github.com/SirUli/victron-dbus-fronius-smartmeter) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus (3 days ago)
+- [victronenergy/dbus-spy](https://github.com/victronenergy/dbus-spy) -  (5 days ago)
+- [hans-olav/dbus-nextion](https://github.com/hans-olav/dbus-nextion) - Nextion LCD integration with Victron Energy equipment on Raspberry Pi (5 days ago)
+- [liaan/victron-dbus-mqtt-ro](https://github.com/liaan/victron-dbus-mqtt-ro) - Victron Dbus-mqtt  Read Only version just pushing data all the time to mqtt (5 days ago)
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database (3 weeks ago)
 - [AlejandroHerr/home-assistant-addon-influxdb2](https://github.com/AlejandroHerr/home-assistant-addon-influxdb2) - InfluxDB 2.0 Add-on for Home Assistant (3 weeks ago)
-- [trixing/venus.dbus-fronius-smartmeter](https://github.com/trixing/venus.dbus-fronius-smartmeter) - A service for Venus OS, reading smart meter data from a Fronius system and making the values available on dbus. (4 weeks ago)
+- [trixing/venus.dbus-fronius-smartmeter](https://github.com/trixing/venus.dbus-fronius-smartmeter) - A service for Venus OS, reading smart meter data from a Fronius system and making the values available on dbus. (1 month ago)
 - [fernwerker/ownDynDNS](https://github.com/fernwerker/ownDynDNS) - Self-hosted dynamic DNS php script for FRITZ!Box and netcup DNS API (1 month ago)
 - [rclone/rclone](https://github.com/rclone/rclone) - &#34;rsync for cloud storage&#34; - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files (2 months ago)
 - [geoffdavis/esphome-mitsubishiheatpump](https://github.com/geoffdavis/esphome-mitsubishiheatpump) - ESPHome Climate Component for Mitsubishi Heatpumps using direct serial connection (2 months ago)
