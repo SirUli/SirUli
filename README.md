@@ -53,6 +53,7 @@
 
 #### ⭐ Recent Stars
 
+- [M-o-a-T/moat-victron](https://github.com/M-o-a-T/moat-victron) -  (today)
 - [SirUli/victron-dbus-fronius-smartmeter](https://github.com/SirUli/victron-dbus-fronius-smartmeter) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus (1 week ago)
 - [victronenergy/dbus-spy](https://github.com/victronenergy/dbus-spy) -  (1 week ago)
 - [hans-olav/dbus-nextion](https://github.com/hans-olav/dbus-nextion) - Nextion LCD integration with Victron Energy equipment on Raspberry Pi (1 week ago)
@@ -62,7 +63,6 @@
 - [trixing/venus.dbus-fronius-smartmeter](https://github.com/trixing/venus.dbus-fronius-smartmeter) - A service for Venus OS, reading smart meter data from a Fronius system and making the values available on dbus. (1 month ago)
 - [fernwerker/ownDynDNS](https://github.com/fernwerker/ownDynDNS) - Self-hosted dynamic DNS php script for FRITZ!Box and netcup DNS API (1 month ago)
 - [rclone/rclone](https://github.com/rclone/rclone) - &#34;rsync for cloud storage&#34; - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files (2 months ago)
-- [geoffdavis/esphome-mitsubishiheatpump](https://github.com/geoffdavis/esphome-mitsubishiheatpump) - ESPHome Climate Component for Mitsubishi Heatpumps using direct serial connection (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
