@@ -45,11 +45,11 @@
 
 #### 📜 My recent blog posts
 
+- [Welche Einbaulage ist für prismatische LiFePo4 Zellen optimal?](https://wolf-u.li/welche-einbaulage-ist-f%C3%BCr-prismatische-lifepo4-zellen-optimal/) (today)
 - [Unifi Dream Router (UDR) - Einrichten des NTP Servers](https://wolf-u.li/unifi-dream-router-udr-einrichten-des-ntp-servers/) (1 month ago)
 - [Unifi Dream Router - Einrichten von podman](https://wolf-u.li/unifi-dream-router-udr-einrichten-von-podman/) (1 month ago)
 - [Homeassistant - binary_sensor Zustand an KNX übertragen](https://wolf-u.li/homeassistant-binary-sensor-zustand-an-knx-uebertragen/) (2 months ago)
 - [Fensterkontakt für Velux Dachfenster](https://wolf-u.li/fensterkontakt-fuer-velux-dachfenster/) (2 months ago)
-- [Unknown Command &#34;M486&#34; in Klipper - Superslicer](https://wolf-u.li/unknown-command-m486-in-klipper-superslicer/) (5 months ago)
 
 #### ⭐ Recent Stars
 
