@@ -24,7 +24,7 @@
 
 #### 🔭 Recent Releases
 
-- [ansible/ansible-lint](https://github.com/ansible/ansible-lint) ([v6.7.0](https://github.com/ansible/ansible-lint/releases/tag/v6.7.0), 2 days ago) - Best practices checker for Ansible
+- [ansible/ansible-lint](https://github.com/ansible/ansible-lint) ([v6.7.0](https://github.com/ansible/ansible-lint/releases/tag/v6.7.0), 3 days ago) - Best practices checker for Ansible
 - [SirUli/victron-dbus-fronius-smartmeter](https://github.com/SirUli/victron-dbus-fronius-smartmeter) ([v1.6](https://github.com/SirUli/victron-dbus-fronius-smartmeter/releases/tag/v1.6), 1 week ago) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus
 - [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) ([v1.30.1](https://github.com/keesschollaart81/vscode-home-assistant/releases/tag/v1.30.1), 3 months ago) - Visual Studio Code Extension for Home Assistant. ⭐ if you think this is cool!
 - [ansible-community/pytest-molecule](https://github.com/ansible-community/pytest-molecule) ([v2.0.0](https://github.com/ansible-community/pytest-molecule/releases/tag/v2.0.0), 6 months ago) - Enables pytest to discover molecule scenarios and run them
@@ -45,7 +45,7 @@
 
 #### 📜 My recent blog posts
 
-- [Welche Einbaulage ist für prismatische LiFePo4 Zellen optimal?](https://wolf-u.li/welche-einbaulage-ist-f%C3%BCr-prismatische-lifepo4-zellen-optimal/) (1 day ago)
+- [Welche Einbaulage ist für prismatische LiFePo4 Zellen optimal?](https://wolf-u.li/welche-einbaulage-ist-f%C3%BCr-prismatische-lifepo4-zellen-optimal/) (2 days ago)
 - [Unifi Dream Router (UDR) - Einrichten des NTP Servers](https://wolf-u.li/unifi-dream-router-udr-einrichten-des-ntp-servers/) (1 month ago)
 - [Unifi Dream Router - Einrichten von podman](https://wolf-u.li/unifi-dream-router-udr-einrichten-von-podman/) (1 month ago)
 - [Homeassistant - binary_sensor Zustand an KNX übertragen](https://wolf-u.li/homeassistant-binary-sensor-zustand-an-knx-uebertragen/) (2 months ago)
@@ -53,7 +53,7 @@
 
 #### ⭐ Recent Stars
 
-- [M-o-a-T/moat-victron](https://github.com/M-o-a-T/moat-victron) -  (3 days ago)
+- [M-o-a-T/moat-victron](https://github.com/M-o-a-T/moat-victron) -  (4 days ago)
 - [SirUli/victron-dbus-fronius-smartmeter](https://github.com/SirUli/victron-dbus-fronius-smartmeter) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus (1 week ago)
 - [victronenergy/dbus-spy](https://github.com/victronenergy/dbus-spy) -  (1 week ago)
 - [hans-olav/dbus-nextion](https://github.com/hans-olav/dbus-nextion) - Nextion LCD integration with Victron Energy equipment on Raspberry Pi (1 week ago)
@@ -61,7 +61,7 @@
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database (1 month ago)
 - [AlejandroHerr/home-assistant-addon-influxdb2](https://github.com/AlejandroHerr/home-assistant-addon-influxdb2) - InfluxDB 2.0 Add-on for Home Assistant (1 month ago)
 - [trixing/venus.dbus-fronius-smartmeter](https://github.com/trixing/venus.dbus-fronius-smartmeter) - A service for Venus OS, reading smart meter data from a Fronius system and making the values available on dbus. (1 month ago)
-- [fernwerker/ownDynDNS](https://github.com/fernwerker/ownDynDNS) - Self-hosted dynamic DNS php script for FRITZ!Box and netcup DNS API (1 month ago)
+- [fernwerker/ownDynDNS](https://github.com/fernwerker/ownDynDNS) - Self-hosted dynamic DNS php script for FRITZ!Box and netcup DNS API (2 months ago)
 - [rclone/rclone](https://github.com/rclone/rclone) - &#34;rsync for cloud storage&#34; - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
