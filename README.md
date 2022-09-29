@@ -24,7 +24,7 @@
 
 #### 🔭 Recent Releases
 
-- [ansible/ansible-lint](https://github.com/ansible/ansible-lint) ([v6.7.0](https://github.com/ansible/ansible-lint/releases/tag/v6.7.0), 5 days ago) - Best practices checker for Ansible
+- [ansible/ansible-lint](https://github.com/ansible/ansible-lint) ([v6.7.0](https://github.com/ansible/ansible-lint/releases/tag/v6.7.0), 6 days ago) - Best practices checker for Ansible
 - [SirUli/victron-dbus-fronius-smartmeter](https://github.com/SirUli/victron-dbus-fronius-smartmeter) ([v1.6](https://github.com/SirUli/victron-dbus-fronius-smartmeter/releases/tag/v1.6), 1 week ago) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus
 - [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) ([v1.30.1](https://github.com/keesschollaart81/vscode-home-assistant/releases/tag/v1.30.1), 3 months ago) - Visual Studio Code Extension for Home Assistant. ⭐ if you think this is cool!
 - [ansible-community/pytest-molecule](https://github.com/ansible-community/pytest-molecule) ([v2.0.0](https://github.com/ansible-community/pytest-molecule/releases/tag/v2.0.0), 6 months ago) - Enables pytest to discover molecule scenarios and run them
@@ -41,11 +41,11 @@
 - [Update README.md](https://github.com/SirUli/esp32-miflora-mqtt/pull/3) on [SirUli/esp32-miflora-mqtt](https://github.com/SirUli/esp32-miflora-mqtt) (2 years ago)
 - [Postpone all wifi and mqtt activities until all BLE stuff is done](https://github.com/SirUli/esp32-miflora-mqtt/pull/2) on [SirUli/esp32-miflora-mqtt](https://github.com/SirUli/esp32-miflora-mqtt) (2 years ago)
 - [Add platformio configuration.](https://github.com/SirUli/esp32-miflora-mqtt/pull/1) on [SirUli/esp32-miflora-mqtt](https://github.com/SirUli/esp32-miflora-mqtt) (2 years ago)
-- [Add date format 01. Januar, 2019 / 01 Januar 2019](https://github.com/stweiss/FileBasedMiniDMS/pull/12) on [stweiss/FileBasedMiniDMS](https://github.com/stweiss/FileBasedMiniDMS) (2 years ago)
+- [Add date format 01. Januar, 2019 / 01 Januar 2019](https://github.com/stweiss/FileBasedMiniDMS/pull/12) on [stweiss/FileBasedMiniDMS](https://github.com/stweiss/FileBasedMiniDMS) (3 years ago)
 
 #### 📜 My recent blog posts
 
-- [Welche Einbaulage ist für prismatische LiFePo4 Zellen optimal?](https://wolf-u.li/welche-einbaulage-ist-f%C3%BCr-prismatische-lifepo4-zellen-optimal/) (4 days ago)
+- [Welche Einbaulage ist für prismatische LiFePo4 Zellen optimal?](https://wolf-u.li/welche-einbaulage-ist-f%C3%BCr-prismatische-lifepo4-zellen-optimal/) (5 days ago)
 - [Unifi Dream Router (UDR) - Einrichten des NTP Servers](https://wolf-u.li/unifi-dream-router-udr-einrichten-des-ntp-servers/) (1 month ago)
 - [Unifi Dream Router - Einrichten von podman](https://wolf-u.li/unifi-dream-router-udr-einrichten-von-podman/) (1 month ago)
 - [Homeassistant - binary_sensor Zustand an KNX übertragen](https://wolf-u.li/homeassistant-binary-sensor-zustand-an-knx-uebertragen/) (2 months ago)
@@ -53,8 +53,8 @@
 
 #### ⭐ Recent Stars
 
-- [M-o-a-T/moat-victron](https://github.com/M-o-a-T/moat-victron) -  (6 days ago)
-- [SirUli/victron-dbus-fronius-smartmeter](https://github.com/SirUli/victron-dbus-fronius-smartmeter) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus (1 week ago)
+- [M-o-a-T/moat-victron](https://github.com/M-o-a-T/moat-victron) -  (1 week ago)
+- [SirUli/victron-dbus-fronius-smartmeter](https://github.com/SirUli/victron-dbus-fronius-smartmeter) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus (2 weeks ago)
 - [victronenergy/dbus-spy](https://github.com/victronenergy/dbus-spy) -  (2 weeks ago)
 - [hans-olav/dbus-nextion](https://github.com/hans-olav/dbus-nextion) - Nextion LCD integration with Victron Energy equipment on Raspberry Pi (2 weeks ago)
 - [liaan/victron-dbus-mqtt-ro](https://github.com/liaan/victron-dbus-mqtt-ro) - Victron Dbus-mqtt  Read Only version just pushing data all the time to mqtt (2 weeks ago)
