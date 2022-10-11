@@ -45,11 +45,11 @@
 
 #### 📜 My recent blog posts
 
+- [Anderson Stecker: Empfohlener Kabelquerschnitt](https://wolf-u.li/anderson-stecker-empfohlener-kabelquerschnitt/) (today)
 - [Review und Test der LG TONE-DT90Q](https://wolf-u.li/review-und-test-der-lg-tone-dt90q/) (1 week ago)
 - [Welche Einbaulage ist für prismatische LiFePo4 Zellen optimal?](https://wolf-u.li/welche-einbaulage-ist-f%C3%BCr-prismatische-lifepo4-zellen-optimal/) (2 weeks ago)
 - [Unifi Dream Router (UDR) - Einrichten des NTP Servers](https://wolf-u.li/unifi-dream-router-udr-einrichten-des-ntp-servers/) (2 months ago)
 - [Unifi Dream Router - Einrichten von podman](https://wolf-u.li/unifi-dream-router-udr-einrichten-von-podman/) (2 months ago)
-- [Homeassistant - binary_sensor Zustand an KNX übertragen](https://wolf-u.li/homeassistant-binary-sensor-zustand-an-knx-uebertragen/) (2 months ago)
 
 #### ⭐ Recent Stars
 
