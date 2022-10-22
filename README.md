@@ -46,14 +46,14 @@
 #### 📜 My recent blog posts
 
 - [Anderson Stecker: Empfohlener Kabelquerschnitt](https://wolf-u.li/anderson-stecker-empfohlener-kabelquerschnitt/) (1 week ago)
-- [Review und Test der LG TONE-DT90Q](https://wolf-u.li/review-und-test-der-lg-tone-dt90q/) (2 weeks ago)
-- [Welche Einbaulage ist für prismatische LiFePo4 Zellen optimal?](https://wolf-u.li/welche-einbaulage-ist-f%C3%BCr-prismatische-lifepo4-zellen-optimal/) (3 weeks ago)
+- [Review und Test der LG TONE-DT90Q](https://wolf-u.li/review-und-test-der-lg-tone-dt90q/) (3 weeks ago)
+- [Welche Einbaulage ist für prismatische LiFePo4 Zellen optimal?](https://wolf-u.li/welche-einbaulage-ist-f%C3%BCr-prismatische-lifepo4-zellen-optimal/) (4 weeks ago)
 - [Unifi Dream Router (UDR) - Einrichten des NTP Servers](https://wolf-u.li/unifi-dream-router-udr-einrichten-des-ntp-servers/) (2 months ago)
 - [Unifi Dream Router - Einrichten von podman](https://wolf-u.li/unifi-dream-router-udr-einrichten-von-podman/) (2 months ago)
 
 #### ⭐ Recent Stars
 
-- [M-o-a-T/moat-victron](https://github.com/M-o-a-T/moat-victron) -  (4 weeks ago)
+- [M-o-a-T/moat-victron](https://github.com/M-o-a-T/moat-victron) -  (1 month ago)
 - [SirUli/victron-dbus-fronius-smartmeter](https://github.com/SirUli/victron-dbus-fronius-smartmeter) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus (1 month ago)
 - [victronenergy/dbus-spy](https://github.com/victronenergy/dbus-spy) -  (1 month ago)
 - [hans-olav/dbus-nextion](https://github.com/hans-olav/dbus-nextion) - Nextion LCD integration with Victron Energy equipment on Raspberry Pi (1 month ago)
