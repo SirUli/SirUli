@@ -53,6 +53,7 @@
 
 #### ⭐ Recent Stars
 
+- [vekexasia/comfoairq-mqtt](https://github.com/vekexasia/comfoairq-mqtt) - Comfoair Q 350 &lt;-&gt; MQTT integration in Node.JS  (today)
 - [Louisvdw/dbus-serialbattery](https://github.com/Louisvdw/dbus-serialbattery) - dbus driver for serial battery in VenusOS  (3 days ago)
 - [M-o-a-T/moat-victron](https://github.com/M-o-a-T/moat-victron) -  (1 month ago)
 - [SirUli/victron-dbus-fronius-smartmeter](https://github.com/SirUli/victron-dbus-fronius-smartmeter) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus (1 month ago)
@@ -62,7 +63,6 @@
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database (2 months ago)
 - [AlejandroHerr/home-assistant-addon-influxdb2](https://github.com/AlejandroHerr/home-assistant-addon-influxdb2) - InfluxDB 2.0 Add-on for Home Assistant (2 months ago)
 - [trixing/venus.dbus-fronius-smartmeter](https://github.com/trixing/venus.dbus-fronius-smartmeter) - A service for Venus OS, reading smart meter data from a Fronius system and making the values available on dbus. (2 months ago)
-- [fernwerker/ownDynDNS](https://github.com/fernwerker/ownDynDNS) - Self-hosted dynamic DNS php script for FRITZ!Box and netcup DNS API (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
