@@ -53,6 +53,7 @@
 
 #### ⭐ Recent Stars
 
+- [fuslwusl/homeassistant-addon-victoriametrics](https://github.com/fuslwusl/homeassistant-addon-victoriametrics) - VictoriaMetrics Add-on for Home Assistant OS is the perfect solution for long term data storage of your smart home sensor data and visualization with Grafana. (today)
 - [vekexasia/comfoairq-mqtt](https://github.com/vekexasia/comfoairq-mqtt) - Comfoair Q 350 &lt;-&gt; MQTT integration in Node.JS  (5 days ago)
 - [Louisvdw/dbus-serialbattery](https://github.com/Louisvdw/dbus-serialbattery) - dbus driver for serial battery in VenusOS  (1 week ago)
 - [M-o-a-T/moat-victron](https://github.com/M-o-a-T/moat-victron) -  (1 month ago)
@@ -62,7 +63,6 @@
 - [liaan/victron-dbus-mqtt-ro](https://github.com/liaan/victron-dbus-mqtt-ro) - Victron Dbus-mqtt  Read Only version just pushing data all the time to mqtt (1 month ago)
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database (2 months ago)
 - [AlejandroHerr/home-assistant-addon-influxdb2](https://github.com/AlejandroHerr/home-assistant-addon-influxdb2) - InfluxDB 2.0 Add-on for Home Assistant (2 months ago)
-- [trixing/venus.dbus-fronius-smartmeter](https://github.com/trixing/venus.dbus-fronius-smartmeter) - A service for Venus OS, reading smart meter data from a Fronius system and making the values available on dbus. (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
