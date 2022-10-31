@@ -53,16 +53,16 @@
 
 #### ⭐ Recent Stars
 
+- [4cello/NotificationEgg](https://github.com/4cello/NotificationEgg) -  (today)
+- [SirUli/victron-dbus-fronius-smartmeter](https://github.com/SirUli/victron-dbus-fronius-smartmeter) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus (today)
 - [fuslwusl/homeassistant-addon-victoriametrics](https://github.com/fuslwusl/homeassistant-addon-victoriametrics) - VictoriaMetrics Add-on for Home Assistant OS is the perfect solution for long term data storage of your smart home sensor data and visualization with Grafana. (1 day ago)
 - [vekexasia/comfoairq-mqtt](https://github.com/vekexasia/comfoairq-mqtt) - Comfoair Q 350 &lt;-&gt; MQTT integration in Node.JS  (6 days ago)
 - [Louisvdw/dbus-serialbattery](https://github.com/Louisvdw/dbus-serialbattery) - dbus driver for serial battery in VenusOS  (1 week ago)
 - [M-o-a-T/moat-victron](https://github.com/M-o-a-T/moat-victron) -  (1 month ago)
-- [SirUli/victron-dbus-fronius-smartmeter](https://github.com/SirUli/victron-dbus-fronius-smartmeter) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus (1 month ago)
 - [victronenergy/dbus-spy](https://github.com/victronenergy/dbus-spy) -  (1 month ago)
 - [hans-olav/dbus-nextion](https://github.com/hans-olav/dbus-nextion) - Nextion LCD integration with Victron Energy equipment on Raspberry Pi (1 month ago)
 - [liaan/victron-dbus-mqtt-ro](https://github.com/liaan/victron-dbus-mqtt-ro) - Victron Dbus-mqtt  Read Only version just pushing data all the time to mqtt (1 month ago)
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database (2 months ago)
-- [AlejandroHerr/home-assistant-addon-influxdb2](https://github.com/AlejandroHerr/home-assistant-addon-influxdb2) - InfluxDB 2.0 Add-on for Home Assistant (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
