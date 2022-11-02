@@ -2,6 +2,7 @@
 
 #### 👷 Recent Contributions
 
+- [SirUli/ansiblelintv686](https://github.com/SirUli/ansiblelintv686) - Special Repo to Test ansible lint v6.8.6 (today)
 - [SirUli/victron-dbus-fronius-smartmeter](https://github.com/SirUli/victron-dbus-fronius-smartmeter) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus (1 month ago)
 - [Klipper3d/klipper](https://github.com/Klipper3d/klipper) - Klipper is a 3d-printer firmware (6 months ago)
 - [ansible-community/pytest-molecule](https://github.com/ansible-community/pytest-molecule) - Enables pytest to discover molecule scenarios and run them (7 months ago)
@@ -11,6 +12,7 @@
 
 #### 🌱 Latest projects
 
+- [SirUli/ansiblelintv686](https://github.com/SirUli/ansiblelintv686) - Special Repo to Test ansible lint v6.8.6
 - [SirUli/victron-dbus-fronius-smartmeter](https://github.com/SirUli/victron-dbus-fronius-smartmeter) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus
 - [SirUli/wuud](https://github.com/SirUli/wuud) - A User Detector Script for the Dahua VTO2000A Doorbell
 - [SirUli/OneWireTest4iButton](https://github.com/SirUli/OneWireTest4iButton) - Testing the iButton (See Blog: https://wolf-u.li)
@@ -20,7 +22,6 @@
 - [SirUli/Grill-Temperature-ESP8266-MAX6675](https://github.com/SirUli/Grill-Temperature-ESP8266-MAX6675) - A Grill Temperature Sensor utilizing the MAX6675 connected to an ESP866 / ESP-01
 - [SirUli/passport-expresshelper](https://github.com/SirUli/passport-expresshelper) - Helper for express 2.x in combination with the with the passport authentication module
 - [SirUli/node-adclient](https://github.com/SirUli/node-adclient) - ldapjs client for authentication with active directory
-- [SirUli/funplug](https://github.com/SirUli/funplug) - A repository to collect all compiler scripts for the fun_plug
 
 #### 🔭 Recent Releases
 
