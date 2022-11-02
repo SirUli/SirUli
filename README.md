@@ -24,7 +24,7 @@
 
 #### 🔭 Recent Releases
 
-- [ansible/ansible-lint](https://github.com/ansible/ansible-lint) ([v6.8.6](https://github.com/ansible/ansible-lint/releases/tag/v6.8.6), today) - Best practices checker for Ansible
+- [ansible/ansible-lint](https://github.com/ansible/ansible-lint) ([v6.8.6](https://github.com/ansible/ansible-lint/releases/tag/v6.8.6), 1 day ago) - Best practices checker for Ansible
 - [SirUli/victron-dbus-fronius-smartmeter](https://github.com/SirUli/victron-dbus-fronius-smartmeter) ([v1.6](https://github.com/SirUli/victron-dbus-fronius-smartmeter/releases/tag/v1.6), 1 month ago) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus
 - [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) ([v1.30.1](https://github.com/keesschollaart81/vscode-home-assistant/releases/tag/v1.30.1), 5 months ago) - Visual Studio Code Extension for Home Assistant. ⭐ if you think this is cool!
 - [ansible-community/pytest-molecule](https://github.com/ansible-community/pytest-molecule) ([v2.0.0](https://github.com/ansible-community/pytest-molecule/releases/tag/v2.0.0), 7 months ago) - Enables pytest to discover molecule scenarios and run them
@@ -45,7 +45,7 @@
 
 #### 📜 My recent blog posts
 
-- [Gitlab Runner: Cleanup von docker](https://wolf-u.li/gitlab-runner-docker-cleanup/) (2 days ago)
+- [Gitlab Runner: Cleanup von docker](https://wolf-u.li/gitlab-runner-docker-cleanup/) (3 days ago)
 - [Anderson Stecker: Empfohlener Kabelquerschnitt](https://wolf-u.li/anderson-stecker-empfohlener-kabelquerschnitt/) (3 weeks ago)
 - [Review und Test der LG TONE-DT90Q](https://wolf-u.li/review-und-test-der-lg-tone-dt90q/) (1 month ago)
 - [Welche Einbaulage ist für prismatische LiFePo4 Zellen optimal?](https://wolf-u.li/welche-einbaulage-ist-f%C3%BCr-prismatische-lifepo4-zellen-optimal/) (1 month ago)
@@ -53,10 +53,10 @@
 
 #### ⭐ Recent Stars
 
-- [kevinakasam/KlackEnder-Probe](https://github.com/kevinakasam/KlackEnder-Probe) - Klicky / Quickdraw Probe for the Ender 3 (today)
-- [4cello/NotificationEgg](https://github.com/4cello/NotificationEgg) -  (1 day ago)
-- [SirUli/victron-dbus-fronius-smartmeter](https://github.com/SirUli/victron-dbus-fronius-smartmeter) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus (1 day ago)
-- [fuslwusl/homeassistant-addon-victoriametrics](https://github.com/fuslwusl/homeassistant-addon-victoriametrics) - VictoriaMetrics Add-on for Home Assistant OS is the perfect solution for long term data storage of your smart home sensor data and visualization with Grafana. (2 days ago)
+- [kevinakasam/KlackEnder-Probe](https://github.com/kevinakasam/KlackEnder-Probe) - Klicky / Quickdraw Probe for the Ender 3 (1 day ago)
+- [4cello/NotificationEgg](https://github.com/4cello/NotificationEgg) -  (2 days ago)
+- [SirUli/victron-dbus-fronius-smartmeter](https://github.com/SirUli/victron-dbus-fronius-smartmeter) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus (2 days ago)
+- [fuslwusl/homeassistant-addon-victoriametrics](https://github.com/fuslwusl/homeassistant-addon-victoriametrics) - VictoriaMetrics Add-on for Home Assistant OS is the perfect solution for long term data storage of your smart home sensor data and visualization with Grafana. (3 days ago)
 - [vekexasia/comfoairq-mqtt](https://github.com/vekexasia/comfoairq-mqtt) - Comfoair Q 350 &lt;-&gt; MQTT integration in Node.JS  (1 week ago)
 - [Louisvdw/dbus-serialbattery](https://github.com/Louisvdw/dbus-serialbattery) - dbus driver for serial battery in VenusOS  (1 week ago)
 - [M-o-a-T/moat-victron](https://github.com/M-o-a-T/moat-victron) -  (1 month ago)
