@@ -50,7 +50,7 @@
 - [Gitlab Runner: Cleanup von docker](https://wolf-u.li/gitlab-runner-docker-cleanup/) (4 days ago)
 - [Anderson Stecker: Empfohlener Kabelquerschnitt](https://wolf-u.li/anderson-stecker-empfohlener-kabelquerschnitt/) (3 weeks ago)
 - [Review und Test der LG TONE-DT90Q](https://wolf-u.li/review-und-test-der-lg-tone-dt90q/) (1 month ago)
-- [Welche Einbaulage ist für prismatische LiFePo4 Zellen optimal?](https://wolf-u.li/welche-einbaulage-ist-f%C3%BCr-prismatische-lifepo4-zellen-optimal/) (1 month ago)
+- [Welche Einbaulage ist für prismatische LiFePo4 Zellen optimal?](https://wolf-u.li/welche-einbaulage-ist-fuer-prismatische-lifepo4-zellen-optimal/) (1 month ago)
 
 #### ⭐ Recent Stars
 
