@@ -2,6 +2,7 @@
 
 #### 👷 Recent Contributions
 
+- [alxwolf/ubios-cert](https://github.com/alxwolf/ubios-cert) - Manage SSL / TLS certificates with acme.sh (Let&#39;s Encrypt, ZeroSSL) for Ubiquiti UbiOS firmwares (today)
 - [SirUli/ansiblelintv686](https://github.com/SirUli/ansiblelintv686) - Special Repo to Test ansible lint v6.8.6 (2 days ago)
 - [SirUli/victron-dbus-fronius-smartmeter](https://github.com/SirUli/victron-dbus-fronius-smartmeter) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus (1 month ago)
 - [Klipper3d/klipper](https://github.com/Klipper3d/klipper) - Klipper is a 3d-printer firmware (6 months ago)
@@ -54,6 +55,7 @@
 
 #### ⭐ Recent Stars
 
+- [alxwolf/ubios-cert](https://github.com/alxwolf/ubios-cert) - Manage SSL / TLS certificates with acme.sh (Let&#39;s Encrypt, ZeroSSL) for Ubiquiti UbiOS firmwares (today)
 - [kevinakasam/KlackEnder-Probe](https://github.com/kevinakasam/KlackEnder-Probe) - Klicky / Quickdraw Probe for the Ender 3 (3 days ago)
 - [4cello/NotificationEgg](https://github.com/4cello/NotificationEgg) -  (4 days ago)
 - [SirUli/victron-dbus-fronius-smartmeter](https://github.com/SirUli/victron-dbus-fronius-smartmeter) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus (4 days ago)
@@ -63,7 +65,6 @@
 - [M-o-a-T/moat-victron](https://github.com/M-o-a-T/moat-victron) -  (1 month ago)
 - [victronenergy/dbus-spy](https://github.com/victronenergy/dbus-spy) -  (1 month ago)
 - [hans-olav/dbus-nextion](https://github.com/hans-olav/dbus-nextion) - Nextion LCD integration with Victron Energy equipment on Raspberry Pi (1 month ago)
-- [liaan/victron-dbus-mqtt-ro](https://github.com/liaan/victron-dbus-mqtt-ro) - Victron Dbus-mqtt  Read Only version just pushing data all the time to mqtt (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
