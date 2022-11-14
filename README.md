@@ -55,11 +55,11 @@
 
 #### ⭐ Recent Stars
 
-- [ulic75/power-flow-card](https://github.com/ulic75/power-flow-card) - A power distribution card inspired by the official Energy Distribution card for Home Assistant (today)
+- [ulic75/power-flow-card](https://github.com/ulic75/power-flow-card) - A power distribution card inspired by the official Energy Distribution card for Home Assistant (1 day ago)
 - [alxwolf/ubios-cert](https://github.com/alxwolf/ubios-cert) - Manage SSL / TLS certificates with acme.sh (Let&#39;s Encrypt, ZeroSSL) for Ubiquiti UbiOS firmwares (1 week ago)
 - [kevinakasam/KlackEnder-Probe](https://github.com/kevinakasam/KlackEnder-Probe) - Klicky / Quickdraw Probe for the Ender 3 (1 week ago)
-- [4cello/NotificationEgg](https://github.com/4cello/NotificationEgg) -  (1 week ago)
-- [SirUli/victron-dbus-fronius-smartmeter](https://github.com/SirUli/victron-dbus-fronius-smartmeter) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus (1 week ago)
+- [4cello/NotificationEgg](https://github.com/4cello/NotificationEgg) -  (2 weeks ago)
+- [SirUli/victron-dbus-fronius-smartmeter](https://github.com/SirUli/victron-dbus-fronius-smartmeter) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus (2 weeks ago)
 - [fuslwusl/homeassistant-addon-victoriametrics](https://github.com/fuslwusl/homeassistant-addon-victoriametrics) - VictoriaMetrics Add-on for Home Assistant OS is the perfect solution for long term data storage of your smart home sensor data and visualization with Grafana. (2 weeks ago)
 - [vekexasia/comfoairq-mqtt](https://github.com/vekexasia/comfoairq-mqtt) - Comfoair Q 350 &lt;-&gt; MQTT integration in Node.JS  (2 weeks ago)
 - [Louisvdw/dbus-serialbattery](https://github.com/Louisvdw/dbus-serialbattery) - dbus driver for serial battery in VenusOS  (3 weeks ago)
