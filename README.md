@@ -3,12 +3,12 @@
 #### 👷 Recent Contributions
 
 - [alxwolf/ubios-cert](https://github.com/alxwolf/ubios-cert) - Manage SSL / TLS certificates with acme.sh (Let&#39;s Encrypt, ZeroSSL) for Ubiquiti UbiOS firmwares (1 week ago)
-- [SirUli/ansiblelintv686](https://github.com/SirUli/ansiblelintv686) - Special Repo to Test ansible lint v6.8.6 (1 week ago)
+- [SirUli/ansiblelintv686](https://github.com/SirUli/ansiblelintv686) - Special Repo to Test ansible lint v6.8.6 (2 weeks ago)
 - [SirUli/victron-dbus-fronius-smartmeter](https://github.com/SirUli/victron-dbus-fronius-smartmeter) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus (2 months ago)
 - [Klipper3d/klipper](https://github.com/Klipper3d/klipper) - Klipper is a 3d-printer firmware (7 months ago)
 - [ansible-community/pytest-molecule](https://github.com/ansible-community/pytest-molecule) - Enables pytest to discover molecule scenarios and run them (7 months ago)
 - [Raabi91/moonraker-telegram](https://github.com/Raabi91/moonraker-telegram) - A Script/Programm to send the printer State before, during and after a print via Telegram Messenger. But its only Working with moonraker (7 months ago)
-- [ansible/ansible-lint](https://github.com/ansible/ansible-lint) - Best practices checker for Ansible (9 months ago)
+- [ansible/ansible-lint](https://github.com/ansible/ansible-lint) - Best practices checker for Ansible (10 months ago)
 - [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) - Visual Studio Code Extension for Home Assistant. ⭐ if you think this is cool! (10 months ago)
 
 #### 🌱 Latest projects
@@ -47,7 +47,7 @@
 
 #### 📜 My recent blog posts
 
-- [Günstiger KNX Regenmengenmesser mit Home Assistant Integration](https://wolf-u.li/guenstiger-knx-regenmengenmesser-mit-home-assistant-integration/) (1 week ago)
+- [Günstiger KNX Regenmengenmesser mit Home Assistant Integration](https://wolf-u.li/guenstiger-knx-regenmengenmesser-mit-home-assistant-integration/) (2 weeks ago)
 - [Gitlab Runner: Cleanup von docker](https://wolf-u.li/gitlab-runner-docker-cleanup/) (2 weeks ago)
 - [Anderson Stecker: Empfohlener Kabelquerschnitt](https://wolf-u.li/anderson-stecker-empfohlener-kabelquerschnitt/) (1 month ago)
 - [Review und Test der LG TONE-DT90Q](https://wolf-u.li/review-und-test-der-lg-tone-dt90q/) (1 month ago)
@@ -55,7 +55,7 @@
 
 #### ⭐ Recent Stars
 
-- [ulic75/power-flow-card](https://github.com/ulic75/power-flow-card) - A power distribution card inspired by the official Energy Distribution card for Home Assistant (2 days ago)
+- [ulic75/power-flow-card](https://github.com/ulic75/power-flow-card) - A power distribution card inspired by the official Energy Distribution card for Home Assistant (3 days ago)
 - [alxwolf/ubios-cert](https://github.com/alxwolf/ubios-cert) - Manage SSL / TLS certificates with acme.sh (Let&#39;s Encrypt, ZeroSSL) for Ubiquiti UbiOS firmwares (1 week ago)
 - [kevinakasam/KlackEnder-Probe](https://github.com/kevinakasam/KlackEnder-Probe) - Klicky / Quickdraw Probe for the Ender 3 (2 weeks ago)
 - [4cello/NotificationEgg](https://github.com/4cello/NotificationEgg) -  (2 weeks ago)
