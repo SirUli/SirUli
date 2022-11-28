@@ -57,6 +57,7 @@
 
 #### ⭐ Recent Stars
 
+- [supermerill/SuperSlicer](https://github.com/supermerill/SuperSlicer) - G-code generator for 3D printers (Prusa, Voron, Creality, etc.) (today)
 - [ulic75/power-flow-card](https://github.com/ulic75/power-flow-card) - A power distribution card inspired by the official Energy Distribution card for Home Assistant (2 weeks ago)
 - [alxwolf/ubios-cert](https://github.com/alxwolf/ubios-cert) - Manage SSL / TLS certificates with acme.sh (Let&#39;s Encrypt, ZeroSSL) for Ubiquiti UbiOS firmwares (3 weeks ago)
 - [kevinakasam/KlackEnder-Probe](https://github.com/kevinakasam/KlackEnder-Probe) - Klicky / Quickdraw Probe for the Ender 3 (3 weeks ago)
@@ -66,7 +67,6 @@
 - [vekexasia/comfoairq-mqtt](https://github.com/vekexasia/comfoairq-mqtt) - Comfoair Q 350 &lt;-&gt; MQTT integration in Node.JS  (1 month ago)
 - [Louisvdw/dbus-serialbattery](https://github.com/Louisvdw/dbus-serialbattery) - dbus driver for serial battery in VenusOS  (1 month ago)
 - [M-o-a-T/moat-victron](https://github.com/M-o-a-T/moat-victron) -  (2 months ago)
-- [victronenergy/dbus-spy](https://github.com/victronenergy/dbus-spy) -  (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
