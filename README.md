@@ -27,7 +27,7 @@
 
 #### 🔭 Recent Releases
 
-- [ansible/ansible-lint](https://github.com/ansible/ansible-lint) ([v6.9.1](https://github.com/ansible/ansible-lint/releases/tag/v6.9.1), 4 days ago) - ansible-lint checks playbooks for practices and behavior that could potentially be improved
+- [ansible/ansible-lint](https://github.com/ansible/ansible-lint) ([v6.9.1](https://github.com/ansible/ansible-lint/releases/tag/v6.9.1), 5 days ago) - ansible-lint checks playbooks for practices and behavior that could potentially be improved
 - [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) ([v1.9](https://github.com/SirUli/FroniusSmartmeter/releases/tag/v1.9), 1 week ago) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus
 - [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) ([current](https://github.com/kwindrem/SetupHelper/releases/tag/current), 1 month ago) - Helper functions to simplify writing setup scripts that modify VenusOs functionality. The package includes automatic reinstallation of the package after a VenusOs update.
 - [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) ([v1.30.1](https://github.com/keesschollaart81/vscode-home-assistant/releases/tag/v1.30.1), 6 months ago) - Visual Studio Code Extension for Home Assistant. ⭐ if you think this is cool!
@@ -57,7 +57,7 @@
 
 #### ⭐ Recent Stars
 
-- [ansible-community/ara](https://github.com/ansible-community/ara) - ARA Records Ansible and makes it easier to understand and troubleshoot. (3 days ago)
+- [ansible-community/ara](https://github.com/ansible-community/ara) - ARA Records Ansible and makes it easier to understand and troubleshoot. (4 days ago)
 - [supermerill/SuperSlicer](https://github.com/supermerill/SuperSlicer) - G-code generator for 3D printers (Prusa, Voron, Creality, etc.) (1 week ago)
 - [ulic75/power-flow-card](https://github.com/ulic75/power-flow-card) - A power distribution card inspired by the official Energy Distribution card for Home Assistant (3 weeks ago)
 - [alxwolf/ubios-cert](https://github.com/alxwolf/ubios-cert) - Manage SSL / TLS certificates with acme.sh (Let&#39;s Encrypt, ZeroSSL) for Ubiquiti UbiOS firmwares (1 month ago)
