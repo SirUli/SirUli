@@ -49,11 +49,11 @@
 
 #### 📜 My recent blog posts
 
+- [Qeridoo Kidgoo und Sportrex: Buggyrad Halterung](https://wolf-u.li/qeridoo-kidgoo-und-sportrex-buggyrad-halterung/) (today)
+- [Makita SP6000J - Höhenanzeige für Führungsschiene nachrüsten](https://wolf-u.li/makita-sp6000j-hoehenanzeige-fuer-fuehrungsschiene-nachruesten/) (today)
 - [Victron Venus OS: Initiales Aufsetzen auf einem Raspberry Pi](https://wolf-u.li/venus-os-initiales-aufsetzen-auf-einem-raspberry-pi/) (2 weeks ago)
 - [Victron Venus OS: Update von 2.81 auf 2.9x](https://wolf-u.li/venus-os-update-von-2-81-auf-29x/) (2 weeks ago)
 - [Günstiger KNX Regenmengenmesser mit Home Assistant Integration](https://wolf-u.li/guenstiger-knx-regenmengenmesser-mit-home-assistant-integration/) (1 month ago)
-- [Gitlab Runner: Cleanup von docker](https://wolf-u.li/gitlab-runner-docker-cleanup/) (1 month ago)
-- [Anderson Stecker: Empfohlener Kabelquerschnitt](https://wolf-u.li/anderson-stecker-empfohlener-kabelquerschnitt/) (2 months ago)
 
 #### ⭐ Recent Stars
 
