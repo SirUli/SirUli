@@ -27,8 +27,8 @@
 
 #### 🔭 Recent Releases
 
-- [ansible/ansible-lint](https://github.com/ansible/ansible-lint) ([v6.10.0](https://github.com/ansible/ansible-lint/releases/tag/v6.10.0), today) - ansible-lint checks playbooks for practices and behavior that could potentially be improved
-- [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) ([v1.31.0](https://github.com/keesschollaart81/vscode-home-assistant/releases/tag/v1.31.0), today) - Visual Studio Code Extension for Home Assistant. ⭐ if you think this is cool!
+- [ansible/ansible-lint](https://github.com/ansible/ansible-lint) ([v6.10.0](https://github.com/ansible/ansible-lint/releases/tag/v6.10.0), 1 day ago) - ansible-lint checks playbooks for practices and behavior that could potentially be improved
+- [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) ([v1.31.0](https://github.com/keesschollaart81/vscode-home-assistant/releases/tag/v1.31.0), 1 day ago) - Visual Studio Code Extension for Home Assistant. ⭐ if you think this is cool!
 - [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) ([v1.9](https://github.com/SirUli/FroniusSmartmeter/releases/tag/v1.9), 2 weeks ago) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus
 - [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) ([current](https://github.com/kwindrem/SetupHelper/releases/tag/current), 1 month ago) - Helper functions to simplify writing setup scripts that modify VenusOs functionality. The package includes automatic reinstallation of the package after a VenusOs update.
 - [ansible-community/pytest-molecule](https://github.com/ansible-community/pytest-molecule) ([v2.0.0](https://github.com/ansible-community/pytest-molecule/releases/tag/v2.0.0), 8 months ago) - Enables pytest to discover molecule scenarios and run them
@@ -45,19 +45,19 @@
 - [HTU21D - SI7021 is has id 0x15](https://github.com/Klipper3d/klipper/pull/5375) on [Klipper3d/klipper](https://github.com/Klipper3d/klipper) (8 months ago)
 - [Usage of shellcheck and beautysh &#43; spellchecks &amp; formatting](https://github.com/Raabi91/moonraker-telegram/pull/94) on [Raabi91/moonraker-telegram](https://github.com/Raabi91/moonraker-telegram) (8 months ago)
 - [WIP: file collection after deprecation of &#39;py&#39; in pytest](https://github.com/ansible-community/pytest-molecule/pull/114) on [ansible-community/pytest-molecule](https://github.com/ansible-community/pytest-molecule) (10 months ago)
-- [Allow noqa to be used in more lintable kinds](https://github.com/ansible/ansible-lint/pull/1819) on [ansible/ansible-lint](https://github.com/ansible/ansible-lint) (10 months ago)
+- [Allow noqa to be used in more lintable kinds](https://github.com/ansible/ansible-lint/pull/1819) on [ansible/ansible-lint](https://github.com/ansible/ansible-lint) (11 months ago)
 
 #### 📜 My recent blog posts
 
-- [Qeridoo Kidgoo und Sportrex: Buggyrad Halterung](https://wolf-u.li/qeridoo-kidgoo-und-sportrex-buggyrad-halterung/) (2 days ago)
-- [Makita SP6000J - Höhenanzeige für Führungsschiene nachrüsten](https://wolf-u.li/makita-sp6000j-hoehenanzeige-fuer-fuehrungsschiene-nachruesten/) (2 days ago)
+- [Qeridoo Kidgoo und Sportrex: Buggyrad Halterung](https://wolf-u.li/qeridoo-kidgoo-und-sportrex-buggyrad-halterung/) (3 days ago)
+- [Makita SP6000J - Höhenanzeige für Führungsschiene nachrüsten](https://wolf-u.li/makita-sp6000j-hoehenanzeige-fuer-fuehrungsschiene-nachruesten/) (3 days ago)
 - [Victron Venus OS: Initiales Aufsetzen auf einem Raspberry Pi](https://wolf-u.li/venus-os-initiales-aufsetzen-auf-einem-raspberry-pi/) (2 weeks ago)
 - [Victron Venus OS: Update von 2.81 auf 2.9x](https://wolf-u.li/venus-os-update-von-2-81-auf-29x/) (2 weeks ago)
 - [Günstiger KNX Regenmengenmesser mit Home Assistant Integration](https://wolf-u.li/guenstiger-knx-regenmengenmesser-mit-home-assistant-integration/) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [Rikkert-RS/VenusOS-TemperatureService](https://github.com/Rikkert-RS/VenusOS-TemperatureService) - Temperature and Humidity d-bus services for Victron GX (2 days ago)
+- [Rikkert-RS/VenusOS-TemperatureService](https://github.com/Rikkert-RS/VenusOS-TemperatureService) - Temperature and Humidity d-bus services for Victron GX (3 days ago)
 - [ansible-community/ara](https://github.com/ansible-community/ara) - ARA Records Ansible and makes it easier to understand and troubleshoot. (1 week ago)
 - [supermerill/SuperSlicer](https://github.com/supermerill/SuperSlicer) - G-code generator for 3D printers (Prusa, Voron, Creality, etc.) (2 weeks ago)
 - [ulic75/power-flow-card](https://github.com/ulic75/power-flow-card) - A power distribution card inspired by the official Energy Distribution card for Home Assistant (1 month ago)
