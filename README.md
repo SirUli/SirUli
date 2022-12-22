@@ -36,7 +36,7 @@
 
 #### 🔨 Recent Pull Requests
 
-- [More Details on Products and Models](https://github.com/Rikkert-RS/VenusOS-TemperatureService/pull/2) on [Rikkert-RS/VenusOS-TemperatureService](https://github.com/Rikkert-RS/VenusOS-TemperatureService) (3 days ago)
+- [More Details on Products and Models](https://github.com/Rikkert-RS/VenusOS-TemperatureService/pull/2) on [Rikkert-RS/VenusOS-TemperatureService](https://github.com/Rikkert-RS/VenusOS-TemperatureService) (4 days ago)
 - [FroniusSmartmeter Repository](https://github.com/kwindrem/SetupHelper/pull/31) on [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) (3 weeks ago)
 - [fix: the gitHubInfo has to point to the default branch or tag](https://github.com/SirUli/FroniusSmartmeter/pull/4) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (3 weeks ago)
 - [fix: revert setting None to some values and --&gt; v1.9](https://github.com/SirUli/FroniusSmartmeter/pull/3) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (3 weeks ago)
@@ -49,23 +49,23 @@
 
 #### 📜 My recent blog posts
 
-- [Victron Venus OS: 1-Wire Temperatur Sensoren einbinden](https://wolf-u.li/victron-venus-os-1-wire-temperatur-sensoren-einbinden/) (3 days ago)
-- [Victron Venus OS: Raspberry Pi Temperatur Sensor einbinden](https://wolf-u.li/victron-venus-os-raspberry-pi-cpu-temperatur-sensor-einbinden/) (3 days ago)
-- [Victron Venus OS: Setup des SetupHelper](https://wolf-u.li/victron-venus-os-setup-des-setuphelper/) (3 days ago)
+- [Victron Venus OS: 1-Wire Temperatur Sensoren einbinden](https://wolf-u.li/victron-venus-os-1-wire-temperatur-sensoren-einbinden/) (4 days ago)
+- [Victron Venus OS: Raspberry Pi Temperatur Sensor einbinden](https://wolf-u.li/victron-venus-os-raspberry-pi-cpu-temperatur-sensor-einbinden/) (4 days ago)
+- [Victron Venus OS: Setup des SetupHelper](https://wolf-u.li/victron-venus-os-setup-des-setuphelper/) (4 days ago)
 - [Qeridoo Kidgoo und Sportrex: Buggyrad Halterung](https://wolf-u.li/qeridoo-kidgoo-und-sportrex-buggyrad-halterung/) (1 week ago)
 - [Makita SP6000J - Höhenanzeige für Führungsschiene nachrüsten](https://wolf-u.li/makita-sp6000j-hoehenanzeige-fuer-fuehrungsschiene-nachruesten/) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [Marv2190/Victron_VoltToSoc](https://github.com/Marv2190/Victron_VoltToSoc) - Stellt den SOC nach der Akkuspannung ein, wenn diese zu stark abweichen (today)
-- [Marv2190/Victron_BatteryFullthenSoC100](https://github.com/Marv2190/Victron_BatteryFullthenSoC100) - Script which set the DBus SoC too 100% if there is enough export but the Battery isnt loading anymore. (today)
-- [Marv2190/Victron_MaxAmpMaxCell](https://github.com/Marv2190/Victron_MaxAmpMaxCell) - # Dieses Script überprüft welche Zelle die meiste Spannung besitzt und welche Spannung diese hat. Danach wird der maximale Ladestrom des Victron Systems eingestellt. (today)
-- [Marv2190/Victron_InverterLimitbyTemp](https://github.com/Marv2190/Victron_InverterLimitbyTemp) - Mal wieder ein Script für meine Victrons, welches die Inverter limitert sobald die Temperatur im Kabelkanal zu hoch wird. (today)
-- [sfstar/hass-victron](https://github.com/sfstar/hass-victron) - Integration for Home Assistant to fetch data from the victron gx device via modbusTCP (today)
-- [Darthagnon/darths-hugo-shortcodes](https://github.com/Darthagnon/darths-hugo-shortcodes) - A collection of Hugo shortcodes that you can use in any theme (3 days ago)
-- [RoneoOrg/hugo-shortcode-roneo-collection](https://github.com/RoneoOrg/hugo-shortcode-roneo-collection) - A shortcode collection for Hugo (3 days ago)
-- [kyleisah/Klipper-Adaptive-Meshing-Purging](https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging) - A unique leveling solution for Klipper-enabled 3D printers! (5 days ago)
-- [Clon1998/mobileraker](https://github.com/Clon1998/mobileraker) - A Flutter mobile app for Klipper/Moonraker (5 days ago)
+- [Marv2190/Victron_VoltToSoc](https://github.com/Marv2190/Victron_VoltToSoc) - Stellt den SOC nach der Akkuspannung ein, wenn diese zu stark abweichen (1 day ago)
+- [Marv2190/Victron_BatteryFullthenSoC100](https://github.com/Marv2190/Victron_BatteryFullthenSoC100) - Script which set the DBus SoC too 100% if there is enough export but the Battery isnt loading anymore. (1 day ago)
+- [Marv2190/Victron_MaxAmpMaxCell](https://github.com/Marv2190/Victron_MaxAmpMaxCell) - # Dieses Script überprüft welche Zelle die meiste Spannung besitzt und welche Spannung diese hat. Danach wird der maximale Ladestrom des Victron Systems eingestellt. (1 day ago)
+- [Marv2190/Victron_InverterLimitbyTemp](https://github.com/Marv2190/Victron_InverterLimitbyTemp) - Mal wieder ein Script für meine Victrons, welches die Inverter limitert sobald die Temperatur im Kabelkanal zu hoch wird. (1 day ago)
+- [sfstar/hass-victron](https://github.com/sfstar/hass-victron) - Integration for Home Assistant to fetch data from the victron gx device via modbusTCP (1 day ago)
+- [Darthagnon/darths-hugo-shortcodes](https://github.com/Darthagnon/darths-hugo-shortcodes) - A collection of Hugo shortcodes that you can use in any theme (4 days ago)
+- [RoneoOrg/hugo-shortcode-roneo-collection](https://github.com/RoneoOrg/hugo-shortcode-roneo-collection) - A shortcode collection for Hugo (4 days ago)
+- [kyleisah/Klipper-Adaptive-Meshing-Purging](https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging) - A unique leveling solution for Klipper-enabled 3D printers! (6 days ago)
+- [Clon1998/mobileraker](https://github.com/Clon1998/mobileraker) - A Flutter mobile app for Klipper/Moonraker (6 days ago)
 - [Rikkert-RS/VenusOS-TemperatureService](https://github.com/Rikkert-RS/VenusOS-TemperatureService) - Temperature and Humidity d-bus services for Victron GX (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
