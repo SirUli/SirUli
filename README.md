@@ -27,7 +27,7 @@
 
 #### 🔭 Recent Releases
 
-- [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) ([current](https://github.com/kwindrem/SetupHelper/releases/tag/current), 2 days ago) - Helper functions to simplify writing setup scripts that modify VenusOs functionality. The package includes automatic reinstallation of the package after a VenusOs update.
+- [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) ([current](https://github.com/kwindrem/SetupHelper/releases/tag/current), 3 days ago) - Helper functions to simplify writing setup scripts that modify VenusOs functionality. The package includes automatic reinstallation of the package after a VenusOs update.
 - [ansible/ansible-lint](https://github.com/ansible/ansible-lint) ([v6.10.0](https://github.com/ansible/ansible-lint/releases/tag/v6.10.0), 1 week ago) - ansible-lint checks playbooks for practices and behavior that could potentially be improved
 - [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) ([v1.31.0](https://github.com/keesschollaart81/vscode-home-assistant/releases/tag/v1.31.0), 1 week ago) - Visual Studio Code Extension for Home Assistant. ⭐ if you think this is cool!
 - [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) ([v1.9](https://github.com/SirUli/FroniusSmartmeter/releases/tag/v1.9), 4 weeks ago) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus
@@ -57,11 +57,11 @@
 
 #### ⭐ Recent Stars
 
-- [Marv2190/Victron_VoltToSoc](https://github.com/Marv2190/Victron_VoltToSoc) - Stellt den SOC nach der Akkuspannung ein, wenn diese zu stark abweichen (5 days ago)
-- [Marv2190/Victron_BatteryFullthenSoC100](https://github.com/Marv2190/Victron_BatteryFullthenSoC100) - Script which set the DBus SoC too 100% if there is enough export but the Battery isnt loading anymore. (5 days ago)
-- [Marv2190/Victron_MaxAmpMaxCell](https://github.com/Marv2190/Victron_MaxAmpMaxCell) - # Dieses Script überprüft welche Zelle die meiste Spannung besitzt und welche Spannung diese hat. Danach wird der maximale Ladestrom des Victron Systems eingestellt. (5 days ago)
-- [Marv2190/Victron_InverterLimitbyTemp](https://github.com/Marv2190/Victron_InverterLimitbyTemp) - Mal wieder ein Script für meine Victrons, welches die Inverter limitert sobald die Temperatur im Kabelkanal zu hoch wird. (5 days ago)
-- [sfstar/hass-victron](https://github.com/sfstar/hass-victron) - Integration for Home Assistant to fetch data from the victron gx device via modbusTCP (5 days ago)
+- [Marv2190/Victron_VoltToSoc](https://github.com/Marv2190/Victron_VoltToSoc) - Stellt den SOC nach der Akkuspannung ein, wenn diese zu stark abweichen (6 days ago)
+- [Marv2190/Victron_BatteryFullthenSoC100](https://github.com/Marv2190/Victron_BatteryFullthenSoC100) - Script which set the DBus SoC too 100% if there is enough export but the Battery isnt loading anymore. (6 days ago)
+- [Marv2190/Victron_MaxAmpMaxCell](https://github.com/Marv2190/Victron_MaxAmpMaxCell) - # Dieses Script überprüft welche Zelle die meiste Spannung besitzt und welche Spannung diese hat. Danach wird der maximale Ladestrom des Victron Systems eingestellt. (6 days ago)
+- [Marv2190/Victron_InverterLimitbyTemp](https://github.com/Marv2190/Victron_InverterLimitbyTemp) - Mal wieder ein Script für meine Victrons, welches die Inverter limitert sobald die Temperatur im Kabelkanal zu hoch wird. (6 days ago)
+- [sfstar/hass-victron](https://github.com/sfstar/hass-victron) - Integration for Home Assistant to fetch data from the victron gx device via modbusTCP (6 days ago)
 - [Darthagnon/darths-hugo-shortcodes](https://github.com/Darthagnon/darths-hugo-shortcodes) - A collection of Hugo shortcodes that you can use in any theme (1 week ago)
 - [RoneoOrg/hugo-shortcode-roneo-collection](https://github.com/RoneoOrg/hugo-shortcode-roneo-collection) - A shortcode collection for Hugo (1 week ago)
 - [kyleisah/Klipper-Adaptive-Meshing-Purging](https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging) - A unique leveling solution for Klipper-enabled 3D printers! (1 week ago)
