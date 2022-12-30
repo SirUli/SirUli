@@ -27,8 +27,8 @@
 
 #### 🔭 Recent Releases
 
-- [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) ([v1.32.0](https://github.com/keesschollaart81/vscode-home-assistant/releases/tag/v1.32.0), today) - Visual Studio Code Extension for Home Assistant. ⭐ if you think this is cool!
-- [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) ([current](https://github.com/kwindrem/SetupHelper/releases/tag/current), 5 days ago) - Helper functions to simplify writing setup scripts that modify VenusOs functionality. The package includes automatic reinstallation of the package after a VenusOs update.
+- [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) ([v1.32.0](https://github.com/keesschollaart81/vscode-home-assistant/releases/tag/v1.32.0), 1 day ago) - Visual Studio Code Extension for Home Assistant. ⭐ if you think this is cool!
+- [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) ([current](https://github.com/kwindrem/SetupHelper/releases/tag/current), 6 days ago) - Helper functions to simplify writing setup scripts that modify VenusOs functionality. The package includes automatic reinstallation of the package after a VenusOs update.
 - [ansible/ansible-lint](https://github.com/ansible/ansible-lint) ([v6.10.0](https://github.com/ansible/ansible-lint/releases/tag/v6.10.0), 2 weeks ago) - ansible-lint checks playbooks for practices and behavior that could potentially be improved
 - [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) ([v1.9](https://github.com/SirUli/FroniusSmartmeter/releases/tag/v1.9), 1 month ago) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus
 - [ansible-community/pytest-molecule](https://github.com/ansible-community/pytest-molecule) ([v2.0.0](https://github.com/ansible-community/pytest-molecule/releases/tag/v2.0.0), 9 months ago) - Enables pytest to discover molecule scenarios and run them
@@ -64,8 +64,8 @@
 - [sfstar/hass-victron](https://github.com/sfstar/hass-victron) - Integration for Home Assistant to fetch data from the victron gx device via modbusTCP (1 week ago)
 - [Darthagnon/darths-hugo-shortcodes](https://github.com/Darthagnon/darths-hugo-shortcodes) - A collection of Hugo shortcodes that you can use in any theme (1 week ago)
 - [RoneoOrg/hugo-shortcode-roneo-collection](https://github.com/RoneoOrg/hugo-shortcode-roneo-collection) - A shortcode collection for Hugo (1 week ago)
-- [kyleisah/Klipper-Adaptive-Meshing-Purging](https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging) - A unique leveling solution for Klipper-enabled 3D printers! (1 week ago)
-- [Clon1998/mobileraker](https://github.com/Clon1998/mobileraker) - A Flutter mobile app for Klipper/Moonraker (1 week ago)
+- [kyleisah/Klipper-Adaptive-Meshing-Purging](https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging) - A unique leveling solution for Klipper-enabled 3D printers! (2 weeks ago)
+- [Clon1998/mobileraker](https://github.com/Clon1998/mobileraker) - A Flutter mobile app for Klipper/Moonraker (2 weeks ago)
 - [Rikkert-RS/VenusOS-TemperatureService](https://github.com/Rikkert-RS/VenusOS-TemperatureService) - Temperature and Humidity d-bus services for Victron GX (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
