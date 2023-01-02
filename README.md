@@ -27,8 +27,8 @@
 
 #### 🔭 Recent Releases
 
-- [ansible/ansible-lint](https://github.com/ansible/ansible-lint) ([v6.10.2](https://github.com/ansible/ansible-lint/releases/tag/v6.10.2), today) - ansible-lint checks playbooks for practices and behavior that could potentially be improved
-- [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) ([v1.32.0](https://github.com/keesschollaart81/vscode-home-assistant/releases/tag/v1.32.0), 3 days ago) - Visual Studio Code Extension for Home Assistant. ⭐ if you think this is cool!
+- [ansible/ansible-lint](https://github.com/ansible/ansible-lint) ([v6.10.2](https://github.com/ansible/ansible-lint/releases/tag/v6.10.2), 1 day ago) - ansible-lint checks playbooks for practices and behavior that could potentially be improved
+- [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) ([v1.32.0](https://github.com/keesschollaart81/vscode-home-assistant/releases/tag/v1.32.0), 4 days ago) - Visual Studio Code Extension for Home Assistant. ⭐ if you think this is cool!
 - [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) ([current](https://github.com/kwindrem/SetupHelper/releases/tag/current), 1 week ago) - Helper functions to simplify writing setup scripts that modify VenusOs functionality. The package includes automatic reinstallation of the package after a VenusOs update.
 - [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) ([v1.9](https://github.com/SirUli/FroniusSmartmeter/releases/tag/v1.9), 1 month ago) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus
 - [ansible-community/pytest-molecule](https://github.com/ansible-community/pytest-molecule) ([v2.0.0](https://github.com/ansible-community/pytest-molecule/releases/tag/v2.0.0), 9 months ago) - Enables pytest to discover molecule scenarios and run them
@@ -52,12 +52,12 @@
 - [Victron Venus OS: 1-Wire Temperatur Sensoren einbinden](https://wolf-u.li/victron-venus-os-1-wire-temperatur-sensoren-einbinden/) (2 weeks ago)
 - [Victron Venus OS: Raspberry Pi Temperatur Sensor einbinden](https://wolf-u.li/victron-venus-os-raspberry-pi-cpu-temperatur-sensor-einbinden/) (2 weeks ago)
 - [Victron Venus OS: Setup des SetupHelper](https://wolf-u.li/victron-venus-os-setup-des-setuphelper/) (2 weeks ago)
-- [Qeridoo Kidgoo und Sportrex: Buggyrad Halterung](https://wolf-u.li/qeridoo-kidgoo-und-sportrex-buggyrad-halterung/) (2 weeks ago)
-- [Makita SP6000J - Höhenanzeige für Führungsschiene nachrüsten](https://wolf-u.li/makita-sp6000j-hoehenanzeige-fuer-fuehrungsschiene-nachruesten/) (2 weeks ago)
+- [Qeridoo Kidgoo und Sportrex: Buggyrad Halterung](https://wolf-u.li/qeridoo-kidgoo-und-sportrex-buggyrad-halterung/) (3 weeks ago)
+- [Makita SP6000J - Höhenanzeige für Führungsschiene nachrüsten](https://wolf-u.li/makita-sp6000j-hoehenanzeige-fuer-fuehrungsschiene-nachruesten/) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [arashsm79/hugo-PaperMod-Mod](https://github.com/arashsm79/hugo-PaperMod-Mod) - A bunch of stylesheets that modify the look of Hugo PaperMod theme. Includes thumbnails and sidebar table of contents. (today)
+- [arashsm79/hugo-PaperMod-Mod](https://github.com/arashsm79/hugo-PaperMod-Mod) - A bunch of stylesheets that modify the look of Hugo PaperMod theme. Includes thumbnails and sidebar table of contents. (1 day ago)
 - [Marv2190/Victron_VoltToSoc](https://github.com/Marv2190/Victron_VoltToSoc) - Stellt den SOC nach der Akkuspannung ein, wenn diese zu stark abweichen (1 week ago)
 - [Marv2190/Victron_BatteryFullthenSoC100](https://github.com/Marv2190/Victron_BatteryFullthenSoC100) - Script which set the DBus SoC too 100% if there is enough export but the Battery isnt loading anymore. (1 week ago)
 - [Marv2190/Victron_MaxAmpMaxCell](https://github.com/Marv2190/Victron_MaxAmpMaxCell) - # Dieses Script überprüft welche Zelle die meiste Spannung besitzt und welche Spannung diese hat. Danach wird der maximale Ladestrom des Victron Systems eingestellt. (1 week ago)
