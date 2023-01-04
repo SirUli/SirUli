@@ -57,6 +57,7 @@
 
 #### ⭐ Recent Stars
 
+- [r3pek/hugo_enc](https://github.com/r3pek/hugo_enc) - A python3 CLI package to encrypt Hugo posts (today)
 - [arashsm79/hugo-PaperMod-Mod](https://github.com/arashsm79/hugo-PaperMod-Mod) - A bunch of stylesheets that modify the look of Hugo PaperMod theme. Includes thumbnails and sidebar table of contents. (3 days ago)
 - [Marv2190/Victron_VoltToSoc](https://github.com/Marv2190/Victron_VoltToSoc) - Stellt den SOC nach der Akkuspannung ein, wenn diese zu stark abweichen (2 weeks ago)
 - [Marv2190/Victron_BatteryFullthenSoC100](https://github.com/Marv2190/Victron_BatteryFullthenSoC100) - Script which set the DBus SoC too 100% if there is enough export but the Battery isnt loading anymore. (2 weeks ago)
@@ -66,7 +67,6 @@
 - [Darthagnon/darths-hugo-shortcodes](https://github.com/Darthagnon/darths-hugo-shortcodes) - A collection of Hugo shortcodes that you can use in any theme (2 weeks ago)
 - [RoneoOrg/hugo-shortcode-roneo-collection](https://github.com/RoneoOrg/hugo-shortcode-roneo-collection) - A shortcode collection for Hugo (2 weeks ago)
 - [kyleisah/Klipper-Adaptive-Meshing-Purging](https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging) - A unique leveling solution for Klipper-enabled 3D printers! (2 weeks ago)
-- [Clon1998/mobileraker](https://github.com/Clon1998/mobileraker) - A Flutter mobile app for Klipper/Moonraker (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
