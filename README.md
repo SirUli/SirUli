@@ -2,7 +2,7 @@
 
 #### 👷 Recent Contributions
 
-- [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus (2 days ago)
+- [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus (3 days ago)
 - [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) - Helper functions to simplify writing setup scripts that modify VenusOs functionality. The package includes automatic reinstallation of the package after a VenusOs update. (1 month ago)
 - [alxwolf/ubios-cert](https://github.com/alxwolf/ubios-cert) - Manage SSL / TLS certificates with acme.sh (Let&#39;s Encrypt, ZeroSSL) for Ubiquiti UbiOS firmwares (2 months ago)
 - [SirUli/ansiblelintv686](https://github.com/SirUli/ansiblelintv686) - Special Repo to Test ansible lint v6.8.6 (2 months ago)
@@ -27,16 +27,16 @@
 
 #### 🔭 Recent Releases
 
-- [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) ([v1.10](https://github.com/SirUli/FroniusSmartmeter/releases/tag/v1.10), today) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus
-- [ansible/ansible-lint](https://github.com/ansible/ansible-lint) ([v6.10.2](https://github.com/ansible/ansible-lint/releases/tag/v6.10.2), 2 days ago) - ansible-lint checks playbooks for practices and behavior that could potentially be improved
-- [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) ([v1.32.0](https://github.com/keesschollaart81/vscode-home-assistant/releases/tag/v1.32.0), 5 days ago) - Visual Studio Code Extension for Home Assistant. ⭐ if you think this is cool!
+- [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) ([v1.10](https://github.com/SirUli/FroniusSmartmeter/releases/tag/v1.10), 1 day ago) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus
+- [ansible/ansible-lint](https://github.com/ansible/ansible-lint) ([v6.10.2](https://github.com/ansible/ansible-lint/releases/tag/v6.10.2), 3 days ago) - ansible-lint checks playbooks for practices and behavior that could potentially be improved
+- [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) ([v1.32.0](https://github.com/keesschollaart81/vscode-home-assistant/releases/tag/v1.32.0), 6 days ago) - Visual Studio Code Extension for Home Assistant. ⭐ if you think this is cool!
 - [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) ([current](https://github.com/kwindrem/SetupHelper/releases/tag/current), 1 week ago) - Helper functions to simplify writing setup scripts that modify VenusOs functionality. The package includes automatic reinstallation of the package after a VenusOs update.
 - [ansible-community/pytest-molecule](https://github.com/ansible-community/pytest-molecule) ([v2.0.0](https://github.com/ansible-community/pytest-molecule/releases/tag/v2.0.0), 9 months ago) - Enables pytest to discover molecule scenarios and run them
 - [Raabi91/moonraker-telegram](https://github.com/Raabi91/moonraker-telegram) ([v1.0.2](https://github.com/Raabi91/moonraker-telegram/releases/tag/v1.0.2), 2 years ago) - A Script/Programm to send the printer State before, during and after a print via Telegram Messenger. But its only Working with moonraker
 
 #### 🔨 Recent Pull Requests
 
-- [Release of v1.10](https://github.com/SirUli/FroniusSmartmeter/pull/7) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (today)
+- [Release of v1.10](https://github.com/SirUli/FroniusSmartmeter/pull/7) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (1 day ago)
 - [More Details on Products and Models](https://github.com/Rikkert-RS/VenusOS-TemperatureService/pull/2) on [Rikkert-RS/VenusOS-TemperatureService](https://github.com/Rikkert-RS/VenusOS-TemperatureService) (2 weeks ago)
 - [FroniusSmartmeter Repository](https://github.com/kwindrem/SetupHelper/pull/31) on [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) (1 month ago)
 - [fix: the gitHubInfo has to point to the default branch or tag](https://github.com/SirUli/FroniusSmartmeter/pull/4) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (1 month ago)
@@ -57,12 +57,12 @@
 
 #### ⭐ Recent Stars
 
-- [arashsm79/hugo-PaperMod-Mod](https://github.com/arashsm79/hugo-PaperMod-Mod) - A bunch of stylesheets that modify the look of Hugo PaperMod theme. Includes thumbnails and sidebar table of contents. (2 days ago)
-- [Marv2190/Victron_VoltToSoc](https://github.com/Marv2190/Victron_VoltToSoc) - Stellt den SOC nach der Akkuspannung ein, wenn diese zu stark abweichen (1 week ago)
-- [Marv2190/Victron_BatteryFullthenSoC100](https://github.com/Marv2190/Victron_BatteryFullthenSoC100) - Script which set the DBus SoC too 100% if there is enough export but the Battery isnt loading anymore. (1 week ago)
-- [Marv2190/Victron_MaxAmpMaxCell](https://github.com/Marv2190/Victron_MaxAmpMaxCell) - # Dieses Script überprüft welche Zelle die meiste Spannung besitzt und welche Spannung diese hat. Danach wird der maximale Ladestrom des Victron Systems eingestellt. (1 week ago)
-- [Marv2190/Victron_InverterLimitbyTemp](https://github.com/Marv2190/Victron_InverterLimitbyTemp) - Mal wieder ein Script für meine Victrons, welches die Inverter limitert sobald die Temperatur im Kabelkanal zu hoch wird. (1 week ago)
-- [sfstar/hass-victron](https://github.com/sfstar/hass-victron) - Integration for Home Assistant to fetch data from the victron gx device via modbusTCP (1 week ago)
+- [arashsm79/hugo-PaperMod-Mod](https://github.com/arashsm79/hugo-PaperMod-Mod) - A bunch of stylesheets that modify the look of Hugo PaperMod theme. Includes thumbnails and sidebar table of contents. (3 days ago)
+- [Marv2190/Victron_VoltToSoc](https://github.com/Marv2190/Victron_VoltToSoc) - Stellt den SOC nach der Akkuspannung ein, wenn diese zu stark abweichen (2 weeks ago)
+- [Marv2190/Victron_BatteryFullthenSoC100](https://github.com/Marv2190/Victron_BatteryFullthenSoC100) - Script which set the DBus SoC too 100% if there is enough export but the Battery isnt loading anymore. (2 weeks ago)
+- [Marv2190/Victron_MaxAmpMaxCell](https://github.com/Marv2190/Victron_MaxAmpMaxCell) - # Dieses Script überprüft welche Zelle die meiste Spannung besitzt und welche Spannung diese hat. Danach wird der maximale Ladestrom des Victron Systems eingestellt. (2 weeks ago)
+- [Marv2190/Victron_InverterLimitbyTemp](https://github.com/Marv2190/Victron_InverterLimitbyTemp) - Mal wieder ein Script für meine Victrons, welches die Inverter limitert sobald die Temperatur im Kabelkanal zu hoch wird. (2 weeks ago)
+- [sfstar/hass-victron](https://github.com/sfstar/hass-victron) - Integration for Home Assistant to fetch data from the victron gx device via modbusTCP (2 weeks ago)
 - [Darthagnon/darths-hugo-shortcodes](https://github.com/Darthagnon/darths-hugo-shortcodes) - A collection of Hugo shortcodes that you can use in any theme (2 weeks ago)
 - [RoneoOrg/hugo-shortcode-roneo-collection](https://github.com/RoneoOrg/hugo-shortcode-roneo-collection) - A shortcode collection for Hugo (2 weeks ago)
 - [kyleisah/Klipper-Adaptive-Meshing-Purging](https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging) - A unique leveling solution for Klipper-enabled 3D printers! (2 weeks ago)
