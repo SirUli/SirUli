@@ -36,6 +36,7 @@
 
 #### 🔨 Recent Pull Requests
 
+- [Move README to Markdown](https://github.com/kwindrem/ShutdownMonitor/pull/3) on [kwindrem/ShutdownMonitor](https://github.com/kwindrem/ShutdownMonitor) (today)
 - [Release of v1.10](https://github.com/SirUli/FroniusSmartmeter/pull/7) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (1 day ago)
 - [More Details on Products and Models](https://github.com/Rikkert-RS/VenusOS-TemperatureService/pull/2) on [Rikkert-RS/VenusOS-TemperatureService](https://github.com/Rikkert-RS/VenusOS-TemperatureService) (2 weeks ago)
 - [FroniusSmartmeter Repository](https://github.com/kwindrem/SetupHelper/pull/31) on [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) (1 month ago)
@@ -45,7 +46,6 @@
 - [fix: rename to FroniusSmartmeter to be compatible with SetupHelper](https://github.com/SirUli/FroniusSmartmeter/pull/1) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (1 month ago)
 - [fix: Add possibility for additional parameters to acme.sh](https://github.com/alxwolf/ubios-cert/pull/25) on [alxwolf/ubios-cert](https://github.com/alxwolf/ubios-cert) (2 months ago)
 - [HTU21D - SI7021 is has id 0x15](https://github.com/Klipper3d/klipper/pull/5375) on [Klipper3d/klipper](https://github.com/Klipper3d/klipper) (9 months ago)
-- [Usage of shellcheck and beautysh &#43; spellchecks &amp; formatting](https://github.com/Raabi91/moonraker-telegram/pull/94) on [Raabi91/moonraker-telegram](https://github.com/Raabi91/moonraker-telegram) (9 months ago)
 
 #### 📜 My recent blog posts
 
