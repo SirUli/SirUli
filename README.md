@@ -2,8 +2,8 @@
 
 #### 👷 Recent Contributions
 
-- [kwindrem/ShutdownMonitor](https://github.com/kwindrem/ShutdownMonitor) -  (today)
-- [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus (3 days ago)
+- [kwindrem/ShutdownMonitor](https://github.com/kwindrem/ShutdownMonitor) -  (1 day ago)
+- [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus (4 days ago)
 - [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) - Helper functions to simplify writing setup scripts that modify VenusOs functionality. The package includes automatic reinstallation of the package after a VenusOs update. (1 month ago)
 - [alxwolf/ubios-cert](https://github.com/alxwolf/ubios-cert) - Manage SSL / TLS certificates with acme.sh (Let&#39;s Encrypt, ZeroSSL) for Ubiquiti UbiOS firmwares (2 months ago)
 - [SirUli/ansiblelintv686](https://github.com/SirUli/ansiblelintv686) - Special Repo to Test ansible lint v6.8.6 (2 months ago)
@@ -28,9 +28,9 @@
 
 #### 🔭 Recent Releases
 
-- [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) ([v1.10](https://github.com/SirUli/FroniusSmartmeter/releases/tag/v1.10), 1 day ago) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus
-- [ansible/ansible-lint](https://github.com/ansible/ansible-lint) ([v6.10.2](https://github.com/ansible/ansible-lint/releases/tag/v6.10.2), 3 days ago) - ansible-lint checks playbooks for practices and behavior that could potentially be improved
-- [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) ([v1.32.0](https://github.com/keesschollaart81/vscode-home-assistant/releases/tag/v1.32.0), 6 days ago) - Visual Studio Code Extension for Home Assistant. ⭐ if you think this is cool!
+- [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) ([v1.10](https://github.com/SirUli/FroniusSmartmeter/releases/tag/v1.10), 2 days ago) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus
+- [ansible/ansible-lint](https://github.com/ansible/ansible-lint) ([v6.10.2](https://github.com/ansible/ansible-lint/releases/tag/v6.10.2), 4 days ago) - ansible-lint checks playbooks for practices and behavior that could potentially be improved
+- [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) ([v1.32.0](https://github.com/keesschollaart81/vscode-home-assistant/releases/tag/v1.32.0), 1 week ago) - Visual Studio Code Extension for Home Assistant. ⭐ if you think this is cool!
 - [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) ([current](https://github.com/kwindrem/SetupHelper/releases/tag/current), 1 week ago) - Helper functions to simplify writing setup scripts that modify VenusOs functionality. The package includes automatic reinstallation of the package after a VenusOs update.
 - [kwindrem/ShutdownMonitor](https://github.com/kwindrem/ShutdownMonitor) ([current](https://github.com/kwindrem/ShutdownMonitor/releases/tag/current), 1 week ago) - 
 - [ansible-community/pytest-molecule](https://github.com/ansible-community/pytest-molecule) ([v2.0.0](https://github.com/ansible-community/pytest-molecule/releases/tag/v2.0.0), 9 months ago) - Enables pytest to discover molecule scenarios and run them
@@ -38,8 +38,8 @@
 
 #### 🔨 Recent Pull Requests
 
-- [Move README to Markdown](https://github.com/kwindrem/ShutdownMonitor/pull/3) on [kwindrem/ShutdownMonitor](https://github.com/kwindrem/ShutdownMonitor) (today)
-- [Release of v1.10](https://github.com/SirUli/FroniusSmartmeter/pull/7) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (1 day ago)
+- [Move README to Markdown](https://github.com/kwindrem/ShutdownMonitor/pull/3) on [kwindrem/ShutdownMonitor](https://github.com/kwindrem/ShutdownMonitor) (1 day ago)
+- [Release of v1.10](https://github.com/SirUli/FroniusSmartmeter/pull/7) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (2 days ago)
 - [More Details on Products and Models](https://github.com/Rikkert-RS/VenusOS-TemperatureService/pull/2) on [Rikkert-RS/VenusOS-TemperatureService](https://github.com/Rikkert-RS/VenusOS-TemperatureService) (2 weeks ago)
 - [FroniusSmartmeter Repository](https://github.com/kwindrem/SetupHelper/pull/31) on [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) (1 month ago)
 - [fix: the gitHubInfo has to point to the default branch or tag](https://github.com/SirUli/FroniusSmartmeter/pull/4) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (1 month ago)
@@ -59,8 +59,8 @@
 
 #### ⭐ Recent Stars
 
-- [r3pek/hugo_enc](https://github.com/r3pek/hugo_enc) - A python3 CLI package to encrypt Hugo posts (today)
-- [arashsm79/hugo-PaperMod-Mod](https://github.com/arashsm79/hugo-PaperMod-Mod) - A bunch of stylesheets that modify the look of Hugo PaperMod theme. Includes thumbnails and sidebar table of contents. (3 days ago)
+- [r3pek/hugo_enc](https://github.com/r3pek/hugo_enc) - A python3 CLI package to encrypt Hugo posts (1 day ago)
+- [arashsm79/hugo-PaperMod-Mod](https://github.com/arashsm79/hugo-PaperMod-Mod) - A bunch of stylesheets that modify the look of Hugo PaperMod theme. Includes thumbnails and sidebar table of contents. (4 days ago)
 - [Marv2190/Victron_VoltToSoc](https://github.com/Marv2190/Victron_VoltToSoc) - Stellt den SOC nach der Akkuspannung ein, wenn diese zu stark abweichen (2 weeks ago)
 - [Marv2190/Victron_BatteryFullthenSoC100](https://github.com/Marv2190/Victron_BatteryFullthenSoC100) - Script which set the DBus SoC too 100% if there is enough export but the Battery isnt loading anymore. (2 weeks ago)
 - [Marv2190/Victron_MaxAmpMaxCell](https://github.com/Marv2190/Victron_MaxAmpMaxCell) - # Dieses Script überprüft welche Zelle die meiste Spannung besitzt und welche Spannung diese hat. Danach wird der maximale Ladestrom des Victron Systems eingestellt. (2 weeks ago)
