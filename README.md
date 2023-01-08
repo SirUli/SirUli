@@ -60,7 +60,7 @@
 #### ⭐ Recent Stars
 
 - [stweiss/FileBasedMiniDMS](https://github.com/stweiss/FileBasedMiniDMS) - This php script sorts your documents (by using hardlinks) into subfolders based on the hashtags it finds in your documents filenames. (1 day ago)
-- [razonyang/hugo-mod-search](https://github.com/razonyang/hugo-mod-search) - A client side fuzzy search (auto-complete) module for Hugo (1 day ago)
+- [razonyang/hugo-mod-search](https://github.com/razonyang/hugo-mod-search) - A powerful, flexible and responsive Hugo client side fuzzy search module. (1 day ago)
 - [r3pek/hugo_enc](https://github.com/r3pek/hugo_enc) - A python3 CLI package to encrypt Hugo posts (4 days ago)
 - [arashsm79/hugo-PaperMod-Mod](https://github.com/arashsm79/hugo-PaperMod-Mod) - A bunch of stylesheets that modify the look of Hugo PaperMod theme. Includes thumbnails and sidebar table of contents. (1 week ago)
 - [Marv2190/Victron_VoltToSoc](https://github.com/Marv2190/Victron_VoltToSoc) - Stellt den SOC nach der Akkuspannung ein, wenn diese zu stark abweichen (2 weeks ago)
