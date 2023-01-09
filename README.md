@@ -6,7 +6,6 @@
 - [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus (1 week ago)
 - [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) - Helper functions to simplify writing setup scripts that modify VenusOs functionality. The package includes automatic reinstallation of the package after a VenusOs update. (1 month ago)
 - [alxwolf/ubios-cert](https://github.com/alxwolf/ubios-cert) - Manage SSL / TLS certificates with acme.sh (Let&#39;s Encrypt, ZeroSSL) for Ubiquiti UbiOS firmwares (2 months ago)
-- [SirUli/ansiblelintv686](https://github.com/SirUli/ansiblelintv686) - Special Repo to Test ansible lint v6.8.6 (2 months ago)
 - [Klipper3d/klipper](https://github.com/Klipper3d/klipper) - Klipper is a 3d-printer firmware (9 months ago)
 - [ansible-community/pytest-molecule](https://github.com/ansible-community/pytest-molecule) - Enables pytest to discover molecule scenarios and run them (9 months ago)
 - [Raabi91/moonraker-telegram](https://github.com/Raabi91/moonraker-telegram) - A Script/Programm to send the printer State before, during and after a print via Telegram Messenger. But its only Working with moonraker (9 months ago)
@@ -15,7 +14,6 @@
 
 #### 🌱 Latest projects
 
-- [SirUli/ansiblelintv686](https://github.com/SirUli/ansiblelintv686) - Special Repo to Test ansible lint v6.8.6
 - [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus
 - [SirUli/wuud](https://github.com/SirUli/wuud) - A User Detector Script for the Dahua VTO2000A Doorbell
 - [SirUli/OneWireTest4iButton](https://github.com/SirUli/OneWireTest4iButton) - Testing the iButton (See Blog: https://wolf-u.li)
@@ -25,6 +23,7 @@
 - [SirUli/Grill-Temperature-ESP8266-MAX6675](https://github.com/SirUli/Grill-Temperature-ESP8266-MAX6675) - A Grill Temperature Sensor utilizing the MAX6675 connected to an ESP866 / ESP-01
 - [SirUli/passport-expresshelper](https://github.com/SirUli/passport-expresshelper) - Helper for express 2.x in combination with the with the passport authentication module
 - [SirUli/node-adclient](https://github.com/SirUli/node-adclient) - ldapjs client for authentication with active directory
+- [SirUli/funplug](https://github.com/SirUli/funplug) - A repository to collect all compiler scripts for the fun_plug
 
 #### 🔭 Recent Releases
 
