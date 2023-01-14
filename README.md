@@ -50,11 +50,11 @@
 
 #### 📜 My recent blog posts
 
+- [Unifi Dream Router (UDR) zeigt Internet offline aber ist online](https://wolf-u.li/unifi-dream-router-udr-zeigt-internet-offline-aber-ist-online/) (today)
 - [Victron Venus OS: 1-Wire Temperatur Sensoren einbinden](https://wolf-u.li/victron-venus-os-1-wire-temperatur-sensoren-einbinden/) (3 weeks ago)
 - [Victron Venus OS: Raspberry Pi Temperatur Sensor einbinden](https://wolf-u.li/victron-venus-os-raspberry-pi-cpu-temperatur-sensor-einbinden/) (3 weeks ago)
 - [Victron Venus OS: Setup des SetupHelper](https://wolf-u.li/victron-venus-os-setup-des-setuphelper/) (3 weeks ago)
 - [Qeridoo Kidgoo und Sportrex: Buggyrad Halterung](https://wolf-u.li/qeridoo-kidgoo-und-sportrex-buggyrad-halterung/) (1 month ago)
-- [Makita SP6000J - Höhenanzeige für Führungsschiene nachrüsten](https://wolf-u.li/makita-sp6000j-hoehenanzeige-fuer-fuehrungsschiene-nachruesten/) (1 month ago)
 
 #### ⭐ Recent Stars
 
