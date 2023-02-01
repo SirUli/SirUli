@@ -2,7 +2,7 @@
 
 #### 👷 Recent Contributions
 
-- [kwindrem/ShutdownMonitor](https://github.com/kwindrem/ShutdownMonitor) -  (3 weeks ago)
+- [kwindrem/ShutdownMonitor](https://github.com/kwindrem/ShutdownMonitor) -  (4 weeks ago)
 - [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus (1 month ago)
 - [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) - Helper functions to simplify writing setup scripts that modify VenusOs functionality. The package includes automatic reinstallation of the package after a VenusOs update. (2 months ago)
 - [alxwolf/ubios-cert](https://github.com/alxwolf/ubios-cert) - Manage SSL / TLS certificates with acme.sh (Let&#39;s Encrypt, ZeroSSL) for Ubiquiti UbiOS firmwares (2 months ago)
@@ -33,7 +33,7 @@
 
 #### 🔨 Recent Pull Requests
 
-- [Move README to Markdown](https://github.com/kwindrem/ShutdownMonitor/pull/3) on [kwindrem/ShutdownMonitor](https://github.com/kwindrem/ShutdownMonitor) (3 weeks ago)
+- [Move README to Markdown](https://github.com/kwindrem/ShutdownMonitor/pull/3) on [kwindrem/ShutdownMonitor](https://github.com/kwindrem/ShutdownMonitor) (4 weeks ago)
 - [Release of v1.10](https://github.com/SirUli/FroniusSmartmeter/pull/7) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (4 weeks ago)
 - [More Details on Products and Models](https://github.com/Rikkert-RS/VenusOS-TemperatureService/pull/2) on [Rikkert-RS/VenusOS-TemperatureService](https://github.com/Rikkert-RS/VenusOS-TemperatureService) (1 month ago)
 - [FroniusSmartmeter Repository](https://github.com/kwindrem/SetupHelper/pull/31) on [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) (2 months ago)
@@ -56,7 +56,7 @@
 
 - [stweiss/FileBasedMiniDMS](https://github.com/stweiss/FileBasedMiniDMS) - This php script sorts your documents (by using hardlinks) into subfolders based on the hashtags it finds in your documents filenames. (3 weeks ago)
 - [razonyang/hugo-mod-search](https://github.com/razonyang/hugo-mod-search) - A powerful, flexible and responsive Hugo client side fuzzy search module. (3 weeks ago)
-- [r3pek/hugo_enc](https://github.com/r3pek/hugo_enc) - A python3 CLI package to encrypt Hugo posts (3 weeks ago)
+- [r3pek/hugo_enc](https://github.com/r3pek/hugo_enc) - A python3 CLI package to encrypt Hugo posts (4 weeks ago)
 - [arashsm79/hugo-PaperMod-Mod](https://github.com/arashsm79/hugo-PaperMod-Mod) - A bunch of stylesheets that modify the look of Hugo PaperMod theme. Includes thumbnails and sidebar table of contents. (1 month ago)
 - [Marv2190/Victron_VoltToSoc](https://github.com/Marv2190/Victron_VoltToSoc) - Stellt den SOC nach der Akkuspannung ein, wenn diese zu stark abweichen (1 month ago)
 - [Marv2190/Victron_BatteryFullthenSoC100](https://github.com/Marv2190/Victron_BatteryFullthenSoC100) - Script which set the DBus SoC too 100% if there is enough export but the Battery isnt loading anymore. (1 month ago)
