@@ -46,11 +46,11 @@
 
 #### 📜 My recent blog posts
 
+- [Zehnder Q350 - Austausch der Kugellager des R3G190-RC05-29 nach 5 Jahren](https://wolf-u.li/zehnder-q350-kugellager-tausch/) (1 day ago)
 - [Unifi Dream Router (UDR) zeigt Internet offline aber ist online](https://wolf-u.li/unifi-dream-router-udr-zeigt-internet-offline-aber-ist-online/) (2 weeks ago)
 - [Victron Venus OS: 1-Wire Temperatur Sensoren einbinden](https://wolf-u.li/victron-venus-os-1-wire-temperatur-sensoren-einbinden/) (1 month ago)
 - [Victron Venus OS: Raspberry Pi Temperatur Sensor einbinden](https://wolf-u.li/victron-venus-os-raspberry-pi-cpu-temperatur-sensor-einbinden/) (1 month ago)
 - [Victron Venus OS: Setup des SetupHelper](https://wolf-u.li/victron-venus-os-setup-des-setuphelper/) (1 month ago)
-- [Qeridoo Kidgoo und Sportrex: Buggyrad Halterung](https://wolf-u.li/qeridoo-kidgoo-und-sportrex-buggyrad-halterung/) (1 month ago)
 
 #### ⭐ Recent Stars
 
