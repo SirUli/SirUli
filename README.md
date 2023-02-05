@@ -6,7 +6,7 @@
 - [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus (1 month ago)
 - [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) - Helper functions to simplify writing setup scripts that modify VenusOs functionality. The package includes automatic reinstallation of the package after a VenusOs update. (2 months ago)
 - [alxwolf/ubios-cert](https://github.com/alxwolf/ubios-cert) - Manage SSL / TLS certificates with acme.sh (Let&#39;s Encrypt, ZeroSSL) for Ubiquiti UbiOS firmwares (3 months ago)
-- [Klipper3d/klipper](https://github.com/Klipper3d/klipper) - Klipper is a 3d-printer firmware (9 months ago)
+- [Klipper3d/klipper](https://github.com/Klipper3d/klipper) - Klipper is a 3d-printer firmware (10 months ago)
 - [ansible-community/pytest-molecule](https://github.com/ansible-community/pytest-molecule) - Enables pytest to discover molecule scenarios and run them (10 months ago)
 - [Raabi91/moonraker-telegram](https://github.com/Raabi91/moonraker-telegram) - A Script/Programm to send the printer State before, during and after a print via Telegram Messenger. But its only Working with moonraker (10 months ago)
 
@@ -46,7 +46,7 @@
 
 #### 📜 My recent blog posts
 
-- [Zehnder Q350 - Austausch der Kugellager des R3G190-RC05-29 nach 5 Jahren](https://wolf-u.li/zehnder-q350-kugellager-tausch/) (4 days ago)
+- [Zehnder Q350 - Austausch der Kugellager des R3G190-RC05-29 nach 5 Jahren](https://wolf-u.li/zehnder-q350-kugellager-tausch/) (5 days ago)
 - [Unifi Dream Router (UDR) zeigt Internet offline aber ist online](https://wolf-u.li/unifi-dream-router-udr-zeigt-internet-offline-aber-ist-online/) (3 weeks ago)
 - [Victron Venus OS: 1-Wire Temperatur Sensoren einbinden](https://wolf-u.li/victron-venus-os-1-wire-temperatur-sensoren-einbinden/) (1 month ago)
 - [Victron Venus OS: Raspberry Pi Temperatur Sensor einbinden](https://wolf-u.li/victron-venus-os-raspberry-pi-cpu-temperatur-sensor-einbinden/) (1 month ago)
