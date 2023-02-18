@@ -7,7 +7,7 @@
 - [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) - Helper functions to simplify writing setup scripts that modify VenusOs functionality. The package includes automatic reinstallation of the package after a VenusOs update. (2 months ago)
 - [alxwolf/ubios-cert](https://github.com/alxwolf/ubios-cert) - Manage SSL / TLS certificates with acme.sh (Let&#39;s Encrypt, ZeroSSL) for Ubiquiti UbiOS firmwares (3 months ago)
 - [Klipper3d/klipper](https://github.com/Klipper3d/klipper) - Klipper is a 3d-printer firmware (10 months ago)
-- [ansible-community/pytest-molecule](https://github.com/ansible-community/pytest-molecule) - Enables pytest to discover molecule scenarios and run them (10 months ago)
+- [ansible-community/pytest-molecule](https://github.com/ansible-community/pytest-molecule) - Enables pytest to discover molecule scenarios and run them (11 months ago)
 - [Raabi91/moonraker-telegram](https://github.com/Raabi91/moonraker-telegram) - A Script/Programm to send the printer State before, during and after a print via Telegram Messenger. But its only Working with moonraker (11 months ago)
 
 #### 🌱 Latest projects
@@ -42,7 +42,7 @@
 - [fix: rename python file and set correct initial values](https://github.com/SirUli/FroniusSmartmeter/pull/2) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (2 months ago)
 - [fix: rename to FroniusSmartmeter to be compatible with SetupHelper](https://github.com/SirUli/FroniusSmartmeter/pull/1) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (2 months ago)
 - [fix: Add possibility for additional parameters to acme.sh](https://github.com/alxwolf/ubios-cert/pull/25) on [alxwolf/ubios-cert](https://github.com/alxwolf/ubios-cert) (3 months ago)
-- [HTU21D - SI7021 is has id 0x15](https://github.com/Klipper3d/klipper/pull/5375) on [Klipper3d/klipper](https://github.com/Klipper3d/klipper) (10 months ago)
+- [HTU21D - SI7021 is has id 0x15](https://github.com/Klipper3d/klipper/pull/5375) on [Klipper3d/klipper](https://github.com/Klipper3d/klipper) (11 months ago)
 
 #### 📜 My recent blog posts
 
