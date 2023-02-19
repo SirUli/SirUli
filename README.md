@@ -59,11 +59,11 @@
 - [razonyang/hugo-mod-search](https://github.com/razonyang/hugo-mod-search) - A powerful, flexible and responsive Hugo client side fuzzy search module. (1 month ago)
 - [r3pek/hugo_enc](https://github.com/r3pek/hugo_enc) - A python3 CLI package to encrypt Hugo posts (1 month ago)
 - [arashsm79/hugo-PaperMod-Mod](https://github.com/arashsm79/hugo-PaperMod-Mod) - A bunch of stylesheets that modify the look of Hugo PaperMod theme. Includes thumbnails and sidebar table of contents. (1 month ago)
-- [Marv2190/Victron_VoltToSoc](https://github.com/Marv2190/Victron_VoltToSoc) - Stellt den SOC nach der Akkuspannung ein, wenn diese zu stark abweichen (1 month ago)
-- [Marv2190/Victron_BatteryFullthenSoC100](https://github.com/Marv2190/Victron_BatteryFullthenSoC100) - Script which set the DBus SoC too 100% if there is enough export but the Battery isnt loading anymore. (1 month ago)
-- [Marv2190/Victron_MaxAmpMaxCell](https://github.com/Marv2190/Victron_MaxAmpMaxCell) - # Dieses Script überprüft welche Zelle die meiste Spannung besitzt und welche Spannung diese hat. Danach wird der maximale Ladestrom des Victron Systems eingestellt. (1 month ago)
-- [Marv2190/Victron_InverterLimitbyTemp](https://github.com/Marv2190/Victron_InverterLimitbyTemp) - Mal wieder ein Script für meine Victrons, welches die Inverter limitert sobald die Temperatur im Kabelkanal zu hoch wird. (1 month ago)
-- [sfstar/hass-victron](https://github.com/sfstar/hass-victron) - Integration for Home Assistant to fetch data from the victron gx device via modbusTCP (1 month ago)
+- [Marv2190/Victron_VoltToSoc](https://github.com/Marv2190/Victron_VoltToSoc) - Stellt den SOC nach der Akkuspannung ein, wenn diese zu stark abweichen (2 months ago)
+- [Marv2190/Victron_BatteryFullthenSoC100](https://github.com/Marv2190/Victron_BatteryFullthenSoC100) - Script which set the DBus SoC too 100% if there is enough export but the Battery isnt loading anymore. (2 months ago)
+- [Marv2190/Victron_MaxAmpMaxCell](https://github.com/Marv2190/Victron_MaxAmpMaxCell) - # Dieses Script überprüft welche Zelle die meiste Spannung besitzt und welche Spannung diese hat. Danach wird der maximale Ladestrom des Victron Systems eingestellt. (2 months ago)
+- [Marv2190/Victron_InverterLimitbyTemp](https://github.com/Marv2190/Victron_InverterLimitbyTemp) - Mal wieder ein Script für meine Victrons, welches die Inverter limitert sobald die Temperatur im Kabelkanal zu hoch wird. (2 months ago)
+- [sfstar/hass-victron](https://github.com/sfstar/hass-victron) - Integration for Home Assistant to fetch data from the victron gx device via modbusTCP (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
