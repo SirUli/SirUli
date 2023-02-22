@@ -54,6 +54,7 @@
 
 #### ⭐ Recent Stars
 
+- [freakent/dbus-mqtt-devices](https://github.com/freakent/dbus-mqtt-devices) - A driver for Victron Venus GX devices to support use of dbus-mqtt (today)
 - [craigpeacock/Huawei_R4850G2_CAN](https://github.com/craigpeacock/Huawei_R4850G2_CAN) - Example code to communicate with Huawei R4850G2 Power Supply via CAN (3 days ago)
 - [ansible/ansible-rulebook](https://github.com/ansible/ansible-rulebook) -  (2 weeks ago)
 - [stweiss/FileBasedMiniDMS](https://github.com/stweiss/FileBasedMiniDMS) - This php script sorts your documents (by using hardlinks) into subfolders based on the hashtags it finds in your documents filenames. (1 month ago)
@@ -63,7 +64,6 @@
 - [Marv2190/Victron_VoltToSoc](https://github.com/Marv2190/Victron_VoltToSoc) - Stellt den SOC nach der Akkuspannung ein, wenn diese zu stark abweichen (2 months ago)
 - [Marv2190/Victron_BatteryFullthenSoC100](https://github.com/Marv2190/Victron_BatteryFullthenSoC100) - Script which set the DBus SoC too 100% if there is enough export but the Battery isnt loading anymore. (2 months ago)
 - [Marv2190/Victron_MaxAmpMaxCell](https://github.com/Marv2190/Victron_MaxAmpMaxCell) - # Dieses Script überprüft welche Zelle die meiste Spannung besitzt und welche Spannung diese hat. Danach wird der maximale Ladestrom des Victron Systems eingestellt. (2 months ago)
-- [Marv2190/Victron_InverterLimitbyTemp](https://github.com/Marv2190/Victron_InverterLimitbyTemp) - Mal wieder ein Script für meine Victrons, welches die Inverter limitert sobald die Temperatur im Kabelkanal zu hoch wird. (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
