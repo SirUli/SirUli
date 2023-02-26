@@ -4,7 +4,7 @@
 
 - [kwindrem/ShutdownMonitor](https://github.com/kwindrem/ShutdownMonitor) -  (1 month ago)
 - [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus (1 month ago)
-- [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) - Helper functions to simplify writing setup scripts that modify VenusOs functionality. The package includes automatic reinstallation of the package after a VenusOs update. (2 months ago)
+- [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) - Helper functions to simplify writing setup scripts that modify VenusOs functionality. The package includes automatic reinstallation of the package after a VenusOs update. (3 months ago)
 - [alxwolf/ubios-cert](https://github.com/alxwolf/ubios-cert) - Manage SSL / TLS certificates with acme.sh (Let&#39;s Encrypt, ZeroSSL) for Ubiquiti UbiOS firmwares (3 months ago)
 - [Klipper3d/klipper](https://github.com/Klipper3d/klipper) - Klipper is a 3d-printer firmware (10 months ago)
 - [ansible-community/pytest-molecule](https://github.com/ansible-community/pytest-molecule) - Enables pytest to discover molecule scenarios and run them (11 months ago)
@@ -25,7 +25,7 @@
 
 #### 🔭 Recent Releases
 
-- [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) ([current](https://github.com/kwindrem/SetupHelper/releases/tag/current), 1 day ago) - Helper functions to simplify writing setup scripts that modify VenusOs functionality. The package includes automatic reinstallation of the package after a VenusOs update.
+- [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) ([current](https://github.com/kwindrem/SetupHelper/releases/tag/current), 2 days ago) - Helper functions to simplify writing setup scripts that modify VenusOs functionality. The package includes automatic reinstallation of the package after a VenusOs update.
 - [kwindrem/ShutdownMonitor](https://github.com/kwindrem/ShutdownMonitor) ([current](https://github.com/kwindrem/ShutdownMonitor/releases/tag/current), 1 month ago) - 
 - [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) ([v1.10](https://github.com/SirUli/FroniusSmartmeter/releases/tag/v1.10), 1 month ago) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus
 - [ansible-community/pytest-molecule](https://github.com/ansible-community/pytest-molecule) ([v2.0.0](https://github.com/ansible-community/pytest-molecule/releases/tag/v2.0.0), 11 months ago) - Enables pytest to discover molecule scenarios and run them
@@ -36,11 +36,11 @@
 - [Move README to Markdown](https://github.com/kwindrem/ShutdownMonitor/pull/3) on [kwindrem/ShutdownMonitor](https://github.com/kwindrem/ShutdownMonitor) (1 month ago)
 - [Release of v1.10](https://github.com/SirUli/FroniusSmartmeter/pull/7) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (1 month ago)
 - [More Details on Products and Models](https://github.com/Rikkert-RS/VenusOS-TemperatureService/pull/2) on [Rikkert-RS/VenusOS-TemperatureService](https://github.com/Rikkert-RS/VenusOS-TemperatureService) (2 months ago)
-- [FroniusSmartmeter Repository](https://github.com/kwindrem/SetupHelper/pull/31) on [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) (2 months ago)
-- [fix: the gitHubInfo has to point to the default branch or tag](https://github.com/SirUli/FroniusSmartmeter/pull/4) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (2 months ago)
-- [fix: revert setting None to some values and --&gt; v1.9](https://github.com/SirUli/FroniusSmartmeter/pull/3) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (2 months ago)
-- [fix: rename python file and set correct initial values](https://github.com/SirUli/FroniusSmartmeter/pull/2) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (2 months ago)
-- [fix: rename to FroniusSmartmeter to be compatible with SetupHelper](https://github.com/SirUli/FroniusSmartmeter/pull/1) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (2 months ago)
+- [FroniusSmartmeter Repository](https://github.com/kwindrem/SetupHelper/pull/31) on [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) (3 months ago)
+- [fix: the gitHubInfo has to point to the default branch or tag](https://github.com/SirUli/FroniusSmartmeter/pull/4) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (3 months ago)
+- [fix: revert setting None to some values and --&gt; v1.9](https://github.com/SirUli/FroniusSmartmeter/pull/3) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (3 months ago)
+- [fix: rename python file and set correct initial values](https://github.com/SirUli/FroniusSmartmeter/pull/2) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (3 months ago)
+- [fix: rename to FroniusSmartmeter to be compatible with SetupHelper](https://github.com/SirUli/FroniusSmartmeter/pull/1) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (3 months ago)
 - [fix: Add possibility for additional parameters to acme.sh](https://github.com/alxwolf/ubios-cert/pull/25) on [alxwolf/ubios-cert](https://github.com/alxwolf/ubios-cert) (3 months ago)
 - [HTU21D - SI7021 is has id 0x15](https://github.com/Klipper3d/klipper/pull/5375) on [Klipper3d/klipper](https://github.com/Klipper3d/klipper) (11 months ago)
 
@@ -54,9 +54,9 @@
 
 #### ⭐ Recent Stars
 
-- [victronenergy/dbus-mqtt](https://github.com/victronenergy/dbus-mqtt) - Venus OS service mapping the D-Bus on Venus OS to MQTT (3 days ago)
-- [freakent/dbus-mqtt-devices](https://github.com/freakent/dbus-mqtt-devices) - A driver for Victron Venus GX devices to support use of dbus-mqtt (3 days ago)
-- [craigpeacock/Huawei_R4850G2_CAN](https://github.com/craigpeacock/Huawei_R4850G2_CAN) - Example code to communicate with Huawei R4850G2 Power Supply via CAN (6 days ago)
+- [victronenergy/dbus-mqtt](https://github.com/victronenergy/dbus-mqtt) - Venus OS service mapping the D-Bus on Venus OS to MQTT (4 days ago)
+- [freakent/dbus-mqtt-devices](https://github.com/freakent/dbus-mqtt-devices) - A driver for Victron Venus GX devices to support use of dbus-mqtt (4 days ago)
+- [craigpeacock/Huawei_R4850G2_CAN](https://github.com/craigpeacock/Huawei_R4850G2_CAN) - Example code to communicate with Huawei R4850G2 Power Supply via CAN (1 week ago)
 - [ansible/ansible-rulebook](https://github.com/ansible/ansible-rulebook) -  (2 weeks ago)
 - [stweiss/FileBasedMiniDMS](https://github.com/stweiss/FileBasedMiniDMS) - This php script sorts your documents (by using hardlinks) into subfolders based on the hashtags it finds in your documents filenames. (1 month ago)
 - [razonyang/hugo-mod-search](https://github.com/razonyang/hugo-mod-search) - A powerful, flexible and responsive Hugo client side fuzzy search module. (1 month ago)
