@@ -37,7 +37,7 @@
 - [Feature prepare 0.11](https://github.com/SirUli/FroniusSmartmeter/pull/11) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (1 week ago)
 - [Move README to Markdown](https://github.com/kwindrem/ShutdownMonitor/pull/3) on [kwindrem/ShutdownMonitor](https://github.com/kwindrem/ShutdownMonitor) (2 months ago)
 - [Release of v1.10](https://github.com/SirUli/FroniusSmartmeter/pull/7) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (2 months ago)
-- [More Details on Products and Models](https://github.com/Rikkert-RS/VenusOS-TemperatureService/pull/2) on [Rikkert-RS/VenusOS-TemperatureService](https://github.com/Rikkert-RS/VenusOS-TemperatureService) (2 months ago)
+- [More Details on Products and Models](https://github.com/Rikkert-RS/VenusOS-TemperatureService/pull/2) on [Rikkert-RS/VenusOS-TemperatureService](https://github.com/Rikkert-RS/VenusOS-TemperatureService) (3 months ago)
 - [FroniusSmartmeter Repository](https://github.com/kwindrem/SetupHelper/pull/31) on [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) (3 months ago)
 - [fix: the gitHubInfo has to point to the default branch or tag](https://github.com/SirUli/FroniusSmartmeter/pull/4) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (3 months ago)
 - [fix: revert setting None to some values and --&gt; v1.9](https://github.com/SirUli/FroniusSmartmeter/pull/3) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (3 months ago)
@@ -48,16 +48,16 @@
 
 - [Zehnder Q350 - Austausch der Kugellager des R3G190-RC05-29 nach 5 Jahren](https://wolf-u.li/zehnder-q350-kugellager-tausch/) (1 month ago)
 - [Unifi Dream Router (UDR) zeigt Internet offline aber ist online](https://wolf-u.li/unifi-dream-router-udr-zeigt-internet-offline-aber-ist-online/) (2 months ago)
-- [Victron Venus OS: 1-Wire Temperatur Sensoren einbinden](https://wolf-u.li/victron-venus-os-1-wire-temperatur-sensoren-einbinden/) (2 months ago)
-- [Victron Venus OS: Raspberry Pi Temperatur Sensor einbinden](https://wolf-u.li/victron-venus-os-raspberry-pi-cpu-temperatur-sensor-einbinden/) (2 months ago)
-- [Victron Venus OS: Setup des SetupHelper](https://wolf-u.li/victron-venus-os-setup-des-setuphelper/) (2 months ago)
+- [Victron Venus OS: 1-Wire Temperatur Sensoren einbinden](https://wolf-u.li/victron-venus-os-1-wire-temperatur-sensoren-einbinden/) (3 months ago)
+- [Victron Venus OS: Raspberry Pi Temperatur Sensor einbinden](https://wolf-u.li/victron-venus-os-raspberry-pi-cpu-temperatur-sensor-einbinden/) (3 months ago)
+- [Victron Venus OS: Setup des SetupHelper](https://wolf-u.li/victron-venus-os-setup-des-setuphelper/) (3 months ago)
 
 #### ⭐ Recent Stars
 
-- [mr-manuel/venus-os_dbus-multiplus-emulator](https://github.com/mr-manuel/venus-os_dbus-multiplus-emulator) - This Venus OS driver emulates a MultiPlus-II in order to see the right AC load and flow, if you have the MQTT PV, Grid and Battery drivers but no MultiPlus-II. (1 day ago)
-- [mueke/hass-venus-os-mqtt-integration](https://github.com/mueke/hass-venus-os-mqtt-integration) - Aims to integrate Victron Venus OS Data from Mqtt into Home Assistant  (1 day ago)
-- [adamoutler/mqtt-explorer](https://github.com/adamoutler/mqtt-explorer) - A home assistant repository for MQTT Explorer (2 days ago)
-- [syssi/esphome-jk-bms](https://github.com/syssi/esphome-jk-bms) - ESPHome component to monitor and control a Jikong Battery Management System (JK-BMS) via UART-TTL or BLE (2 days ago)
+- [mr-manuel/venus-os_dbus-multiplus-emulator](https://github.com/mr-manuel/venus-os_dbus-multiplus-emulator) - This Venus OS driver emulates a MultiPlus-II in order to see the right AC load and flow, if you have the MQTT PV, Grid and Battery drivers but no MultiPlus-II. (2 days ago)
+- [mueke/hass-venus-os-mqtt-integration](https://github.com/mueke/hass-venus-os-mqtt-integration) - Aims to integrate Victron Venus OS Data from Mqtt into Home Assistant  (2 days ago)
+- [adamoutler/mqtt-explorer](https://github.com/adamoutler/mqtt-explorer) - A home assistant repository for MQTT Explorer (3 days ago)
+- [syssi/esphome-jk-bms](https://github.com/syssi/esphome-jk-bms) - ESPHome component to monitor and control a Jikong Battery Management System (JK-BMS) via UART-TTL or BLE (3 days ago)
 - [victronenergy/dbus-mqtt](https://github.com/victronenergy/dbus-mqtt) - Venus OS service mapping the D-Bus on Venus OS to MQTT (3 weeks ago)
 - [freakent/dbus-mqtt-devices](https://github.com/freakent/dbus-mqtt-devices) - A driver for Victron Venus GX devices to support use of dbus-mqtt (3 weeks ago)
 - [craigpeacock/Huawei_R4850G2_CAN](https://github.com/craigpeacock/Huawei_R4850G2_CAN) - Example code to communicate with Huawei R4850G2 Power Supply via CAN (3 weeks ago)
