@@ -63,7 +63,7 @@
 - [craigpeacock/Huawei_R4850G2_CAN](https://github.com/craigpeacock/Huawei_R4850G2_CAN) - Example code to communicate with Huawei R4850G2 Power Supply via CAN (3 weeks ago)
 - [ansible/ansible-rulebook](https://github.com/ansible/ansible-rulebook) -  (1 month ago)
 - [stweiss/FileBasedMiniDMS](https://github.com/stweiss/FileBasedMiniDMS) - This php script sorts your documents (by using hardlinks) into subfolders based on the hashtags it finds in your documents filenames. (2 months ago)
-- [razonyang/hugo-mod-search](https://github.com/razonyang/hugo-mod-search) - A powerful, flexible and responsive Hugo client side fuzzy search module. (2 months ago)
+- [hugomods/search](https://github.com/hugomods/search) - :mag: A powerful, flexible and responsive Hugo client side fuzzy search module. (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
