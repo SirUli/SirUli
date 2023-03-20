@@ -2,12 +2,12 @@
 
 #### 👷 Recent Contributions
 
-- [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus (1 week ago)
+- [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus (2 weeks ago)
 - [kwindrem/ShutdownMonitor](https://github.com/kwindrem/ShutdownMonitor) -  (2 months ago)
 - [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) - Helper functions to simplify writing setup scripts that modify VenusOs functionality. The package includes automatic reinstallation of the package after a VenusOs update. (3 months ago)
 - [alxwolf/ubios-cert](https://github.com/alxwolf/ubios-cert) - Manage SSL / TLS certificates with acme.sh (Let&#39;s Encrypt, ZeroSSL) for Ubiquiti UbiOS firmwares (4 months ago)
 - [Klipper3d/klipper](https://github.com/Klipper3d/klipper) - Klipper is a 3d-printer firmware (11 months ago)
-- [ansible-community/pytest-molecule](https://github.com/ansible-community/pytest-molecule) - Enables pytest to discover molecule scenarios and run them (11 months ago)
+- [ansible-community/pytest-molecule](https://github.com/ansible-community/pytest-molecule) - Enables pytest to discover molecule scenarios and run them (1 year ago)
 - [Raabi91/moonraker-telegram](https://github.com/Raabi91/moonraker-telegram) - A Script/Programm to send the printer State before, during and after a print via Telegram Messenger. But its only Working with moonraker (1 year ago)
 
 #### 🌱 Latest projects
@@ -26,14 +26,14 @@
 #### 🔭 Recent Releases
 
 - [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) ([v1.11](https://github.com/SirUli/FroniusSmartmeter/releases/tag/v1.11), 2 weeks ago) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus
-- [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) ([current](https://github.com/kwindrem/SetupHelper/releases/tag/current), 2 weeks ago) - Helper functions to simplify writing setup scripts that modify VenusOs functionality. The package includes automatic reinstallation of the package after a VenusOs update.
+- [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) ([current](https://github.com/kwindrem/SetupHelper/releases/tag/current), 3 weeks ago) - Helper functions to simplify writing setup scripts that modify VenusOs functionality. The package includes automatic reinstallation of the package after a VenusOs update.
 - [kwindrem/ShutdownMonitor](https://github.com/kwindrem/ShutdownMonitor) ([current](https://github.com/kwindrem/ShutdownMonitor/releases/tag/current), 1 month ago) - 
 - [ansible-community/pytest-molecule](https://github.com/ansible-community/pytest-molecule) ([v2.0.0](https://github.com/ansible-community/pytest-molecule/releases/tag/v2.0.0), 11 months ago) - Enables pytest to discover molecule scenarios and run them
 - [Raabi91/moonraker-telegram](https://github.com/Raabi91/moonraker-telegram) ([v1.0.2](https://github.com/Raabi91/moonraker-telegram/releases/tag/v1.0.2), 2 years ago) - A Script/Programm to send the printer State before, during and after a print via Telegram Messenger. But its only Working with moonraker
 
 #### 🔨 Recent Pull Requests
 
-- [fix: Add more details in README](https://github.com/SirUli/FroniusSmartmeter/pull/12) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (1 week ago)
+- [fix: Add more details in README](https://github.com/SirUli/FroniusSmartmeter/pull/12) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (2 weeks ago)
 - [Feature prepare 0.11](https://github.com/SirUli/FroniusSmartmeter/pull/11) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (2 weeks ago)
 - [Move README to Markdown](https://github.com/kwindrem/ShutdownMonitor/pull/3) on [kwindrem/ShutdownMonitor](https://github.com/kwindrem/ShutdownMonitor) (2 months ago)
 - [Release of v1.10](https://github.com/SirUli/FroniusSmartmeter/pull/7) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (2 months ago)
@@ -54,10 +54,10 @@
 
 #### ⭐ Recent Stars
 
-- [mr-manuel/venus-os_dbus-multiplus-emulator](https://github.com/mr-manuel/venus-os_dbus-multiplus-emulator) - This Venus OS driver emulates a MultiPlus-II in order to see the right AC load and flow, if you have the MQTT PV, Grid and Battery drivers but no MultiPlus-II. (3 days ago)
-- [mueke/hass-venus-os-mqtt-integration](https://github.com/mueke/hass-venus-os-mqtt-integration) - Aims to integrate Victron Venus OS Data from Mqtt into Home Assistant  (3 days ago)
-- [adamoutler/mqtt-explorer](https://github.com/adamoutler/mqtt-explorer) - A home assistant repository for MQTT Explorer (4 days ago)
-- [syssi/esphome-jk-bms](https://github.com/syssi/esphome-jk-bms) - ESPHome component to monitor and control a Jikong Battery Management System (JK-BMS) via UART-TTL or BLE (4 days ago)
+- [mr-manuel/venus-os_dbus-multiplus-emulator](https://github.com/mr-manuel/venus-os_dbus-multiplus-emulator) - This Venus OS driver emulates a MultiPlus-II in order to see the right AC load and flow, if you have the MQTT PV, Grid and Battery drivers but no MultiPlus-II. (4 days ago)
+- [mueke/hass-venus-os-mqtt-integration](https://github.com/mueke/hass-venus-os-mqtt-integration) - Aims to integrate Victron Venus OS Data from Mqtt into Home Assistant  (4 days ago)
+- [adamoutler/mqtt-explorer](https://github.com/adamoutler/mqtt-explorer) - A home assistant repository for MQTT Explorer (5 days ago)
+- [syssi/esphome-jk-bms](https://github.com/syssi/esphome-jk-bms) - ESPHome component to monitor and control a Jikong Battery Management System (JK-BMS) via UART-TTL or BLE (5 days ago)
 - [victronenergy/dbus-mqtt](https://github.com/victronenergy/dbus-mqtt) - Venus OS service mapping the D-Bus on Venus OS to MQTT (3 weeks ago)
 - [freakent/dbus-mqtt-devices](https://github.com/freakent/dbus-mqtt-devices) - A driver for Victron Venus GX devices to support use of dbus-mqtt (3 weeks ago)
 - [craigpeacock/Huawei_R4850G2_CAN](https://github.com/craigpeacock/Huawei_R4850G2_CAN) - Example code to communicate with Huawei R4850G2 Power Supply via CAN (4 weeks ago)
