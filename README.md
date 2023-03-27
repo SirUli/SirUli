@@ -2,7 +2,7 @@
 
 #### 👷 Recent Contributions
 
-- [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus (2 weeks ago)
+- [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus (3 weeks ago)
 - [kwindrem/ShutdownMonitor](https://github.com/kwindrem/ShutdownMonitor) -  (2 months ago)
 - [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) - Helper functions to simplify writing setup scripts that modify VenusOs functionality. The package includes automatic reinstallation of the package after a VenusOs update. (3 months ago)
 - [alxwolf/ubios-cert](https://github.com/alxwolf/ubios-cert) - Manage SSL / TLS certificates with acme.sh (Let&#39;s Encrypt, ZeroSSL) for Ubiquiti UbiOS firmwares (4 months ago)
@@ -24,12 +24,12 @@
 #### 🔭 Recent Releases
 
 - [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) ([v1.11](https://github.com/SirUli/FroniusSmartmeter/releases/tag/v1.11), 3 weeks ago) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus
-- [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) ([current](https://github.com/kwindrem/SetupHelper/releases/tag/current), 3 weeks ago) - Helper functions to simplify writing setup scripts that modify VenusOs functionality. The package includes automatic reinstallation of the package after a VenusOs update.
+- [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) ([current](https://github.com/kwindrem/SetupHelper/releases/tag/current), 4 weeks ago) - Helper functions to simplify writing setup scripts that modify VenusOs functionality. The package includes automatic reinstallation of the package after a VenusOs update.
 - [kwindrem/ShutdownMonitor](https://github.com/kwindrem/ShutdownMonitor) ([current](https://github.com/kwindrem/ShutdownMonitor/releases/tag/current), 2 months ago) - 
 
 #### 🔨 Recent Pull Requests
 
-- [fix: Add more details in README](https://github.com/SirUli/FroniusSmartmeter/pull/12) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (2 weeks ago)
+- [fix: Add more details in README](https://github.com/SirUli/FroniusSmartmeter/pull/12) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (3 weeks ago)
 - [Feature prepare 0.11](https://github.com/SirUli/FroniusSmartmeter/pull/11) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (3 weeks ago)
 - [Move README to Markdown](https://github.com/kwindrem/ShutdownMonitor/pull/3) on [kwindrem/ShutdownMonitor](https://github.com/kwindrem/ShutdownMonitor) (2 months ago)
 - [Release of v1.10](https://github.com/SirUli/FroniusSmartmeter/pull/7) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (2 months ago)
