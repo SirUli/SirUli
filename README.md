@@ -50,6 +50,8 @@
 
 #### ⭐ Recent Stars
 
+- [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter (today)
+- [JonahKr/power-distribution-card](https://github.com/JonahKr/power-distribution-card) - A Lovelace Card for visualizing power distributions. (today)
 - [sude22/R4850G2-FanControl](https://github.com/sude22/R4850G2-FanControl) - This project wants to show how to replace the fan controller of the Huawei R4850G2 with a better one. (today)
 - [mr-manuel/venus-os_dbus-multiplus-emulator](https://github.com/mr-manuel/venus-os_dbus-multiplus-emulator) - This Venus OS driver emulates a MultiPlus-II in order to see the right AC load and flow, if you have the MQTT PV, Grid and Battery drivers but no MultiPlus-II. (2 weeks ago)
 - [mueke/hass-venus-os-mqtt-integration](https://github.com/mueke/hass-venus-os-mqtt-integration) - Aims to integrate Victron Venus OS Data from Mqtt into Home Assistant  (2 weeks ago)
@@ -58,8 +60,6 @@
 - [victronenergy/dbus-mqtt](https://github.com/victronenergy/dbus-mqtt) - Venus OS service mapping the D-Bus on Venus OS to MQTT (1 month ago)
 - [freakent/dbus-mqtt-devices](https://github.com/freakent/dbus-mqtt-devices) - A driver for Victron Venus GX devices to support use of dbus-mqtt (1 month ago)
 - [craigpeacock/Huawei_R4850G2_CAN](https://github.com/craigpeacock/Huawei_R4850G2_CAN) - Example code to communicate with Huawei R4850G2 Power Supply via CAN (1 month ago)
-- [ansible/ansible-rulebook](https://github.com/ansible/ansible-rulebook) -  (1 month ago)
-- [stweiss/FileBasedMiniDMS](https://github.com/stweiss/FileBasedMiniDMS) - This php script sorts your documents (by using hardlinks) into subfolders based on the hashtags it finds in your documents filenames. (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
