@@ -2,7 +2,7 @@
 
 #### 👷 Recent Contributions
 
-- [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus (4 weeks ago)
+- [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus (1 month ago)
 - [kwindrem/ShutdownMonitor](https://github.com/kwindrem/ShutdownMonitor) -  (3 months ago)
 - [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) - Helper functions to simplify writing setup scripts that modify VenusOs functionality. The package includes automatic reinstallation of the package after a VenusOs update. (4 months ago)
 - [alxwolf/ubios-cert](https://github.com/alxwolf/ubios-cert) - Manage SSL / TLS certificates with acme.sh (Let&#39;s Encrypt, ZeroSSL) for Ubiquiti UbiOS firmwares (5 months ago)
@@ -29,7 +29,7 @@
 
 #### 🔨 Recent Pull Requests
 
-- [fix: Add more details in README](https://github.com/SirUli/FroniusSmartmeter/pull/12) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (4 weeks ago)
+- [fix: Add more details in README](https://github.com/SirUli/FroniusSmartmeter/pull/12) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (1 month ago)
 - [Feature prepare 0.11](https://github.com/SirUli/FroniusSmartmeter/pull/11) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (1 month ago)
 - [Move README to Markdown](https://github.com/kwindrem/ShutdownMonitor/pull/3) on [kwindrem/ShutdownMonitor](https://github.com/kwindrem/ShutdownMonitor) (3 months ago)
 - [Release of v1.10](https://github.com/SirUli/FroniusSmartmeter/pull/7) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (3 months ago)
@@ -50,13 +50,13 @@
 
 #### ⭐ Recent Stars
 
-- [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter (4 days ago)
-- [JonahKr/power-distribution-card](https://github.com/JonahKr/power-distribution-card) - A Lovelace Card for visualizing power distributions. (4 days ago)
-- [sude22/R4850G2-FanControl](https://github.com/sude22/R4850G2-FanControl) - This project wants to show how to replace the fan controller of the Huawei R4850G2 with a better one. (4 days ago)
+- [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter (5 days ago)
+- [JonahKr/power-distribution-card](https://github.com/JonahKr/power-distribution-card) - A Lovelace Card for visualizing power distributions. (5 days ago)
+- [sude22/R4850G2-FanControl](https://github.com/sude22/R4850G2-FanControl) - This project wants to show how to replace the fan controller of the Huawei R4850G2 with a better one. (5 days ago)
 - [mr-manuel/venus-os_dbus-multiplus-emulator](https://github.com/mr-manuel/venus-os_dbus-multiplus-emulator) - This Venus OS driver emulates a MultiPlus-II in order to see the right AC load and flow, if you have the MQTT PV, Grid and Battery drivers but no MultiPlus-II. (2 weeks ago)
 - [mueke/hass-venus-os-mqtt-integration](https://github.com/mueke/hass-venus-os-mqtt-integration) - Aims to integrate Victron Venus OS Data from Mqtt into Home Assistant  (2 weeks ago)
-- [adamoutler/mqtt-explorer](https://github.com/adamoutler/mqtt-explorer) - A home assistant repository for MQTT Explorer (2 weeks ago)
-- [syssi/esphome-jk-bms](https://github.com/syssi/esphome-jk-bms) - ESPHome component to monitor and control a Jikong Battery Management System (JK-BMS) via UART-TTL or BLE (2 weeks ago)
+- [adamoutler/mqtt-explorer](https://github.com/adamoutler/mqtt-explorer) - A home assistant repository for MQTT Explorer (3 weeks ago)
+- [syssi/esphome-jk-bms](https://github.com/syssi/esphome-jk-bms) - ESPHome component to monitor and control a Jikong Battery Management System (JK-BMS) via UART-TTL or BLE (3 weeks ago)
 - [victronenergy/dbus-mqtt](https://github.com/victronenergy/dbus-mqtt) - Venus OS service mapping the D-Bus on Venus OS to MQTT (1 month ago)
 - [freakent/dbus-mqtt-devices](https://github.com/freakent/dbus-mqtt-devices) - A driver for Victron Venus GX devices to support use of dbus-mqtt (1 month ago)
 - [craigpeacock/Huawei_R4850G2_CAN](https://github.com/craigpeacock/Huawei_R4850G2_CAN) - Example code to communicate with Huawei R4850G2 Power Supply via CAN (1 month ago)
