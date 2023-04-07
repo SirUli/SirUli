@@ -50,10 +50,10 @@
 
 #### ⭐ Recent Stars
 
-- [hawkeyexp/auto_offset_z](https://github.com/hawkeyexp/auto_offset_z) -  (today)
-- [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter (6 days ago)
-- [JonahKr/power-distribution-card](https://github.com/JonahKr/power-distribution-card) - A Lovelace Card for visualizing power distributions. (6 days ago)
-- [sude22/R4850G2-FanControl](https://github.com/sude22/R4850G2-FanControl) - This project wants to show how to replace the fan controller of the Huawei R4850G2 with a better one. (6 days ago)
+- [hawkeyexp/auto_offset_z](https://github.com/hawkeyexp/auto_offset_z) -  (1 day ago)
+- [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter (1 week ago)
+- [JonahKr/power-distribution-card](https://github.com/JonahKr/power-distribution-card) - A Lovelace Card for visualizing power distributions. (1 week ago)
+- [sude22/R4850G2-FanControl](https://github.com/sude22/R4850G2-FanControl) - This project wants to show how to replace the fan controller of the Huawei R4850G2 with a better one. (1 week ago)
 - [mr-manuel/venus-os_dbus-multiplus-emulator](https://github.com/mr-manuel/venus-os_dbus-multiplus-emulator) - This Venus OS driver emulates a MultiPlus-II in order to see the right AC load and flow, if you have the MQTT PV, Grid and Battery drivers but no MultiPlus-II. (3 weeks ago)
 - [mueke/hass-venus-os-mqtt-integration](https://github.com/mueke/hass-venus-os-mqtt-integration) - Aims to integrate Victron Venus OS Data from Mqtt into Home Assistant  (3 weeks ago)
 - [adamoutler/mqtt-explorer](https://github.com/adamoutler/mqtt-explorer) - A home assistant repository for MQTT Explorer (3 weeks ago)
