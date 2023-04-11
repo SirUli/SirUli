@@ -50,7 +50,7 @@
 
 #### ⭐ Recent Stars
 
-- [hawkeyexp/auto_offset_z](https://github.com/hawkeyexp/auto_offset_z) -  (4 days ago)
+- [hawkeyexp/auto_offset_z](https://github.com/hawkeyexp/auto_offset_z) -  (5 days ago)
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter (1 week ago)
 - [JonahKr/power-distribution-card](https://github.com/JonahKr/power-distribution-card) - A Lovelace Card for visualizing power distributions. (1 week ago)
 - [sude22/R4850G2-FanControl](https://github.com/sude22/R4850G2-FanControl) - This project wants to show how to replace the fan controller of the Huawei R4850G2 with a better one. (1 week ago)
