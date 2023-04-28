@@ -49,6 +49,7 @@
 
 #### ⭐ Recent Stars
 
+- [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library. (today)
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server (1 week ago)
 - [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows (2 weeks ago)
 - [hawkeyexp/auto_offset_z](https://github.com/hawkeyexp/auto_offset_z) -  (3 weeks ago)
@@ -58,7 +59,6 @@
 - [mr-manuel/venus-os_dbus-multiplus-emulator](https://github.com/mr-manuel/venus-os_dbus-multiplus-emulator) - This Venus OS driver emulates a MultiPlus-II in order to see the right AC load and flow, if you have the MQTT PV, Grid and Battery drivers but no MultiPlus-II. (1 month ago)
 - [mueke/hass-venus-os-mqtt-integration](https://github.com/mueke/hass-venus-os-mqtt-integration) - Aims to integrate Victron Venus OS Data from Mqtt into Home Assistant  (1 month ago)
 - [adamoutler/mqtt-explorer](https://github.com/adamoutler/mqtt-explorer) - A home assistant repository for MQTT Explorer (1 month ago)
-- [syssi/esphome-jk-bms](https://github.com/syssi/esphome-jk-bms) - ESPHome component to monitor and control a Jikong Battery Management System (JK-BMS) via UART-TTL or BLE (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
