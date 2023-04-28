@@ -22,7 +22,7 @@
 
 #### 🔭 Recent Releases
 
-- [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) ([current](https://github.com/kwindrem/SetupHelper/releases/tag/current), 1 week ago) - Helper functions to simplify writing setup scripts that modify VenusOs functionality. The package includes automatic reinstallation of the package after a VenusOs update.
+- [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) ([current](https://github.com/kwindrem/SetupHelper/releases/tag/current), 2 weeks ago) - Helper functions to simplify writing setup scripts that modify VenusOs functionality. The package includes automatic reinstallation of the package after a VenusOs update.
 - [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) ([v1.11](https://github.com/SirUli/FroniusSmartmeter/releases/tag/v1.11), 1 month ago) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus
 - [kwindrem/ShutdownMonitor](https://github.com/kwindrem/ShutdownMonitor) ([current](https://github.com/kwindrem/ShutdownMonitor/releases/tag/current), 3 months ago) - 
 
@@ -41,8 +41,8 @@
 
 #### 📜 My recent blog posts
 
-- [OpenSCAD: Nützliche Bibliotheken](https://wolf-u.li/openscad-nuetzliche-bibliotheken/) (2 days ago)
-- [ESP32-WROVER-DEV CAM - Freenove oder Fake](https://wolf-u.li/esp32-wrover-dev-freenove-oder-fake/) (3 days ago)
+- [OpenSCAD: Nützliche Bibliotheken](https://wolf-u.li/openscad-nuetzliche-bibliotheken/) (3 days ago)
+- [ESP32-WROVER-DEV CAM - Freenove oder Fake](https://wolf-u.li/esp32-wrover-dev-freenove-oder-fake/) (4 days ago)
 - [Zehnder Q350 - Austausch der Kugellager des R3G190-RC05-29 nach 5 Jahren](https://wolf-u.li/zehnder-q350-kugellager-tausch/) (2 months ago)
 - [Unifi Dream Router (UDR) zeigt Internet offline aber ist online](https://wolf-u.li/unifi-dream-router-udr-zeigt-internet-offline-aber-ist-online/) (3 months ago)
 - [Victron Venus OS: 1-Wire Temperatur Sensoren einbinden](https://wolf-u.li/victron-venus-os-1-wire-temperatur-sensoren-einbinden/) (4 months ago)
@@ -52,9 +52,9 @@
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server (1 week ago)
 - [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows (2 weeks ago)
 - [hawkeyexp/auto_offset_z](https://github.com/hawkeyexp/auto_offset_z) -  (3 weeks ago)
-- [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter (3 weeks ago)
-- [JonahKr/power-distribution-card](https://github.com/JonahKr/power-distribution-card) - A Lovelace Card for visualizing power distributions. (3 weeks ago)
-- [sude22/R4850G2-FanControl](https://github.com/sude22/R4850G2-FanControl) - This project wants to show how to replace the fan controller of the Huawei R4850G2 with a better one. (3 weeks ago)
+- [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter (4 weeks ago)
+- [JonahKr/power-distribution-card](https://github.com/JonahKr/power-distribution-card) - A Lovelace Card for visualizing power distributions. (4 weeks ago)
+- [sude22/R4850G2-FanControl](https://github.com/sude22/R4850G2-FanControl) - This project wants to show how to replace the fan controller of the Huawei R4850G2 with a better one. (4 weeks ago)
 - [mr-manuel/venus-os_dbus-multiplus-emulator](https://github.com/mr-manuel/venus-os_dbus-multiplus-emulator) - This Venus OS driver emulates a MultiPlus-II in order to see the right AC load and flow, if you have the MQTT PV, Grid and Battery drivers but no MultiPlus-II. (1 month ago)
 - [mueke/hass-venus-os-mqtt-integration](https://github.com/mueke/hass-venus-os-mqtt-integration) - Aims to integrate Victron Venus OS Data from Mqtt into Home Assistant  (1 month ago)
 - [adamoutler/mqtt-explorer](https://github.com/adamoutler/mqtt-explorer) - A home assistant repository for MQTT Explorer (1 month ago)
