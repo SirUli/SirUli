@@ -41,15 +41,15 @@
 
 #### 📜 My recent blog posts
 
-- [OpenSCAD: Nützliche Bibliotheken](https://wolf-u.li/openscad-nuetzliche-bibliotheken/) (5 days ago)
-- [ESP32-WROVER-DEV CAM - Freenove oder Fake](https://wolf-u.li/esp32-wrover-dev-freenove-oder-fake/) (6 days ago)
-- [Zehnder Q350 - Austausch der Kugellager des R3G190-RC05-29 nach 5 Jahren](https://wolf-u.li/zehnder-q350-kugellager-tausch/) (2 months ago)
+- [OpenSCAD: Nützliche Bibliotheken](https://wolf-u.li/openscad-nuetzliche-bibliotheken/) (6 days ago)
+- [ESP32-WROVER-DEV CAM - Freenove oder Fake](https://wolf-u.li/esp32-wrover-dev-freenove-oder-fake/) (1 week ago)
+- [Zehnder Q350 - Austausch der Kugellager des R3G190-RC05-29 nach 5 Jahren](https://wolf-u.li/zehnder-q350-kugellager-tausch/) (3 months ago)
 - [Unifi Dream Router (UDR) zeigt Internet offline aber ist online](https://wolf-u.li/unifi-dream-router-udr-zeigt-internet-offline-aber-ist-online/) (3 months ago)
 - [Victron Venus OS: 1-Wire Temperatur Sensoren einbinden](https://wolf-u.li/victron-venus-os-1-wire-temperatur-sensoren-einbinden/) (4 months ago)
 
 #### ⭐ Recent Stars
 
-- [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library. (2 days ago)
+- [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library. (3 days ago)
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server (2 weeks ago)
 - [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows (2 weeks ago)
 - [hawkeyexp/auto_offset_z](https://github.com/hawkeyexp/auto_offset_z) -  (3 weeks ago)
