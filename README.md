@@ -49,11 +49,11 @@
 
 #### ⭐ Recent Stars
 
-- [lubeda/EspHoMaTriXv2](https://github.com/lubeda/EspHoMaTriXv2) - A simple DIY status display with a 8x32 RGB LED panel implemented with esphome.io and Home Assistant. (today)
+- [lubeda/EspHoMaTriXv2](https://github.com/lubeda/EspHoMaTriXv2) - A simple DIY status display with a 8x32 RGB LED panel implemented with esphome.io and Home Assistant. (1 day ago)
 - [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library. (1 week ago)
-- [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server (2 weeks ago)
+- [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server (3 weeks ago)
 - [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows (3 weeks ago)
-- [hawkeyexp/auto_offset_z](https://github.com/hawkeyexp/auto_offset_z) -  (4 weeks ago)
+- [hawkeyexp/auto_offset_z](https://github.com/hawkeyexp/auto_offset_z) -  (1 month ago)
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter (1 month ago)
 - [JonahKr/power-distribution-card](https://github.com/JonahKr/power-distribution-card) - A Lovelace Card for visualizing power distributions. (1 month ago)
 - [mr-manuel/venus-os_dbus-multiplus-emulator](https://github.com/mr-manuel/venus-os_dbus-multiplus-emulator) - This Venus OS driver emulates a MultiPlus-II in order to see the right AC load and flow, if you have the MQTT PV, Grid and Battery drivers but no MultiPlus-II. (1 month ago)
