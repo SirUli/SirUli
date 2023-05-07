@@ -49,7 +49,7 @@
 
 #### ⭐ Recent Stars
 
-- [lubeda/EspHoMaTriXv2](https://github.com/lubeda/EspHoMaTriXv2) - A simple DIY status display with a 8x32 RGB LED panel implemented with esphome.io and Home Assistant. (2 days ago)
+- [lubeda/EspHoMaTriXv2](https://github.com/lubeda/EspHoMaTriXv2) - A simple DIY status display with a 8x32 RGB LED matrix, implemented with esphome.io and Home Assistant. (2 days ago)
 - [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library. (1 week ago)
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server (3 weeks ago)
 - [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows (3 weeks ago)
