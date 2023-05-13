@@ -49,11 +49,11 @@
 
 #### ⭐ Recent Stars
 
-- [HyperToxic33/EBB-Fan-Control](https://github.com/HyperToxic33/EBB-Fan-Control) - Cooling Fan Control for EBB 36/42 CAN (3 days ago)
+- [HyperToxic33/EBB-Fan-Control](https://github.com/HyperToxic33/EBB-Fan-Control) - Cooling Fan Control for EBB 36/42 CAN (4 days ago)
 - [lubeda/EspHoMaTriXv2](https://github.com/lubeda/EspHoMaTriXv2) - A simple DIY status display with a 8x32 RGB LED matrix, implemented with esphome.io and Home Assistant. (1 week ago)
 - [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library. (2 weeks ago)
-- [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server (3 weeks ago)
-- [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows (4 weeks ago)
+- [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server (4 weeks ago)
+- [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows (1 month ago)
 - [hawkeyexp/auto_offset_z](https://github.com/hawkeyexp/auto_offset_z) -  (1 month ago)
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter (1 month ago)
 - [JonahKr/power-distribution-card](https://github.com/JonahKr/power-distribution-card) - A Lovelace Card for visualizing power distributions. (1 month ago)
