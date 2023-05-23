@@ -24,7 +24,7 @@
 
 - [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) ([current](https://github.com/kwindrem/SetupHelper/releases/tag/current), 1 month ago) - Helper functions to simplify writing setup scripts that modify VenusOs functionality. The package includes automatic reinstallation of the package after a VenusOs update.
 - [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) ([v1.11](https://github.com/SirUli/FroniusSmartmeter/releases/tag/v1.11), 2 months ago) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus
-- [kwindrem/ShutdownMonitor](https://github.com/kwindrem/ShutdownMonitor) ([current](https://github.com/kwindrem/ShutdownMonitor/releases/tag/current), 3 months ago) - 
+- [kwindrem/ShutdownMonitor](https://github.com/kwindrem/ShutdownMonitor) ([current](https://github.com/kwindrem/ShutdownMonitor/releases/tag/current), 4 months ago) - 
 
 #### 🔨 Recent Pull Requests
 
@@ -41,7 +41,7 @@
 
 #### 📜 My recent blog posts
 
-- [OpenSCAD: Nützliche Bibliotheken](https://wolf-u.li/openscad-nuetzliche-bibliotheken/) (3 weeks ago)
+- [OpenSCAD: Nützliche Bibliotheken](https://wolf-u.li/openscad-nuetzliche-bibliotheken/) (4 weeks ago)
 - [ESP32-WROVER-DEV CAM - Freenove oder Fake](https://wolf-u.li/esp32-wrover-dev-freenove-oder-fake/) (4 weeks ago)
 - [Zehnder Q350 - Austausch der Kugellager des R3G190-RC05-29 nach 5 Jahren](https://wolf-u.li/zehnder-q350-kugellager-tausch/) (3 months ago)
 - [Unifi Dream Router (UDR) zeigt Internet offline aber ist online](https://wolf-u.li/unifi-dream-router-udr-zeigt-internet-offline-aber-ist-online/) (4 months ago)
@@ -49,8 +49,8 @@
 
 #### ⭐ Recent Stars
 
-- [hugomods/pwa](https://github.com/hugomods/pwa) - :rocket: Hugo programmatic PWA Module (6 days ago)
-- [HyperToxic33/EBB-Fan-Control](https://github.com/HyperToxic33/EBB-Fan-Control) - Cooling Fan Control for EBB 36/42 CAN (1 week ago)
+- [hugomods/pwa](https://github.com/hugomods/pwa) - :rocket: Hugo programmatic PWA Module (1 week ago)
+- [HyperToxic33/EBB-Fan-Control](https://github.com/HyperToxic33/EBB-Fan-Control) - Cooling Fan Control for EBB 36/42 CAN (2 weeks ago)
 - [lubeda/EspHoMaTriXv2](https://github.com/lubeda/EspHoMaTriXv2) - A simple DIY status display with a 8x32 RGB LED matrix, implemented with esphome.io and Home Assistant. (2 weeks ago)
 - [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library. (3 weeks ago)
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server (1 month ago)
