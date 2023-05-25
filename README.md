@@ -49,6 +49,7 @@
 
 #### ⭐ Recent Stars
 
+- [thisiscam/nozzle_cleaner](https://github.com/thisiscam/nozzle_cleaner) - A little command to help purge and wipe the nozzle (today)
 - [hugomods/pwa](https://github.com/hugomods/pwa) - :rocket: Hugo programmatic PWA Module (1 week ago)
 - [HyperToxic33/EBB-Fan-Control](https://github.com/HyperToxic33/EBB-Fan-Control) - Cooling Fan Control for EBB 36/42 CAN (2 weeks ago)
 - [lubeda/EspHoMaTriXv2](https://github.com/lubeda/EspHoMaTriXv2) - A simple DIY status display with a 8x32 RGB LED matrix, implemented with esphome.io and Home Assistant. (2 weeks ago)
@@ -58,7 +59,6 @@
 - [hawkeyexp/auto_offset_z](https://github.com/hawkeyexp/auto_offset_z) -  (1 month ago)
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter (1 month ago)
 - [JonahKr/power-distribution-card](https://github.com/JonahKr/power-distribution-card) - A Lovelace Card for visualizing power distributions. (1 month ago)
-- [mr-manuel/venus-os_dbus-multiplus-emulator](https://github.com/mr-manuel/venus-os_dbus-multiplus-emulator) - This Venus OS driver emulates a MultiPlus-II in order to see the right AC load and flow, if you have the MQTT PV, Grid and Battery drivers but no MultiPlus-II. (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
