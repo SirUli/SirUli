@@ -4,7 +4,7 @@
 
 - [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus (2 months ago)
 - [kwindrem/ShutdownMonitor](https://github.com/kwindrem/ShutdownMonitor) -  (4 months ago)
-- [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) - Helper functions to simplify writing setup scripts that modify VenusOs functionality. The package includes automatic reinstallation of the package after a VenusOs update. (5 months ago)
+- [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) - Helper functions to simplify writing setup scripts that modify VenusOs functionality. The package includes automatic reinstallation of the package after a VenusOs update. (6 months ago)
 - [alxwolf/ubios-cert](https://github.com/alxwolf/ubios-cert) - Manage SSL / TLS certificates with acme.sh (Let&#39;s Encrypt, ZeroSSL) for Ubiquiti UbiOS firmwares (6 months ago)
 
 #### 🌱 Latest projects
@@ -33,11 +33,11 @@
 - [Move README to Markdown](https://github.com/kwindrem/ShutdownMonitor/pull/3) on [kwindrem/ShutdownMonitor](https://github.com/kwindrem/ShutdownMonitor) (4 months ago)
 - [Release of v1.10](https://github.com/SirUli/FroniusSmartmeter/pull/7) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (4 months ago)
 - [More Details on Products and Models](https://github.com/Rikkert-RS/VenusOS-TemperatureService/pull/2) on [Rikkert-RS/VenusOS-TemperatureService](https://github.com/Rikkert-RS/VenusOS-TemperatureService) (5 months ago)
-- [FroniusSmartmeter Repository](https://github.com/kwindrem/SetupHelper/pull/31) on [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) (5 months ago)
-- [fix: the gitHubInfo has to point to the default branch or tag](https://github.com/SirUli/FroniusSmartmeter/pull/4) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (5 months ago)
-- [fix: revert setting None to some values and --&gt; v1.9](https://github.com/SirUli/FroniusSmartmeter/pull/3) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (5 months ago)
-- [fix: rename python file and set correct initial values](https://github.com/SirUli/FroniusSmartmeter/pull/2) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (5 months ago)
-- [fix: rename to FroniusSmartmeter to be compatible with SetupHelper](https://github.com/SirUli/FroniusSmartmeter/pull/1) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (5 months ago)
+- [FroniusSmartmeter Repository](https://github.com/kwindrem/SetupHelper/pull/31) on [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) (6 months ago)
+- [fix: the gitHubInfo has to point to the default branch or tag](https://github.com/SirUli/FroniusSmartmeter/pull/4) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (6 months ago)
+- [fix: revert setting None to some values and --&gt; v1.9](https://github.com/SirUli/FroniusSmartmeter/pull/3) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (6 months ago)
+- [fix: rename python file and set correct initial values](https://github.com/SirUli/FroniusSmartmeter/pull/2) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (6 months ago)
+- [fix: rename to FroniusSmartmeter to be compatible with SetupHelper](https://github.com/SirUli/FroniusSmartmeter/pull/1) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (6 months ago)
 
 #### 📜 My recent blog posts
 
@@ -49,7 +49,7 @@
 
 #### ⭐ Recent Stars
 
-- [thisiscam/nozzle_cleaner](https://github.com/thisiscam/nozzle_cleaner) - A little command to help purge and wipe the nozzle (1 day ago)
+- [thisiscam/nozzle_cleaner](https://github.com/thisiscam/nozzle_cleaner) - A little command to help purge and wipe the nozzle (2 days ago)
 - [hugomods/pwa](https://github.com/hugomods/pwa) - :rocket: Hugo programmatic PWA Module (1 week ago)
 - [HyperToxic33/EBB-Fan-Control](https://github.com/HyperToxic33/EBB-Fan-Control) - Cooling Fan Control for EBB 36/42 CAN (2 weeks ago)
 - [lubeda/EspHoMaTriXv2](https://github.com/lubeda/EspHoMaTriXv2) - A simple DIY status display with a 8x32 RGB LED matrix, implemented with esphome.io and Home Assistant. (3 weeks ago)
