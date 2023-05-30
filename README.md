@@ -41,7 +41,7 @@
 
 #### 📜 My recent blog posts
 
-- [Rückleuchten für den Qeridoo Kidgoo 2](https://wolf-u.li/rueckleuchten-fuer-den-qeridoo-kidgoo-2/) (1 day ago)
+- [Rückleuchten für den Qeridoo Kidgoo 2](https://wolf-u.li/rueckleuchten-fuer-den-qeridoo-kidgoo-2/) (2 days ago)
 - [OpenSCAD: Nützliche Bibliotheken](https://wolf-u.li/openscad-nuetzliche-bibliotheken/) (1 month ago)
 - [ESP32-WROVER-DEV CAM - Freenove oder Fake](https://wolf-u.li/esp32-wrover-dev-freenove-oder-fake/) (1 month ago)
 - [Zehnder Q350 - Austausch der Kugellager des R3G190-RC05-29 nach 5 Jahren](https://wolf-u.li/zehnder-q350-kugellager-tausch/) (3 months ago)
@@ -49,16 +49,16 @@
 
 #### ⭐ Recent Stars
 
-- [thisiscam/nozzle_cleaner](https://github.com/thisiscam/nozzle_cleaner) - A little command to help purge and wipe the nozzle (4 days ago)
-- [hugomods/pwa](https://github.com/hugomods/pwa) - :rocket: Hugo programmatic PWA Module (1 week ago)
-- [HyperToxic33/EBB-Fan-Control](https://github.com/HyperToxic33/EBB-Fan-Control) - Cooling Fan Control for EBB 36/42 CAN (2 weeks ago)
+- [thisiscam/nozzle_cleaner](https://github.com/thisiscam/nozzle_cleaner) - A little command to help purge and wipe the nozzle (5 days ago)
+- [hugomods/pwa](https://github.com/hugomods/pwa) - :rocket: Hugo programmatic PWA Module (2 weeks ago)
+- [HyperToxic33/EBB-Fan-Control](https://github.com/HyperToxic33/EBB-Fan-Control) - Cooling Fan Control for EBB 36/42 CAN (3 weeks ago)
 - [lubeda/EspHoMaTriXv2](https://github.com/lubeda/EspHoMaTriXv2) - A simple DIY status display with a 8x32 RGB LED matrix, implemented with esphome.io and Home Assistant. (3 weeks ago)
 - [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library. (1 month ago)
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server (1 month ago)
 - [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows (1 month ago)
 - [hawkeyexp/auto_offset_z](https://github.com/hawkeyexp/auto_offset_z) -  (1 month ago)
-- [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter (1 month ago)
-- [JonahKr/power-distribution-card](https://github.com/JonahKr/power-distribution-card) - A Lovelace Card for visualizing power distributions. (1 month ago)
+- [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter (2 months ago)
+- [JonahKr/power-distribution-card](https://github.com/JonahKr/power-distribution-card) - A Lovelace Card for visualizing power distributions. (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
