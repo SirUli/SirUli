@@ -22,8 +22,8 @@
 
 #### 🔭 Recent Releases
 
-- [kwindrem/ShutdownMonitor](https://github.com/kwindrem/ShutdownMonitor) ([latest](https://github.com/kwindrem/ShutdownMonitor/releases/tag/latest), today) - 
-- [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) ([current](https://github.com/kwindrem/SetupHelper/releases/tag/current), 1 day ago) - Helper functions to simplify writing setup scripts that modify VenusOs functionality. The package includes automatic reinstallation of the package after a VenusOs update.
+- [kwindrem/ShutdownMonitor](https://github.com/kwindrem/ShutdownMonitor) ([latest](https://github.com/kwindrem/ShutdownMonitor/releases/tag/latest), 1 day ago) - 
+- [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) ([current](https://github.com/kwindrem/SetupHelper/releases/tag/current), 2 days ago) - Helper functions to simplify writing setup scripts that modify VenusOs functionality. The package includes automatic reinstallation of the package after a VenusOs update.
 - [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) ([v1.11](https://github.com/SirUli/FroniusSmartmeter/releases/tag/v1.11), 2 months ago) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus
 
 #### 🔨 Recent Pull Requests
@@ -41,7 +41,7 @@
 
 #### 📜 My recent blog posts
 
-- [Rückleuchten für den Qeridoo Kidgoo 2](https://wolf-u.li/rueckleuchten-fuer-den-qeridoo-kidgoo-2/) (3 days ago)
+- [Rückleuchten für den Qeridoo Kidgoo 2](https://wolf-u.li/rueckleuchten-fuer-den-qeridoo-kidgoo-2/) (4 days ago)
 - [OpenSCAD: Nützliche Bibliotheken](https://wolf-u.li/openscad-nuetzliche-bibliotheken/) (1 month ago)
 - [ESP32-WROVER-DEV CAM - Freenove oder Fake](https://wolf-u.li/esp32-wrover-dev-freenove-oder-fake/) (1 month ago)
 - [Zehnder Q350 - Austausch der Kugellager des R3G190-RC05-29 nach 5 Jahren](https://wolf-u.li/zehnder-q350-kugellager-tausch/) (4 months ago)
@@ -49,7 +49,7 @@
 
 #### ⭐ Recent Stars
 
-- [thisiscam/nozzle_cleaner](https://github.com/thisiscam/nozzle_cleaner) - A little command to help purge and wipe the nozzle (6 days ago)
+- [thisiscam/nozzle_cleaner](https://github.com/thisiscam/nozzle_cleaner) - A little command to help purge and wipe the nozzle (1 week ago)
 - [hugomods/pwa](https://github.com/hugomods/pwa) - :rocket: Hugo programmatic PWA Module (2 weeks ago)
 - [HyperToxic33/EBB-Fan-Control](https://github.com/HyperToxic33/EBB-Fan-Control) - Cooling Fan Control for EBB 36/42 CAN (3 weeks ago)
 - [lubeda/EspHoMaTriXv2](https://github.com/lubeda/EspHoMaTriXv2) - A simple DIY status display with a 8x32 RGB LED matrix, implemented with esphome.io and Home Assistant. (3 weeks ago)
