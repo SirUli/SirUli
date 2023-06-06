@@ -22,8 +22,8 @@
 
 #### 🔭 Recent Releases
 
-- [kwindrem/ShutdownMonitor](https://github.com/kwindrem/ShutdownMonitor) ([latest](https://github.com/kwindrem/ShutdownMonitor/releases/tag/latest), 5 days ago) - 
-- [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) ([current](https://github.com/kwindrem/SetupHelper/releases/tag/current), 6 days ago) - Helper functions to simplify writing setup scripts that modify VenusOs functionality. The package includes automatic reinstallation of the package after a VenusOs update.
+- [kwindrem/ShutdownMonitor](https://github.com/kwindrem/ShutdownMonitor) ([latest](https://github.com/kwindrem/ShutdownMonitor/releases/tag/latest), 6 days ago) - 
+- [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) ([current](https://github.com/kwindrem/SetupHelper/releases/tag/current), 1 week ago) - Helper functions to simplify writing setup scripts that modify VenusOs functionality. The package includes automatic reinstallation of the package after a VenusOs update.
 - [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) ([v1.11](https://github.com/SirUli/FroniusSmartmeter/releases/tag/v1.11), 3 months ago) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus
 
 #### 🔨 Recent Pull Requests
@@ -49,14 +49,14 @@
 
 #### ⭐ Recent Stars
 
-- [bigtreetech/BIGTREETECH-Relay-V1.2](https://github.com/bigtreetech/BIGTREETECH-Relay-V1.2) - BIGTREETECH Relay V1.2 is an upgrade of the original (BIGTREETECH V1.0). After upgrading, a small MCU was added on the module to make the module more controllable and stable. Besides, we have also increased short circuit detection circuit. After connecting the 5V and GND on the motherboard to the module, if there is a 5V short circuit, the module will immediately power off to prevent damage on the motherboard and the risk of fire caused by short circuit. (2 days ago)
-- [bigtreetech/smart-filament-detection-module](https://github.com/bigtreetech/smart-filament-detection-module) -  (2 days ago)
-- [bigtreetech/CB1](https://github.com/bigtreetech/CB1) - OS System image for CB1 (2 days ago)
-- [bigtreetech/EBB](https://github.com/bigtreetech/EBB) -  (2 days ago)
-- [bigtreetech/Manta-E3EZ](https://github.com/bigtreetech/Manta-E3EZ) -  (2 days ago)
+- [bigtreetech/BIGTREETECH-Relay-V1.2](https://github.com/bigtreetech/BIGTREETECH-Relay-V1.2) - BIGTREETECH Relay V1.2 is an upgrade of the original (BIGTREETECH V1.0). After upgrading, a small MCU was added on the module to make the module more controllable and stable. Besides, we have also increased short circuit detection circuit. After connecting the 5V and GND on the motherboard to the module, if there is a 5V short circuit, the module will immediately power off to prevent damage on the motherboard and the risk of fire caused by short circuit. (3 days ago)
+- [bigtreetech/smart-filament-detection-module](https://github.com/bigtreetech/smart-filament-detection-module) -  (3 days ago)
+- [bigtreetech/CB1](https://github.com/bigtreetech/CB1) - OS System image for CB1 (3 days ago)
+- [bigtreetech/EBB](https://github.com/bigtreetech/EBB) -  (3 days ago)
+- [bigtreetech/Manta-E3EZ](https://github.com/bigtreetech/Manta-E3EZ) -  (3 days ago)
 - [thisiscam/nozzle_cleaner](https://github.com/thisiscam/nozzle_cleaner) - A little command to help purge and wipe the nozzle (1 week ago)
-- [hugomods/pwa](https://github.com/hugomods/pwa) - :rocket: Hugo programmatic PWA Module (2 weeks ago)
-- [HyperToxic33/EBB-Fan-Control](https://github.com/HyperToxic33/EBB-Fan-Control) - Cooling Fan Control for EBB 36/42 CAN (3 weeks ago)
+- [hugomods/pwa](https://github.com/hugomods/pwa) - :rocket: Hugo programmatic PWA Module (3 weeks ago)
+- [HyperToxic33/EBB-Fan-Control](https://github.com/HyperToxic33/EBB-Fan-Control) - Cooling Fan Control for EBB 36/42 CAN (4 weeks ago)
 - [lubeda/EspHoMaTriXv2](https://github.com/lubeda/EspHoMaTriXv2) - A simple DIY status display with a 8x32 RGB LED matrix, implemented with esphome.io and Home Assistant. (1 month ago)
 - [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library. (1 month ago)
 
