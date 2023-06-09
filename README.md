@@ -49,11 +49,11 @@
 
 #### ⭐ Recent Stars
 
-- [bigtreetech/BIGTREETECH-Relay-V1.2](https://github.com/bigtreetech/BIGTREETECH-Relay-V1.2) - BIGTREETECH Relay V1.2 is an upgrade of the original (BIGTREETECH V1.0). After upgrading, a small MCU was added on the module to make the module more controllable and stable. Besides, we have also increased short circuit detection circuit. After connecting the 5V and GND on the motherboard to the module, if there is a 5V short circuit, the module will immediately power off to prevent damage on the motherboard and the risk of fire caused by short circuit. (5 days ago)
-- [bigtreetech/smart-filament-detection-module](https://github.com/bigtreetech/smart-filament-detection-module) -  (5 days ago)
-- [bigtreetech/CB1](https://github.com/bigtreetech/CB1) - OS System image for CB1 (5 days ago)
-- [bigtreetech/EBB](https://github.com/bigtreetech/EBB) -  (5 days ago)
-- [bigtreetech/Manta-E3EZ](https://github.com/bigtreetech/Manta-E3EZ) -  (5 days ago)
+- [bigtreetech/BIGTREETECH-Relay-V1.2](https://github.com/bigtreetech/BIGTREETECH-Relay-V1.2) - BIGTREETECH Relay V1.2 is an upgrade of the original (BIGTREETECH V1.0). After upgrading, a small MCU was added on the module to make the module more controllable and stable. Besides, we have also increased short circuit detection circuit. After connecting the 5V and GND on the motherboard to the module, if there is a 5V short circuit, the module will immediately power off to prevent damage on the motherboard and the risk of fire caused by short circuit. (6 days ago)
+- [bigtreetech/smart-filament-detection-module](https://github.com/bigtreetech/smart-filament-detection-module) -  (6 days ago)
+- [bigtreetech/CB1](https://github.com/bigtreetech/CB1) - OS System image for CB1 (6 days ago)
+- [bigtreetech/EBB](https://github.com/bigtreetech/EBB) -  (6 days ago)
+- [bigtreetech/Manta-E3EZ](https://github.com/bigtreetech/Manta-E3EZ) -  (6 days ago)
 - [thisiscam/nozzle_cleaner](https://github.com/thisiscam/nozzle_cleaner) - A little command to help purge and wipe the nozzle (2 weeks ago)
 - [hugomods/pwa](https://github.com/hugomods/pwa) - :rocket: Hugo programmatic PWA Module (3 weeks ago)
 - [HyperToxic33/EBB-Fan-Control](https://github.com/HyperToxic33/EBB-Fan-Control) - Cooling Fan Control for EBB 36/42 CAN (1 month ago)
