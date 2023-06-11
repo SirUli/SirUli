@@ -49,6 +49,7 @@
 
 #### ⭐ Recent Stars
 
+- [SolidCode/SolidPython](https://github.com/SolidCode/SolidPython) - A python frontend for solid modelling that compiles to OpenSCAD (today)
 - [tapnair/Project-Archiver](https://github.com/tapnair/Project-Archiver) - Fusion 360 Export Utility (1 day ago)
 - [dans98/Fusion-360-FDM-threads](https://github.com/dans98/Fusion-360-FDM-threads) -  (1 day ago)
 - [bigtreetech/BIGTREETECH-Relay-V1.2](https://github.com/bigtreetech/BIGTREETECH-Relay-V1.2) - BIGTREETECH Relay V1.2 is an upgrade of the original (BIGTREETECH V1.0). After upgrading, a small MCU was added on the module to make the module more controllable and stable. Besides, we have also increased short circuit detection circuit. After connecting the 5V and GND on the motherboard to the module, if there is a 5V short circuit, the module will immediately power off to prevent damage on the motherboard and the risk of fire caused by short circuit. (1 week ago)
@@ -58,7 +59,6 @@
 - [bigtreetech/Manta-E3EZ](https://github.com/bigtreetech/Manta-E3EZ) -  (1 week ago)
 - [thisiscam/nozzle_cleaner](https://github.com/thisiscam/nozzle_cleaner) - A little command to help purge and wipe the nozzle (2 weeks ago)
 - [hugomods/pwa](https://github.com/hugomods/pwa) - :rocket: Hugo programmatic PWA Module (3 weeks ago)
-- [HyperToxic33/EBB-Fan-Control](https://github.com/HyperToxic33/EBB-Fan-Control) - Cooling Fan Control for EBB 36/42 CAN (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
