@@ -32,7 +32,7 @@
 - [Feature prepare 0.11](https://github.com/SirUli/FroniusSmartmeter/pull/11) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (3 months ago)
 - [Move README to Markdown](https://github.com/kwindrem/ShutdownMonitor/pull/3) on [kwindrem/ShutdownMonitor](https://github.com/kwindrem/ShutdownMonitor) (5 months ago)
 - [Release of v1.10](https://github.com/SirUli/FroniusSmartmeter/pull/7) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (5 months ago)
-- [More Details on Products and Models](https://github.com/Rikkert-RS/VenusOS-TemperatureService/pull/2) on [Rikkert-RS/VenusOS-TemperatureService](https://github.com/Rikkert-RS/VenusOS-TemperatureService) (5 months ago)
+- [More Details on Products and Models](https://github.com/Rikkert-RS/VenusOS-TemperatureService/pull/2) on [Rikkert-RS/VenusOS-TemperatureService](https://github.com/Rikkert-RS/VenusOS-TemperatureService) (6 months ago)
 - [FroniusSmartmeter Repository](https://github.com/kwindrem/SetupHelper/pull/31) on [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) (6 months ago)
 - [fix: the gitHubInfo has to point to the default branch or tag](https://github.com/SirUli/FroniusSmartmeter/pull/4) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (6 months ago)
 - [fix: revert setting None to some values and --&gt; v1.9](https://github.com/SirUli/FroniusSmartmeter/pull/3) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (6 months ago)
@@ -49,9 +49,9 @@
 
 #### ⭐ Recent Stars
 
-- [SolidCode/SolidPython](https://github.com/SolidCode/SolidPython) - A python frontend for solid modelling that compiles to OpenSCAD (4 days ago)
-- [tapnair/Project-Archiver](https://github.com/tapnair/Project-Archiver) - Fusion 360 Export Utility (5 days ago)
-- [dans98/Fusion-360-FDM-threads](https://github.com/dans98/Fusion-360-FDM-threads) -  (5 days ago)
+- [SolidCode/SolidPython](https://github.com/SolidCode/SolidPython) - A python frontend for solid modelling that compiles to OpenSCAD (5 days ago)
+- [tapnair/Project-Archiver](https://github.com/tapnair/Project-Archiver) - Fusion 360 Export Utility (6 days ago)
+- [dans98/Fusion-360-FDM-threads](https://github.com/dans98/Fusion-360-FDM-threads) -  (6 days ago)
 - [bigtreetech/BIGTREETECH-Relay-V1.2](https://github.com/bigtreetech/BIGTREETECH-Relay-V1.2) - BIGTREETECH Relay V1.2 is an upgrade of the original (BIGTREETECH V1.0). After upgrading, a small MCU was added on the module to make the module more controllable and stable. Besides, we have also increased short circuit detection circuit. After connecting the 5V and GND on the motherboard to the module, if there is a 5V short circuit, the module will immediately power off to prevent damage on the motherboard and the risk of fire caused by short circuit. (1 week ago)
 - [bigtreetech/smart-filament-detection-module](https://github.com/bigtreetech/smart-filament-detection-module) -  (1 week ago)
 - [bigtreetech/CB1](https://github.com/bigtreetech/CB1) - OS System image for CB1 (1 week ago)
