@@ -49,14 +49,14 @@
 
 #### ⭐ Recent Stars
 
-- [SolidCode/SolidPython](https://github.com/SolidCode/SolidPython) - A python frontend for solid modelling that compiles to OpenSCAD (5 days ago)
-- [tapnair/Project-Archiver](https://github.com/tapnair/Project-Archiver) - Fusion 360 Export Utility (6 days ago)
-- [dans98/Fusion-360-FDM-threads](https://github.com/dans98/Fusion-360-FDM-threads) -  (6 days ago)
-- [bigtreetech/BIGTREETECH-Relay-V1.2](https://github.com/bigtreetech/BIGTREETECH-Relay-V1.2) - BIGTREETECH Relay V1.2 is an upgrade of the original (BIGTREETECH V1.0). After upgrading, a small MCU was added on the module to make the module more controllable and stable. Besides, we have also increased short circuit detection circuit. After connecting the 5V and GND on the motherboard to the module, if there is a 5V short circuit, the module will immediately power off to prevent damage on the motherboard and the risk of fire caused by short circuit. (1 week ago)
-- [bigtreetech/smart-filament-detection-module](https://github.com/bigtreetech/smart-filament-detection-module) -  (1 week ago)
-- [bigtreetech/CB1](https://github.com/bigtreetech/CB1) - OS System image for CB1 (1 week ago)
-- [bigtreetech/EBB](https://github.com/bigtreetech/EBB) -  (1 week ago)
-- [bigtreetech/Manta-E3EZ](https://github.com/bigtreetech/Manta-E3EZ) -  (1 week ago)
+- [SolidCode/SolidPython](https://github.com/SolidCode/SolidPython) - A python frontend for solid modelling that compiles to OpenSCAD (6 days ago)
+- [tapnair/Project-Archiver](https://github.com/tapnair/Project-Archiver) - Fusion 360 Export Utility (1 week ago)
+- [dans98/Fusion-360-FDM-threads](https://github.com/dans98/Fusion-360-FDM-threads) -  (1 week ago)
+- [bigtreetech/BIGTREETECH-Relay-V1.2](https://github.com/bigtreetech/BIGTREETECH-Relay-V1.2) - BIGTREETECH Relay V1.2 is an upgrade of the original (BIGTREETECH V1.0). After upgrading, a small MCU was added on the module to make the module more controllable and stable. Besides, we have also increased short circuit detection circuit. After connecting the 5V and GND on the motherboard to the module, if there is a 5V short circuit, the module will immediately power off to prevent damage on the motherboard and the risk of fire caused by short circuit. (2 weeks ago)
+- [bigtreetech/smart-filament-detection-module](https://github.com/bigtreetech/smart-filament-detection-module) -  (2 weeks ago)
+- [bigtreetech/CB1](https://github.com/bigtreetech/CB1) - OS System image for CB1 (2 weeks ago)
+- [bigtreetech/EBB](https://github.com/bigtreetech/EBB) -  (2 weeks ago)
+- [bigtreetech/Manta-E3EZ](https://github.com/bigtreetech/Manta-E3EZ) -  (2 weeks ago)
 - [thisiscam/nozzle_cleaner](https://github.com/thisiscam/nozzle_cleaner) - A little command to help purge and wipe the nozzle (3 weeks ago)
 - [hugomods/pwa](https://github.com/hugomods/pwa) - :rocket: Hugo programmatic PWA Module (1 month ago)
 
