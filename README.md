@@ -23,7 +23,7 @@
 #### 🔭 Recent Releases
 
 - [kwindrem/ShutdownMonitor](https://github.com/kwindrem/ShutdownMonitor) ([latest](https://github.com/kwindrem/ShutdownMonitor/releases/tag/latest), 2 weeks ago) - 
-- [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) ([current](https://github.com/kwindrem/SetupHelper/releases/tag/current), 2 weeks ago) - Helper functions to simplify writing setup scripts that modify VenusOs functionality. The package includes automatic reinstallation of the package after a VenusOs update.
+- [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) ([current](https://github.com/kwindrem/SetupHelper/releases/tag/current), 3 weeks ago) - Helper functions to simplify writing setup scripts that modify VenusOs functionality. The package includes automatic reinstallation of the package after a VenusOs update.
 - [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) ([v1.11](https://github.com/SirUli/FroniusSmartmeter/releases/tag/v1.11), 3 months ago) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus
 
 #### 🔨 Recent Pull Requests
@@ -41,7 +41,7 @@
 
 #### 📜 My recent blog posts
 
-- [Victron MultiPlus 2 48V Lüfterstecker Typ](https://wolf-u.li/victron-multiplus-2-48v-luefterstecker-typ/) (2 weeks ago)
+- [Victron MultiPlus 2 48V Lüfterstecker Typ](https://wolf-u.li/victron-multiplus-2-48v-luefterstecker-typ/) (3 weeks ago)
 - [Rückleuchten für den Qeridoo Kidgoo 2](https://wolf-u.li/rueckleuchten-fuer-den-qeridoo-kidgoo-2/) (3 weeks ago)
 - [OpenSCAD: Nützliche Bibliotheken](https://wolf-u.li/openscad-nuetzliche-bibliotheken/) (1 month ago)
 - [ESP32-WROVER-DEV CAM - Freenove oder Fake](https://wolf-u.li/esp32-wrover-dev-freenove-oder-fake/) (1 month ago)
