@@ -49,6 +49,7 @@
 
 #### ⭐ Recent Stars
 
+- [alecGraves/Fusion360PrinterMaterials](https://github.com/alecGraves/Fusion360PrinterMaterials) - 3D-Printed Materials for Autodesk Fusion360 -- Printed PLA, PETG, ABS, PC, PolyMax PC (today)
 - [SolidCode/SolidPython](https://github.com/SolidCode/SolidPython) - A python frontend for solid modelling that compiles to OpenSCAD (2 weeks ago)
 - [tapnair/Project-Archiver](https://github.com/tapnair/Project-Archiver) - Fusion 360 Export Utility (2 weeks ago)
 - [dans98/Fusion-360-FDM-threads](https://github.com/dans98/Fusion-360-FDM-threads) -  (2 weeks ago)
@@ -58,7 +59,6 @@
 - [bigtreetech/EBB](https://github.com/bigtreetech/EBB) -  (3 weeks ago)
 - [bigtreetech/Manta-E3EZ](https://github.com/bigtreetech/Manta-E3EZ) -  (3 weeks ago)
 - [thisiscam/nozzle_cleaner](https://github.com/thisiscam/nozzle_cleaner) - A little command to help purge and wipe the nozzle (1 month ago)
-- [hugomods/pwa](https://github.com/hugomods/pwa) - :rocket: Hugo programmatic PWA Module (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
