@@ -67,8 +67,8 @@ For more information, see [the sponsors page](https://github.com/sponsors/SirUli
 
 #### 👯 Recent followers
 
-- [nevo-david](https://github.com/nevo-david)
 - [Grampy-69](https://github.com/Grampy-69)
 - [issic](https://github.com/issic)
 - [aramirol](https://github.com/aramirol)
 - [pjnovas](https://github.com/pjnovas)
+- [Woki-Leo](https://github.com/Woki-Leo)
