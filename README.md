@@ -28,6 +28,8 @@
 
 #### 🔨 Recent Pull Requests
 
+- [docs(datasource): Add additional examples for custom datasource](https://github.com/renovatebot/renovate/pull/23558) on [renovatebot/renovate](https://github.com/renovatebot/renovate) (today)
+- [docs(datasource): Add additional examples for custom datasource](https://github.com/SirUli/renovate/pull/1) on [SirUli/renovate](https://github.com/SirUli/renovate) (today)
 - [fix: Add more details in README](https://github.com/SirUli/FroniusSmartmeter/pull/12) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (4 months ago)
 - [Feature prepare 0.11](https://github.com/SirUli/FroniusSmartmeter/pull/11) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (4 months ago)
 - [Move README to Markdown](https://github.com/kwindrem/ShutdownMonitor/pull/3) on [kwindrem/ShutdownMonitor](https://github.com/kwindrem/ShutdownMonitor) (6 months ago)
@@ -36,8 +38,6 @@
 - [FroniusSmartmeter Repository](https://github.com/kwindrem/SetupHelper/pull/31) on [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) (7 months ago)
 - [fix: the gitHubInfo has to point to the default branch or tag](https://github.com/SirUli/FroniusSmartmeter/pull/4) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (7 months ago)
 - [fix: revert setting None to some values and --&gt; v1.9](https://github.com/SirUli/FroniusSmartmeter/pull/3) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (7 months ago)
-- [fix: rename python file and set correct initial values](https://github.com/SirUli/FroniusSmartmeter/pull/2) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (7 months ago)
-- [fix: rename to FroniusSmartmeter to be compatible with SetupHelper](https://github.com/SirUli/FroniusSmartmeter/pull/1) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (7 months ago)
 
 #### 📜 My recent blog posts
 
