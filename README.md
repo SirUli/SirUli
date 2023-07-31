@@ -28,8 +28,8 @@
 
 #### 🔨 Recent Pull Requests
 
-- [docs(datasource): Add additional examples for custom datasource](https://github.com/renovatebot/renovate/pull/23558) on [renovatebot/renovate](https://github.com/renovatebot/renovate) (5 days ago)
-- [docs(datasource): Add additional examples for custom datasource](https://github.com/SirUli/renovate/pull/1) on [SirUli/renovate](https://github.com/SirUli/renovate) (5 days ago)
+- [docs(datasource): Add additional examples for custom datasource](https://github.com/renovatebot/renovate/pull/23558) on [renovatebot/renovate](https://github.com/renovatebot/renovate) (6 days ago)
+- [docs(datasource): Add additional examples for custom datasource](https://github.com/SirUli/renovate/pull/1) on [SirUli/renovate](https://github.com/SirUli/renovate) (6 days ago)
 - [fix: Add more details in README](https://github.com/SirUli/FroniusSmartmeter/pull/12) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (4 months ago)
 - [Feature prepare 0.11](https://github.com/SirUli/FroniusSmartmeter/pull/11) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (4 months ago)
 - [Move README to Markdown](https://github.com/kwindrem/ShutdownMonitor/pull/3) on [kwindrem/ShutdownMonitor](https://github.com/kwindrem/ShutdownMonitor) (6 months ago)
