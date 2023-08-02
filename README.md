@@ -43,7 +43,15 @@
 - [FroniusSmartmeter Repository](https://github.com/kwindrem/SetupHelper/pull/31) on [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) (8 months ago)
 - [fix: the gitHubInfo has to point to the default branch or tag](https://github.com/SirUli/FroniusSmartmeter/pull/4) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (8 months ago)
 
-#### 📜 My recent blog posts
+#### 📜 My recent blog posts (English)
+
+- [BIGTREETECH EBB36 5V tolerant pins](https://wolf-u.li/bigtreetech-ebb36-5v-tolerant-pins/) (2 weeks ago)
+- [BIGTREETECH Manta E3EZ Fan voltage](https://wolf-u.li/bigtreetech-manta-e3ez-fan-voltage/) (2 weeks ago)
+- [Gridfinity Generator using Autodesk Fusion 360](https://wolf-u.li/gridfinity-generator-using-fusion360/) (2 weeks ago)
+- [Klipper 0.11 menuconfig for the Ender 3 v2](https://wolf-u.li/en/klipper-011-menuconfig-for-the-ender3v2/) (3 weeks ago)
+- [BIGTREETECH EBB36 CAN bus connector](https://wolf-u.li/en/bigtreetech-ebb36-can-bus-connector/) (1 month ago)
+
+#### 📜 My recent blog posts (German)
 
 - [Victron MultiPlus 2 48V Lüfterstecker Typ](https://wolf-u.li/victron-multiplus-2-48v-luefterstecker-typ/) (2 months ago)
 - [Rückleuchten für den Qeridoo Kidgoo 2](https://wolf-u.li/rueckleuchten-fuer-den-qeridoo-kidgoo-2/) (2 months ago)
