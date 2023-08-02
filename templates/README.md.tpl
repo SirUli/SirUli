@@ -20,7 +20,12 @@
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-#### 📜 My recent blog posts
+#### 📜 My recent blog posts (English)
+{{range rss "https://wolf-u.li/en/index.xml" 5}}
+- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+{{- end}}
+
+#### 📜 My recent blog posts (German)
 {{range rss "https://wolf-u.li/index.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
