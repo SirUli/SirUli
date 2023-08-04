@@ -61,6 +61,7 @@
 
 #### ⭐ Recent Stars
 
+- [julianschill/klipper-led_effect](https://github.com/julianschill/klipper-led_effect) - LED effects plugin for klipper (today)
 - [alecGraves/Fusion360PrinterMaterials](https://github.com/alecGraves/Fusion360PrinterMaterials) - 3D-Printed Materials for Autodesk Fusion360 -- Printed PLA, PETG, ABS, PC, PolyMax PC (1 month ago)
 - [SolidCode/SolidPython](https://github.com/SolidCode/SolidPython) - A python frontend for solid modelling that compiles to OpenSCAD (1 month ago)
 - [tapnair/Project-Archiver](https://github.com/tapnair/Project-Archiver) - Fusion 360 Export Utility (1 month ago)
@@ -70,7 +71,6 @@
 - [bigtreetech/CB1](https://github.com/bigtreetech/CB1) - OS System image for CB1 (2 months ago)
 - [bigtreetech/EBB](https://github.com/bigtreetech/EBB) -  (2 months ago)
 - [bigtreetech/Manta-E3EZ](https://github.com/bigtreetech/Manta-E3EZ) -  (2 months ago)
-- [thisiscam/nozzle_cleaner](https://github.com/thisiscam/nozzle_cleaner) - A little command to help purge and wipe the nozzle (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
