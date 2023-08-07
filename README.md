@@ -45,11 +45,11 @@
 
 #### 📜 My recent blog posts (English)
 
-- [BIGTREETECH EBB36 5V tolerant pins](https://wolf-u.li/bigtreetech-ebb36-5v-tolerant-pins/) (3 weeks ago)
+- [BIGTREETECH 40-Pin GPIO - CM4 to CB1 mapping](https://wolf-u.li/en/bigtreetech-40-pin-gpio-cm4-cb1-mapping/) (today)
+- [Klipper: Force movement of a stepper motor](https://wolf-u.li/en/klipper-force-movement-of-stepper/) (today)
+- [BIGTREETECH EBB36 5V tolerant pins](https://wolf-u.li/en/bigtreetech-ebb36-5v-tolerant-pins/) (3 weeks ago)
 - [BIGTREETECH Manta E3EZ Fan voltage](https://wolf-u.li/bigtreetech-manta-e3ez-fan-voltage/) (3 weeks ago)
 - [Gridfinity Generator using Autodesk Fusion 360](https://wolf-u.li/gridfinity-generator-using-fusion360/) (3 weeks ago)
-- [Klipper 0.11 menuconfig for the Ender 3 v2](https://wolf-u.li/en/klipper-011-menuconfig-for-the-ender3v2/) (3 weeks ago)
-- [BIGTREETECH EBB36 CAN bus connector](https://wolf-u.li/en/bigtreetech-ebb36-can-bus-connector/) (1 month ago)
 
 #### 📜 My recent blog posts (German)
 
