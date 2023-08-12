@@ -24,7 +24,7 @@
 
 #### 🔭 Recent Releases
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.42.3](https://github.com/renovatebot/renovate/releases/tag/36.42.3), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.42.3](https://github.com/renovatebot/renovate/releases/tag/36.42.3), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) ([v0.9.10](https://github.com/jon-harper/OmniBox/releases/tag/v0.9.10), 1 week ago) - Modular, 3D printable electronics case for 3D printers
 - [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) ([current](https://github.com/kwindrem/SetupHelper/releases/tag/current), 1 month ago) - Helper functions to simplify writing setup scripts that modify VenusOs functionality. The package includes automatic reinstallation of the package after a VenusOs update.
 - [kwindrem/ShutdownMonitor](https://github.com/kwindrem/ShutdownMonitor) ([latest](https://github.com/kwindrem/ShutdownMonitor/releases/tag/latest), 2 months ago) - 
@@ -45,11 +45,11 @@
 
 #### 📜 My recent blog posts (English)
 
-- [BIGTREETECH 40-Pin GPIO - CM4 to CB1 mapping](https://wolf-u.li/en/bigtreetech-40-pin-gpio-cm4-cb1-mapping/) (4 days ago)
-- [Klipper: Force movement of a stepper motor](https://wolf-u.li/en/klipper-force-movement-of-stepper/) (4 days ago)
+- [BIGTREETECH 40-Pin GPIO - CM4 to CB1 mapping](https://wolf-u.li/en/bigtreetech-40-pin-gpio-cm4-cb1-mapping/) (5 days ago)
+- [Klipper: Force movement of a stepper motor](https://wolf-u.li/en/klipper-force-movement-of-stepper/) (5 days ago)
 - [BIGTREETECH EBB36 5V tolerant pins](https://wolf-u.li/en/bigtreetech-ebb36-5v-tolerant-pins/) (4 weeks ago)
-- [BIGTREETECH Manta E3EZ Fan voltage](https://wolf-u.li/bigtreetech-manta-e3ez-fan-voltage/) (4 weeks ago)
-- [Gridfinity Generator using Autodesk Fusion 360](https://wolf-u.li/gridfinity-generator-using-fusion360/) (4 weeks ago)
+- [BIGTREETECH Manta E3EZ Fan voltage](https://wolf-u.li/bigtreetech-manta-e3ez-fan-voltage/) (1 month ago)
+- [Gridfinity Generator using Autodesk Fusion 360](https://wolf-u.li/gridfinity-generator-using-fusion360/) (1 month ago)
 
 #### 📜 My recent blog posts (German)
 
@@ -61,7 +61,7 @@
 
 #### ⭐ Recent Stars
 
-- [HelgeKeck/rome](https://github.com/HelgeKeck/rome) - Multi extruder to direct extruder setup (3 days ago)
+- [HelgeKeck/rome](https://github.com/HelgeKeck/rome) - Multi extruder to direct extruder setup (4 days ago)
 - [julianschill/klipper-led_effect](https://github.com/julianschill/klipper-led_effect) - LED effects plugin for klipper (1 week ago)
 - [alecGraves/Fusion360PrinterMaterials](https://github.com/alecGraves/Fusion360PrinterMaterials) - 3D-Printed Materials for Autodesk Fusion360 -- Printed PLA, PETG, ABS, PC, PolyMax PC (1 month ago)
 - [SolidCode/SolidPython](https://github.com/SolidCode/SolidPython) - A python frontend for solid modelling that compiles to OpenSCAD (2 months ago)
