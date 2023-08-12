@@ -61,6 +61,7 @@
 
 #### ⭐ Recent Stars
 
+- [sobieh/bttrelay](https://github.com/sobieh/bttrelay) - BTT Relay 1.2 - Firmware (today)
 - [HelgeKeck/rome](https://github.com/HelgeKeck/rome) - Multi extruder to direct extruder setup (4 days ago)
 - [julianschill/klipper-led_effect](https://github.com/julianschill/klipper-led_effect) - LED effects plugin for klipper (1 week ago)
 - [alecGraves/Fusion360PrinterMaterials](https://github.com/alecGraves/Fusion360PrinterMaterials) - 3D-Printed Materials for Autodesk Fusion360 -- Printed PLA, PETG, ABS, PC, PolyMax PC (1 month ago)
@@ -70,7 +71,6 @@
 - [bigtreetech/BIGTREETECH-Relay-V1.2](https://github.com/bigtreetech/BIGTREETECH-Relay-V1.2) - BIGTREETECH Relay V1.2 is an upgrade of the original (BIGTREETECH V1.0). After upgrading, a small MCU was added on the module to make the module more controllable and stable. Besides, we have also increased short circuit detection circuit. After connecting the 5V and GND on the motherboard to the module, if there is a 5V short circuit, the module will immediately power off to prevent damage on the motherboard and the risk of fire caused by short circuit. (2 months ago)
 - [bigtreetech/smart-filament-detection-module](https://github.com/bigtreetech/smart-filament-detection-module) -  (2 months ago)
 - [bigtreetech/CB1](https://github.com/bigtreetech/CB1) - OS System image for CB1 (2 months ago)
-- [bigtreetech/EBB](https://github.com/bigtreetech/EBB) -  (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
