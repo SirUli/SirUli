@@ -45,7 +45,7 @@
 
 #### 📜 My recent blog posts (English)
 
-- [Orbiter 1.5 Extruder - Filament sensor](https://wolf-u.li/en/orbiter-1.5-extruder-filament-sensor) (2 days ago)
+- [Orbiter 1.5 Extruder - Filament sensor](https://wolf-u.li/en/orbiter-1-5-extruder-filament-sensor/) (2 days ago)
 - [BIGTREETECH 40-Pin GPIO - CM4 to CB1 mapping](https://wolf-u.li/en/bigtreetech-40-pin-gpio-cm4-cb1-mapping/) (6 days ago)
 - [Klipper: Force movement of a stepper motor](https://wolf-u.li/en/klipper-force-movement-of-stepper/) (6 days ago)
 - [BIGTREETECH EBB36 5V tolerant pins](https://wolf-u.li/en/bigtreetech-ebb36-5v-tolerant-pins/) (1 month ago)
