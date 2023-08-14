@@ -24,8 +24,8 @@
 
 #### 🔭 Recent Releases
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.42.4](https://github.com/renovatebot/renovate/releases/tag/36.42.4), today) - Universal dependency update tool that fits into your workflows.
-- [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) ([v0.9.10](https://github.com/jon-harper/OmniBox/releases/tag/v0.9.10), 1 week ago) - Modular, 3D printable electronics case for 3D printers
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.42.4](https://github.com/renovatebot/renovate/releases/tag/36.42.4), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) ([v0.9.10](https://github.com/jon-harper/OmniBox/releases/tag/v0.9.10), 2 weeks ago) - Modular, 3D printable electronics case for 3D printers
 - [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) ([current](https://github.com/kwindrem/SetupHelper/releases/tag/current), 1 month ago) - Helper functions to simplify writing setup scripts that modify VenusOs functionality. The package includes automatic reinstallation of the package after a VenusOs update.
 - [kwindrem/ShutdownMonitor](https://github.com/kwindrem/ShutdownMonitor) ([latest](https://github.com/kwindrem/ShutdownMonitor/releases/tag/latest), 2 months ago) - 
 - [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) ([v1.11](https://github.com/SirUli/FroniusSmartmeter/releases/tag/v1.11), 5 months ago) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus
@@ -33,7 +33,7 @@
 #### 🔨 Recent Pull Requests
 
 - [docs(display): Add docs for btt hdmi5](https://github.com/jon-harper/OmniBox/pull/129) on [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) (1 week ago)
-- [feat(btt_hdmi5): Add BIGTREETECH HDMI5 Display](https://github.com/jon-harper/OmniBox/pull/128) on [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) (1 week ago)
+- [feat(btt_hdmi5): Add BIGTREETECH HDMI5 Display](https://github.com/jon-harper/OmniBox/pull/128) on [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) (2 weeks ago)
 - [docs(datasource): Add additional examples for custom datasource](https://github.com/renovatebot/renovate/pull/23558) on [renovatebot/renovate](https://github.com/renovatebot/renovate) (2 weeks ago)
 - [fix: Add more details in README](https://github.com/SirUli/FroniusSmartmeter/pull/12) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (5 months ago)
 - [Feature prepare 0.11](https://github.com/SirUli/FroniusSmartmeter/pull/11) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (5 months ago)
@@ -45,9 +45,9 @@
 
 #### 📜 My recent blog posts (English)
 
-- [Orbiter 1.5 Extruder - Filament sensor](https://wolf-u.li/en/orbiter-1-5-extruder-filament-sensor/) (2 days ago)
-- [BIGTREETECH 40-Pin GPIO - CM4 to CB1 mapping](https://wolf-u.li/en/bigtreetech-40-pin-gpio-cm4-cb1-mapping/) (6 days ago)
-- [Klipper: Force movement of a stepper motor](https://wolf-u.li/en/klipper-force-movement-of-stepper/) (6 days ago)
+- [Orbiter 1.5 Extruder - Filament sensor](https://wolf-u.li/en/orbiter-1-5-extruder-filament-sensor/) (3 days ago)
+- [BIGTREETECH 40-Pin GPIO - CM4 to CB1 mapping](https://wolf-u.li/en/bigtreetech-40-pin-gpio-cm4-cb1-mapping/) (1 week ago)
+- [Klipper: Force movement of a stepper motor](https://wolf-u.li/en/klipper-force-movement-of-stepper/) (1 week ago)
 - [BIGTREETECH EBB36 5V tolerant pins](https://wolf-u.li/en/bigtreetech-ebb36-5v-tolerant-pins/) (1 month ago)
 - [BIGTREETECH Manta E3EZ Fan voltage](https://wolf-u.li/bigtreetech-manta-e3ez-fan-voltage/) (1 month ago)
 
@@ -61,8 +61,8 @@
 
 #### ⭐ Recent Stars
 
-- [sobieh/bttrelay](https://github.com/sobieh/bttrelay) - BTT Relay 1.2 - Firmware (1 day ago)
-- [HelgeKeck/rome](https://github.com/HelgeKeck/rome) - Multi extruder to direct extruder setup (5 days ago)
+- [sobieh/bttrelay](https://github.com/sobieh/bttrelay) - BTT Relay 1.2 - Firmware (2 days ago)
+- [HelgeKeck/rome](https://github.com/HelgeKeck/rome) - Multi extruder to direct extruder setup (6 days ago)
 - [julianschill/klipper-led_effect](https://github.com/julianschill/klipper-led_effect) - LED effects plugin for klipper (1 week ago)
 - [alecGraves/Fusion360PrinterMaterials](https://github.com/alecGraves/Fusion360PrinterMaterials) - 3D-Printed Materials for Autodesk Fusion360 -- Printed PLA, PETG, ABS, PC, PolyMax PC (1 month ago)
 - [SolidCode/SolidPython](https://github.com/SolidCode/SolidPython) - A python frontend for solid modelling that compiles to OpenSCAD (2 months ago)
