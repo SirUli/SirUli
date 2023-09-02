@@ -4,7 +4,7 @@
 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. (1 month ago)
 - [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) - Modular, 3D printable electronics case for 3D printers (1 month ago)
-- [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus (5 months ago)
+- [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus (6 months ago)
 - [kwindrem/ShutdownMonitor](https://github.com/kwindrem/ShutdownMonitor) -  (8 months ago)
 - [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) - Helper functions to simplify writing setup scripts that modify VenusOs functionality. The package includes automatic reinstallation of the package after a VenusOs update. (9 months ago)
 - [alxwolf/ubios-cert](https://github.com/alxwolf/ubios-cert) - Manage SSL / TLS certificates with acme.sh (Let&#39;s Encrypt, ZeroSSL) for Ubiquiti UbiOS firmwares (10 months ago)
@@ -24,8 +24,8 @@
 
 #### 🔭 Recent Releases
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.78.7](https://github.com/renovatebot/renovate/releases/tag/36.78.7), today) - Universal dependency update tool that fits into your workflows.
-- [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) ([latest](https://github.com/kwindrem/SetupHelper/releases/tag/latest), 2 days ago) - Helper functions to simplify writing setup scripts that modify VenusOs functionality. The package includes automatic reinstallation of the package after a VenusOs update.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.78.7](https://github.com/renovatebot/renovate/releases/tag/36.78.7), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) ([latest](https://github.com/kwindrem/SetupHelper/releases/tag/latest), 3 days ago) - Helper functions to simplify writing setup scripts that modify VenusOs functionality. The package includes automatic reinstallation of the package after a VenusOs update.
 - [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) ([v0.9.10](https://github.com/jon-harper/OmniBox/releases/tag/v0.9.10), 1 month ago) - Modular, 3D printable electronics case for 3D printers
 - [kwindrem/ShutdownMonitor](https://github.com/kwindrem/ShutdownMonitor) ([latest](https://github.com/kwindrem/ShutdownMonitor/releases/tag/latest), 3 months ago) - 
 - [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) ([v1.11](https://github.com/SirUli/FroniusSmartmeter/releases/tag/v1.11), 6 months ago) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus
@@ -35,7 +35,7 @@
 - [docs(display): Add docs for btt hdmi5](https://github.com/jon-harper/OmniBox/pull/129) on [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) (1 month ago)
 - [feat(btt_hdmi5): Add BIGTREETECH HDMI5 Display](https://github.com/jon-harper/OmniBox/pull/128) on [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) (1 month ago)
 - [docs(datasource): Add additional examples for custom datasource](https://github.com/renovatebot/renovate/pull/23558) on [renovatebot/renovate](https://github.com/renovatebot/renovate) (1 month ago)
-- [fix: Add more details in README](https://github.com/SirUli/FroniusSmartmeter/pull/12) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (5 months ago)
+- [fix: Add more details in README](https://github.com/SirUli/FroniusSmartmeter/pull/12) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (6 months ago)
 - [Feature prepare 0.11](https://github.com/SirUli/FroniusSmartmeter/pull/11) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (6 months ago)
 - [Move README to Markdown](https://github.com/kwindrem/ShutdownMonitor/pull/3) on [kwindrem/ShutdownMonitor](https://github.com/kwindrem/ShutdownMonitor) (8 months ago)
 - [Release of v1.10](https://github.com/SirUli/FroniusSmartmeter/pull/7) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (8 months ago)
@@ -61,7 +61,7 @@
 
 #### ⭐ Recent Stars
 
-- [sobieh/bttrelay](https://github.com/sobieh/bttrelay) - BTT Relay 1.2 - Firmware (2 weeks ago)
+- [sobieh/bttrelay](https://github.com/sobieh/bttrelay) - BTT Relay 1.2 - Firmware (3 weeks ago)
 - [HelgeKeck/rome](https://github.com/HelgeKeck/rome) - Multi extruder to direct extruder setup (3 weeks ago)
 - [julianschill/klipper-led_effect](https://github.com/julianschill/klipper-led_effect) - LED effects plugin for klipper (4 weeks ago)
 - [alecGraves/Fusion360PrinterMaterials](https://github.com/alecGraves/Fusion360PrinterMaterials) - 3D-Printed Materials for Autodesk Fusion360 -- Printed PLA, PETG, ABS, PC, PolyMax PC (2 months ago)
