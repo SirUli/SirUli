@@ -61,6 +61,7 @@
 
 #### ⭐ Recent Stars
 
+- [MSzturc/the100](https://github.com/MSzturc/the100) - THE 100 - The worlds fastest 3D Printer based on a printed frame (today)
 - [sobieh/bttrelay](https://github.com/sobieh/bttrelay) - BTT Relay 1.2 - Firmware (3 weeks ago)
 - [HelgeKeck/rome](https://github.com/HelgeKeck/rome) - Multi extruder to direct extruder setup (3 weeks ago)
 - [julianschill/klipper-led_effect](https://github.com/julianschill/klipper-led_effect) - LED effects plugin for klipper (1 month ago)
@@ -70,7 +71,6 @@
 - [dans98/Fusion-360-FDM-threads](https://github.com/dans98/Fusion-360-FDM-threads) -  (2 months ago)
 - [bigtreetech/BIGTREETECH-Relay-V1.2](https://github.com/bigtreetech/BIGTREETECH-Relay-V1.2) - BIGTREETECH Relay V1.2 is an upgrade of the original (BIGTREETECH V1.0). After upgrading, a small MCU was added on the module to make the module more controllable and stable. Besides, we have also increased short circuit detection circuit. After connecting the 5V and GND on the motherboard to the module, if there is a 5V short circuit, the module will immediately power off to prevent damage on the motherboard and the risk of fire caused by short circuit. (3 months ago)
 - [bigtreetech/smart-filament-detection-module](https://github.com/bigtreetech/smart-filament-detection-module) -  (3 months ago)
-- [bigtreetech/CB1](https://github.com/bigtreetech/CB1) - OS System image for CB1 (3 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
