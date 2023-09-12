@@ -24,8 +24,8 @@
 
 #### 🔭 Recent Releases
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.92.1](https://github.com/renovatebot/renovate/releases/tag/36.92.1), today) - Universal dependency update tool that fits into your workflows.
-- [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) ([latest](https://github.com/kwindrem/SetupHelper/releases/tag/latest), 2 days ago) - Helper functions to simplify writing setup scripts that modify VenusOs functionality. The package includes automatic reinstallation of the package after a VenusOs update.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.92.1](https://github.com/renovatebot/renovate/releases/tag/36.92.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) ([latest](https://github.com/kwindrem/SetupHelper/releases/tag/latest), 3 days ago) - Helper functions to simplify writing setup scripts that modify VenusOs functionality. The package includes automatic reinstallation of the package after a VenusOs update.
 - [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) ([v0.9.10](https://github.com/jon-harper/OmniBox/releases/tag/v0.9.10), 1 month ago) - Modular, 3D printable electronics case for 3D printers
 - [kwindrem/ShutdownMonitor](https://github.com/kwindrem/ShutdownMonitor) ([latest](https://github.com/kwindrem/ShutdownMonitor/releases/tag/latest), 3 months ago) - 
 - [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) ([v1.11](https://github.com/SirUli/FroniusSmartmeter/releases/tag/v1.11), 6 months ago) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus
@@ -48,7 +48,7 @@
 - [Orbiter 1.5 Extruder - Filament sensor](https://wolf-u.li/en/orbiter-1-5-extruder-filament-sensor/) (1 month ago)
 - [BIGTREETECH 40-Pin GPIO - CM4 to CB1 mapping](https://wolf-u.li/en/bigtreetech-40-pin-gpio-cm4-cb1-mapping/) (1 month ago)
 - [Klipper: Force movement of a stepper motor](https://wolf-u.li/en/klipper-force-movement-of-stepper/) (1 month ago)
-- [BIGTREETECH EBB36 5V tolerant pins](https://wolf-u.li/en/bigtreetech-ebb36-5v-tolerant-pins/) (1 month ago)
+- [BIGTREETECH EBB36 5V tolerant pins](https://wolf-u.li/en/bigtreetech-ebb36-5v-tolerant-pins/) (2 months ago)
 - [BIGTREETECH Manta E3EZ Fan voltage](https://wolf-u.li/bigtreetech-manta-e3ez-fan-voltage/) (2 months ago)
 
 #### 📜 My recent blog posts (German)
