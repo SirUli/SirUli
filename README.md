@@ -24,8 +24,8 @@
 
 #### 🔭 Recent Releases
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.93.6](https://github.com/renovatebot/renovate/releases/tag/36.93.6), today) - Universal dependency update tool that fits into your workflows.
-- [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) ([latest](https://github.com/kwindrem/SetupHelper/releases/tag/latest), 4 days ago) - Helper functions to simplify writing setup scripts that modify VenusOs functionality. The package includes automatic reinstallation of the package after a VenusOs update.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.93.6](https://github.com/renovatebot/renovate/releases/tag/36.93.6), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) ([latest](https://github.com/kwindrem/SetupHelper/releases/tag/latest), 5 days ago) - Helper functions to simplify writing setup scripts that modify VenusOs functionality. The package includes automatic reinstallation of the package after a VenusOs update.
 - [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) ([v0.9.10](https://github.com/jon-harper/OmniBox/releases/tag/v0.9.10), 1 month ago) - Modular, 3D printable electronics case for 3D printers
 - [kwindrem/ShutdownMonitor](https://github.com/kwindrem/ShutdownMonitor) ([latest](https://github.com/kwindrem/ShutdownMonitor/releases/tag/latest), 3 months ago) - 
 - [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) ([v1.11](https://github.com/SirUli/FroniusSmartmeter/releases/tag/v1.11), 6 months ago) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus
@@ -39,14 +39,14 @@
 - [Feature prepare 0.11](https://github.com/SirUli/FroniusSmartmeter/pull/11) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (6 months ago)
 - [Move README to Markdown](https://github.com/kwindrem/ShutdownMonitor/pull/3) on [kwindrem/ShutdownMonitor](https://github.com/kwindrem/ShutdownMonitor) (8 months ago)
 - [Release of v1.10](https://github.com/SirUli/FroniusSmartmeter/pull/7) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (8 months ago)
-- [More Details on Products and Models](https://github.com/Rikkert-RS/VenusOS-TemperatureService/pull/2) on [Rikkert-RS/VenusOS-TemperatureService](https://github.com/Rikkert-RS/VenusOS-TemperatureService) (8 months ago)
+- [More Details on Products and Models](https://github.com/Rikkert-RS/VenusOS-TemperatureService/pull/2) on [Rikkert-RS/VenusOS-TemperatureService](https://github.com/Rikkert-RS/VenusOS-TemperatureService) (9 months ago)
 - [FroniusSmartmeter Repository](https://github.com/kwindrem/SetupHelper/pull/31) on [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) (9 months ago)
 - [fix: the gitHubInfo has to point to the default branch or tag](https://github.com/SirUli/FroniusSmartmeter/pull/4) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (9 months ago)
 
 #### 📜 My recent blog posts (English)
 
-- [BIGTREETECH CB1 on E3EZ calculation of gpio pin numbering](https://wolf-u.li/en/bigtreetech-cb1-on-e3ez-calculation-of-gpio-pin-numbering/) (today)
-- [BIGTREETECH CB1 Time incorrect and drifting](https://wolf-u.li/en/bigtreetech-cb1-time-incorrect-and-drifting/) (today)
+- [BIGTREETECH CB1 on E3EZ calculation of gpio pin numbering](https://wolf-u.li/en/bigtreetech-cb1-on-e3ez-calculation-of-gpio-pin-numbering/) (1 day ago)
+- [BIGTREETECH CB1 Time incorrect and drifting](https://wolf-u.li/en/bigtreetech-cb1-time-incorrect-and-drifting/) (1 day ago)
 - [Orbiter 1.5 Extruder - Filament sensor](https://wolf-u.li/en/orbiter-1-5-extruder-filament-sensor/) (1 month ago)
 - [BIGTREETECH 40-Pin GPIO - CM4 to CB1 mapping](https://wolf-u.li/en/bigtreetech-40-pin-gpio-cm4-cb1-mapping/) (1 month ago)
 - [Klipper: Force movement of a stepper motor](https://wolf-u.li/en/klipper-force-movement-of-stepper/) (1 month ago)
