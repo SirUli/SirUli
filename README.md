@@ -45,11 +45,11 @@
 
 #### 📜 My recent blog posts (English)
 
+- [Raspberry PI CM4 Disable PCIe after brcm-pcie link down message](https://wolf-u.li/raspberry-pi-cm4-disable-pcie/) (today)
+- [Crowsnest: libcamera.so.0.0.4: cannot open shared object file](https://wolf-u.li/en/crowsnest-libcamera-so-0-0-4-cannot-open-shared-object-file/) (today)
 - [BIGTREETECH CB1 on E3EZ calculation of gpio pin numbering](https://wolf-u.li/en/bigtreetech-cb1-on-e3ez-calculation-of-gpio-pin-numbering/) (4 days ago)
 - [BIGTREETECH CB1 Time incorrect and drifting](https://wolf-u.li/en/bigtreetech-cb1-time-incorrect-and-drifting/) (4 days ago)
 - [Orbiter 1.5 Extruder - Filament sensor](https://wolf-u.li/en/orbiter-1-5-extruder-filament-sensor/) (1 month ago)
-- [BIGTREETECH 40-Pin GPIO - CM4 to CB1 mapping](https://wolf-u.li/en/bigtreetech-40-pin-gpio-cm4-cb1-mapping/) (1 month ago)
-- [Klipper: Force movement of a stepper motor](https://wolf-u.li/en/klipper-force-movement-of-stepper/) (1 month ago)
 
 #### 📜 My recent blog posts (German)
 
