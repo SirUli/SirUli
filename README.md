@@ -24,8 +24,8 @@
 
 #### 🔭 Recent Releases
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.107.1](https://github.com/renovatebot/renovate/releases/tag/36.107.1), today) - Universal dependency update tool that fits into your workflows.
-- [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) ([latest](https://github.com/kwindrem/SetupHelper/releases/tag/latest), 2 days ago) - Helper functions to simplify writing setup scripts that modify VenusOs functionality. The package includes automatic reinstallation of the package after a VenusOs update.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.107.1](https://github.com/renovatebot/renovate/releases/tag/36.107.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) ([latest](https://github.com/kwindrem/SetupHelper/releases/tag/latest), 3 days ago) - Helper functions to simplify writing setup scripts that modify VenusOs functionality. The package includes automatic reinstallation of the package after a VenusOs update.
 - [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) ([v0.9.10](https://github.com/jon-harper/OmniBox/releases/tag/v0.9.10), 1 month ago) - Modular, 3D printable electronics case for 3D printers
 - [kwindrem/ShutdownMonitor](https://github.com/kwindrem/ShutdownMonitor) ([latest](https://github.com/kwindrem/ShutdownMonitor/releases/tag/latest), 3 months ago) - 
 - [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) ([v1.11](https://github.com/SirUli/FroniusSmartmeter/releases/tag/v1.11), 6 months ago) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus
@@ -54,14 +54,14 @@
 #### 📜 My recent blog posts (German)
 
 - [Victron MultiPlus 2 48V Lüfterstecker Typ](https://wolf-u.li/victron-multiplus-2-48v-luefterstecker-typ/) (3 months ago)
-- [Rückleuchten für den Qeridoo Kidgoo 2](https://wolf-u.li/rueckleuchten-fuer-den-qeridoo-kidgoo-2/) (3 months ago)
+- [Rückleuchten für den Qeridoo Kidgoo 2](https://wolf-u.li/rueckleuchten-fuer-den-qeridoo-kidgoo-2/) (4 months ago)
 - [OpenSCAD: Nützliche Bibliotheken](https://wolf-u.li/openscad-nuetzliche-bibliotheken/) (5 months ago)
 - [ESP32-WROVER-DEV CAM - Freenove oder Fake](https://wolf-u.li/esp32-wrover-dev-freenove-oder-fake/) (5 months ago)
 - [Zehnder Q350 - Austausch der Kugellager des R3G190-RC05-29 nach 5 Jahren](https://wolf-u.li/zehnder-q350-kugellager-tausch/) (7 months ago)
 
 #### ⭐ Recent Stars
 
-- [MSzturc/the100](https://github.com/MSzturc/the100) - THE 100 - The worlds fastest 3D Printer based on a printed frame (2 weeks ago)
+- [MSzturc/the100](https://github.com/MSzturc/the100) - THE 100 - The worlds fastest 3D Printer based on a printed frame (3 weeks ago)
 - [sobieh/bttrelay](https://github.com/sobieh/bttrelay) - BTT Relay 1.2 - Firmware (1 month ago)
 - [HelgeKeck/rome](https://github.com/HelgeKeck/rome) - Multi extruder to direct extruder setup (1 month ago)
 - [julianschill/klipper-led_effect](https://github.com/julianschill/klipper-led_effect) - LED effects plugin for klipper (1 month ago)
