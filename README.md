@@ -24,7 +24,7 @@
 
 #### 🔭 Recent Releases
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.6.3](https://github.com/renovatebot/renovate/releases/tag/37.6.3), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.6.3](https://github.com/renovatebot/renovate/releases/tag/37.6.3), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) ([latest](https://github.com/kwindrem/SetupHelper/releases/tag/latest), 2 weeks ago) - Helper functions to simplify writing setup scripts that modify VenusOs functionality. The package includes automatic reinstallation of the package after a VenusOs update.
 - [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) ([v0.9.10](https://github.com/jon-harper/OmniBox/releases/tag/v0.9.10), 2 months ago) - Modular, 3D printable electronics case for 3D printers
 - [kwindrem/ShutdownMonitor](https://github.com/kwindrem/ShutdownMonitor) ([latest](https://github.com/kwindrem/ShutdownMonitor/releases/tag/latest), 4 months ago) - 
@@ -61,10 +61,10 @@
 
 #### ⭐ Recent Stars
 
-- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api&#39;s (lightweight alternative to postman/insomnia) (1 day ago)
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api&#39;s (lightweight alternative to postman/insomnia) (2 days ago)
 - [MSzturc/the100](https://github.com/MSzturc/the100) - THE 100 - The worlds fastest 3D Printer based on a printed frame (1 month ago)
 - [sobieh/bttrelay](https://github.com/sobieh/bttrelay) - BTT Relay 1.2 - Firmware (1 month ago)
-- [HelgeKeck/rome](https://github.com/HelgeKeck/rome) - Multi extruder to direct extruder setup (1 month ago)
+- [HelgeKeck/rome](https://github.com/HelgeKeck/rome) - Multi extruder to direct extruder setup (2 months ago)
 - [julianschill/klipper-led_effect](https://github.com/julianschill/klipper-led_effect) - LED effects plugin for klipper (2 months ago)
 - [alecGraves/Fusion360PrinterMaterials](https://github.com/alecGraves/Fusion360PrinterMaterials) - 3D-Printed Materials for Autodesk Fusion360 -- Printed PLA, PETG, ABS, PC, PolyMax PC (3 months ago)
 - [SolidCode/SolidPython](https://github.com/SolidCode/SolidPython) - A python frontend for solid modelling that compiles to OpenSCAD (3 months ago)
