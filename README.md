@@ -24,8 +24,8 @@
 
 #### 🔭 Recent Releases
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.13.2](https://github.com/renovatebot/renovate/releases/tag/37.13.2), today) - Universal dependency update tool that fits into your workflows.
-- [kwindrem/ShutdownMonitor](https://github.com/kwindrem/ShutdownMonitor) ([latest](https://github.com/kwindrem/ShutdownMonitor/releases/tag/latest), 2 days ago) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.13.2](https://github.com/renovatebot/renovate/releases/tag/37.13.2), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [kwindrem/ShutdownMonitor](https://github.com/kwindrem/ShutdownMonitor) ([latest](https://github.com/kwindrem/ShutdownMonitor/releases/tag/latest), 3 days ago) - 
 - [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) ([latest](https://github.com/kwindrem/SetupHelper/releases/tag/latest), 2 weeks ago) - Helper functions to simplify writing setup scripts that modify VenusOs functionality. The package includes automatic reinstallation of the package after a VenusOs update.
 - [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) ([v0.9.10](https://github.com/jon-harper/OmniBox/releases/tag/v0.9.10), 2 months ago) - Modular, 3D printable electronics case for 3D printers
 - [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) ([v1.11](https://github.com/SirUli/FroniusSmartmeter/releases/tag/v1.11), 7 months ago) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus
@@ -61,7 +61,7 @@
 
 #### ⭐ Recent Stars
 
-- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api&#39;s (lightweight alternative to postman/insomnia) (6 days ago)
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api&#39;s (lightweight alternative to postman/insomnia) (1 week ago)
 - [MSzturc/the100](https://github.com/MSzturc/the100) - THE 100 - The worlds fastest 3D Printer based on a printed frame (1 month ago)
 - [sobieh/bttrelay](https://github.com/sobieh/bttrelay) - BTT Relay 1.2 - Firmware (2 months ago)
 - [HelgeKeck/rome](https://github.com/HelgeKeck/rome) - Multi extruder to direct extruder setup (2 months ago)
