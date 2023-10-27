@@ -24,7 +24,7 @@
 
 #### 🔭 Recent Releases
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.33.6](https://github.com/renovatebot/renovate/releases/tag/37.33.6), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.33.6](https://github.com/renovatebot/renovate/releases/tag/37.33.6), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) ([latest](https://github.com/kwindrem/SetupHelper/releases/tag/latest), 1 week ago) - Helper functions to simplify writing setup scripts that modify VenusOs functionality. The package includes automatic reinstallation of the package after a VenusOs update.
 - [kwindrem/ShutdownMonitor](https://github.com/kwindrem/ShutdownMonitor) ([latest](https://github.com/kwindrem/ShutdownMonitor/releases/tag/latest), 2 weeks ago) - 
 - [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) ([v0.9.10](https://github.com/jon-harper/OmniBox/releases/tag/v0.9.10), 2 months ago) - Modular, 3D printable electronics case for 3D printers
@@ -53,7 +53,7 @@
 
 #### 📜 My recent blog posts (German)
 
-- [Victron MultiPlus 2 48V Lüfterstecker Typ](https://wolf-u.li/victron-multiplus-2-48v-luefterstecker-typ/) (4 months ago)
+- [Victron MultiPlus 2 48V Lüfterstecker Typ](https://wolf-u.li/victron-multiplus-2-48v-luefterstecker-typ/) (5 months ago)
 - [Rückleuchten für den Qeridoo Kidgoo 2](https://wolf-u.li/rueckleuchten-fuer-den-qeridoo-kidgoo-2/) (5 months ago)
 - [OpenSCAD: Nützliche Bibliotheken](https://wolf-u.li/openscad-nuetzliche-bibliotheken/) (6 months ago)
 - [ESP32-WROVER-DEV CAM - Freenove oder Fake](https://wolf-u.li/esp32-wrover-dev-freenove-oder-fake/) (6 months ago)
@@ -61,7 +61,7 @@
 
 #### ⭐ Recent Stars
 
-- [Anonoei/klipper_auto_speed](https://github.com/Anonoei/klipper_auto_speed) - Klipper module for automatically calculating your printer&#39;s maximum acceleration/velocity (4 days ago)
+- [Anonoei/klipper_auto_speed](https://github.com/Anonoei/klipper_auto_speed) - Klipper module for automatically calculating your printer&#39;s maximum acceleration/velocity (5 days ago)
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api&#39;s (lightweight alternative to postman/insomnia) (3 weeks ago)
 - [MSzturc/the100](https://github.com/MSzturc/the100) - THE 100 - The worlds fastest 3D Printer based on a printed frame (1 month ago)
 - [sobieh/bttrelay](https://github.com/sobieh/bttrelay) - BTT Relay 1.2 - Firmware (2 months ago)
