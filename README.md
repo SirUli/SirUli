@@ -23,9 +23,9 @@
 
 #### 🔭 Recent Releases
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.50.2](https://github.com/renovatebot/renovate/releases/tag/37.50.2), today) - Universal dependency update tool that fits into your workflows.
-- [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) ([latest](https://github.com/kwindrem/SetupHelper/releases/tag/latest), 2 weeks ago) - Helper functions to simplify writing setup scripts that modify VenusOs functionality. The package includes automatic reinstallation of the package after a VenusOs update.
-- [kwindrem/ShutdownMonitor](https://github.com/kwindrem/ShutdownMonitor) ([latest](https://github.com/kwindrem/ShutdownMonitor/releases/tag/latest), 4 weeks ago) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.50.2](https://github.com/renovatebot/renovate/releases/tag/37.50.2), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) ([latest](https://github.com/kwindrem/SetupHelper/releases/tag/latest), 3 weeks ago) - Helper functions to simplify writing setup scripts that modify VenusOs functionality. The package includes automatic reinstallation of the package after a VenusOs update.
+- [kwindrem/ShutdownMonitor](https://github.com/kwindrem/ShutdownMonitor) ([latest](https://github.com/kwindrem/ShutdownMonitor/releases/tag/latest), 1 month ago) - 
 - [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) ([v0.9.10](https://github.com/jon-harper/OmniBox/releases/tag/v0.9.10), 3 months ago) - Modular, 3D printable electronics case for 3D printers
 - [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) ([v1.11](https://github.com/SirUli/FroniusSmartmeter/releases/tag/v1.11), 8 months ago) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus
 
@@ -60,7 +60,7 @@
 
 #### ⭐ Recent Stars
 
-- [ansible-community/ansible-creator](https://github.com/ansible-community/ansible-creator) - The fastest way to generate all your ansible content! (1 day ago)
+- [ansible-community/ansible-creator](https://github.com/ansible-community/ansible-creator) - The fastest way to generate all your ansible content! (2 days ago)
 - [kormax/apple-device-as-access-card](https://github.com/kormax/apple-device-as-access-card) - Using your Apple device as an access card in unsupported systems (1 week ago)
 - [Anonoei/klipper_auto_speed](https://github.com/Anonoei/klipper_auto_speed) - Klipper module for automatically calculating your printer&#39;s maximum acceleration/velocity (2 weeks ago)
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api&#39;s (lightweight alternative to postman/insomnia) (1 month ago)
@@ -69,7 +69,7 @@
 - [HelgeKeck/rome](https://github.com/HelgeKeck/rome) - Multi extruder to direct extruder setup (3 months ago)
 - [julianschill/klipper-led_effect](https://github.com/julianschill/klipper-led_effect) - LED effects plugin for klipper (3 months ago)
 - [alecGraves/Fusion360PrinterMaterials](https://github.com/alecGraves/Fusion360PrinterMaterials) - 3D-Printed Materials for Autodesk Fusion360 -- Printed PLA, PETG, ABS, PC, PolyMax PC (4 months ago)
-- [SolidCode/SolidPython](https://github.com/SolidCode/SolidPython) - A python frontend for solid modelling that compiles to OpenSCAD (4 months ago)
+- [SolidCode/SolidPython](https://github.com/SolidCode/SolidPython) - A python frontend for solid modelling that compiles to OpenSCAD (5 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
