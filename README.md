@@ -23,8 +23,8 @@
 
 #### 🔭 Recent Releases
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.56.3](https://github.com/renovatebot/renovate/releases/tag/37.56.3), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) ([latest](https://github.com/kwindrem/SetupHelper/releases/tag/latest), 4 days ago) - Helper functions to simplify writing setup scripts that modify VenusOs functionality. The package includes automatic reinstallation of the package after a VenusOs update.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.56.3](https://github.com/renovatebot/renovate/releases/tag/37.56.3), 2 days ago) - Universal dependency update tool that fits into your workflows.
+- [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) ([latest](https://github.com/kwindrem/SetupHelper/releases/tag/latest), 5 days ago) - Helper functions to simplify writing setup scripts that modify VenusOs functionality. The package includes automatic reinstallation of the package after a VenusOs update.
 - [kwindrem/ShutdownMonitor](https://github.com/kwindrem/ShutdownMonitor) ([latest](https://github.com/kwindrem/ShutdownMonitor/releases/tag/latest), 1 month ago) - 
 - [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) ([v0.9.10](https://github.com/jon-harper/OmniBox/releases/tag/v0.9.10), 3 months ago) - Modular, 3D printable electronics case for 3D printers
 - [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) ([v1.11](https://github.com/SirUli/FroniusSmartmeter/releases/tag/v1.11), 8 months ago) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus
@@ -38,7 +38,7 @@
 - [Feature prepare 0.11](https://github.com/SirUli/FroniusSmartmeter/pull/11) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (8 months ago)
 - [Move README to Markdown](https://github.com/kwindrem/ShutdownMonitor/pull/3) on [kwindrem/ShutdownMonitor](https://github.com/kwindrem/ShutdownMonitor) (10 months ago)
 - [Release of v1.10](https://github.com/SirUli/FroniusSmartmeter/pull/7) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (10 months ago)
-- [More Details on Products and Models](https://github.com/Rikkert-RS/VenusOS-TemperatureService/pull/2) on [Rikkert-RS/VenusOS-TemperatureService](https://github.com/Rikkert-RS/VenusOS-TemperatureService) (10 months ago)
+- [More Details on Products and Models](https://github.com/Rikkert-RS/VenusOS-TemperatureService/pull/2) on [Rikkert-RS/VenusOS-TemperatureService](https://github.com/Rikkert-RS/VenusOS-TemperatureService) (11 months ago)
 - [FroniusSmartmeter Repository](https://github.com/kwindrem/SetupHelper/pull/31) on [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) (11 months ago)
 - [fix: the gitHubInfo has to point to the default branch or tag](https://github.com/SirUli/FroniusSmartmeter/pull/4) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (11 months ago)
 
@@ -60,7 +60,7 @@
 
 #### ⭐ Recent Stars
 
-- [ansible-community/ansible-creator](https://github.com/ansible-community/ansible-creator) - The fastest way to generate all your ansible content! (6 days ago)
+- [ansible-community/ansible-creator](https://github.com/ansible-community/ansible-creator) - The fastest way to generate all your ansible content! (1 week ago)
 - [kormax/apple-device-as-access-card](https://github.com/kormax/apple-device-as-access-card) - Using your Apple device as an access card in unsupported systems (2 weeks ago)
 - [Anonoei/klipper_auto_speed](https://github.com/Anonoei/klipper_auto_speed) - Klipper module for automatically calculating your printer&#39;s maximum acceleration/velocity (3 weeks ago)
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api&#39;s (lightweight alternative to postman/insomnia) (1 month ago)
