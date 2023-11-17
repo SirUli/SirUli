@@ -60,6 +60,7 @@
 
 #### ⭐ Recent Stars
 
+- [sibbl/hass-lovelace-kindle-screensaver](https://github.com/sibbl/hass-lovelace-kindle-screensaver) - This tool generates a png from a Home Assistant Lovelace view, which can be displayed on a Kindle device which has the Online Screensaver plugin installed. (today)
 - [huizebruin/s0tool](https://github.com/huizebruin/s0tool) - S0 &amp; watermeter print vanaf huizebruin.  Be sure to 🌟 this repository for updates! Its a hobby project .  Flash it go to the link below. (3 days ago)
 - [technyon/nuki_hub](https://github.com/technyon/nuki_hub) - Use an ESP32 as a Hub between a NUKI Lock and your smarthome. (3 days ago)
 - [ansible/ansible-creator](https://github.com/ansible/ansible-creator) - The fastest way to generate all your ansible content! (1 week ago)
@@ -69,7 +70,6 @@
 - [MSzturc/the100](https://github.com/MSzturc/the100) - THE 100 - The worlds fastest 3D Printer based on a printed frame (2 months ago)
 - [sobieh/bttrelay](https://github.com/sobieh/bttrelay) - BTT Relay 1.2 - Firmware (3 months ago)
 - [HelgeKeck/rome](https://github.com/HelgeKeck/rome) - Multi extruder to direct extruder setup (3 months ago)
-- [julianschill/klipper-led_effect](https://github.com/julianschill/klipper-led_effect) - LED effects plugin for klipper (3 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
