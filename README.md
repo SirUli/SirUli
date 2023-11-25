@@ -23,8 +23,8 @@
 
 #### 🔭 Recent Releases
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.68.0](https://github.com/renovatebot/renovate/releases/tag/37.68.0), today) - Universal dependency update tool that fits into your workflows.
-- [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) ([latest](https://github.com/kwindrem/SetupHelper/releases/tag/latest), 3 days ago) - Helper functions to simplify writing setup scripts that modify VenusOs functionality. The package includes automatic reinstallation of the package after a VenusOs update.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.68.0](https://github.com/renovatebot/renovate/releases/tag/37.68.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) ([latest](https://github.com/kwindrem/SetupHelper/releases/tag/latest), 4 days ago) - Helper functions to simplify writing setup scripts that modify VenusOs functionality. The package includes automatic reinstallation of the package after a VenusOs update.
 - [kwindrem/ShutdownMonitor](https://github.com/kwindrem/ShutdownMonitor) ([latest](https://github.com/kwindrem/ShutdownMonitor/releases/tag/latest), 1 month ago) - 
 - [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) ([v0.9.10](https://github.com/jon-harper/OmniBox/releases/tag/v0.9.10), 3 months ago) - Modular, 3D printable electronics case for 3D printers
 - [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) ([v1.11](https://github.com/SirUli/FroniusSmartmeter/releases/tag/v1.11), 8 months ago) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus
@@ -44,7 +44,7 @@
 
 #### 📜 My recent blog posts (English)
 
-- [Synology: unzip - Command not found](https://wolf-u.li/en/synology-unzip-command-not-found/) (1 day ago)
+- [Synology: unzip - Command not found](https://wolf-u.li/en/synology-unzip-command-not-found/) (2 days ago)
 - [Raspberry PI CM4 Disable PCIe after brcm-pcie link down message](https://wolf-u.li/raspberry-pi-cm4-disable-pcie/) (2 months ago)
 - [Crowsnest: libcamera.so.0.0.4: cannot open shared object file](https://wolf-u.li/en/crowsnest-libcamera-so-0-0-4-cannot-open-shared-object-file/) (2 months ago)
 - [BIGTREETECH CB1 on E3EZ calculation of gpio pin numbering](https://wolf-u.li/en/bigtreetech-cb1-on-e3ez-calculation-of-gpio-pin-numbering/) (2 months ago)
@@ -52,20 +52,20 @@
 
 #### 📜 My recent blog posts (German)
 
-- [Synology: unzip - Command not found](https://wolf-u.li/synology-unzip-command-not-found/) (1 day ago)
-- [Synology - unknown filesystem type &#39;LVM2_member&#39; beim mount](https://wolf-u.li/synology-unknown-filesystem-type-lvm2-member/) (1 day ago)
-- [Unboxing des Nuki Smart Lock Pro 4. Gen](https://wolf-u.li/unboxing-des-nuki-smart-lock-pro-4-gen/) (2 days ago)
+- [Synology: unzip - Command not found](https://wolf-u.li/synology-unzip-command-not-found/) (2 days ago)
+- [Synology - unknown filesystem type &#39;LVM2_member&#39; beim mount](https://wolf-u.li/synology-unknown-filesystem-type-lvm2-member/) (2 days ago)
+- [Unboxing des Nuki Smart Lock Pro 4. Gen](https://wolf-u.li/unboxing-des-nuki-smart-lock-pro-4-gen/) (3 days ago)
 - [Victron MultiPlus 2 48V Lüfterstecker Typ](https://wolf-u.li/victron-multiplus-2-48v-luefterstecker-typ/) (5 months ago)
 - [Rückleuchten für den Qeridoo Kidgoo 2](https://wolf-u.li/rueckleuchten-fuer-den-qeridoo-kidgoo-2/) (6 months ago)
 
 #### ⭐ Recent Stars
 
-- [devbis/z03mmc](https://github.com/devbis/z03mmc) - Xiaomi LYWSD03MMC Zigbee Firmware (1 day ago)
+- [devbis/z03mmc](https://github.com/devbis/z03mmc) - Xiaomi LYWSD03MMC Zigbee Firmware (2 days ago)
 - [sibbl/hass-lovelace-kindle-screensaver](https://github.com/sibbl/hass-lovelace-kindle-screensaver) - This tool generates a png from a Home Assistant Lovelace view, which can be displayed on a Kindle device which has the Online Screensaver plugin installed. (1 week ago)
 - [huizebruin/s0tool](https://github.com/huizebruin/s0tool) - S0 &amp; watermeter print vanaf huizebruin.  Be sure to 🌟 this repository for updates! Its a hobby project .  Flash it go to the link below. (1 week ago)
 - [technyon/nuki_hub](https://github.com/technyon/nuki_hub) - Use an ESP32 as a Hub between a NUKI Lock and your smarthome. (1 week ago)
 - [ansible/ansible-creator](https://github.com/ansible/ansible-creator) - The fastest way to generate all your ansible content! (2 weeks ago)
-- [kormax/apple-device-as-access-card](https://github.com/kormax/apple-device-as-access-card) - Using your Apple device as an access card in unsupported systems (3 weeks ago)
+- [kormax/apple-device-as-access-card](https://github.com/kormax/apple-device-as-access-card) - Using your Apple device as an access card in unsupported systems (4 weeks ago)
 - [Anonoei/klipper_auto_speed](https://github.com/Anonoei/klipper_auto_speed) - Klipper module for automatically calculating your printer&#39;s maximum acceleration/velocity (1 month ago)
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api&#39;s (lightweight alternative to postman/insomnia) (1 month ago)
 - [MSzturc/the100](https://github.com/MSzturc/the100) - THE 100 - The worlds fastest 3D Printer based on a printed frame (2 months ago)
