@@ -23,7 +23,7 @@
 
 #### 🔭 Recent Releases
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.68.4](https://github.com/renovatebot/renovate/releases/tag/37.68.4), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.69.0](https://github.com/renovatebot/renovate/releases/tag/37.69.0), today) - Universal dependency update tool that fits into your workflows.
 - [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) ([latest](https://github.com/kwindrem/SetupHelper/releases/tag/latest), 6 days ago) - Helper functions to simplify writing setup scripts that modify VenusOs functionality. The package includes automatic reinstallation of the package after a VenusOs update.
 - [kwindrem/ShutdownMonitor](https://github.com/kwindrem/ShutdownMonitor) ([latest](https://github.com/kwindrem/ShutdownMonitor/releases/tag/latest), 1 month ago) - 
 - [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) ([v0.9.10](https://github.com/jon-harper/OmniBox/releases/tag/v0.9.10), 3 months ago) - Modular, 3D printable electronics case for 3D printers
@@ -60,6 +60,7 @@
 
 #### ⭐ Recent Stars
 
+- [SecuritySilverbacks/SAP-AttackSurfaceDiscovery](https://github.com/SecuritySilverbacks/SAP-AttackSurfaceDiscovery) - SAP application service interface discovery and scanning (today)
 - [devbis/z03mmc](https://github.com/devbis/z03mmc) - Xiaomi LYWSD03MMC Zigbee Firmware (4 days ago)
 - [sibbl/hass-lovelace-kindle-screensaver](https://github.com/sibbl/hass-lovelace-kindle-screensaver) - This tool generates a png from a Home Assistant Lovelace view, which can be displayed on a Kindle device which has the Online Screensaver plugin installed. (1 week ago)
 - [huizebruin/s0tool](https://github.com/huizebruin/s0tool) - S0 &amp; watermeter print vanaf huizebruin.  Be sure to 🌟 this repository for updates! Its a hobby project .  Flash it go to the link below. (1 week ago)
@@ -69,7 +70,6 @@
 - [Anonoei/klipper_auto_speed](https://github.com/Anonoei/klipper_auto_speed) - Klipper module for automatically calculating your printer&#39;s maximum acceleration/velocity (1 month ago)
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api&#39;s (lightweight alternative to postman/insomnia) (1 month ago)
 - [MSzturc/the100](https://github.com/MSzturc/the100) - THE 100 - The worlds fastest 3D Printer based on a printed frame (2 months ago)
-- [sobieh/bttrelay](https://github.com/sobieh/bttrelay) - BTT Relay 1.2 - Firmware (3 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
