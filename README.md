@@ -23,7 +23,7 @@
 
 #### 🔭 Recent Releases
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.81.0](https://github.com/renovatebot/renovate/releases/tag/37.81.0), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.81.0](https://github.com/renovatebot/renovate/releases/tag/37.81.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [kwindrem/ShutdownMonitor](https://github.com/kwindrem/ShutdownMonitor) ([latest](https://github.com/kwindrem/ShutdownMonitor/releases/tag/latest), 1 month ago) - 
 - [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) ([v0.9.10](https://github.com/jon-harper/OmniBox/releases/tag/v0.9.10), 4 months ago) - Modular, 3D printable electronics case for 3D printers
 - [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) ([v1.11](https://github.com/SirUli/FroniusSmartmeter/releases/tag/v1.11), 9 months ago) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus
@@ -59,8 +59,8 @@
 
 #### ⭐ Recent Stars
 
-- [01mf02/jaq](https://github.com/01mf02/jaq) - A jq clone focussed on correctness, speed, and simplicity (1 day ago)
-- [SecuritySilverbacks/SAP-AttackSurfaceDiscovery](https://github.com/SecuritySilverbacks/SAP-AttackSurfaceDiscovery) - SAP application service interface discovery and scanning (4 days ago)
+- [01mf02/jaq](https://github.com/01mf02/jaq) - A jq clone focussed on correctness, speed, and simplicity (2 days ago)
+- [SecuritySilverbacks/SAP-AttackSurfaceDiscovery](https://github.com/SecuritySilverbacks/SAP-AttackSurfaceDiscovery) - SAP application service interface discovery and scanning (5 days ago)
 - [devbis/z03mmc](https://github.com/devbis/z03mmc) - Xiaomi LYWSD03MMC Zigbee Firmware (1 week ago)
 - [sibbl/hass-lovelace-kindle-screensaver](https://github.com/sibbl/hass-lovelace-kindle-screensaver) - This tool generates a png from a Home Assistant Lovelace view, which can be displayed on a Kindle device which has the Online Screensaver plugin installed. (2 weeks ago)
 - [huizebruin/s0tool](https://github.com/huizebruin/s0tool) - S0 &amp; watermeter print vanaf huizebruin.  Be sure to 🌟 this repository for updates! Its a hobby project .  Flash it go to the link below. (2 weeks ago)
