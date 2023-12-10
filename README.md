@@ -22,8 +22,8 @@
 
 #### 🔭 Recent Releases
 
-- [kwindrem/ShutdownMonitor](https://github.com/kwindrem/ShutdownMonitor) ([latest](https://github.com/kwindrem/ShutdownMonitor/releases/tag/latest), 1 day ago) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.89.5](https://github.com/renovatebot/renovate/releases/tag/37.89.5), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [kwindrem/ShutdownMonitor](https://github.com/kwindrem/ShutdownMonitor) ([latest](https://github.com/kwindrem/ShutdownMonitor/releases/tag/latest), 2 days ago) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.89.5](https://github.com/renovatebot/renovate/releases/tag/37.89.5), 2 days ago) - Universal dependency update tool that fits into your workflows.
 - [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) ([v0.9.10](https://github.com/jon-harper/OmniBox/releases/tag/v0.9.10), 4 months ago) - Modular, 3D printable electronics case for 3D printers
 - [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) ([v1.11](https://github.com/SirUli/FroniusSmartmeter/releases/tag/v1.11), 9 months ago) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus
 
@@ -58,11 +58,11 @@
 
 #### ⭐ Recent Stars
 
-- [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) - Paperless-ngx metrics for Prometheus (3 days ago)
-- [johannmx/paperless-ngx_backup](https://github.com/johannmx/paperless-ngx_backup) - Backs up Paperless-ngx files and directories automatically (docker container) with notifications (AppRise intregration) (3 days ago)
-- [tb1337/paperless-api](https://github.com/tb1337/paperless-api) - Little paperless-ngx REST API wrapper. (3 days ago)
-- [jgillula/paperless-ngx-postprocessor](https://github.com/jgillula/paperless-ngx-postprocessor) - A powerful and customizable postprocessing script for paperless-ngx (3 days ago)
-- [deepdoctection/deepdoctection](https://github.com/deepdoctection/deepdoctection) - A Repo For Document AI (3 days ago)
+- [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) - Paperless-ngx metrics for Prometheus (4 days ago)
+- [johannmx/paperless-ngx_backup](https://github.com/johannmx/paperless-ngx_backup) - Backs up Paperless-ngx files and directories automatically (docker container) with notifications (AppRise intregration) (4 days ago)
+- [tb1337/paperless-api](https://github.com/tb1337/paperless-api) - Little paperless-ngx REST API wrapper. (4 days ago)
+- [jgillula/paperless-ngx-postprocessor](https://github.com/jgillula/paperless-ngx-postprocessor) - A powerful and customizable postprocessing script for paperless-ngx (4 days ago)
+- [deepdoctection/deepdoctection](https://github.com/deepdoctection/deepdoctection) - A Repo For Document AI (4 days ago)
 - [01mf02/jaq](https://github.com/01mf02/jaq) - A jq clone focussed on correctness, speed, and simplicity (1 week ago)
 - [SecuritySilverbacks/SAP-AttackSurfaceDiscovery](https://github.com/SecuritySilverbacks/SAP-AttackSurfaceDiscovery) - SAP application service interface discovery and scanning (1 week ago)
 - [devbis/z03mmc](https://github.com/devbis/z03mmc) - Xiaomi LYWSD03MMC Zigbee Firmware (2 weeks ago)
