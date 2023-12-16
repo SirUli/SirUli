@@ -61,7 +61,7 @@
 
 - [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) - Paperless-ngx metrics for Prometheus (1 week ago)
 - [johannmx/paperless-ngx_backup](https://github.com/johannmx/paperless-ngx_backup) - Backs up Paperless-ngx files and directories automatically (docker container) with notifications (AppRise intregration) (1 week ago)
-- [tb1337/paperless-api](https://github.com/tb1337/paperless-api) - Little paperless-ngx REST API wrapper. (1 week ago)
+- [tb1337/paperless-api](https://github.com/tb1337/paperless-api) - Little api wrapper for the paperless(-ngx) dms. (1 week ago)
 - [jgillula/paperless-ngx-postprocessor](https://github.com/jgillula/paperless-ngx-postprocessor) - A powerful and customizable postprocessing script for paperless-ngx (1 week ago)
 - [deepdoctection/deepdoctection](https://github.com/deepdoctection/deepdoctection) - A Repo For Document AI (1 week ago)
 - [01mf02/jaq](https://github.com/01mf02/jaq) - A jq clone focussed on correctness, speed, and simplicity (2 weeks ago)
