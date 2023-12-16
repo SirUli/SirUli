@@ -2,7 +2,7 @@
 
 #### 👷 Recent Contributions
 
-- [SirUli/ansibleunsafetext](https://github.com/SirUli/ansibleunsafetext) - Sample Repository to share code for https://github.com/ansible/ansible/issues/82414 (3 days ago)
+- [SirUli/ansibleunsafetext](https://github.com/SirUli/ansibleunsafetext) - Sample Repository to share code for https://github.com/ansible/ansible/issues/82414 (4 days ago)
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. (4 months ago)
 - [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) - Modular, 3D printable electronics case for 3D printers (4 months ago)
 - [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus (9 months ago)
@@ -23,7 +23,7 @@
 
 #### 🔭 Recent Releases
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.100.0](https://github.com/renovatebot/renovate/releases/tag/37.100.0), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.100.0](https://github.com/renovatebot/renovate/releases/tag/37.100.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [kwindrem/ShutdownMonitor](https://github.com/kwindrem/ShutdownMonitor) ([latest](https://github.com/kwindrem/ShutdownMonitor/releases/tag/latest), 1 week ago) - 
 - [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) ([v0.9.10](https://github.com/jon-harper/OmniBox/releases/tag/v0.9.10), 4 months ago) - Modular, 3D printable electronics case for 3D printers
 - [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) ([v1.11](https://github.com/SirUli/FroniusSmartmeter/releases/tag/v1.11), 9 months ago) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus
@@ -44,8 +44,8 @@
 #### 📜 My recent blog posts (English)
 
 - [Synology: unzip - Command not found](https://wolf-u.li/en/synology-unzip-command-not-found/) (3 weeks ago)
-- [Raspberry PI CM4 Disable PCIe after brcm-pcie link down message](https://wolf-u.li/raspberry-pi-cm4-disable-pcie/) (2 months ago)
-- [Crowsnest: libcamera.so.0.0.4: cannot open shared object file](https://wolf-u.li/en/crowsnest-libcamera-so-0-0-4-cannot-open-shared-object-file/) (2 months ago)
+- [Raspberry PI CM4 Disable PCIe after brcm-pcie link down message](https://wolf-u.li/raspberry-pi-cm4-disable-pcie/) (3 months ago)
+- [Crowsnest: libcamera.so.0.0.4: cannot open shared object file](https://wolf-u.li/en/crowsnest-libcamera-so-0-0-4-cannot-open-shared-object-file/) (3 months ago)
 - [BIGTREETECH CB1 on E3EZ calculation of gpio pin numbering](https://wolf-u.li/en/bigtreetech-cb1-on-e3ez-calculation-of-gpio-pin-numbering/) (3 months ago)
 - [BIGTREETECH CB1 Time incorrect and drifting](https://wolf-u.li/en/bigtreetech-cb1-time-incorrect-and-drifting/) (3 months ago)
 
