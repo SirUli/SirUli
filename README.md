@@ -2,7 +2,7 @@
 
 #### 👷 Recent Contributions
 
-- [SirUli/ansibleunsafetext](https://github.com/SirUli/ansibleunsafetext) - Sample Repository to share code for https://github.com/ansible/ansible/issues/82414 (4 days ago)
+- [SirUli/ansibleunsafetext](https://github.com/SirUli/ansibleunsafetext) - Sample Repository to share code for https://github.com/ansible/ansible/issues/82414 (5 days ago)
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. (4 months ago)
 - [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) - Modular, 3D printable electronics case for 3D printers (4 months ago)
 - [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus (9 months ago)
@@ -23,7 +23,7 @@
 
 #### 🔭 Recent Releases
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.101.0](https://github.com/renovatebot/renovate/releases/tag/37.101.0), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.101.0](https://github.com/renovatebot/renovate/releases/tag/37.101.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [kwindrem/ShutdownMonitor](https://github.com/kwindrem/ShutdownMonitor) ([latest](https://github.com/kwindrem/ShutdownMonitor/releases/tag/latest), 1 week ago) - 
 - [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) ([v0.9.10](https://github.com/jon-harper/OmniBox/releases/tag/v0.9.10), 4 months ago) - Modular, 3D printable electronics case for 3D printers
 - [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) ([v1.11](https://github.com/SirUli/FroniusSmartmeter/releases/tag/v1.11), 9 months ago) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus
@@ -67,7 +67,7 @@
 - [01mf02/jaq](https://github.com/01mf02/jaq) - A jq clone focussed on correctness, speed, and simplicity (2 weeks ago)
 - [SecuritySilverbacks/SAP-AttackSurfaceDiscovery](https://github.com/SecuritySilverbacks/SAP-AttackSurfaceDiscovery) - SAP application service interface discovery and scanning (2 weeks ago)
 - [devbis/z03mmc](https://github.com/devbis/z03mmc) - Xiaomi LYWSD03MMC Zigbee Firmware (3 weeks ago)
-- [sibbl/hass-lovelace-kindle-screensaver](https://github.com/sibbl/hass-lovelace-kindle-screensaver) - This tool generates a png from a Home Assistant Lovelace view, which can be displayed on a Kindle device which has the Online Screensaver plugin installed. (4 weeks ago)
+- [sibbl/hass-lovelace-kindle-screensaver](https://github.com/sibbl/hass-lovelace-kindle-screensaver) - This tool generates a png from a Home Assistant Lovelace view, which can be displayed on a Kindle device which has the Online Screensaver plugin installed. (1 month ago)
 - [huizebruin/s0tool](https://github.com/huizebruin/s0tool) - S0 &amp; watermeter print vanaf huizebruin.  Be sure to 🌟 this repository for updates! Its a hobby project .  Flash it go to the link below. (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
