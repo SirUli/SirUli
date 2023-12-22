@@ -59,6 +59,7 @@
 
 #### ⭐ Recent Stars
 
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents (today)
 - [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) - Paperless-ngx metrics for Prometheus (2 weeks ago)
 - [johannmx/paperless-ngx_backup](https://github.com/johannmx/paperless-ngx_backup) - Backs up Paperless-ngx files and directories automatically (docker container) with notifications (AppRise intregration) (2 weeks ago)
 - [tb1337/paperless-api](https://github.com/tb1337/paperless-api) - Little api client for paperless(-ngx). (2 weeks ago)
@@ -68,7 +69,6 @@
 - [SecuritySilverbacks/SAP-AttackSurfaceDiscovery](https://github.com/SecuritySilverbacks/SAP-AttackSurfaceDiscovery) - SAP application service interface discovery and scanning (3 weeks ago)
 - [devbis/z03mmc](https://github.com/devbis/z03mmc) - Xiaomi LYWSD03MMC Zigbee Firmware (4 weeks ago)
 - [sibbl/hass-lovelace-kindle-screensaver](https://github.com/sibbl/hass-lovelace-kindle-screensaver) - This tool generates a png from a Home Assistant Lovelace view, which can be displayed on a Kindle device which has the Online Screensaver plugin installed. (1 month ago)
-- [huizebruin/s0tool](https://github.com/huizebruin/s0tool) - S0 &amp; watermeter print vanaf huizebruin.  Be sure to 🌟 this repository for updates! Its a hobby project .  Flash it go to the link below. (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
