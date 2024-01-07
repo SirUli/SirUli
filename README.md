@@ -6,7 +6,6 @@
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. (5 months ago)
 - [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) - Modular, 3D printable electronics case for 3D printers (5 months ago)
 - [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus (10 months ago)
-- [kwindrem/ShutdownMonitor](https://github.com/kwindrem/ShutdownMonitor) -  (1 year ago)
 
 #### 🌱 Latest projects
 
