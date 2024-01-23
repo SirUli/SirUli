@@ -22,7 +22,7 @@
 
 #### 🔭 Recent Releases
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.146.0](https://github.com/renovatebot/renovate/releases/tag/37.146.0), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.146.0](https://github.com/renovatebot/renovate/releases/tag/37.146.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) ([v0.9.10](https://github.com/jon-harper/OmniBox/releases/tag/v0.9.10), 5 months ago) - Modular, 3D printable electronics case for 3D printers
 - [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) ([v1.11](https://github.com/SirUli/FroniusSmartmeter/releases/tag/v1.11), 10 months ago) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus
 
@@ -53,7 +53,7 @@
 - [Synology - unknown filesystem type &#39;LVM2_member&#39; beim mount](https://wolf-u.li/synology-unknown-filesystem-type-lvm2-member/) (2 months ago)
 - [Unboxing des Nuki Smart Lock Pro 4. Gen](https://wolf-u.li/unboxing-des-nuki-smart-lock-pro-4-gen/) (2 months ago)
 - [Victron MultiPlus 2 48V Lüfterstecker Typ](https://wolf-u.li/victron-multiplus-2-48v-luefterstecker-typ/) (7 months ago)
-- [Rückleuchten für den Qeridoo Kidgoo 2](https://wolf-u.li/rueckleuchten-fuer-den-qeridoo-kidgoo-2/) (7 months ago)
+- [Rückleuchten für den Qeridoo Kidgoo 2](https://wolf-u.li/rueckleuchten-fuer-den-qeridoo-kidgoo-2/) (8 months ago)
 
 #### ⭐ Recent Stars
 
