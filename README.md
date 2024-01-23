@@ -41,19 +41,19 @@
 
 #### 📜 My recent blog posts (English)
 
+- [HP Officejet Pro 8620 Semi-Reset](https://wolf-u.li/hp-officejet-pro-8620-semi-reset/) (3 weeks ago)
 - [Synology: unzip - Command not found](https://wolf-u.li/en/synology-unzip-command-not-found/) (2 months ago)
 - [Raspberry PI CM4 Disable PCIe after brcm-pcie link down message](https://wolf-u.li/raspberry-pi-cm4-disable-pcie/) (4 months ago)
 - [Crowsnest: libcamera.so.0.0.4: cannot open shared object file](https://wolf-u.li/en/crowsnest-libcamera-so-0-0-4-cannot-open-shared-object-file/) (4 months ago)
 - [BIGTREETECH CB1 on E3EZ calculation of gpio pin numbering](https://wolf-u.li/en/bigtreetech-cb1-on-e3ez-calculation-of-gpio-pin-numbering/) (4 months ago)
-- [BIGTREETECH CB1 Time incorrect and drifting](https://wolf-u.li/en/bigtreetech-cb1-time-incorrect-and-drifting/) (4 months ago)
 
 #### 📜 My recent blog posts (German)
 
+- [Homeassistant: Übersetzung des Fronius Wechselrichter Status Code](https://wolf-u.li/homeassistant-uebersetzung-des-fronius-wechselrichter-status-code/) (1 month ago)
 - [Synology: unzip - Command not found](https://wolf-u.li/synology-unzip-command-not-found/) (2 months ago)
 - [Synology - unknown filesystem type &#39;LVM2_member&#39; beim mount](https://wolf-u.li/synology-unknown-filesystem-type-lvm2-member/) (2 months ago)
 - [Unboxing des Nuki Smart Lock Pro 4. Gen](https://wolf-u.li/unboxing-des-nuki-smart-lock-pro-4-gen/) (2 months ago)
 - [Victron MultiPlus 2 48V Lüfterstecker Typ](https://wolf-u.li/victron-multiplus-2-48v-luefterstecker-typ/) (7 months ago)
-- [Rückleuchten für den Qeridoo Kidgoo 2](https://wolf-u.li/rueckleuchten-fuer-den-qeridoo-kidgoo-2/) (8 months ago)
 
 #### ⭐ Recent Stars
 
