@@ -22,7 +22,7 @@
 
 #### 🔭 Recent Releases
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.149.1](https://github.com/renovatebot/renovate/releases/tag/37.149.1), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.149.1](https://github.com/renovatebot/renovate/releases/tag/37.149.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) ([v0.9.10](https://github.com/jon-harper/OmniBox/releases/tag/v0.9.10), 5 months ago) - Modular, 3D printable electronics case for 3D printers
 - [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) ([v1.11](https://github.com/SirUli/FroniusSmartmeter/releases/tag/v1.11), 10 months ago) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus
 
@@ -41,15 +41,15 @@
 
 #### 📜 My recent blog posts (English)
 
-- [Change external url of gitlab](https://wolf-u.li/en/change-external-url-of-gitlab/) (today)
-- [Home Assistant: Change file without core running](https://wolf-u.li/en/homeassistant-change-file-without-core-running/) (today)
+- [Change external url of gitlab](https://wolf-u.li/en/change-external-url-of-gitlab/) (1 day ago)
+- [Home Assistant: Change file without core running](https://wolf-u.li/en/homeassistant-change-file-without-core-running/) (1 day ago)
 - [HP Officejet Pro 8620 Semi-Reset](https://wolf-u.li/hp-officejet-pro-8620-semi-reset/) (3 weeks ago)
 - [Synology: unzip - Command not found](https://wolf-u.li/en/synology-unzip-command-not-found/) (2 months ago)
 - [Raspberry PI CM4 Disable PCIe after brcm-pcie link down message](https://wolf-u.li/raspberry-pi-cm4-disable-pcie/) (4 months ago)
 
 #### 📜 My recent blog posts (German)
 
-- [Homeassistant: Übersetzung des Fronius Wechselrichter Status Code](https://wolf-u.li/homeassistant-uebersetzung-des-fronius-wechselrichter-status-code/) (1 month ago)
+- [Homeassistant: Übersetzung des Fronius Wechselrichter Status Code](https://wolf-u.li/homeassistant-uebersetzung-des-fronius-wechselrichter-status-code/) (2 months ago)
 - [Synology: unzip - Command not found](https://wolf-u.li/synology-unzip-command-not-found/) (2 months ago)
 - [Synology - unknown filesystem type &#39;LVM2_member&#39; beim mount](https://wolf-u.li/synology-unknown-filesystem-type-lvm2-member/) (2 months ago)
 - [Unboxing des Nuki Smart Lock Pro 4. Gen](https://wolf-u.li/unboxing-des-nuki-smart-lock-pro-4-gen/) (2 months ago)
