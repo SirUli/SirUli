@@ -22,7 +22,7 @@
 
 #### 🔭 Recent Releases
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.152.1](https://github.com/renovatebot/renovate/releases/tag/37.152.1), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.152.1](https://github.com/renovatebot/renovate/releases/tag/37.152.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) ([v0.9.10](https://github.com/jon-harper/OmniBox/releases/tag/v0.9.10), 5 months ago) - Modular, 3D printable electronics case for 3D printers
 - [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) ([v1.11](https://github.com/SirUli/FroniusSmartmeter/releases/tag/v1.11), 10 months ago) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus
 
@@ -41,15 +41,15 @@
 
 #### 📜 My recent blog posts (English)
 
-- [Change external url of gitlab](https://wolf-u.li/en/change-external-url-of-gitlab/) (2 days ago)
-- [Home Assistant: Change file without core running](https://wolf-u.li/en/homeassistant-change-file-without-core-running/) (2 days ago)
+- [Change external url of gitlab](https://wolf-u.li/en/change-external-url-of-gitlab/) (3 days ago)
+- [Home Assistant: Change file without core running](https://wolf-u.li/en/homeassistant-change-file-without-core-running/) (3 days ago)
 - [HP Officejet Pro 8620 Semi-Reset](https://wolf-u.li/hp-officejet-pro-8620-semi-reset/) (3 weeks ago)
 - [Synology: unzip - Command not found](https://wolf-u.li/en/synology-unzip-command-not-found/) (2 months ago)
 - [Raspberry PI CM4 Disable PCIe after brcm-pcie link down message](https://wolf-u.li/raspberry-pi-cm4-disable-pcie/) (4 months ago)
 
 #### 📜 My recent blog posts (German)
 
-- [Paperless-ngx ASN mit Avery L4731 labels](https://wolf-u.li/paperless-ngx-asn-mit-avery-l4731-labels/) (1 day ago)
+- [Paperless-ngx ASN mit Avery L4731 labels](https://wolf-u.li/paperless-ngx-asn-mit-avery-l4731-labels/) (2 days ago)
 - [Paperless-ngx: Erneutes tagging von Dokumenten](https://wolf-u.li/paperless-ngx-erneutes-tagging-von-dokumenten/) (1 month ago)
 - [Paperless-ngx: Startseite konfigurieren](https://wolf-u.li/paperless-ngx-startseite-konfigurieren/) (1 month ago)
 - [Homeassistant: Übersetzung des Fronius Wechselrichter Status Code](https://wolf-u.li/homeassistant-uebersetzung-des-fronius-wechselrichter-status-code/) (2 months ago)
@@ -64,7 +64,7 @@
 - [jgillula/paperless-ngx-postprocessor](https://github.com/jgillula/paperless-ngx-postprocessor) - A powerful and customizable postprocessing script for paperless-ngx (1 month ago)
 - [deepdoctection/deepdoctection](https://github.com/deepdoctection/deepdoctection) - A Repo For Document AI (1 month ago)
 - [01mf02/jaq](https://github.com/01mf02/jaq) - A jq clone focussed on correctness, speed, and simplicity (1 month ago)
-- [SecuritySilverbacks/SAP-AttackSurfaceDiscovery](https://github.com/SecuritySilverbacks/SAP-AttackSurfaceDiscovery) - SAP application service interface discovery and scanning (1 month ago)
+- [SecuritySilverbacks/SAP-AttackSurfaceDiscovery](https://github.com/SecuritySilverbacks/SAP-AttackSurfaceDiscovery) - SAP application service interface discovery and scanning (2 months ago)
 - [devbis/z03mmc](https://github.com/devbis/z03mmc) - Xiaomi LYWSD03MMC Zigbee Firmware (2 months ago)
 - [sibbl/hass-lovelace-kindle-screensaver](https://github.com/sibbl/hass-lovelace-kindle-screensaver) - This tool generates a png from a Home Assistant Lovelace view, which can be displayed on a Kindle device which has the Online Screensaver plugin installed. (2 months ago)
 
