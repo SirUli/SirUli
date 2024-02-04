@@ -57,6 +57,7 @@
 
 #### ⭐ Recent Stars
 
+- [rednblkx/HomeKey-ESP32](https://github.com/rednblkx/HomeKey-ESP32) - ESP32 HomeKit Lock with added HomeKey functionality (today)
 - [jordaneremieff/mangum](https://github.com/jordaneremieff/mangum) - AWS Lambda support for ASGI applications (5 days ago)
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents (1 month ago)
 - [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) - Paperless-ngx metrics for Prometheus (2 months ago)
@@ -66,7 +67,6 @@
 - [deepdoctection/deepdoctection](https://github.com/deepdoctection/deepdoctection) - A Repo For Document AI (2 months ago)
 - [01mf02/jaq](https://github.com/01mf02/jaq) - A jq clone focussed on correctness, speed, and simplicity (2 months ago)
 - [SecuritySilverbacks/SAP-AttackSurfaceDiscovery](https://github.com/SecuritySilverbacks/SAP-AttackSurfaceDiscovery) - SAP application service interface discovery and scanning (2 months ago)
-- [devbis/z03mmc](https://github.com/devbis/z03mmc) - Xiaomi LYWSD03MMC Zigbee Firmware (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
