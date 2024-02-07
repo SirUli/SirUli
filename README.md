@@ -22,7 +22,7 @@
 
 #### 🔭 Recent Releases
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.174.6](https://github.com/renovatebot/renovate/releases/tag/37.174.6), today) - Universal dependency automation tool.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.174.6](https://github.com/renovatebot/renovate/releases/tag/37.174.6), 1 day ago) - Universal dependency automation tool.
 - [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) ([v0.9.10](https://github.com/jon-harper/OmniBox/releases/tag/v0.9.10), 6 months ago) - Modular, 3D printable electronics case for 3D printers
 - [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) ([v1.11](https://github.com/SirUli/FroniusSmartmeter/releases/tag/v1.11), 11 months ago) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus
 
@@ -49,7 +49,7 @@
 
 #### 📜 My recent blog posts (German)
 
-- [Paperless-ngx ASN mit Avery L4731 labels](https://wolf-u.li/paperless-ngx-asn-mit-avery-l4731-labels/) (1 week ago)
+- [Paperless-ngx ASN mit Avery L4731 labels](https://wolf-u.li/paperless-ngx-asn-mit-avery-l4731-labels/) (2 weeks ago)
 - [Paperless-ngx: Erneutes tagging von Dokumenten](https://wolf-u.li/paperless-ngx-erneutes-tagging-von-dokumenten/) (2 months ago)
 - [Paperless-ngx: Startseite konfigurieren](https://wolf-u.li/paperless-ngx-startseite-konfigurieren/) (2 months ago)
 - [Homeassistant: Übersetzung des Fronius Wechselrichter Status Code](https://wolf-u.li/homeassistant-uebersetzung-des-fronius-wechselrichter-status-code/) (2 months ago)
@@ -57,7 +57,7 @@
 
 #### ⭐ Recent Stars
 
-- [rednblkx/HomeKey-ESP32](https://github.com/rednblkx/HomeKey-ESP32) - ESP32 HomeKit Lock with added HomeKey functionality (2 days ago)
+- [rednblkx/HomeKey-ESP32](https://github.com/rednblkx/HomeKey-ESP32) - ESP32 HomeKit Lock with added HomeKey functionality (3 days ago)
 - [jordaneremieff/mangum](https://github.com/jordaneremieff/mangum) - AWS Lambda support for ASGI applications (1 week ago)
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents (1 month ago)
 - [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) - Paperless-ngx metrics for Prometheus (2 months ago)
