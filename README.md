@@ -57,6 +57,7 @@
 
 #### ⭐ Recent Stars
 
+- [catduckgnaf/rtl_433_ha](https://github.com/catduckgnaf/rtl_433_ha) - This is the primary location for the project of making RTL_433 for the HA community. (today)
 - [rednblkx/HomeKey-ESP32](https://github.com/rednblkx/HomeKey-ESP32) - ESP32 HomeKit Lock with added HomeKey functionality (1 week ago)
 - [jordaneremieff/mangum](https://github.com/jordaneremieff/mangum) - AWS Lambda support for ASGI applications (2 weeks ago)
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents (1 month ago)
@@ -66,7 +67,6 @@
 - [jgillula/paperless-ngx-postprocessor](https://github.com/jgillula/paperless-ngx-postprocessor) - A powerful and customizable postprocessing script for paperless-ngx (2 months ago)
 - [deepdoctection/deepdoctection](https://github.com/deepdoctection/deepdoctection) - A Repo For Document AI (2 months ago)
 - [01mf02/jaq](https://github.com/01mf02/jaq) - A jq clone focussed on correctness, speed, and simplicity (2 months ago)
-- [SecuritySilverbacks/SAP-AttackSurfaceDiscovery](https://github.com/SecuritySilverbacks/SAP-AttackSurfaceDiscovery) - SAP application service interface discovery and scanning (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
