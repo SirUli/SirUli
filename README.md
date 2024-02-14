@@ -22,7 +22,7 @@
 
 #### 🔭 Recent Releases
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.187.1](https://github.com/renovatebot/renovate/releases/tag/37.187.1), today) - Universal dependency automation tool.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.187.1](https://github.com/renovatebot/renovate/releases/tag/37.187.1), 1 day ago) - Universal dependency automation tool.
 - [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) ([v0.9.10](https://github.com/jon-harper/OmniBox/releases/tag/v0.9.10), 6 months ago) - Modular, 3D printable electronics case for 3D printers
 - [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) ([v1.11](https://github.com/SirUli/FroniusSmartmeter/releases/tag/v1.11), 11 months ago) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus
 
@@ -45,11 +45,11 @@
 - [Home Assistant: Change file without core running](https://wolf-u.li/en/homeassistant-change-file-without-core-running/) (3 weeks ago)
 - [HP Officejet Pro 8620 Semi-Reset](https://wolf-u.li/hp-officejet-pro-8620-semi-reset/) (1 month ago)
 - [Synology: unzip - Command not found](https://wolf-u.li/en/synology-unzip-command-not-found/) (2 months ago)
-- [Raspberry PI CM4 Disable PCIe after brcm-pcie link down message](https://wolf-u.li/raspberry-pi-cm4-disable-pcie/) (4 months ago)
+- [Raspberry PI CM4 Disable PCIe after brcm-pcie link down message](https://wolf-u.li/raspberry-pi-cm4-disable-pcie/) (5 months ago)
 
 #### 📜 My recent blog posts (German)
 
-- [Paperless-ngx ASN mit Avery L4731 labels](https://wolf-u.li/paperless-ngx-asn-mit-avery-l4731-labels/) (2 weeks ago)
+- [Paperless-ngx ASN mit Avery L4731 labels](https://wolf-u.li/paperless-ngx-asn-mit-avery-l4731-labels/) (3 weeks ago)
 - [Paperless-ngx: Erneutes tagging von Dokumenten](https://wolf-u.li/paperless-ngx-erneutes-tagging-von-dokumenten/) (2 months ago)
 - [Paperless-ngx: Startseite konfigurieren](https://wolf-u.li/paperless-ngx-startseite-konfigurieren/) (2 months ago)
 - [Homeassistant: Übersetzung des Fronius Wechselrichter Status Code](https://wolf-u.li/homeassistant-uebersetzung-des-fronius-wechselrichter-status-code/) (2 months ago)
@@ -57,7 +57,7 @@
 
 #### ⭐ Recent Stars
 
-- [catduckgnaf/rtl_433_ha](https://github.com/catduckgnaf/rtl_433_ha) - This is the primary location for the project of making RTL_433 for the HA community. (today)
+- [catduckgnaf/rtl_433_ha](https://github.com/catduckgnaf/rtl_433_ha) - This is the primary location for the project of making RTL_433 for the HA community. (1 day ago)
 - [rednblkx/HomeKey-ESP32](https://github.com/rednblkx/HomeKey-ESP32) - ESP32 HomeKit Lock with added HomeKey functionality (1 week ago)
 - [jordaneremieff/mangum](https://github.com/jordaneremieff/mangum) - AWS Lambda support for ASGI applications (2 weeks ago)
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents (1 month ago)
