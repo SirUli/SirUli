@@ -49,7 +49,7 @@
 
 #### 📜 My recent blog posts (German)
 
-- [Sensus 620 Wasserzaehler: Smart machen via ESPHome](https://wolf-u.li/sensus-620-wasserzaehler-smart-machen/) (today)
+- [Sensus 620 Wasserzähler: Smart machen via ESPHome](https://wolf-u.li/sensus-620-wasserzaehler-smart-machen/) (today)
 - [Paperless-ngx ASN mit Avery L4731 labels](https://wolf-u.li/paperless-ngx-asn-mit-avery-l4731-labels/) (3 weeks ago)
 - [Paperless-ngx: Erneutes tagging von Dokumenten](https://wolf-u.li/paperless-ngx-erneutes-tagging-von-dokumenten/) (2 months ago)
 - [Paperless-ngx: Startseite konfigurieren](https://wolf-u.li/paperless-ngx-startseite-konfigurieren/) (2 months ago)
