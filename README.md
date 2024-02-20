@@ -22,7 +22,7 @@
 
 #### 🔭 Recent Releases
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.202.0](https://github.com/renovatebot/renovate/releases/tag/37.202.0), today) - Universal dependency automation tool.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.202.0](https://github.com/renovatebot/renovate/releases/tag/37.202.0), 1 day ago) - Universal dependency automation tool.
 - [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) ([v0.9.10](https://github.com/jon-harper/OmniBox/releases/tag/v0.9.10), 6 months ago) - Modular, 3D printable electronics case for 3D printers
 - [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) ([v1.11](https://github.com/SirUli/FroniusSmartmeter/releases/tag/v1.11), 11 months ago) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus
 
@@ -30,7 +30,7 @@
 
 - [docs(display): Add docs for btt hdmi5](https://github.com/jon-harper/OmniBox/pull/129) on [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) (6 months ago)
 - [feat(btt_hdmi5): Add BIGTREETECH HDMI5 Display](https://github.com/jon-harper/OmniBox/pull/128) on [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) (6 months ago)
-- [docs(datasource): Add additional examples for custom datasource](https://github.com/renovatebot/renovate/pull/23558) on [renovatebot/renovate](https://github.com/renovatebot/renovate) (6 months ago)
+- [docs(datasource): Add additional examples for custom datasource](https://github.com/renovatebot/renovate/pull/23558) on [renovatebot/renovate](https://github.com/renovatebot/renovate) (7 months ago)
 - [fix: Add more details in README](https://github.com/SirUli/FroniusSmartmeter/pull/12) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (11 months ago)
 - [Feature prepare 0.11](https://github.com/SirUli/FroniusSmartmeter/pull/11) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (11 months ago)
 - [Move README to Markdown](https://github.com/kwindrem/ShutdownMonitor/pull/3) on [kwindrem/ShutdownMonitor](https://github.com/kwindrem/ShutdownMonitor) (1 year ago)
@@ -41,15 +41,15 @@
 
 #### 📜 My recent blog posts (English)
 
-- [Change external url of gitlab](https://wolf-u.li/en/change-external-url-of-gitlab/) (3 weeks ago)
-- [Home Assistant: Change file without core running](https://wolf-u.li/en/homeassistant-change-file-without-core-running/) (3 weeks ago)
+- [Change external url of gitlab](https://wolf-u.li/en/change-external-url-of-gitlab/) (4 weeks ago)
+- [Home Assistant: Change file without core running](https://wolf-u.li/en/homeassistant-change-file-without-core-running/) (4 weeks ago)
 - [HP Officejet Pro 8620 Semi-Reset](https://wolf-u.li/hp-officejet-pro-8620-semi-reset/) (1 month ago)
 - [Synology: unzip - Command not found](https://wolf-u.li/en/synology-unzip-command-not-found/) (2 months ago)
 - [Raspberry PI CM4 Disable PCIe after brcm-pcie link down message](https://wolf-u.li/raspberry-pi-cm4-disable-pcie/) (5 months ago)
 
 #### 📜 My recent blog posts (German)
 
-- [Sensus 620 Wasserzähler: Smart machen via ESPHome](https://wolf-u.li/sensus-620-wasserzaehler-smart-machen/) (2 days ago)
+- [Sensus 620 Wasserzähler: Smart machen via ESPHome](https://wolf-u.li/sensus-620-wasserzaehler-smart-machen/) (3 days ago)
 - [Paperless-ngx ASN mit Avery L4731 labels](https://wolf-u.li/paperless-ngx-asn-mit-avery-l4731-labels/) (3 weeks ago)
 - [Paperless-ngx: Erneutes tagging von Dokumenten](https://wolf-u.li/paperless-ngx-erneutes-tagging-von-dokumenten/) (2 months ago)
 - [Paperless-ngx: Startseite konfigurieren](https://wolf-u.li/paperless-ngx-startseite-konfigurieren/) (2 months ago)
@@ -57,10 +57,10 @@
 
 #### ⭐ Recent Stars
 
-- [catduckgnaf/rtl_433_ha](https://github.com/catduckgnaf/rtl_433_ha) - This is the primary location for the project of making RTL_433 for the HA community. (6 days ago)
+- [catduckgnaf/rtl_433_ha](https://github.com/catduckgnaf/rtl_433_ha) - This is the primary location for the project of making RTL_433 for the HA community. (1 week ago)
 - [rednblkx/HomeKey-ESP32](https://github.com/rednblkx/HomeKey-ESP32) - ESP32 HomeKit Lock with support for Apple&#39;s HomeKey (2 weeks ago)
-- [jordaneremieff/mangum](https://github.com/jordaneremieff/mangum) - AWS Lambda support for ASGI applications (2 weeks ago)
-- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents (1 month ago)
+- [jordaneremieff/mangum](https://github.com/jordaneremieff/mangum) - AWS Lambda support for ASGI applications (3 weeks ago)
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents (2 months ago)
 - [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) - Paperless-ngx metrics for Prometheus (2 months ago)
 - [johannmx/paperless-ngx_backup](https://github.com/johannmx/paperless-ngx_backup) - Backs up Paperless-ngx files and directories automatically (docker container) with notifications (AppRise intregration) (2 months ago)
 - [tb1337/paperless-api](https://github.com/tb1337/paperless-api) - Little api client for paperless(-ngx). (2 months ago)
