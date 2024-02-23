@@ -22,7 +22,7 @@
 
 #### 🔭 Recent Releases
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.210.0](https://github.com/renovatebot/renovate/releases/tag/37.210.0), today) - Universal dependency automation tool.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.210.0](https://github.com/renovatebot/renovate/releases/tag/37.210.0), 1 day ago) - Universal dependency automation tool.
 - [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) ([v0.9.10](https://github.com/jon-harper/OmniBox/releases/tag/v0.9.10), 6 months ago) - Modular, 3D printable electronics case for 3D printers
 - [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) ([v1.11](https://github.com/SirUli/FroniusSmartmeter/releases/tag/v1.11), 11 months ago) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus
 
@@ -49,11 +49,11 @@
 
 #### 📜 My recent blog posts (German)
 
-- [Sensus 620 Wasserzähler: Smart machen via ESPHome](https://wolf-u.li/sensus-620-wasserzaehler-smart-machen/) (5 days ago)
-- [Paperless-ngx ASN mit Avery L4731 labels](https://wolf-u.li/paperless-ngx-asn-mit-avery-l4731-labels/) (4 weeks ago)
+- [Sensus 620 Wasserzähler: Smart machen via ESPHome](https://wolf-u.li/sensus-620-wasserzaehler-smart-machen/) (6 days ago)
+- [Paperless-ngx ASN mit Avery L4731 labels](https://wolf-u.li/paperless-ngx-asn-mit-avery-l4731-labels/) (1 month ago)
 - [Paperless-ngx: Erneutes tagging von Dokumenten](https://wolf-u.li/paperless-ngx-erneutes-tagging-von-dokumenten/) (2 months ago)
 - [Paperless-ngx: Startseite konfigurieren](https://wolf-u.li/paperless-ngx-startseite-konfigurieren/) (2 months ago)
-- [Homeassistant: Übersetzung des Fronius Wechselrichter Status Code](https://wolf-u.li/homeassistant-uebersetzung-des-fronius-wechselrichter-status-code/) (2 months ago)
+- [Homeassistant: Übersetzung des Fronius Wechselrichter Status Code](https://wolf-u.li/homeassistant-uebersetzung-des-fronius-wechselrichter-status-code/) (3 months ago)
 
 #### ⭐ Recent Stars
 
