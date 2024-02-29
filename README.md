@@ -22,7 +22,7 @@
 
 #### 🔭 Recent Releases
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.219.7](https://github.com/renovatebot/renovate/releases/tag/37.219.7), today) - Universal dependency automation tool.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.220.0](https://github.com/renovatebot/renovate/releases/tag/37.220.0), today) - Universal dependency automation tool.
 - [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) ([v0.9.10](https://github.com/jon-harper/OmniBox/releases/tag/v0.9.10), 7 months ago) - Modular, 3D printable electronics case for 3D printers
 - [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) ([v1.11](https://github.com/SirUli/FroniusSmartmeter/releases/tag/v1.11), 1 year ago) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus
 
