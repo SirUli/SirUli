@@ -22,7 +22,7 @@
 
 #### 🔭 Recent Releases
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.222.2](https://github.com/renovatebot/renovate/releases/tag/37.222.2), today) - Universal dependency automation tool.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.222.3](https://github.com/renovatebot/renovate/releases/tag/37.222.3), 1 day ago) - Universal dependency automation tool.
 - [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) ([v0.9.10](https://github.com/jon-harper/OmniBox/releases/tag/v0.9.10), 7 months ago) - Modular, 3D printable electronics case for 3D printers
 - [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) ([v1.11](https://github.com/SirUli/FroniusSmartmeter/releases/tag/v1.11), 1 year ago) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus
 
@@ -41,7 +41,7 @@
 
 #### 📜 My recent blog posts (English)
 
-- [ESPHome: failed to execute &#39;open&#39; on &#39;serialport&#39;: failed to open serial port.](https://wolf-u.li/esphome-failed-to-execute-open-on-serialport-failed-to-open-serial-port/) (today)
+- [ESPHome: failed to execute &#39;open&#39; on &#39;serialport&#39;: failed to open serial port.](https://wolf-u.li/esphome-failed-to-execute-open-on-serialport-failed-to-open-serial-port/) (1 day ago)
 - [Change external url of gitlab](https://wolf-u.li/en/change-external-url-of-gitlab/) (1 month ago)
 - [Home Assistant: Change file without core running](https://wolf-u.li/en/homeassistant-change-file-without-core-running/) (1 month ago)
 - [HP Officejet Pro 8620 Semi-Reset](https://wolf-u.li/hp-officejet-pro-8620-semi-reset/) (2 months ago)
@@ -49,7 +49,7 @@
 
 #### 📜 My recent blog posts (German)
 
-- [Sensus 620 Wasserzähler: Smart machen via ESPHome](https://wolf-u.li/sensus-620-wasserzaehler-smart-machen/) (1 week ago)
+- [Sensus 620 Wasserzähler: Smart machen via ESPHome](https://wolf-u.li/sensus-620-wasserzaehler-smart-machen/) (2 weeks ago)
 - [Paperless-ngx ASN mit Avery L4731 labels](https://wolf-u.li/paperless-ngx-asn-mit-avery-l4731-labels/) (1 month ago)
 - [Paperless-ngx: Erneutes tagging von Dokumenten](https://wolf-u.li/paperless-ngx-erneutes-tagging-von-dokumenten/) (2 months ago)
 - [Paperless-ngx: Startseite konfigurieren](https://wolf-u.li/paperless-ngx-startseite-konfigurieren/) (2 months ago)
