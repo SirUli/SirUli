@@ -74,8 +74,8 @@ For more information, see [the sponsors page](https://github.com/sponsors/SirUli
 
 #### 👯 Recent followers
 
+- [Manikantan529](https://github.com/Manikantan529)
 - [kb2rww](https://github.com/kb2rww)
 - [jr5290491](https://github.com/jr5290491)
 - [Grampy-69](https://github.com/Grampy-69)
 - [issic](https://github.com/issic)
-- [aramirol](https://github.com/aramirol)
