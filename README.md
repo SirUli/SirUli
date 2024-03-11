@@ -5,7 +5,6 @@
 - [SirUli/ansibleunsafetext](https://github.com/SirUli/ansibleunsafetext) - Sample Repository to share code for https://github.com/ansible/ansible/issues/82414 (3 months ago)
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool. (7 months ago)
 - [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) - Modular, 3D printable electronics case for 3D printers (7 months ago)
-- [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus (1 year ago)
 
 #### 🌱 Latest projects
 
@@ -22,7 +21,7 @@
 
 #### 🔭 Recent Releases
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.235.5](https://github.com/renovatebot/renovate/releases/tag/37.235.5), today) - Universal dependency automation tool.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.235.6](https://github.com/renovatebot/renovate/releases/tag/37.235.6), today) - Universal dependency automation tool.
 - [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) ([v0.9.10](https://github.com/jon-harper/OmniBox/releases/tag/v0.9.10), 7 months ago) - Modular, 3D printable electronics case for 3D printers
 
 #### 🔨 Recent Pull Requests
