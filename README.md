@@ -39,11 +39,11 @@
 
 #### 📜 My recent blog posts (English)
 
+- [BIGTREETECH Relay 1.2: Change Timeout and enable turning on by pin](https://wolf-u.li/en/bigtreetech-relay-1.2-change-timeout-and-enable-turning-on-by-pin) (1 day ago)
 - [ESPHome: failed to execute &#39;open&#39; on &#39;serialport&#39;: failed to open serial port.](https://wolf-u.li/esphome-failed-to-execute-open-on-serialport-failed-to-open-serial-port/) (1 week ago)
 - [Change external url of gitlab](https://wolf-u.li/en/change-external-url-of-gitlab/) (1 month ago)
 - [Home Assistant: Change file without core running](https://wolf-u.li/en/homeassistant-change-file-without-core-running/) (1 month ago)
 - [HP Officejet Pro 8620 Semi-Reset](https://wolf-u.li/hp-officejet-pro-8620-semi-reset/) (2 months ago)
-- [Synology: unzip - Command not found](https://wolf-u.li/en/synology-unzip-command-not-found/) (3 months ago)
 
 #### 📜 My recent blog posts (German)
 
