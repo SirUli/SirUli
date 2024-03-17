@@ -21,8 +21,8 @@
 
 #### 🔭 Recent Releases
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.250.0](https://github.com/renovatebot/renovate/releases/tag/37.250.0), today) - Universal dependency automation tool.
-- [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) ([v0.9.11](https://github.com/jon-harper/OmniBox/releases/tag/v0.9.11), 1 day ago) - Modular, 3D printable electronics case for 3D printers
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.250.1](https://github.com/renovatebot/renovate/releases/tag/37.250.1), 1 day ago) - Universal dependency automation tool.
+- [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) ([v0.9.11](https://github.com/jon-harper/OmniBox/releases/tag/v0.9.11), 2 days ago) - Modular, 3D printable electronics case for 3D printers
 
 #### 🔨 Recent Pull Requests
 
@@ -39,7 +39,7 @@
 
 #### 📜 My recent blog posts (English)
 
-- [BIGTREETECH Relay 1.2: Change Timeout and enable turning on by pin](https://wolf-u.li/en/bigtreetech-relay-1.2-change-timeout-and-enable-turning-on-by-pin) (3 days ago)
+- [BIGTREETECH Relay 1.2: Change Timeout and enable turning on by pin](https://wolf-u.li/en/bigtreetech-relay-1.2-change-timeout-and-enable-turning-on-by-pin) (4 days ago)
 - [ESPHome: failed to execute &#39;open&#39; on &#39;serialport&#39;: failed to open serial port.](https://wolf-u.li/esphome-failed-to-execute-open-on-serialport-failed-to-open-serial-port/) (2 weeks ago)
 - [Change external url of gitlab](https://wolf-u.li/en/change-external-url-of-gitlab/) (1 month ago)
 - [Home Assistant: Change file without core running](https://wolf-u.li/en/homeassistant-change-file-without-core-running/) (1 month ago)
