@@ -55,6 +55,8 @@
 
 #### ⭐ Recent Stars
 
+- [formtapez/ZigUP](https://github.com/formtapez/ZigUP) - CC2530 based multi-purpose ZigBee Relais, Switch, Sensor and Router (today)
+- [xyzroe/16-relay-Zigbee](https://github.com/xyzroe/16-relay-Zigbee) - Zigbee adapter for 16 relays board using CC2652, with 4 isolated digital inputs, 4 direct pins, DS18B20 on board and CH340 for flashing using USB. (today)
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts (3 weeks ago)
 - [catduckgnaf/rtl_433_ha](https://github.com/catduckgnaf/rtl_433_ha) - This is the primary location for the project of making RTL_433 for the HA community. (1 month ago)
 - [rednblkx/HomeKey-ESP32](https://github.com/rednblkx/HomeKey-ESP32) - ESP32 HomeKit Lock with support for the Home Key (1 month ago)
@@ -63,8 +65,6 @@
 - [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) - Paperless-ngx metrics for Prometheus (3 months ago)
 - [johannmx/paperless-ngx_backup](https://github.com/johannmx/paperless-ngx_backup) - Backs up Paperless-ngx files and directories automatically (docker container) with notifications (AppRise intregration) (3 months ago)
 - [tb1337/paperless-api](https://github.com/tb1337/paperless-api) - Little api client for paperless(-ngx). (3 months ago)
-- [jgillula/paperless-ngx-postprocessor](https://github.com/jgillula/paperless-ngx-postprocessor) - A powerful and customizable postprocessing script for paperless-ngx (3 months ago)
-- [deepdoctection/deepdoctection](https://github.com/deepdoctection/deepdoctection) - A Repo For Document AI (3 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
