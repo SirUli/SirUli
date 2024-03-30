@@ -21,7 +21,7 @@
 
 #### 🔭 Recent Releases
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.277.0](https://github.com/renovatebot/renovate/releases/tag/37.277.0), today) - Universal dependency automation tool.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.278.0](https://github.com/renovatebot/renovate/releases/tag/37.278.0), today) - Universal dependency automation tool.
 - [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) ([v0.9.11](https://github.com/jon-harper/OmniBox/releases/tag/v0.9.11), 2 weeks ago) - Modular, 3D printable electronics case for 3D printers
 
 #### 🔨 Recent Pull Requests
