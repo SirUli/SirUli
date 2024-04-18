@@ -2,6 +2,7 @@
 
 #### 👷 Recent Contributions
 
+- [SirUli/OneWireTest4iButton](https://github.com/SirUli/OneWireTest4iButton) - Testing the iButton (See Blog: https://wolf-u.li) (today)
 - [SirUli/ansibleunsafetext](https://github.com/SirUli/ansibleunsafetext) - Sample Repository to share code for https://github.com/ansible/ansible/issues/82414 (4 months ago)
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool. (8 months ago)
 - [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) - Modular, 3D printable electronics case for 3D printers (8 months ago)
@@ -21,7 +22,7 @@
 
 #### 🔭 Recent Releases
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.303.2](https://github.com/renovatebot/renovate/releases/tag/37.303.2), 1 day ago) - Universal dependency automation tool.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.303.3](https://github.com/renovatebot/renovate/releases/tag/37.303.3), today) - Universal dependency automation tool.
 - [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) ([v0.9.11](https://github.com/jon-harper/OmniBox/releases/tag/v0.9.11), 1 month ago) - Modular, 3D printable electronics case for 3D printers
 
 #### 🔨 Recent Pull Requests
