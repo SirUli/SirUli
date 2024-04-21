@@ -2,7 +2,7 @@
 
 #### 👷 Recent Contributions
 
-- [SirUli/OneWireTest4iButton](https://github.com/SirUli/OneWireTest4iButton) - Testing the iButton (See Blog: https://wolf-u.li) (2 days ago)
+- [SirUli/OneWireTest4iButton](https://github.com/SirUli/OneWireTest4iButton) - Testing the iButton (See Blog: https://wolf-u.li) (3 days ago)
 - [SirUli/ansibleunsafetext](https://github.com/SirUli/ansibleunsafetext) - Sample Repository to share code for https://github.com/ansible/ansible/issues/82414 (4 months ago)
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool. (8 months ago)
 - [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) - Modular, 3D printable electronics case for 3D printers (8 months ago)
@@ -22,7 +22,7 @@
 
 #### 🔭 Recent Releases
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.313.1](https://github.com/renovatebot/renovate/releases/tag/37.313.1), today) - Universal dependency automation tool.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.313.1](https://github.com/renovatebot/renovate/releases/tag/37.313.1), 1 day ago) - Universal dependency automation tool.
 - [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) ([v0.9.11](https://github.com/jon-harper/OmniBox/releases/tag/v0.9.11), 1 month ago) - Modular, 3D printable electronics case for 3D printers
 
 #### 🔨 Recent Pull Requests
@@ -42,8 +42,8 @@
 
 - [BIGTREETECH Relay 1.2: Change Timeout and enable turning on by pin](https://wolf-u.li/en/bigtreetech-relay-1.2-change-timeout-and-enable-turning-on-by-pin) (1 month ago)
 - [ESPHome: failed to execute &#39;open&#39; on &#39;serialport&#39;: failed to open serial port.](https://wolf-u.li/esphome-failed-to-execute-open-on-serialport-failed-to-open-serial-port/) (1 month ago)
-- [Change external url of gitlab](https://wolf-u.li/en/change-external-url-of-gitlab/) (2 months ago)
-- [Home Assistant: Change file without core running](https://wolf-u.li/en/homeassistant-change-file-without-core-running/) (2 months ago)
+- [Change external url of gitlab](https://wolf-u.li/en/change-external-url-of-gitlab/) (3 months ago)
+- [Home Assistant: Change file without core running](https://wolf-u.li/en/homeassistant-change-file-without-core-running/) (3 months ago)
 - [HP Officejet Pro 8620 Semi-Reset](https://wolf-u.li/hp-officejet-pro-8620-semi-reset/) (3 months ago)
 
 #### 📜 My recent blog posts (German)
@@ -56,7 +56,7 @@
 
 #### ⭐ Recent Stars
 
-- [tailwarden/komiser](https://github.com/tailwarden/komiser) - Open-source cloud-environment inspector. Supporting AWS, GCP, Azure, and more! Your cloud resources will have nowhere to hide! (2 days ago)
+- [tailwarden/komiser](https://github.com/tailwarden/komiser) - Open-source cloud-environment inspector. Supporting AWS, GCP, Azure, and more! Your cloud resources will have nowhere to hide! (3 days ago)
 - [ansible-collections/community.hashi_vault](https://github.com/ansible-collections/community.hashi_vault) - Ansible collection for managing and working with HashiCorp Vault. (3 weeks ago)
 - [mkdocstrings/python](https://github.com/mkdocstrings/python) - A Python handler for mkdocstrings. (3 weeks ago)
 - [formtapez/ZigUP](https://github.com/formtapez/ZigUP) - CC2530 based multi-purpose ZigBee Relais, Switch, Sensor and Router (3 weeks ago)
