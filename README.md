@@ -2,6 +2,7 @@
 
 #### 👷 Recent Contributions
 
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) - Provides an Home Assistant addon configuration for Ollama (today)
 - [SirUli/OneWireTest4iButton](https://github.com/SirUli/OneWireTest4iButton) - Testing the iButton (See Blog: https://wolf-u.li) (5 days ago)
 - [SirUli/ansibleunsafetext](https://github.com/SirUli/ansibleunsafetext) - Sample Repository to share code for https://github.com/ansible/ansible/issues/82414 (4 months ago)
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool. (8 months ago)
@@ -9,6 +10,7 @@
 
 #### 🌱 Latest projects
 
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) - Provides an Home Assistant addon configuration for Ollama
 - [SirUli/ansibleunsafetext](https://github.com/SirUli/ansibleunsafetext) - Sample Repository to share code for https://github.com/ansible/ansible/issues/82414
 - [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) - Integration of Fronius Smartmeters into the Victron VenusOS environment via dbus
 - [SirUli/wuud](https://github.com/SirUli/wuud) - A User Detector Script for the Dahua VTO2000A Doorbell
@@ -18,11 +20,10 @@
 - [SirUli/ESP8266-WittyCloud-ESP12-ArduinoDemo](https://github.com/SirUli/ESP8266-WittyCloud-ESP12-ArduinoDemo) - ESP8266 Witty Cloud Demo using Arduino
 - [SirUli/Grill-Temperature-ESP8266-MAX6675](https://github.com/SirUli/Grill-Temperature-ESP8266-MAX6675) - A Grill Temperature Sensor utilizing the MAX6675 connected to an ESP866 / ESP-01
 - [SirUli/passport-expresshelper](https://github.com/SirUli/passport-expresshelper) - Helper for express 2.x in combination with the with the passport authentication module
-- [SirUli/node-adclient](https://github.com/SirUli/node-adclient) - ldapjs client for authentication with active directory
 
 #### 🔭 Recent Releases
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.319.1](https://github.com/renovatebot/renovate/releases/tag/37.319.1), today) - Universal dependency automation tool.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.319.2](https://github.com/renovatebot/renovate/releases/tag/37.319.2), today) - Universal dependency automation tool.
 - [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) ([v0.9.11](https://github.com/jon-harper/OmniBox/releases/tag/v0.9.11), 1 month ago) - Modular, 3D printable electronics case for 3D printers
 
 #### 🔨 Recent Pull Requests
