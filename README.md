@@ -2,11 +2,11 @@
 
 #### 👷 Recent Contributions
 
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) - Provides an Home Assistant addon configuration for Ollama (2 days ago)
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) - Provides an Home Assistant addon configuration for Ollama (3 days ago)
 - [SirUli/OneWireTest4iButton](https://github.com/SirUli/OneWireTest4iButton) - Testing the iButton (See Blog: https://wolf-u.li) (1 week ago)
 - [SirUli/ansibleunsafetext](https://github.com/SirUli/ansibleunsafetext) - Sample Repository to share code for https://github.com/ansible/ansible/issues/82414 (4 months ago)
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool. (8 months ago)
-- [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) - Modular, 3D printable electronics case for 3D printers (8 months ago)
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool. (9 months ago)
+- [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) - Modular, 3D printable electronics case for 3D printers (9 months ago)
 
 #### 🌱 Latest projects
 
@@ -23,13 +23,13 @@
 
 #### 🔭 Recent Releases
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.325.1](https://github.com/renovatebot/renovate/releases/tag/37.325.1), today) - Universal dependency automation tool.
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v1.0.0](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v1.0.0), 3 days ago) - Provides an Home Assistant addon configuration for Ollama
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.325.1](https://github.com/renovatebot/renovate/releases/tag/37.325.1), 1 day ago) - Universal dependency automation tool.
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v1.0.0](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v1.0.0), 4 days ago) - Provides an Home Assistant addon configuration for Ollama
 - [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) ([v0.9.11](https://github.com/jon-harper/OmniBox/releases/tag/v0.9.11), 1 month ago) - Modular, 3D printable electronics case for 3D printers
 
 #### 🔨 Recent Pull Requests
 
-- [docs(display): Add docs for btt hdmi5](https://github.com/jon-harper/OmniBox/pull/129) on [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) (8 months ago)
+- [docs(display): Add docs for btt hdmi5](https://github.com/jon-harper/OmniBox/pull/129) on [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) (9 months ago)
 - [feat(btt_hdmi5): Add BIGTREETECH HDMI5 Display](https://github.com/jon-harper/OmniBox/pull/128) on [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) (9 months ago)
 - [docs(datasource): Add additional examples for custom datasource](https://github.com/renovatebot/renovate/pull/23558) on [renovatebot/renovate](https://github.com/renovatebot/renovate) (9 months ago)
 - [fix: Add more details in README](https://github.com/SirUli/FroniusSmartmeter/pull/12) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (1 year ago)
@@ -59,8 +59,8 @@
 #### ⭐ Recent Stars
 
 - [tailwarden/komiser](https://github.com/tailwarden/komiser) - Open-source cloud-environment inspector. Supporting AWS, GCP, Azure, and more! Your cloud resources will have nowhere to hide! (1 week ago)
-- [ansible-collections/community.hashi_vault](https://github.com/ansible-collections/community.hashi_vault) - Ansible collection for managing and working with HashiCorp Vault. (4 weeks ago)
-- [mkdocstrings/python](https://github.com/mkdocstrings/python) - A Python handler for mkdocstrings. (4 weeks ago)
+- [ansible-collections/community.hashi_vault](https://github.com/ansible-collections/community.hashi_vault) - Ansible collection for managing and working with HashiCorp Vault. (1 month ago)
+- [mkdocstrings/python](https://github.com/mkdocstrings/python) - A Python handler for mkdocstrings. (1 month ago)
 - [formtapez/ZigUP](https://github.com/formtapez/ZigUP) - CC2530 based multi-purpose ZigBee Relais, Switch, Sensor and Router (1 month ago)
 - [xyzroe/16-relay-Zigbee](https://github.com/xyzroe/16-relay-Zigbee) - Zigbee adapter for 16 relays board using CC2652, with 4 isolated digital inputs, 4 direct pins, DS18B20 on board and CH340 for flashing using USB. (1 month ago)
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts (1 month ago)
