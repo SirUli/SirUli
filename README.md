@@ -23,7 +23,7 @@
 
 #### 🔭 Recent Releases
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.356.1](https://github.com/renovatebot/renovate/releases/tag/37.356.1), today) - Universal dependency automation tool.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.356.1](https://github.com/renovatebot/renovate/releases/tag/37.356.1), 1 day ago) - Universal dependency automation tool.
 - [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v1.0.0](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v1.0.0), 2 weeks ago) - Provides an Home Assistant addon configuration for Ollama
 - [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) ([v0.9.11](https://github.com/jon-harper/OmniBox/releases/tag/v0.9.11), 1 month ago) - Modular, 3D printable electronics case for 3D printers
 
@@ -64,7 +64,7 @@
 - [formtapez/ZigUP](https://github.com/formtapez/ZigUP) - CC2530 based multi-purpose ZigBee Relais, Switch, Sensor and Router (1 month ago)
 - [xyzroe/16-relay-Zigbee](https://github.com/xyzroe/16-relay-Zigbee) - Zigbee adapter for 16 relays board using CC2652, with 4 isolated digital inputs, 4 direct pins, DS18B20 on board and CH340 for flashing using USB. (1 month ago)
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts (2 months ago)
-- [catduckgnaf/rtl_433_ha](https://github.com/catduckgnaf/rtl_433_ha) - This is the primary location for the project of making RTL_433 for the HA community. (2 months ago)
+- [catduckgnaf/rtl_433_ha](https://github.com/catduckgnaf/rtl_433_ha) - This is the primary location for the project of making RTL_433 for the HA community. (3 months ago)
 - [rednblkx/HomeKey-ESP32](https://github.com/rednblkx/HomeKey-ESP32) - ESP32 HomeKit Lock with support for the Home Key (3 months ago)
 - [jordaneremieff/mangum](https://github.com/jordaneremieff/mangum) - AWS Lambda support for ASGI applications (3 months ago)
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents (4 months ago)
