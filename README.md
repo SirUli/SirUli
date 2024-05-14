@@ -23,7 +23,7 @@
 
 #### 🔭 Recent Releases
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.363.2](https://github.com/renovatebot/renovate/releases/tag/37.363.2), today) - Universal dependency automation tool.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.363.3](https://github.com/renovatebot/renovate/releases/tag/37.363.3), today) - Universal dependency automation tool.
 - [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v1.0.0](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v1.0.0), 3 weeks ago) - Provides an Home Assistant addon configuration for Ollama
 - [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) ([v0.9.11](https://github.com/jon-harper/OmniBox/releases/tag/v0.9.11), 2 months ago) - Modular, 3D printable electronics case for 3D printers
 
