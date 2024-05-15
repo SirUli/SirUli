@@ -58,6 +58,8 @@
 
 #### ⭐ Recent Stars
 
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. It allows to generate Text, Audio, Video, Images. Also with voice cloning capabilities. (today)
+- [k0sproject/k0s](https://github.com/k0sproject/k0s) - k0s - The Zero Friction Kubernetes (today)
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files (today)
 - [bartekmotyl/simple-video-cutter](https://github.com/bartekmotyl/simple-video-cutter) - Windows-based tool for efficient browsing and cutting video footage (today)
 - [tailwarden/komiser](https://github.com/tailwarden/komiser) - Open-source cloud-environment inspector. Supporting AWS, GCP, Azure, and more! Your cloud resources will have nowhere to hide! (3 weeks ago)
@@ -66,8 +68,6 @@
 - [formtapez/ZigUP](https://github.com/formtapez/ZigUP) - CC2530 based multi-purpose ZigBee Relais, Switch, Sensor and Router (1 month ago)
 - [xyzroe/16-relay-Zigbee](https://github.com/xyzroe/16-relay-Zigbee) - Zigbee adapter for 16 relays board using CC2652, with 4 isolated digital inputs, 4 direct pins, DS18B20 on board and CH340 for flashing using USB. (1 month ago)
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts (2 months ago)
-- [catduckgnaf/rtl_433_ha](https://github.com/catduckgnaf/rtl_433_ha) - This is the primary location for the project of making RTL_433 for the HA community. (3 months ago)
-- [rednblkx/HomeKey-ESP32](https://github.com/rednblkx/HomeKey-ESP32) - ESP32 HomeKit Lock with support for the Home Key (3 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
