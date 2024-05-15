@@ -23,7 +23,7 @@
 
 #### 🔭 Recent Releases
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.363.5](https://github.com/renovatebot/renovate/releases/tag/37.363.5), today) - Universal dependency automation tool.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.363.7](https://github.com/renovatebot/renovate/releases/tag/37.363.7), today) - Universal dependency automation tool.
 - [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v1.0.0](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v1.0.0), 3 weeks ago) - Provides an Home Assistant addon configuration for Ollama
 - [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) ([v0.9.11](https://github.com/jon-harper/OmniBox/releases/tag/v0.9.11), 2 months ago) - Modular, 3D printable electronics case for 3D printers
 
@@ -58,6 +58,8 @@
 
 #### ⭐ Recent Stars
 
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files (today)
+- [bartekmotyl/simple-video-cutter](https://github.com/bartekmotyl/simple-video-cutter) - Windows-based tool for efficient browsing and cutting video footage (today)
 - [tailwarden/komiser](https://github.com/tailwarden/komiser) - Open-source cloud-environment inspector. Supporting AWS, GCP, Azure, and more! Your cloud resources will have nowhere to hide! (3 weeks ago)
 - [ansible-collections/community.hashi_vault](https://github.com/ansible-collections/community.hashi_vault) - Ansible collection for managing and working with HashiCorp Vault. (1 month ago)
 - [mkdocstrings/python](https://github.com/mkdocstrings/python) - A Python handler for mkdocstrings. (1 month ago)
@@ -66,8 +68,6 @@
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts (2 months ago)
 - [catduckgnaf/rtl_433_ha](https://github.com/catduckgnaf/rtl_433_ha) - This is the primary location for the project of making RTL_433 for the HA community. (3 months ago)
 - [rednblkx/HomeKey-ESP32](https://github.com/rednblkx/HomeKey-ESP32) - ESP32 HomeKit Lock with support for the Home Key (3 months ago)
-- [jordaneremieff/mangum](https://github.com/jordaneremieff/mangum) - AWS Lambda support for ASGI applications (3 months ago)
-- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents (4 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
