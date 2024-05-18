@@ -58,6 +58,7 @@
 
 #### ⭐ Recent Stars
 
+- [Fabian-Schmidt/esphome-victron_ble](https://github.com/Fabian-Schmidt/esphome-victron_ble) - Use official Victron BLE endpoint for fetching data from Victron devices via Bluetooth LE via ESPHome. (today)
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models. (3 days ago)
 - [Jamesits/pve-fake-subscription](https://github.com/Jamesits/pve-fake-subscription) - Disables the &#34;No valid subscription&#34; dialog on all Proxmox products. (3 days ago)
 - [foundObjects/pve-nag-buster](https://github.com/foundObjects/pve-nag-buster) - Persistent license nag removal for Proxmox VE 5.x&#43; (3 days ago)
@@ -67,7 +68,6 @@
 - [bartekmotyl/simple-video-cutter](https://github.com/bartekmotyl/simple-video-cutter) - Windows-based tool for efficient browsing and cutting video footage (3 days ago)
 - [tailwarden/komiser](https://github.com/tailwarden/komiser) - Open-source cloud-environment inspector. Supporting AWS, GCP, Azure, and more! Your cloud resources will have nowhere to hide! (1 month ago)
 - [ansible-collections/community.hashi_vault](https://github.com/ansible-collections/community.hashi_vault) - Ansible collection for managing and working with HashiCorp Vault. (1 month ago)
-- [mkdocstrings/python](https://github.com/mkdocstrings/python) - A Python handler for mkdocstrings. (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
