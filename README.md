@@ -23,8 +23,8 @@
 
 #### 🔭 Recent Releases
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.368.9](https://github.com/renovatebot/renovate/releases/tag/37.368.9), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v1.0.0](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v1.0.0), 3 weeks ago) - Provides an Home Assistant addon configuration for Ollama
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.368.10](https://github.com/renovatebot/renovate/releases/tag/37.368.10), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v1.0.0](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v1.0.0), 4 weeks ago) - Provides an Home Assistant addon configuration for Ollama
 - [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) ([v0.9.11](https://github.com/jon-harper/OmniBox/releases/tag/v0.9.11), 2 months ago) - Modular, 3D printable electronics case for 3D printers
 
 #### 🔨 Recent Pull Requests
@@ -37,15 +37,15 @@
 - [Move README to Markdown](https://github.com/kwindrem/ShutdownMonitor/pull/3) on [kwindrem/ShutdownMonitor](https://github.com/kwindrem/ShutdownMonitor) (1 year ago)
 - [Release of v1.10](https://github.com/SirUli/FroniusSmartmeter/pull/7) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (1 year ago)
 - [More Details on Products and Models](https://github.com/Rikkert-RS/VenusOS-TemperatureService/pull/2) on [Rikkert-RS/VenusOS-TemperatureService](https://github.com/Rikkert-RS/VenusOS-TemperatureService) (1 year ago)
-- [FroniusSmartmeter Repository](https://github.com/kwindrem/SetupHelper/pull/31) on [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) (1 year ago)
-- [fix: the gitHubInfo has to point to the default branch or tag](https://github.com/SirUli/FroniusSmartmeter/pull/4) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (1 year ago)
+- [FroniusSmartmeter Repository](https://github.com/kwindrem/SetupHelper/pull/31) on [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) (2 years ago)
+- [fix: the gitHubInfo has to point to the default branch or tag](https://github.com/SirUli/FroniusSmartmeter/pull/4) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (2 years ago)
 
 #### 📜 My recent blog posts (English)
 
 - [BIGTREETECH Relay 1.2: Change Timeout and enable turning on by pin](https://wolf-u.li/en/bigtreetech-relay-1.2-change-timeout-and-enable-turning-on-by-pin) (2 months ago)
 - [ESPHome: failed to execute &#39;open&#39; on &#39;serialport&#39;: failed to open serial port.](https://wolf-u.li/esphome-failed-to-execute-open-on-serialport-failed-to-open-serial-port/) (2 months ago)
-- [Change external url of gitlab](https://wolf-u.li/en/change-external-url-of-gitlab/) (3 months ago)
-- [Home Assistant: Change file without core running](https://wolf-u.li/en/homeassistant-change-file-without-core-running/) (3 months ago)
+- [Change external url of gitlab](https://wolf-u.li/en/change-external-url-of-gitlab/) (4 months ago)
+- [Home Assistant: Change file without core running](https://wolf-u.li/en/homeassistant-change-file-without-core-running/) (4 months ago)
 - [HP Officejet Pro 8620 Semi-Reset](https://wolf-u.li/hp-officejet-pro-8620-semi-reset/) (4 months ago)
 
 #### 📜 My recent blog posts (German)
@@ -58,14 +58,14 @@
 
 #### ⭐ Recent Stars
 
-- [Fabian-Schmidt/esphome-victron_ble](https://github.com/Fabian-Schmidt/esphome-victron_ble) - Use official Victron BLE endpoint for fetching data from Victron devices via Bluetooth LE via ESPHome. (2 days ago)
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models. (5 days ago)
-- [Jamesits/pve-fake-subscription](https://github.com/Jamesits/pve-fake-subscription) - Disables the &#34;No valid subscription&#34; dialog on all Proxmox products. (5 days ago)
-- [foundObjects/pve-nag-buster](https://github.com/foundObjects/pve-nag-buster) - Persistent license nag removal for Proxmox VE 5.x&#43; (5 days ago)
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. It allows to generate Text, Audio, Video, Images. Also with voice cloning capabilities. (5 days ago)
-- [k0sproject/k0s](https://github.com/k0sproject/k0s) - k0s - The Zero Friction Kubernetes (5 days ago)
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files (5 days ago)
-- [bartekmotyl/simple-video-cutter](https://github.com/bartekmotyl/simple-video-cutter) - Windows-based tool for efficient browsing and cutting video footage (5 days ago)
+- [Fabian-Schmidt/esphome-victron_ble](https://github.com/Fabian-Schmidt/esphome-victron_ble) - Use official Victron BLE endpoint for fetching data from Victron devices via Bluetooth LE via ESPHome. (3 days ago)
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models. (6 days ago)
+- [Jamesits/pve-fake-subscription](https://github.com/Jamesits/pve-fake-subscription) - Disables the &#34;No valid subscription&#34; dialog on all Proxmox products. (6 days ago)
+- [foundObjects/pve-nag-buster](https://github.com/foundObjects/pve-nag-buster) - Persistent license nag removal for Proxmox VE 5.x&#43; (6 days ago)
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. It allows to generate Text, Audio, Video, Images. Also with voice cloning capabilities. (6 days ago)
+- [k0sproject/k0s](https://github.com/k0sproject/k0s) - k0s - The Zero Friction Kubernetes (6 days ago)
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files (6 days ago)
+- [bartekmotyl/simple-video-cutter](https://github.com/bartekmotyl/simple-video-cutter) - Windows-based tool for efficient browsing and cutting video footage (6 days ago)
 - [tailwarden/komiser](https://github.com/tailwarden/komiser) - Open-source cloud-environment inspector. Supporting AWS, GCP, Azure, and more! Your cloud resources will have nowhere to hide! (1 month ago)
 - [ansible-collections/community.hashi_vault](https://github.com/ansible-collections/community.hashi_vault) - Ansible collection for managing and working with HashiCorp Vault. (1 month ago)
 
