@@ -58,6 +58,7 @@
 
 #### ⭐ Recent Stars
 
+- [bruxy70/Venetian-Blinds-Control](https://github.com/bruxy70/Venetian-Blinds-Control) - Control Shutters or Venetian blinds via buttons and MQTT. Use 2 relays (up and down) and 2 binary inputs to independently control position and tilt. (today)
 - [moul/docker-diff](https://github.com/moul/docker-diff) - :whale: Compare Docker images (3 weeks ago)
 - [reproducible-containers/diffoci](https://github.com/reproducible-containers/diffoci) - diff for Docker and OCI container images (3 weeks ago)
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image (3 weeks ago)
@@ -67,7 +68,6 @@
 - [foundObjects/pve-nag-buster](https://github.com/foundObjects/pve-nag-buster) - Persistent license nag removal for Proxmox VE 5.x&#43; (1 month ago)
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. It allows to generate Text, Audio, Video, Images. Also with voice cloning capabilities. (1 month ago)
 - [k0sproject/k0s](https://github.com/k0sproject/k0s) - k0s - The Zero Friction Kubernetes (1 month ago)
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
