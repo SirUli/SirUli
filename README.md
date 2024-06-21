@@ -58,6 +58,7 @@
 
 #### ⭐ Recent Stars
 
+- [the-mentor/ESPHome-Device-Sim](https://github.com/the-mentor/ESPHome-Device-Sim) -  (today)
 - [bruxy70/Venetian-Blinds-Control](https://github.com/bruxy70/Venetian-Blinds-Control) - Control Shutters or Venetian blinds via buttons and MQTT. Use 2 relays (up and down) and 2 binary inputs to independently control position and tilt. (5 days ago)
 - [moul/docker-diff](https://github.com/moul/docker-diff) - :whale: Compare Docker images (4 weeks ago)
 - [reproducible-containers/diffoci](https://github.com/reproducible-containers/diffoci) - diff for Docker and OCI container images (4 weeks ago)
@@ -67,7 +68,6 @@
 - [Jamesits/pve-fake-subscription](https://github.com/Jamesits/pve-fake-subscription) - Disables the &#34;No valid subscription&#34; dialog on all Proxmox products. (1 month ago)
 - [foundObjects/pve-nag-buster](https://github.com/foundObjects/pve-nag-buster) - Persistent license nag removal for Proxmox VE 5.x&#43; (1 month ago)
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. It allows to generate Text, Audio, Video, Images. Also with voice cloning capabilities. (1 month ago)
-- [k0sproject/k0s](https://github.com/k0sproject/k0s) - k0s - The Zero Friction Kubernetes (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
