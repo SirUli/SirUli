@@ -2,7 +2,7 @@
 
 #### 👷 Recent Contributions
 
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) - Provides an Home Assistant addon configuration for Ollama (3 days ago)
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) - Provides an Home Assistant addon configuration for Ollama (4 days ago)
 - [SirUli/OneWireTest4iButton](https://github.com/SirUli/OneWireTest4iButton) - Testing the iButton (See Blog: https://wolf-u.li) (2 months ago)
 - [SirUli/ansibleunsafetext](https://github.com/SirUli/ansibleunsafetext) - Sample Repository to share code for https://github.com/ansible/ansible/issues/82414 (6 months ago)
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io (11 months ago)
@@ -23,8 +23,8 @@
 
 #### 🔭 Recent Releases
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.421.0](https://github.com/renovatebot/renovate/releases/tag/37.421.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v1.1.2](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v1.1.2), today) - Provides an Home Assistant addon configuration for Ollama
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.421.0](https://github.com/renovatebot/renovate/releases/tag/37.421.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v1.1.2](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v1.1.2), 1 day ago) - Provides an Home Assistant addon configuration for Ollama
 - [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) ([v0.9.11](https://github.com/jon-harper/OmniBox/releases/tag/v0.9.11), 3 months ago) - Modular, 3D printable electronics case for 3D printers
 
 #### 🔨 Recent Pull Requests
@@ -59,7 +59,7 @@
 #### ⭐ Recent Stars
 
 - [the-mentor/ESPHome-Device-Sim](https://github.com/the-mentor/ESPHome-Device-Sim) -  (1 week ago)
-- [bruxy70/Venetian-Blinds-Control](https://github.com/bruxy70/Venetian-Blinds-Control) - Control Shutters or Venetian blinds via buttons and MQTT. Use 2 relays (up and down) and 2 binary inputs to independently control position and tilt. (1 week ago)
+- [bruxy70/Venetian-Blinds-Control](https://github.com/bruxy70/Venetian-Blinds-Control) - Control Shutters or Venetian blinds via buttons and MQTT. Use 2 relays (up and down) and 2 binary inputs to independently control position and tilt. (2 weeks ago)
 - [moul/docker-diff](https://github.com/moul/docker-diff) - :whale: Compare Docker images (1 month ago)
 - [reproducible-containers/diffoci](https://github.com/reproducible-containers/diffoci) - diff for Docker and OCI container images (1 month ago)
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image (1 month ago)
