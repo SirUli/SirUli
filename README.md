@@ -24,9 +24,9 @@
 
 #### 🔭 Recent Releases
 
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v1.1.3](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v1.1.3), today) - Provides an Home Assistant addon configuration for Ollama
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.426.0](https://github.com/renovatebot/renovate/releases/tag/37.426.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) ([2.3.10](https://github.com/andrew-codechimp/HA-Battery-Notes/releases/tag/2.3.10), 1 week ago) - A Home Assistant integration to provide battery notes of devices
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v1.1.2](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v1.1.2), 1 week ago) - Provides an Home Assistant addon configuration for Ollama
 - [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) ([v0.9.11](https://github.com/jon-harper/OmniBox/releases/tag/v0.9.11), 3 months ago) - Modular, 3D printable electronics case for 3D printers
 
 #### 🔨 Recent Pull Requests
