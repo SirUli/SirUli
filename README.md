@@ -2,7 +2,7 @@
 
 #### 👷 Recent Contributions
 
-- [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) - A Home Assistant integration to provide battery notes of devices (6 days ago)
+- [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) - A Home Assistant integration to provide battery notes of devices (1 week ago)
 - [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) - Provides an Home Assistant addon configuration for Ollama (2 weeks ago)
 - [SirUli/OneWireTest4iButton](https://github.com/SirUli/OneWireTest4iButton) - Testing the iButton (See Blog: https://wolf-u.li) (2 months ago)
 - [SirUli/ansibleunsafetext](https://github.com/SirUli/ansibleunsafetext) - Sample Repository to share code for https://github.com/ansible/ansible/issues/82414 (7 months ago)
@@ -24,8 +24,8 @@
 
 #### 🔭 Recent Releases
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.429.0](https://github.com/renovatebot/renovate/releases/tag/37.429.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v1.1.4](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v1.1.4), 2 days ago) - Provides an Home Assistant addon configuration for Ollama
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.429.0](https://github.com/renovatebot/renovate/releases/tag/37.429.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v1.1.4](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v1.1.4), 3 days ago) - Provides an Home Assistant addon configuration for Ollama
 - [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) ([2.3.10](https://github.com/andrew-codechimp/HA-Battery-Notes/releases/tag/2.3.10), 1 week ago) - A Home Assistant integration to provide battery notes of devices
 - [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) ([v0.9.11](https://github.com/jon-harper/OmniBox/releases/tag/v0.9.11), 3 months ago) - Modular, 3D printable electronics case for 3D printers
 
@@ -53,17 +53,17 @@
 #### 📜 My recent blog posts (German)
 
 - [Gira Steckdose mit LED-Orientierungsleuchte (z.b. 417003) - Bilder und Ansichten](https://wolf-u.li/gira-steckdose-mit-led-leuchte-417003/) (1 month ago)
-- [Empfehlungen für die Verkabelung von lifepo4 Akkus](https://wolf-u.li/empfehlungen-fuer-die-verkabelung-von-lifepo4-akkus/) (1 month ago)
+- [Empfehlungen für die Verkabelung von lifepo4 Akkus](https://wolf-u.li/empfehlungen-fuer-die-verkabelung-von-lifepo4-akkus/) (2 months ago)
 - [Sensus 620 Wasserzähler: Smart machen via ESPHome](https://wolf-u.li/sensus-620-wasserzaehler-smart-machen/) (4 months ago)
 - [Paperless-ngx ASN mit Avery L4731 labels](https://wolf-u.li/paperless-ngx-asn-mit-avery-l4731-labels/) (5 months ago)
 - [Paperless-ngx: Erneutes tagging von Dokumenten](https://wolf-u.li/paperless-ngx-erneutes-tagging-von-dokumenten/) (7 months ago)
 
 #### ⭐ Recent Stars
 
-- [tianon/docker-postgres-upgrade](https://github.com/tianon/docker-postgres-upgrade) - a PoC for using &#34;pg_upgrade&#34; inside Docker -- learn from it, adapt it for your needs; don&#39;t expect it to work as-is! (today)
+- [tianon/docker-postgres-upgrade](https://github.com/tianon/docker-postgres-upgrade) - a PoC for using &#34;pg_upgrade&#34; inside Docker -- learn from it, adapt it for your needs; don&#39;t expect it to work as-is! (1 day ago)
 - [KinDR007/VictronMPPT-ESPHOME](https://github.com/KinDR007/VictronMPPT-ESPHOME) - Victron Mppt charger ve.direct to esphome node (1 week ago)
 - [wichers/esphome-comfoair](https://github.com/wichers/esphome-comfoair) - ESPHome configuration to drive Zehnder ComfoAir devices.  (1 week ago)
-- [the-mentor/ESPHome-Device-Sim](https://github.com/the-mentor/ESPHome-Device-Sim) -  (2 weeks ago)
+- [the-mentor/ESPHome-Device-Sim](https://github.com/the-mentor/ESPHome-Device-Sim) -  (3 weeks ago)
 - [bruxy70/Venetian-Blinds-Control](https://github.com/bruxy70/Venetian-Blinds-Control) - Control Shutters or Venetian blinds via buttons and MQTT. Use 2 relays (up and down) and 2 binary inputs to independently control position and tilt. (3 weeks ago)
 - [moul/docker-diff](https://github.com/moul/docker-diff) - :whale: Compare Docker images (1 month ago)
 - [reproducible-containers/diffoci](https://github.com/reproducible-containers/diffoci) - diff for Docker and OCI container images (1 month ago)
