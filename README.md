@@ -24,9 +24,9 @@
 
 #### 🔭 Recent Releases
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.431.7](https://github.com/renovatebot/renovate/releases/tag/37.431.7), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) ([2.3.13](https://github.com/andrew-codechimp/HA-Battery-Notes/releases/tag/2.3.13), today) - A Home Assistant integration to provide battery notes of devices
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v1.1.7](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v1.1.7), 2 days ago) - Provides an Home Assistant addon configuration for Ollama
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.431.7](https://github.com/renovatebot/renovate/releases/tag/37.431.7), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) ([2.3.13](https://github.com/andrew-codechimp/HA-Battery-Notes/releases/tag/2.3.13), 1 day ago) - A Home Assistant integration to provide battery notes of devices
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v1.1.7](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v1.1.7), 3 days ago) - Provides an Home Assistant addon configuration for Ollama
 - [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) ([v0.9.11](https://github.com/jon-harper/OmniBox/releases/tag/v0.9.11), 4 months ago) - Modular, 3D printable electronics case for 3D printers
 
 #### 🔨 Recent Pull Requests
@@ -60,12 +60,12 @@
 
 #### ⭐ Recent Stars
 
-- [B-urb/doclytics](https://github.com/B-urb/doclytics) - A document analyzer for paperless-ngx using ollama (1 day ago)
-- [tianon/docker-postgres-upgrade](https://github.com/tianon/docker-postgres-upgrade) - a PoC for using &#34;pg_upgrade&#34; inside Docker -- learn from it, adapt it for your needs; don&#39;t expect it to work as-is! (4 days ago)
+- [B-urb/doclytics](https://github.com/B-urb/doclytics) - A document analyzer for paperless-ngx using ollama (2 days ago)
+- [tianon/docker-postgres-upgrade](https://github.com/tianon/docker-postgres-upgrade) - a PoC for using &#34;pg_upgrade&#34; inside Docker -- learn from it, adapt it for your needs; don&#39;t expect it to work as-is! (5 days ago)
 - [KinDR007/VictronMPPT-ESPHOME](https://github.com/KinDR007/VictronMPPT-ESPHOME) - Victron Mppt charger ve.direct to esphome node (1 week ago)
-- [wichers/esphome-comfoair](https://github.com/wichers/esphome-comfoair) - ESPHome configuration to drive Zehnder ComfoAir devices.  (1 week ago)
+- [wichers/esphome-comfoair](https://github.com/wichers/esphome-comfoair) - ESPHome configuration to drive Zehnder ComfoAir devices.  (2 weeks ago)
 - [the-mentor/ESPHome-Device-Sim](https://github.com/the-mentor/ESPHome-Device-Sim) -  (3 weeks ago)
-- [bruxy70/Venetian-Blinds-Control](https://github.com/bruxy70/Venetian-Blinds-Control) - Control Shutters or Venetian blinds via buttons and MQTT. Use 2 relays (up and down) and 2 binary inputs to independently control position and tilt. (4 weeks ago)
+- [bruxy70/Venetian-Blinds-Control](https://github.com/bruxy70/Venetian-Blinds-Control) - Control Shutters or Venetian blinds via buttons and MQTT. Use 2 relays (up and down) and 2 binary inputs to independently control position and tilt. (1 month ago)
 - [moul/docker-diff](https://github.com/moul/docker-diff) - :whale: Compare Docker images (1 month ago)
 - [reproducible-containers/diffoci](https://github.com/reproducible-containers/diffoci) - diff for Docker and OCI container images (1 month ago)
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image (1 month ago)
