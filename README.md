@@ -60,6 +60,7 @@
 
 #### ⭐ Recent Stars
 
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for building AI from enterprise data (today)
 - [B-urb/doclytics](https://github.com/B-urb/doclytics) - A document analyzer for paperless-ngx using ollama (3 days ago)
 - [tianon/docker-postgres-upgrade](https://github.com/tianon/docker-postgres-upgrade) - a PoC for using &#34;pg_upgrade&#34; inside Docker -- learn from it, adapt it for your needs; don&#39;t expect it to work as-is! (6 days ago)
 - [KinDR007/VictronMPPT-ESPHOME](https://github.com/KinDR007/VictronMPPT-ESPHOME) - Victron Mppt charger ve.direct to esphome node (2 weeks ago)
@@ -69,7 +70,6 @@
 - [moul/docker-diff](https://github.com/moul/docker-diff) - :whale: Compare Docker images (1 month ago)
 - [reproducible-containers/diffoci](https://github.com/reproducible-containers/diffoci) - diff for Docker and OCI container images (1 month ago)
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image (1 month ago)
-- [Fabian-Schmidt/esphome-victron_ble](https://github.com/Fabian-Schmidt/esphome-victron_ble) - Use official Victron BLE endpoint for fetching data from Victron devices via Bluetooth LE via ESPHome. (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
