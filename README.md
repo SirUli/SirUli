@@ -60,16 +60,16 @@
 
 #### ⭐ Recent Stars
 
+- [fizix-io/ra-customizable-datagrid](https://github.com/fizix-io/ra-customizable-datagrid) - React Admin plugin that allows to hide / show columns dynamically (today)
+- [BigBasket/ra-components](https://github.com/BigBasket/ra-components) - Open source components for react-admin (today)
+- [maluramichael/ra-input-markdown](https://github.com/maluramichael/ra-input-markdown) - A markdown editor for react-admin (today)
+- [BlackBoxVision/react-admin-extensions](https://github.com/BlackBoxVision/react-admin-extensions) - Packages for improving your development workflow with react admin (today)
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for building AI from enterprise data (6 days ago)
 - [B-urb/doclytics](https://github.com/B-urb/doclytics) - A document analyzer for paperless-ngx using ollama (1 week ago)
 - [tianon/docker-postgres-upgrade](https://github.com/tianon/docker-postgres-upgrade) - a PoC for using &#34;pg_upgrade&#34; inside Docker -- learn from it, adapt it for your needs; don&#39;t expect it to work as-is! (1 week ago)
 - [KinDR007/VictronMPPT-ESPHOME](https://github.com/KinDR007/VictronMPPT-ESPHOME) - Victron Mppt charger ve.direct to esphome node (2 weeks ago)
 - [wichers/esphome-comfoair](https://github.com/wichers/esphome-comfoair) - ESPHome configuration to drive Zehnder ComfoAir devices.  (3 weeks ago)
 - [the-mentor/ESPHome-Device-Sim](https://github.com/the-mentor/ESPHome-Device-Sim) -  (1 month ago)
-- [bruxy70/Venetian-Blinds-Control](https://github.com/bruxy70/Venetian-Blinds-Control) - Control Shutters or Venetian blinds via buttons and MQTT. Use 2 relays (up and down) and 2 binary inputs to independently control position and tilt. (1 month ago)
-- [moul/docker-diff](https://github.com/moul/docker-diff) - :whale: Compare Docker images (2 months ago)
-- [reproducible-containers/diffoci](https://github.com/reproducible-containers/diffoci) - diff for Docker and OCI container images (2 months ago)
-- [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
