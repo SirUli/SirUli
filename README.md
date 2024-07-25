@@ -2,7 +2,7 @@
 
 #### 👷 Recent Contributions
 
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) - Provides an Home Assistant addon configuration for Ollama (4 days ago)
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) - Provides an Home Assistant addon configuration for Ollama (5 days ago)
 - [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) - A Home Assistant integration to provide battery notes of devices (2 weeks ago)
 - [SirUli/OneWireTest4iButton](https://github.com/SirUli/OneWireTest4iButton) - Testing the iButton (See Blog: https://wolf-u.li) (3 months ago)
 - [SirUli/ansibleunsafetext](https://github.com/SirUli/ansibleunsafetext) - Sample Repository to share code for https://github.com/ansible/ansible/issues/82414 (7 months ago)
@@ -24,8 +24,8 @@
 
 #### 🔭 Recent Releases
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.440.7](https://github.com/renovatebot/renovate/releases/tag/37.440.7), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v1.1.14](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v1.1.14), 1 day ago) - Provides an Home Assistant addon configuration for Ollama
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.440.7](https://github.com/renovatebot/renovate/releases/tag/37.440.7), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v1.1.14](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v1.1.14), 2 days ago) - Provides an Home Assistant addon configuration for Ollama
 - [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) ([2.3.13](https://github.com/andrew-codechimp/HA-Battery-Notes/releases/tag/2.3.13), 1 week ago) - A Home Assistant integration to provide battery notes of devices
 - [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) ([v0.9.11](https://github.com/jon-harper/OmniBox/releases/tag/v0.9.11), 4 months ago) - Modular, 3D printable electronics case for 3D printers
 
@@ -33,7 +33,7 @@
 
 - [Update Pre-commit hooks and enforce git fetch to be successful](https://github.com/staticdev/ansible-role-pyenv/pull/274) on [staticdev/ansible-role-pyenv](https://github.com/staticdev/ansible-role-pyenv) (3 weeks ago)
 - [docs(display): Add docs for btt hdmi5](https://github.com/jon-harper/OmniBox/pull/129) on [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) (11 months ago)
-- [feat(btt_hdmi5): Add BIGTREETECH HDMI5 Display](https://github.com/jon-harper/OmniBox/pull/128) on [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) (11 months ago)
+- [feat(btt_hdmi5): Add BIGTREETECH HDMI5 Display](https://github.com/jon-harper/OmniBox/pull/128) on [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) (1 year ago)
 - [docs(datasource): Add additional examples for custom datasource](https://github.com/renovatebot/renovate/pull/23558) on [renovatebot/renovate](https://github.com/renovatebot/renovate) (1 year ago)
 - [fix: Add more details in README](https://github.com/SirUli/FroniusSmartmeter/pull/12) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (1 year ago)
 - [Feature prepare 0.11](https://github.com/SirUli/FroniusSmartmeter/pull/11) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (1 year ago)
@@ -60,14 +60,14 @@
 
 #### ⭐ Recent Stars
 
-- [vascofg/react-admin-date-inputs](https://github.com/vascofg/react-admin-date-inputs) - Date Inputs for react-admin (1 day ago)
-- [fizix-io/ra-customizable-datagrid](https://github.com/fizix-io/ra-customizable-datagrid) - React Admin plugin that allows to hide / show columns dynamically (1 day ago)
-- [BigBasket/ra-components](https://github.com/BigBasket/ra-components) - Open source components for react-admin (1 day ago)
-- [maluramichael/ra-input-markdown](https://github.com/maluramichael/ra-input-markdown) - A markdown editor for react-admin (1 day ago)
-- [BlackBoxVision/react-admin-extensions](https://github.com/BlackBoxVision/react-admin-extensions) - Packages for improving your development workflow with react admin (1 day ago)
+- [vascofg/react-admin-date-inputs](https://github.com/vascofg/react-admin-date-inputs) - Date Inputs for react-admin (2 days ago)
+- [fizix-io/ra-customizable-datagrid](https://github.com/fizix-io/ra-customizable-datagrid) - React Admin plugin that allows to hide / show columns dynamically (2 days ago)
+- [BigBasket/ra-components](https://github.com/BigBasket/ra-components) - Open source components for react-admin (2 days ago)
+- [maluramichael/ra-input-markdown](https://github.com/maluramichael/ra-input-markdown) - A markdown editor for react-admin (2 days ago)
+- [BlackBoxVision/react-admin-extensions](https://github.com/BlackBoxVision/react-admin-extensions) - Packages for improving your development workflow with react admin (2 days ago)
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for building AI from enterprise data (1 week ago)
 - [B-urb/doclytics](https://github.com/B-urb/doclytics) - A document analyzer for paperless-ngx using ollama (1 week ago)
-- [tianon/docker-postgres-upgrade](https://github.com/tianon/docker-postgres-upgrade) - a PoC for using &#34;pg_upgrade&#34; inside Docker -- learn from it, adapt it for your needs; don&#39;t expect it to work as-is! (1 week ago)
+- [tianon/docker-postgres-upgrade](https://github.com/tianon/docker-postgres-upgrade) - a PoC for using &#34;pg_upgrade&#34; inside Docker -- learn from it, adapt it for your needs; don&#39;t expect it to work as-is! (2 weeks ago)
 - [KinDR007/VictronMPPT-ESPHOME](https://github.com/KinDR007/VictronMPPT-ESPHOME) - Victron Mppt charger ve.direct to esphome node (3 weeks ago)
 - [wichers/esphome-comfoair](https://github.com/wichers/esphome-comfoair) - ESPHome configuration to drive Zehnder ComfoAir devices.  (3 weeks ago)
 
