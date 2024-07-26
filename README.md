@@ -2,12 +2,12 @@
 
 #### 👷 Recent Contributions
 
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) - Provides an Home Assistant addon configuration for Ollama (5 days ago)
-- [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) - A Home Assistant integration to provide battery notes of devices (2 weeks ago)
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) - Provides an Home Assistant addon configuration for Ollama (6 days ago)
+- [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) - A Home Assistant integration to provide battery notes of devices (3 weeks ago)
 - [SirUli/OneWireTest4iButton](https://github.com/SirUli/OneWireTest4iButton) - Testing the iButton (See Blog: https://wolf-u.li) (3 months ago)
 - [SirUli/ansibleunsafetext](https://github.com/SirUli/ansibleunsafetext) - Sample Repository to share code for https://github.com/ansible/ansible/issues/82414 (7 months ago)
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io (11 months ago)
-- [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) - Modular, 3D printable electronics case for 3D printers (11 months ago)
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io (1 year ago)
+- [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) - Modular, 3D printable electronics case for 3D printers (1 year ago)
 
 #### 🌱 Latest projects
 
@@ -24,15 +24,15 @@
 
 #### 🔭 Recent Releases
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.4.0](https://github.com/renovatebot/renovate/releases/tag/38.4.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v1.1.14](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v1.1.14), 2 days ago) - Provides an Home Assistant addon configuration for Ollama
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.4.0](https://github.com/renovatebot/renovate/releases/tag/38.4.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v1.1.14](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v1.1.14), 3 days ago) - Provides an Home Assistant addon configuration for Ollama
 - [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) ([2.3.13](https://github.com/andrew-codechimp/HA-Battery-Notes/releases/tag/2.3.13), 1 week ago) - A Home Assistant integration to provide battery notes of devices
 - [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) ([v0.9.11](https://github.com/jon-harper/OmniBox/releases/tag/v0.9.11), 4 months ago) - Modular, 3D printable electronics case for 3D printers
 
 #### 🔨 Recent Pull Requests
 
 - [Update Pre-commit hooks and enforce git fetch to be successful](https://github.com/staticdev/ansible-role-pyenv/pull/274) on [staticdev/ansible-role-pyenv](https://github.com/staticdev/ansible-role-pyenv) (3 weeks ago)
-- [docs(display): Add docs for btt hdmi5](https://github.com/jon-harper/OmniBox/pull/129) on [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) (11 months ago)
+- [docs(display): Add docs for btt hdmi5](https://github.com/jon-harper/OmniBox/pull/129) on [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) (1 year ago)
 - [feat(btt_hdmi5): Add BIGTREETECH HDMI5 Display](https://github.com/jon-harper/OmniBox/pull/128) on [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) (1 year ago)
 - [docs(datasource): Add additional examples for custom datasource](https://github.com/renovatebot/renovate/pull/23558) on [renovatebot/renovate](https://github.com/renovatebot/renovate) (1 year ago)
 - [fix: Add more details in README](https://github.com/SirUli/FroniusSmartmeter/pull/12) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (1 year ago)
@@ -60,12 +60,12 @@
 
 #### ⭐ Recent Stars
 
-- [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡ (today)
-- [vascofg/react-admin-date-inputs](https://github.com/vascofg/react-admin-date-inputs) - Date Inputs for react-admin (2 days ago)
-- [fizix-io/ra-customizable-datagrid](https://github.com/fizix-io/ra-customizable-datagrid) - React Admin plugin that allows to hide / show columns dynamically (2 days ago)
-- [BigBasket/ra-components](https://github.com/BigBasket/ra-components) - Open source components for react-admin (2 days ago)
-- [maluramichael/ra-input-markdown](https://github.com/maluramichael/ra-input-markdown) - A markdown editor for react-admin (2 days ago)
-- [BlackBoxVision/react-admin-extensions](https://github.com/BlackBoxVision/react-admin-extensions) - Packages for improving your development workflow with react admin (2 days ago)
+- [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡ (1 day ago)
+- [vascofg/react-admin-date-inputs](https://github.com/vascofg/react-admin-date-inputs) - Date Inputs for react-admin (3 days ago)
+- [fizix-io/ra-customizable-datagrid](https://github.com/fizix-io/ra-customizable-datagrid) - React Admin plugin that allows to hide / show columns dynamically (3 days ago)
+- [BigBasket/ra-components](https://github.com/BigBasket/ra-components) - Open source components for react-admin (3 days ago)
+- [maluramichael/ra-input-markdown](https://github.com/maluramichael/ra-input-markdown) - A markdown editor for react-admin (3 days ago)
+- [BlackBoxVision/react-admin-extensions](https://github.com/BlackBoxVision/react-admin-extensions) - Packages for improving your development workflow with react admin (3 days ago)
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for building AI from enterprise data (1 week ago)
 - [B-urb/doclytics](https://github.com/B-urb/doclytics) - A document analyzer for paperless-ngx using ollama (1 week ago)
 - [tianon/docker-postgres-upgrade](https://github.com/tianon/docker-postgres-upgrade) - a PoC for using &#34;pg_upgrade&#34; inside Docker -- learn from it, adapt it for your needs; don&#39;t expect it to work as-is! (2 weeks ago)
