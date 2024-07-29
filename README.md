@@ -2,7 +2,7 @@
 
 #### 👷 Recent Contributions
 
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) - Provides an Home Assistant addon configuration for Ollama (1 day ago)
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) - Provides an Home Assistant addon configuration for Ollama (2 days ago)
 - [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) - A Home Assistant integration to provide battery notes of devices (3 weeks ago)
 - [SirUli/OneWireTest4iButton](https://github.com/SirUli/OneWireTest4iButton) - Testing the iButton (See Blog: https://wolf-u.li) (3 months ago)
 - [SirUli/ansibleunsafetext](https://github.com/SirUli/ansibleunsafetext) - Sample Repository to share code for https://github.com/ansible/ansible/issues/82414 (7 months ago)
@@ -24,9 +24,9 @@
 
 #### 🔭 Recent Releases
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.8.4](https://github.com/renovatebot/renovate/releases/tag/38.8.4), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v1.1.16](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v1.1.16), 1 day ago) - Provides an Home Assistant addon configuration for Ollama
-- [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) ([2.3.13](https://github.com/andrew-codechimp/HA-Battery-Notes/releases/tag/2.3.13), 1 week ago) - A Home Assistant integration to provide battery notes of devices
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.8.5](https://github.com/renovatebot/renovate/releases/tag/38.8.5), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v1.1.16](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v1.1.16), 2 days ago) - Provides an Home Assistant addon configuration for Ollama
+- [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) ([2.3.13](https://github.com/andrew-codechimp/HA-Battery-Notes/releases/tag/2.3.13), 2 weeks ago) - A Home Assistant integration to provide battery notes of devices
 - [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) ([v0.9.11](https://github.com/jon-harper/OmniBox/releases/tag/v0.9.11), 4 months ago) - Modular, 3D printable electronics case for 3D printers
 
 #### 🔨 Recent Pull Requests
@@ -44,10 +44,10 @@
 
 #### 📜 My recent blog posts (English)
 
-- [Home Assistant: ZHA OTA Updates](https://wolf-u.li/homeassistant-zha-ota-updates/) (3 days ago)
+- [Home Assistant: ZHA OTA Updates](https://wolf-u.li/homeassistant-zha-ota-updates/) (4 days ago)
 - [ESPHome &#39;ota&#39; requires a &#39;platform&#39; key but it was not specified.](https://wolf-u.li/esphome-ota-requires-a-platform-key-but-it-was-not-specified/) (1 month ago)
 - [BIGTREETECH Relay 1.2: Change Timeout and enable turning on by pin](https://wolf-u.li/en/bigtreetech-relay-1.2-change-timeout-and-enable-turning-on-by-pin) (4 months ago)
-- [ESPHome: failed to execute &#39;open&#39; on &#39;serialport&#39;: failed to open serial port.](https://wolf-u.li/esphome-failed-to-execute-open-on-serialport-failed-to-open-serial-port/) (4 months ago)
+- [ESPHome: failed to execute &#39;open&#39; on &#39;serialport&#39;: failed to open serial port.](https://wolf-u.li/esphome-failed-to-execute-open-on-serialport-failed-to-open-serial-port/) (5 months ago)
 - [Change external url of gitlab](https://wolf-u.li/en/change-external-url-of-gitlab/) (6 months ago)
 
 #### 📜 My recent blog posts (German)
@@ -60,12 +60,12 @@
 
 #### ⭐ Recent Stars
 
-- [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡ (3 days ago)
-- [vascofg/react-admin-date-inputs](https://github.com/vascofg/react-admin-date-inputs) - Date Inputs for react-admin (5 days ago)
-- [fizix-io/ra-customizable-datagrid](https://github.com/fizix-io/ra-customizable-datagrid) - React Admin plugin that allows to hide / show columns dynamically (5 days ago)
-- [BigBasket/ra-components](https://github.com/BigBasket/ra-components) - Open source components for react-admin (5 days ago)
-- [maluramichael/ra-input-markdown](https://github.com/maluramichael/ra-input-markdown) - A markdown editor for react-admin (5 days ago)
-- [BlackBoxVision/react-admin-extensions](https://github.com/BlackBoxVision/react-admin-extensions) - Packages for improving your development workflow with react admin (5 days ago)
+- [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡ (4 days ago)
+- [vascofg/react-admin-date-inputs](https://github.com/vascofg/react-admin-date-inputs) - Date Inputs for react-admin (6 days ago)
+- [fizix-io/ra-customizable-datagrid](https://github.com/fizix-io/ra-customizable-datagrid) - React Admin plugin that allows to hide / show columns dynamically (6 days ago)
+- [BigBasket/ra-components](https://github.com/BigBasket/ra-components) - Open source components for react-admin (6 days ago)
+- [maluramichael/ra-input-markdown](https://github.com/maluramichael/ra-input-markdown) - A markdown editor for react-admin (6 days ago)
+- [BlackBoxVision/react-admin-extensions](https://github.com/BlackBoxVision/react-admin-extensions) - Packages for improving your development workflow with react admin (6 days ago)
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for building AI from enterprise data (1 week ago)
 - [B-urb/doclytics](https://github.com/B-urb/doclytics) - A document analyzer for paperless-ngx using ollama (2 weeks ago)
 - [tianon/docker-postgres-upgrade](https://github.com/tianon/docker-postgres-upgrade) - a PoC for using &#34;pg_upgrade&#34; inside Docker -- learn from it, adapt it for your needs; don&#39;t expect it to work as-is! (2 weeks ago)
