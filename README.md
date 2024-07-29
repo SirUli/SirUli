@@ -60,6 +60,7 @@
 
 #### ⭐ Recent Stars
 
+- [MakeMagazinDE/Sandmaltisch](https://github.com/MakeMagazinDE/Sandmaltisch) - IKEA Sandmaltisch Hack Make 4/24 (today)
 - [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡ (4 days ago)
 - [vascofg/react-admin-date-inputs](https://github.com/vascofg/react-admin-date-inputs) - Date Inputs for react-admin (6 days ago)
 - [fizix-io/ra-customizable-datagrid](https://github.com/fizix-io/ra-customizable-datagrid) - React Admin plugin that allows to hide / show columns dynamically (6 days ago)
@@ -69,7 +70,6 @@
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for building AI from enterprise data (1 week ago)
 - [B-urb/doclytics](https://github.com/B-urb/doclytics) - A document analyzer for paperless-ngx using ollama (2 weeks ago)
 - [tianon/docker-postgres-upgrade](https://github.com/tianon/docker-postgres-upgrade) - a PoC for using &#34;pg_upgrade&#34; inside Docker -- learn from it, adapt it for your needs; don&#39;t expect it to work as-is! (2 weeks ago)
-- [KinDR007/VictronMPPT-ESPHOME](https://github.com/KinDR007/VictronMPPT-ESPHOME) - Victron Mppt charger ve.direct to esphome node (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
