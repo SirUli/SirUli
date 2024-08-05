@@ -42,11 +42,11 @@
 
 #### 📜 My recent blog posts (English)
 
+- [Using Ollama with AMD RX 6700 (gfx1031) or other older cards on Windows](https://wolf-u.li/using-ollama-with-amd-rx-6700-gfx1031-or-other-older-cards-on-windows/) (1 day ago)
 - [Home Assistant: ZHA OTA Updates](https://wolf-u.li/homeassistant-zha-ota-updates/) (1 week ago)
 - [ESPHome &#39;ota&#39; requires a &#39;platform&#39; key but it was not specified.](https://wolf-u.li/esphome-ota-requires-a-platform-key-but-it-was-not-specified/) (1 month ago)
 - [BIGTREETECH Relay 1.2: Change Timeout and enable turning on by pin](https://wolf-u.li/en/bigtreetech-relay-1.2-change-timeout-and-enable-turning-on-by-pin) (4 months ago)
 - [ESPHome: failed to execute &#39;open&#39; on &#39;serialport&#39;: failed to open serial port.](https://wolf-u.li/esphome-failed-to-execute-open-on-serialport-failed-to-open-serial-port/) (5 months ago)
-- [Change external url of gitlab](https://wolf-u.li/en/change-external-url-of-gitlab/) (6 months ago)
 
 #### 📜 My recent blog posts (German)
 
@@ -58,6 +58,7 @@
 
 #### ⭐ Recent Stars
 
+- [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask) - PostgreSQL database anonymization tool (today)
 - [tomasvotava/fastapi-sso](https://github.com/tomasvotava/fastapi-sso) - FastAPI plugin to enable SSO to most common providers (such as Facebook login, Google login and login via Microsoft Office 365 Account) (6 days ago)
 - [MakeMagazinDE/Sandmaltisch](https://github.com/MakeMagazinDE/Sandmaltisch) - IKEA Sandmaltisch Hack Make 4/24 (1 week ago)
 - [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡ (1 week ago)
@@ -67,7 +68,6 @@
 - [maluramichael/ra-input-markdown](https://github.com/maluramichael/ra-input-markdown) - A markdown editor for react-admin (1 week ago)
 - [BlackBoxVision/react-admin-extensions](https://github.com/BlackBoxVision/react-admin-extensions) - Packages for improving your development workflow with react admin (1 week ago)
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for building AI from enterprise data (2 weeks ago)
-- [B-urb/doclytics](https://github.com/B-urb/doclytics) - A document analyzer for paperless-ngx using ollama (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
