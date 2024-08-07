@@ -22,8 +22,8 @@
 
 #### 🔭 Recent Releases
 
-- [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) ([2.4.0](https://github.com/andrew-codechimp/HA-Battery-Notes/releases/tag/2.4.0), 3 days ago) - A Home Assistant integration to provide battery notes of devices
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v1.1.19](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v1.1.19), 3 days ago) - Provides an Home Assistant addon for Ollama
+- [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) ([2.4.0](https://github.com/andrew-codechimp/HA-Battery-Notes/releases/tag/2.4.0), 4 days ago) - A Home Assistant integration to provide battery notes of devices
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v1.1.19](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v1.1.19), 4 days ago) - Provides an Home Assistant addon for Ollama
 
 #### 🔨 Recent Pull Requests
 
@@ -40,7 +40,7 @@
 
 #### 📜 My recent blog posts (English)
 
-- [Using Ollama with AMD RX 6700 (gfx1031) or other older cards on Windows](https://wolf-u.li/using-ollama-with-amd-rx-6700-gfx1031-or-other-older-cards-on-windows/) (2 days ago)
+- [Using Ollama with AMD RX 6700 (gfx1031) or other older cards on Windows](https://wolf-u.li/using-ollama-with-amd-rx-6700-gfx1031-or-other-older-cards-on-windows/) (3 days ago)
 - [Home Assistant: ZHA OTA Updates](https://wolf-u.li/homeassistant-zha-ota-updates/) (1 week ago)
 - [ESPHome &#39;ota&#39; requires a &#39;platform&#39; key but it was not specified.](https://wolf-u.li/esphome-ota-requires-a-platform-key-but-it-was-not-specified/) (1 month ago)
 - [BIGTREETECH Relay 1.2: Change Timeout and enable turning on by pin](https://wolf-u.li/en/bigtreetech-relay-1.2-change-timeout-and-enable-turning-on-by-pin) (4 months ago)
@@ -56,7 +56,7 @@
 
 #### ⭐ Recent Stars
 
-- [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask) - PostgreSQL database anonymization tool (1 day ago)
+- [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask) - PostgreSQL database anonymization tool (2 days ago)
 - [tomasvotava/fastapi-sso](https://github.com/tomasvotava/fastapi-sso) - FastAPI plugin to enable SSO to most common providers (such as Facebook login, Google login and login via Microsoft Office 365 Account) (1 week ago)
 - [MakeMagazinDE/Sandmaltisch](https://github.com/MakeMagazinDE/Sandmaltisch) - IKEA Sandmaltisch Hack Make 4/24 (1 week ago)
 - [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡ (1 week ago)
@@ -65,7 +65,7 @@
 - [BigBasket/ra-components](https://github.com/BigBasket/ra-components) - Open source components for react-admin (2 weeks ago)
 - [maluramichael/ra-input-markdown](https://github.com/maluramichael/ra-input-markdown) - A markdown editor for react-admin (2 weeks ago)
 - [BlackBoxVision/react-admin-extensions](https://github.com/BlackBoxVision/react-admin-extensions) - Packages for improving your development workflow with react admin (2 weeks ago)
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for building AI from enterprise data (2 weeks ago)
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for building AI from enterprise data (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
