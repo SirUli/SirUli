@@ -22,8 +22,8 @@
 
 #### 🔭 Recent Releases
 
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v1.1.20](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v1.1.20), today) - Provides an Home Assistant addon for Ollama
-- [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) ([2.4.1](https://github.com/andrew-codechimp/HA-Battery-Notes/releases/tag/2.4.1), 1 day ago) - A Home Assistant integration to provide battery notes of devices
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v1.1.20](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v1.1.20), 1 day ago) - Provides an Home Assistant addon for Ollama
+- [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) ([2.4.1](https://github.com/andrew-codechimp/HA-Battery-Notes/releases/tag/2.4.1), 2 days ago) - A Home Assistant integration to provide battery notes of devices
 
 #### 🔨 Recent Pull Requests
 
@@ -40,7 +40,7 @@
 
 #### 📜 My recent blog posts (English)
 
-- [Using Ollama with AMD RX 6700 (gfx1031) or other older cards on Windows](https://wolf-u.li/using-ollama-with-amd-rx-6700-gfx1031-or-other-older-cards-on-windows/) (4 days ago)
+- [Using Ollama with AMD RX 6700 (gfx1031) or other older cards on Windows](https://wolf-u.li/using-ollama-with-amd-rx-6700-gfx1031-or-other-older-cards-on-windows/) (5 days ago)
 - [Home Assistant: ZHA OTA Updates](https://wolf-u.li/homeassistant-zha-ota-updates/) (2 weeks ago)
 - [ESPHome &#39;ota&#39; requires a &#39;platform&#39; key but it was not specified.](https://wolf-u.li/esphome-ota-requires-a-platform-key-but-it-was-not-specified/) (1 month ago)
 - [BIGTREETECH Relay 1.2: Change Timeout and enable turning on by pin](https://wolf-u.li/en/bigtreetech-relay-1.2-change-timeout-and-enable-turning-on-by-pin) (4 months ago)
@@ -56,8 +56,8 @@
 
 #### ⭐ Recent Stars
 
-- [Vonng/pigsty](https://github.com/Vonng/pigsty) - Battery-Included PostgreSQL Distro as a Free RDS Alternative (today)
-- [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask) - PostgreSQL database anonymization tool (3 days ago)
+- [Vonng/pigsty](https://github.com/Vonng/pigsty) - Battery-Included PostgreSQL Distro as a Free RDS Alternative (1 day ago)
+- [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask) - PostgreSQL database anonymization tool (4 days ago)
 - [tomasvotava/fastapi-sso](https://github.com/tomasvotava/fastapi-sso) - FastAPI plugin to enable SSO to most common providers (such as Facebook login, Google login and login via Microsoft Office 365 Account) (1 week ago)
 - [MakeMagazinDE/Sandmaltisch](https://github.com/MakeMagazinDE/Sandmaltisch) - IKEA Sandmaltisch Hack Make 4/24 (1 week ago)
 - [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡ (2 weeks ago)
