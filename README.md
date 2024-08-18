@@ -56,6 +56,7 @@
 
 #### ⭐ Recent Stars
 
+- [sinaatalay/rendercv](https://github.com/sinaatalay/rendercv) - A LaTeX CV/Resume Framework (today)
 - [Vonng/pigsty](https://github.com/Vonng/pigsty) - Battery-Included PostgreSQL Distro as a Free RDS Alternative (1 week ago)
 - [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask) - PostgreSQL database anonymization tool (1 week ago)
 - [tomasvotava/fastapi-sso](https://github.com/tomasvotava/fastapi-sso) - FastAPI plugin to enable SSO to most common providers (such as Facebook login, Google login and login via Microsoft Office 365 Account) (2 weeks ago)
@@ -65,7 +66,6 @@
 - [fizix-io/ra-customizable-datagrid](https://github.com/fizix-io/ra-customizable-datagrid) - React Admin plugin that allows to hide / show columns dynamically (3 weeks ago)
 - [BigBasket/ra-components](https://github.com/BigBasket/ra-components) - Open source components for react-admin (3 weeks ago)
 - [maluramichael/ra-input-markdown](https://github.com/maluramichael/ra-input-markdown) - A markdown editor for react-admin (3 weeks ago)
-- [BlackBoxVision/react-admin-extensions](https://github.com/BlackBoxVision/react-admin-extensions) - Packages for improving your development workflow with react admin (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
