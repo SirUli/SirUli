@@ -56,6 +56,7 @@
 
 #### ⭐ Recent Stars
 
+- [ollama/ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library (today)
 - [python-arq/arq](https://github.com/python-arq/arq) - Fast job queuing and RPC in python with asyncio and redis. (1 week ago)
 - [ddcc/microparse](https://github.com/ddcc/microparse) - Microcode parser for AMD, Intel, and VIA processors (2 weeks ago)
 - [fiftin/processors_parser](https://github.com/fiftin/processors_parser) -  (2 weeks ago)
@@ -65,7 +66,6 @@
 - [Vonng/pigsty](https://github.com/Vonng/pigsty) - Battery-Included PostgreSQL Distro as a Free &amp; Better RDS Alternative —— Pigsty (1 month ago)
 - [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask) - PostgreSQL database anonymization tool (1 month ago)
 - [tomasvotava/fastapi-sso](https://github.com/tomasvotava/fastapi-sso) - FastAPI plugin to enable SSO to most common providers (such as Facebook login, Google login and login via Microsoft Office 365 Account) (1 month ago)
-- [MakeMagazinDE/Sandmaltisch](https://github.com/MakeMagazinDE/Sandmaltisch) - IKEA Sandmaltisch Hack Make 4/24 (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
