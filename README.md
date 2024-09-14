@@ -22,8 +22,8 @@
 
 #### 🔭 Recent Releases
 
-- [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) ([2.4.8](https://github.com/andrew-codechimp/HA-Battery-Notes/releases/tag/2.4.8), 2 days ago) - A Home Assistant integration to provide battery notes of devices
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v1.1.25](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v1.1.25), 3 days ago) - Provides an Home Assistant addon for Ollama
+- [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) ([2.4.8](https://github.com/andrew-codechimp/HA-Battery-Notes/releases/tag/2.4.8), 3 days ago) - A Home Assistant integration to provide battery notes of devices
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v1.1.25](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v1.1.25), 4 days ago) - Provides an Home Assistant addon for Ollama
 
 #### 🔨 Recent Pull Requests
 
@@ -56,7 +56,7 @@
 
 #### ⭐ Recent Stars
 
-- [ollama/ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library (1 day ago)
+- [ollama/ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library (2 days ago)
 - [python-arq/arq](https://github.com/python-arq/arq) - Fast job queuing and RPC in python with asyncio and redis. (1 week ago)
 - [ddcc/microparse](https://github.com/ddcc/microparse) - Microcode parser for AMD, Intel, and VIA processors (2 weeks ago)
 - [fiftin/processors_parser](https://github.com/fiftin/processors_parser) -  (2 weeks ago)
