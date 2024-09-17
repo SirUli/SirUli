@@ -22,8 +22,8 @@
 
 #### 🔭 Recent Releases
 
-- [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) ([2.4.8](https://github.com/andrew-codechimp/HA-Battery-Notes/releases/tag/2.4.8), 5 days ago) - A Home Assistant integration to provide battery notes of devices
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v1.1.25](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v1.1.25), 6 days ago) - Provides an Home Assistant addon for Ollama
+- [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) ([2.4.8](https://github.com/andrew-codechimp/HA-Battery-Notes/releases/tag/2.4.8), 6 days ago) - A Home Assistant integration to provide battery notes of devices
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v1.1.25](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v1.1.25), 1 week ago) - Provides an Home Assistant addon for Ollama
 
 #### 🔨 Recent Pull Requests
 
@@ -48,7 +48,7 @@
 
 #### 📜 My recent blog posts (German)
 
-- [Gira Steckdose mit LED-Orientierungsleuchte (z.b. 417003) - Bilder und Ansichten](https://wolf-u.li/gira-steckdose-mit-led-leuchte-417003/) (3 months ago)
+- [Gira Steckdose mit LED-Orientierungsleuchte (z.b. 417003) - Bilder und Ansichten](https://wolf-u.li/gira-steckdose-mit-led-leuchte-417003/) (4 months ago)
 - [Empfehlungen für die Verkabelung von lifepo4 Akkus](https://wolf-u.li/empfehlungen-fuer-die-verkabelung-von-lifepo4-akkus/) (4 months ago)
 - [Sensus 620 Wasserzähler: Smart machen via ESPHome](https://wolf-u.li/sensus-620-wasserzaehler-smart-machen/) (7 months ago)
 - [Paperless-ngx ASN mit Avery L4731 labels](https://wolf-u.li/paperless-ngx-asn-mit-avery-l4731-labels/) (7 months ago)
@@ -56,13 +56,13 @@
 
 #### ⭐ Recent Stars
 
-- [ollama/ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library (4 days ago)
-- [python-arq/arq](https://github.com/python-arq/arq) - Fast job queuing and RPC in python with asyncio and redis. (1 week ago)
+- [ollama/ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library (5 days ago)
+- [python-arq/arq](https://github.com/python-arq/arq) - Fast job queuing and RPC in python with asyncio and redis. (2 weeks ago)
 - [ddcc/microparse](https://github.com/ddcc/microparse) - Microcode parser for AMD, Intel, and VIA processors (2 weeks ago)
 - [fiftin/processors_parser](https://github.com/fiftin/processors_parser) -  (2 weeks ago)
 - [ashambalev/opentelemetry-instrumentation-faststream](https://github.com/ashambalev/opentelemetry-instrumentation-faststream) -  (3 weeks ago)
 - [taskiq-python/taskiq-faststream](https://github.com/taskiq-python/taskiq-faststream) - FastStream - Taskiq integration to provide you with a great scheduling feature (3 weeks ago)
-- [sinaatalay/rendercv](https://github.com/sinaatalay/rendercv) - The engine of the RenderCV App (4 weeks ago)
+- [sinaatalay/rendercv](https://github.com/sinaatalay/rendercv) - The engine of the RenderCV App (1 month ago)
 - [Vonng/pigsty](https://github.com/Vonng/pigsty) - Free RDS for PostgreSQL —— Pigsty (1 month ago)
 - [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask) - PostgreSQL database anonymization tool (1 month ago)
 - [tomasvotava/fastapi-sso](https://github.com/tomasvotava/fastapi-sso) - FastAPI plugin to enable SSO to most common providers (such as Facebook login, Google login and login via Microsoft Office 365 Account) (1 month ago)
