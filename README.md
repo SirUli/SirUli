@@ -22,7 +22,7 @@
 
 #### 🔭 Recent Releases
 
-- [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) ([2.4.8](https://github.com/andrew-codechimp/HA-Battery-Notes/releases/tag/2.4.8), 6 days ago) - A Home Assistant integration to provide battery notes of devices
+- [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) ([2.4.8](https://github.com/andrew-codechimp/HA-Battery-Notes/releases/tag/2.4.8), 1 week ago) - A Home Assistant integration to provide battery notes of devices
 - [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v1.1.25](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v1.1.25), 1 week ago) - Provides an Home Assistant addon for Ollama
 
 #### 🔨 Recent Pull Requests
@@ -56,10 +56,10 @@
 
 #### ⭐ Recent Stars
 
-- [ollama/ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library (5 days ago)
+- [ollama/ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library (6 days ago)
 - [python-arq/arq](https://github.com/python-arq/arq) - Fast job queuing and RPC in python with asyncio and redis. (2 weeks ago)
-- [ddcc/microparse](https://github.com/ddcc/microparse) - Microcode parser for AMD, Intel, and VIA processors (2 weeks ago)
-- [fiftin/processors_parser](https://github.com/fiftin/processors_parser) -  (2 weeks ago)
+- [ddcc/microparse](https://github.com/ddcc/microparse) - Microcode parser for AMD, Intel, and VIA processors (3 weeks ago)
+- [fiftin/processors_parser](https://github.com/fiftin/processors_parser) -  (3 weeks ago)
 - [ashambalev/opentelemetry-instrumentation-faststream](https://github.com/ashambalev/opentelemetry-instrumentation-faststream) -  (3 weeks ago)
 - [taskiq-python/taskiq-faststream](https://github.com/taskiq-python/taskiq-faststream) - FastStream - Taskiq integration to provide you with a great scheduling feature (3 weeks ago)
 - [sinaatalay/rendercv](https://github.com/sinaatalay/rendercv) - The engine of the RenderCV App (1 month ago)
