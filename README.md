@@ -22,7 +22,7 @@
 
 #### 🔭 Recent Releases
 
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v1.1.26](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v1.1.26), 3 days ago) - Provides an Home Assistant addon for Ollama
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v1.1.26](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v1.1.26), 4 days ago) - Provides an Home Assistant addon for Ollama
 - [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) ([2.4.8](https://github.com/andrew-codechimp/HA-Battery-Notes/releases/tag/2.4.8), 1 week ago) - A Home Assistant integration to provide battery notes of devices
 
 #### 🔨 Recent Pull Requests
@@ -41,7 +41,7 @@
 #### 📜 My recent blog posts (English)
 
 - [Using Ollama with AMD RX 6700 (gfx1031) or other older cards on Windows](https://wolf-u.li/using-ollama-with-amd-rx-6700-gfx1031-or-other-older-cards-on-windows/) (1 month ago)
-- [Home Assistant: ZHA OTA Updates](https://wolf-u.li/homeassistant-zha-ota-updates/) (1 month ago)
+- [Home Assistant: ZHA OTA Updates](https://wolf-u.li/homeassistant-zha-ota-updates/) (2 months ago)
 - [ESPHome &#39;ota&#39; requires a &#39;platform&#39; key but it was not specified.](https://wolf-u.li/esphome-ota-requires-a-platform-key-but-it-was-not-specified/) (3 months ago)
 - [BIGTREETECH Relay 1.2: Change Timeout and enable turning on by pin](https://wolf-u.li/en/bigtreetech-relay-1.2-change-timeout-and-enable-turning-on-by-pin) (6 months ago)
 - [ESPHome: failed to execute &#39;open&#39; on &#39;serialport&#39;: failed to open serial port.](https://wolf-u.li/esphome-failed-to-execute-open-on-serialport-failed-to-open-serial-port/) (6 months ago)
@@ -60,8 +60,8 @@
 - [python-arq/arq](https://github.com/python-arq/arq) - Fast job queuing and RPC in python with asyncio and redis. (2 weeks ago)
 - [ddcc/microparse](https://github.com/ddcc/microparse) - Microcode parser for AMD, Intel, and VIA processors (3 weeks ago)
 - [fiftin/processors_parser](https://github.com/fiftin/processors_parser) -  (3 weeks ago)
-- [ashambalev/opentelemetry-instrumentation-faststream](https://github.com/ashambalev/opentelemetry-instrumentation-faststream) -  (3 weeks ago)
-- [taskiq-python/taskiq-faststream](https://github.com/taskiq-python/taskiq-faststream) - FastStream - Taskiq integration to provide you with a great scheduling feature (3 weeks ago)
+- [ashambalev/opentelemetry-instrumentation-faststream](https://github.com/ashambalev/opentelemetry-instrumentation-faststream) -  (4 weeks ago)
+- [taskiq-python/taskiq-faststream](https://github.com/taskiq-python/taskiq-faststream) - FastStream - Taskiq integration to provide you with a great scheduling feature (4 weeks ago)
 - [sinaatalay/rendercv](https://github.com/sinaatalay/rendercv) - The engine of the RenderCV App (1 month ago)
 - [Vonng/pigsty](https://github.com/Vonng/pigsty) - Free RDS for PostgreSQL —— Pigsty (1 month ago)
 - [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask) - PostgreSQL database anonymization tool (1 month ago)
