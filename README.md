@@ -2,7 +2,7 @@
 
 #### 👷 Recent Contributions
 
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) - Provides an Home Assistant addon for Ollama (1 month ago)
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) - Provides an Home Assistant addon for Ollama (2 months ago)
 - [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) - A Home Assistant integration to provide battery notes of devices (2 months ago)
 - [SirUli/OneWireTest4iButton](https://github.com/SirUli/OneWireTest4iButton) - Testing the iButton (See Blog: https://wolf-u.li) (5 months ago)
 - [SirUli/ansibleunsafetext](https://github.com/SirUli/ansibleunsafetext) - Sample Repository to share code for https://github.com/ansible/ansible/issues/82414 (9 months ago)
@@ -22,8 +22,8 @@
 
 #### 🔭 Recent Releases
 
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v1.1.26](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v1.1.26), 5 days ago) - Provides an Home Assistant addon for Ollama
-- [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) ([2.4.8](https://github.com/andrew-codechimp/HA-Battery-Notes/releases/tag/2.4.8), 1 week ago) - A Home Assistant integration to provide battery notes of devices
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v1.1.26](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v1.1.26), 6 days ago) - Provides an Home Assistant addon for Ollama
+- [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) ([2.4.8](https://github.com/andrew-codechimp/HA-Battery-Notes/releases/tag/2.4.8), 2 weeks ago) - A Home Assistant integration to provide battery notes of devices
 
 #### 🔨 Recent Pull Requests
 
@@ -58,10 +58,10 @@
 
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library (1 week ago)
 - [python-arq/arq](https://github.com/python-arq/arq) - Fast job queuing and RPC in python with asyncio and redis. (3 weeks ago)
-- [ddcc/microparse](https://github.com/ddcc/microparse) - Microcode parser for AMD, Intel, and VIA processors (3 weeks ago)
-- [fiftin/processors_parser](https://github.com/fiftin/processors_parser) -  (3 weeks ago)
-- [ashambalev/opentelemetry-instrumentation-faststream](https://github.com/ashambalev/opentelemetry-instrumentation-faststream) -  (4 weeks ago)
-- [taskiq-python/taskiq-faststream](https://github.com/taskiq-python/taskiq-faststream) - FastStream - Taskiq integration to provide you with a great scheduling feature (4 weeks ago)
+- [ddcc/microparse](https://github.com/ddcc/microparse) - Microcode parser for AMD, Intel, and VIA processors (4 weeks ago)
+- [fiftin/processors_parser](https://github.com/fiftin/processors_parser) -  (4 weeks ago)
+- [ashambalev/opentelemetry-instrumentation-faststream](https://github.com/ashambalev/opentelemetry-instrumentation-faststream) -  (1 month ago)
+- [taskiq-python/taskiq-faststream](https://github.com/taskiq-python/taskiq-faststream) - FastStream - Taskiq integration to provide you with a great scheduling feature (1 month ago)
 - [sinaatalay/rendercv](https://github.com/sinaatalay/rendercv) - The engine of the RenderCV App (1 month ago)
 - [Vonng/pigsty](https://github.com/Vonng/pigsty) - Free RDS for PostgreSQL —— Pigsty (1 month ago)
 - [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask) - PostgreSQL database anonymization tool (1 month ago)
