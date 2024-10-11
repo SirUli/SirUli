@@ -22,7 +22,7 @@
 
 #### 🔭 Recent Releases
 
-- [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) ([2.4.11](https://github.com/andrew-codechimp/HA-Battery-Notes/releases/tag/2.4.11), 1 day ago) - A Home Assistant integration to provide battery notes of devices
+- [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) ([2.4.11](https://github.com/andrew-codechimp/HA-Battery-Notes/releases/tag/2.4.11), 2 days ago) - A Home Assistant integration to provide battery notes of devices
 - [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v1.1.27](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v1.1.27), 2 weeks ago) - Provides an Home Assistant addon for Ollama
 
 #### 🔨 Recent Pull Requests
@@ -40,7 +40,7 @@
 
 #### 📜 My recent blog posts (English)
 
-- [Docker: failed to get stream processor for application/vnd.in-toto&#43;json](https://wolf-u.li/docker-failed-to-get-stream-processor-for-application-vnd-in-toto-json/) (1 month ago)
+- [Docker: failed to get stream processor for application/vnd.in-toto&#43;json](https://wolf-u.li/docker-failed-to-get-stream-processor-for-application-vnd-in-toto-json/) (2 months ago)
 - [Using Ollama with AMD RX 6700 (gfx1031) or other older cards on Windows](https://wolf-u.li/using-ollama-with-amd-rx-6700-gfx1031-or-other-older-cards-on-windows/) (2 months ago)
 - [Home Assistant: ZHA OTA Updates](https://wolf-u.li/homeassistant-zha-ota-updates/) (2 months ago)
 - [ESPHome &#39;ota&#39; requires a &#39;platform&#39; key but it was not specified.](https://wolf-u.li/esphome-ota-requires-a-platform-key-but-it-was-not-specified/) (3 months ago)
@@ -56,7 +56,7 @@
 
 #### ⭐ Recent Stars
 
-- [distribworks/dkron](https://github.com/distribworks/dkron) - Dkron - Distributed, fault tolerant job scheduling system https://dkron.io (today)
+- [distribworks/dkron](https://github.com/distribworks/dkron) - Dkron - Distributed, fault tolerant job scheduling system https://dkron.io (1 day ago)
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library (4 weeks ago)
 - [python-arq/arq](https://github.com/python-arq/arq) - Fast job queuing and RPC in python with asyncio and redis. (1 month ago)
 - [ddcc/microparse](https://github.com/ddcc/microparse) - Microcode parser for AMD, Intel, and VIA processors (1 month ago)
