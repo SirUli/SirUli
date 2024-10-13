@@ -65,7 +65,7 @@
 - [taskiq-python/taskiq-faststream](https://github.com/taskiq-python/taskiq-faststream) - FastStream - Taskiq integration to provide you with a great scheduling feature (1 month ago)
 - [sinaatalay/rendercv](https://github.com/sinaatalay/rendercv) - The engine of the RenderCV App (1 month ago)
 - [Vonng/pigsty](https://github.com/Vonng/pigsty) - Free RDS for PostgreSQL —— Pigsty (2 months ago)
-- [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask) - PostgreSQL database anonymization tool (2 months ago)
+- [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask) - PostgreSQL database anonymization and synthetic data generation tool (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
