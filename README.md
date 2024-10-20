@@ -56,6 +56,7 @@
 
 #### ⭐ Recent Stars
 
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (today)
 - [barvian/number-flow](https://github.com/barvian/number-flow) - A React component to transition, format, and localize numbers. (4 days ago)
 - [distribworks/dkron](https://github.com/distribworks/dkron) - Dkron - Distributed, fault tolerant job scheduling system https://dkron.io (1 week ago)
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library (1 month ago)
@@ -65,7 +66,6 @@
 - [ashambalev/opentelemetry-instrumentation-faststream](https://github.com/ashambalev/opentelemetry-instrumentation-faststream) -  (1 month ago)
 - [taskiq-python/taskiq-faststream](https://github.com/taskiq-python/taskiq-faststream) - FastStream - Taskiq integration to provide you with a great scheduling feature (1 month ago)
 - [sinaatalay/rendercv](https://github.com/sinaatalay/rendercv) - The engine of the RenderCV App (2 months ago)
-- [Vonng/pigsty](https://github.com/Vonng/pigsty) - Free RDS for PostgreSQL —— Pigsty (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
