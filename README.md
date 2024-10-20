@@ -22,8 +22,8 @@
 
 #### 🔭 Recent Releases
 
+- [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) ([2.4.12](https://github.com/andrew-codechimp/HA-Battery-Notes/releases/tag/2.4.12), today) - A Home Assistant integration to provide battery notes of devices
 - [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v1.1.28](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v1.1.28), 1 week ago) - Provides an Home Assistant addon for Ollama
-- [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) ([2.4.11](https://github.com/andrew-codechimp/HA-Battery-Notes/releases/tag/2.4.11), 1 week ago) - A Home Assistant integration to provide battery notes of devices
 
 #### 🔨 Recent Pull Requests
 
