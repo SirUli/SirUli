@@ -22,8 +22,8 @@
 
 #### 🔭 Recent Releases
 
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v1.1.29](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v1.1.29), 2 days ago) - Provides an Home Assistant addon for Ollama
-- [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) ([2.4.12](https://github.com/andrew-codechimp/HA-Battery-Notes/releases/tag/2.4.12), 3 days ago) - A Home Assistant integration to provide battery notes of devices
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v1.1.29](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v1.1.29), 3 days ago) - Provides an Home Assistant addon for Ollama
+- [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) ([2.4.12](https://github.com/andrew-codechimp/HA-Battery-Notes/releases/tag/2.4.12), 4 days ago) - A Home Assistant integration to provide battery notes of devices
 
 #### 🔨 Recent Pull Requests
 
@@ -48,7 +48,7 @@
 
 #### 📜 My recent blog posts (German)
 
-- [Kombiniertes Kabel für 230v und KNX](https://wolf-u.li/kombiniertes-kabel-fuer-230v-und-knx/) (2 weeks ago)
+- [Kombiniertes Kabel für 230v und KNX](https://wolf-u.li/kombiniertes-kabel-fuer-230v-und-knx/) (3 weeks ago)
 - [Gira Steckdose mit LED-Orientierungsleuchte (z.b. 417003) - Bilder und Ansichten](https://wolf-u.li/gira-steckdose-mit-led-leuchte-417003/) (5 months ago)
 - [Empfehlungen für die Verkabelung von lifepo4 Akkus](https://wolf-u.li/empfehlungen-fuer-die-verkabelung-von-lifepo4-akkus/) (5 months ago)
 - [Sensus 620 Wasserzähler: Smart machen via ESPHome](https://wolf-u.li/sensus-620-wasserzaehler-smart-machen/) (8 months ago)
@@ -56,9 +56,9 @@
 
 #### ⭐ Recent Stars
 
-- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (3 days ago)
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (4 days ago)
 - [barvian/number-flow](https://github.com/barvian/number-flow) - A React component to transition, format, and localize numbers. (1 week ago)
-- [distribworks/dkron](https://github.com/distribworks/dkron) - Dkron - Distributed, fault tolerant job scheduling system https://dkron.io (1 week ago)
+- [distribworks/dkron](https://github.com/distribworks/dkron) - Dkron - Distributed, fault tolerant job scheduling system https://dkron.io (2 weeks ago)
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library (1 month ago)
 - [python-arq/arq](https://github.com/python-arq/arq) - Fast job queuing and RPC in python with asyncio and redis. (1 month ago)
 - [ddcc/microparse](https://github.com/ddcc/microparse) - Microcode parser for AMD, Intel, and VIA processors (1 month ago)
