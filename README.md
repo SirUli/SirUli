@@ -57,7 +57,7 @@
 #### ⭐ Recent Stars
 
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (6 days ago)
-- [barvian/number-flow](https://github.com/barvian/number-flow) - A React component to transition, format, and localize numbers. (1 week ago)
+- [barvian/number-flow](https://github.com/barvian/number-flow) - A component to transition, format, and localize numbers. (1 week ago)
 - [distribworks/dkron](https://github.com/distribworks/dkron) - Dkron - Distributed, fault tolerant job scheduling system https://dkron.io (2 weeks ago)
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library (1 month ago)
 - [python-arq/arq](https://github.com/python-arq/arq) - Fast job queuing and RPC in python with asyncio and redis. (1 month ago)
