@@ -22,8 +22,8 @@
 
 #### 🔭 Recent Releases
 
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v1.1.29](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v1.1.29), 4 days ago) - Provides an Home Assistant addon for Ollama
-- [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) ([2.4.12](https://github.com/andrew-codechimp/HA-Battery-Notes/releases/tag/2.4.12), 5 days ago) - A Home Assistant integration to provide battery notes of devices
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v1.1.29](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v1.1.29), 5 days ago) - Provides an Home Assistant addon for Ollama
+- [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) ([2.4.12](https://github.com/andrew-codechimp/HA-Battery-Notes/releases/tag/2.4.12), 6 days ago) - A Home Assistant integration to provide battery notes of devices
 
 #### 🔨 Recent Pull Requests
 
@@ -56,7 +56,7 @@
 
 #### ⭐ Recent Stars
 
-- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (5 days ago)
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (6 days ago)
 - [barvian/number-flow](https://github.com/barvian/number-flow) - A React component to transition, format, and localize numbers. (1 week ago)
 - [distribworks/dkron](https://github.com/distribworks/dkron) - Dkron - Distributed, fault tolerant job scheduling system https://dkron.io (2 weeks ago)
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library (1 month ago)
