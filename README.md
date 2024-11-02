@@ -3,7 +3,7 @@
 #### 👷 Recent Contributions
 
 - [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) - Provides an Home Assistant addon for Ollama (3 months ago)
-- [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) - A Home Assistant integration to provide battery notes of devices (3 months ago)
+- [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) - A Home Assistant integration to provide battery notes of devices (4 months ago)
 - [SirUli/OneWireTest4iButton](https://github.com/SirUli/OneWireTest4iButton) - Testing the iButton (See Blog: https://wolf-u.li) (6 months ago)
 - [SirUli/ansibleunsafetext](https://github.com/SirUli/ansibleunsafetext) - Sample Repository to share code for https://github.com/ansible/ansible/issues/82414 (10 months ago)
 
@@ -22,7 +22,7 @@
 
 #### 🔭 Recent Releases
 
-- [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) ([2.5.3](https://github.com/andrew-codechimp/HA-Battery-Notes/releases/tag/2.5.3), today) - A Home Assistant integration to provide battery notes of devices
+- [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) ([2.5.3](https://github.com/andrew-codechimp/HA-Battery-Notes/releases/tag/2.5.3), 1 day ago) - A Home Assistant integration to provide battery notes of devices
 - [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v1.1.29](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v1.1.29), 1 week ago) - Provides an Home Assistant addon for Ollama
 
 #### 🔨 Recent Pull Requests
@@ -41,14 +41,14 @@
 #### 📜 My recent blog posts (English)
 
 - [Docker: failed to get stream processor for application/vnd.in-toto&#43;json](https://wolf-u.li/docker-failed-to-get-stream-processor-for-application-vnd-in-toto-json/) (2 months ago)
-- [Using Ollama with AMD RX 6700 (gfx1031) or other older cards on Windows](https://wolf-u.li/using-ollama-with-amd-rx-6700-gfx1031-or-other-older-cards-on-windows/) (2 months ago)
+- [Using Ollama with AMD RX 6700 (gfx1031) or other older cards on Windows](https://wolf-u.li/using-ollama-with-amd-rx-6700-gfx1031-or-other-older-cards-on-windows/) (3 months ago)
 - [Home Assistant: ZHA OTA Updates](https://wolf-u.li/homeassistant-zha-ota-updates/) (3 months ago)
 - [ESPHome &#39;ota&#39; requires a &#39;platform&#39; key but it was not specified.](https://wolf-u.li/esphome-ota-requires-a-platform-key-but-it-was-not-specified/) (4 months ago)
 - [BIGTREETECH Relay 1.2: Change Timeout and enable turning on by pin](https://wolf-u.li/en/bigtreetech-relay-1.2-change-timeout-and-enable-turning-on-by-pin) (7 months ago)
 
 #### 📜 My recent blog posts (German)
 
-- [Kombiniertes Kabel für 230v und KNX](https://wolf-u.li/kombiniertes-kabel-fuer-230v-und-knx/) (4 weeks ago)
+- [Kombiniertes Kabel für 230v und KNX](https://wolf-u.li/kombiniertes-kabel-fuer-230v-und-knx/) (1 month ago)
 - [Gira Steckdose mit LED-Orientierungsleuchte (z.b. 417003) - Bilder und Ansichten](https://wolf-u.li/gira-steckdose-mit-led-leuchte-417003/) (5 months ago)
 - [Empfehlungen für die Verkabelung von lifepo4 Akkus](https://wolf-u.li/empfehlungen-fuer-die-verkabelung-von-lifepo4-akkus/) (5 months ago)
 - [Sensus 620 Wasserzähler: Smart machen via ESPHome](https://wolf-u.li/sensus-620-wasserzaehler-smart-machen/) (8 months ago)
@@ -60,7 +60,7 @@
 - [barvian/number-flow](https://github.com/barvian/number-flow) - A component to transition, format, and localize numbers. (2 weeks ago)
 - [distribworks/dkron](https://github.com/distribworks/dkron) - Dkron - Distributed, fault tolerant job scheduling system https://dkron.io (3 weeks ago)
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library (1 month ago)
-- [python-arq/arq](https://github.com/python-arq/arq) - Fast job queuing and RPC in python with asyncio and redis. (1 month ago)
+- [python-arq/arq](https://github.com/python-arq/arq) - Fast job queuing and RPC in python with asyncio and redis. (2 months ago)
 - [ddcc/microparse](https://github.com/ddcc/microparse) - Microcode parser for AMD, Intel, and VIA processors (2 months ago)
 - [fiftin/processors_parser](https://github.com/fiftin/processors_parser) -  (2 months ago)
 - [ashambalev/opentelemetry-instrumentation-faststream](https://github.com/ashambalev/opentelemetry-instrumentation-faststream) -  (2 months ago)
