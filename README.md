@@ -22,7 +22,7 @@
 
 #### 🔭 Recent Releases
 
-- [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) ([2.5.4](https://github.com/andrew-codechimp/HA-Battery-Notes/releases/tag/2.5.4), today) - A Home Assistant integration to provide battery notes of devices
+- [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) ([2.5.4](https://github.com/andrew-codechimp/HA-Battery-Notes/releases/tag/2.5.4), 1 day ago) - A Home Assistant integration to provide battery notes of devices
 - [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v1.1.29](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v1.1.29), 1 week ago) - Provides an Home Assistant addon for Ollama
 
 #### 🔨 Recent Pull Requests
@@ -56,7 +56,7 @@
 
 #### ⭐ Recent Stars
 
-- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (1 week ago)
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (2 weeks ago)
 - [barvian/number-flow](https://github.com/barvian/number-flow) - A component to transition, format, and localize numbers. (2 weeks ago)
 - [distribworks/dkron](https://github.com/distribworks/dkron) - Dkron - Distributed, fault tolerant job scheduling system https://dkron.io (3 weeks ago)
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library (1 month ago)
