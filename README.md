@@ -22,7 +22,7 @@
 
 #### 🔭 Recent Releases
 
-- [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) ([2.5.4](https://github.com/andrew-codechimp/HA-Battery-Notes/releases/tag/2.5.4), 2 days ago) - A Home Assistant integration to provide battery notes of devices
+- [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) ([2.5.4](https://github.com/andrew-codechimp/HA-Battery-Notes/releases/tag/2.5.4), 3 days ago) - A Home Assistant integration to provide battery notes of devices
 - [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v1.1.29](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v1.1.29), 2 weeks ago) - Provides an Home Assistant addon for Ollama
 
 #### 🔨 Recent Pull Requests
@@ -56,6 +56,7 @@
 
 #### ⭐ Recent Stars
 
+- [shayonj/pg_flo](https://github.com/shayonj/pg_flo) - Stream, transform, and route PostgreSQL data in real-time. (1 day ago)
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (2 weeks ago)
 - [barvian/number-flow](https://github.com/barvian/number-flow) - A component to transition, format, and localize numbers. (2 weeks ago)
 - [distribworks/dkron](https://github.com/distribworks/dkron) - Dkron - Distributed, fault tolerant job scheduling system https://dkron.io (3 weeks ago)
@@ -65,7 +66,6 @@
 - [fiftin/processors_parser](https://github.com/fiftin/processors_parser) -  (2 months ago)
 - [ashambalev/opentelemetry-instrumentation-faststream](https://github.com/ashambalev/opentelemetry-instrumentation-faststream) -  (2 months ago)
 - [taskiq-python/taskiq-faststream](https://github.com/taskiq-python/taskiq-faststream) - FastStream - Taskiq integration to provide you with a great scheduling feature (2 months ago)
-- [sinaatalay/rendercv](https://github.com/sinaatalay/rendercv) - The engine of the RenderCV App (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
