@@ -22,8 +22,8 @@
 
 #### 🔭 Recent Releases
 
-- [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) ([2.7.0](https://github.com/andrew-codechimp/HA-Battery-Notes/releases/tag/2.7.0), 1 day ago) - A Home Assistant integration to provide battery notes of devices
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v1.1.34](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v1.1.34), 1 day ago) - Provides an Home Assistant addon for Ollama
+- [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) ([2.7.0](https://github.com/andrew-codechimp/HA-Battery-Notes/releases/tag/2.7.0), 2 days ago) - A Home Assistant integration to provide battery notes of devices
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v1.1.34](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v1.1.34), 2 days ago) - Provides an Home Assistant addon for Ollama
 
 #### 🔨 Recent Pull Requests
 
@@ -63,8 +63,8 @@
 - [distribworks/dkron](https://github.com/distribworks/dkron) - Dkron - Distributed, fault tolerant job scheduling system https://dkron.io (1 month ago)
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library (2 months ago)
 - [python-arq/arq](https://github.com/python-arq/arq) - Fast job queuing and RPC in python with asyncio and redis. (2 months ago)
-- [ddcc/microparse](https://github.com/ddcc/microparse) - Microcode parser for AMD, Intel, and VIA processors (2 months ago)
-- [fiftin/processors_parser](https://github.com/fiftin/processors_parser) -  (2 months ago)
+- [ddcc/microparse](https://github.com/ddcc/microparse) - Microcode parser for AMD, Intel, and VIA processors (3 months ago)
+- [fiftin/processors_parser](https://github.com/fiftin/processors_parser) -  (3 months ago)
 - [ashambalev/opentelemetry-instrumentation-faststream](https://github.com/ashambalev/opentelemetry-instrumentation-faststream) -  (3 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
