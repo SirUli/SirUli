@@ -22,12 +22,12 @@
 
 #### 🔭 Recent Releases
 
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v1.1.36](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v1.1.36), 1 day ago) - Provides an Home Assistant addon for Ollama
-- [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) ([2.7.1](https://github.com/andrew-codechimp/HA-Battery-Notes/releases/tag/2.7.1), 1 day ago) - A Home Assistant integration to provide battery notes of devices
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v1.1.36](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v1.1.36), 2 days ago) - Provides an Home Assistant addon for Ollama
+- [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) ([2.7.1](https://github.com/andrew-codechimp/HA-Battery-Notes/releases/tag/2.7.1), 2 days ago) - A Home Assistant integration to provide battery notes of devices
 
 #### 🔨 Recent Pull Requests
 
-- [Update Pre-commit hooks and enforce git fetch to be successful](https://github.com/staticdev/ansible-role-pyenv/pull/274) on [staticdev/ansible-role-pyenv](https://github.com/staticdev/ansible-role-pyenv) (4 months ago)
+- [Update Pre-commit hooks and enforce git fetch to be successful](https://github.com/staticdev/ansible-role-pyenv/pull/274) on [staticdev/ansible-role-pyenv](https://github.com/staticdev/ansible-role-pyenv) (5 months ago)
 - [docs(display): Add docs for btt hdmi5](https://github.com/jon-harper/OmniBox/pull/129) on [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) (1 year ago)
 - [feat(btt_hdmi5): Add BIGTREETECH HDMI5 Display](https://github.com/jon-harper/OmniBox/pull/128) on [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) (1 year ago)
 - [docs(datasource): Add additional examples for custom datasource](https://github.com/renovatebot/renovate/pull/23558) on [renovatebot/renovate](https://github.com/renovatebot/renovate) (1 year ago)
