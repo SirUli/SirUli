@@ -56,6 +56,7 @@
 
 #### ⭐ Recent Stars
 
+- [ostris/ai-toolkit](https://github.com/ostris/ai-toolkit) - Various AI scripts. Mostly Stable Diffusion stuff. (today)
 - [mat3u/comfoair-esp32](https://github.com/mat3u/comfoair-esp32) - Interact with Zehnder Comfoair with esp32 (6 days ago)
 - [yoziru/esphome-zehnder-comfoair](https://github.com/yoziru/esphome-zehnder-comfoair) - Interact with Zehnder Comfoair Q using ESPHome and Home Assistant (6 days ago)
 - [julianpas/esphome-comfoair](https://github.com/julianpas/esphome-comfoair) - ESPHome configuration to drive Zehnder ComfoAir devices. (6 days ago)
@@ -65,7 +66,6 @@
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (1 month ago)
 - [barvian/number-flow](https://github.com/barvian/number-flow) - An animated number component for React, Vue, and Svelte. (1 month ago)
 - [distribworks/dkron](https://github.com/distribworks/dkron) - Dkron - Distributed, fault tolerant job scheduling system https://dkron.io (2 months ago)
-- [ollama/ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
