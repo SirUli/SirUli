@@ -74,8 +74,8 @@ For more information, see [the sponsors page](https://github.com/sponsors/SirUli
 
 #### 👯 Recent followers
 
+- [DarmorGamz](https://github.com/DarmorGamz)
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
 - [openinertia](https://github.com/openinertia)
 - [jelspace](https://github.com/jelspace)
 - [decoderwhoami](https://github.com/decoderwhoami)
-- [Manikantan529](https://github.com/Manikantan529)
