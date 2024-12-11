@@ -78,4 +78,4 @@ For more information, see [the sponsors page](https://github.com/sponsors/SirUli
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
 - [openinertia](https://github.com/openinertia)
 - [jelspace](https://github.com/jelspace)
-- [decoderwhoami](https://github.com/decoderwhoami)
+- [zeon-neon](https://github.com/zeon-neon)
