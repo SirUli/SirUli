@@ -22,7 +22,7 @@
 
 #### 🔭 Recent Releases
 
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v1.1.38](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v1.1.38), 6 days ago) - Provides an Home Assistant addon for Ollama
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v1.1.38](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v1.1.38), 1 week ago) - Provides an Home Assistant addon for Ollama
 - [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) ([2.7.3](https://github.com/andrew-codechimp/HA-Battery-Notes/releases/tag/2.7.3), 1 week ago) - A Home Assistant integration to provide battery notes of devices
 
 #### 🔨 Recent Pull Requests
@@ -56,7 +56,7 @@
 
 #### ⭐ Recent Stars
 
-- [ostris/ai-toolkit](https://github.com/ostris/ai-toolkit) - Various AI scripts. Mostly Stable Diffusion stuff. (3 days ago)
+- [ostris/ai-toolkit](https://github.com/ostris/ai-toolkit) - Various AI scripts. Mostly Stable Diffusion stuff. (4 days ago)
 - [mat3u/comfoair-esp32](https://github.com/mat3u/comfoair-esp32) - Interact with Zehnder Comfoair with esp32 (1 week ago)
 - [yoziru/esphome-zehnder-comfoair](https://github.com/yoziru/esphome-zehnder-comfoair) - Interact with Zehnder Comfoair Q using ESPHome and Home Assistant (1 week ago)
 - [julianpas/esphome-comfoair](https://github.com/julianpas/esphome-comfoair) - ESPHome configuration to drive Zehnder ComfoAir devices. (1 week ago)
