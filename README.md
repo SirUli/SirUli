@@ -4,7 +4,7 @@
 
 - [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) - Provides an Home Assistant addon for Ollama (4 months ago)
 - [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) - A Home Assistant integration to provide battery notes of devices (5 months ago)
-- [SirUli/OneWireTest4iButton](https://github.com/SirUli/OneWireTest4iButton) - Testing the iButton (See Blog: https://wolf-u.li) (7 months ago)
+- [SirUli/OneWireTest4iButton](https://github.com/SirUli/OneWireTest4iButton) - Testing the iButton (See Blog: https://wolf-u.li) (8 months ago)
 - [SirUli/ansibleunsafetext](https://github.com/SirUli/ansibleunsafetext) - Sample Repository to share code for https://github.com/ansible/ansible/issues/82414 (1 year ago)
 
 #### 🌱 Latest projects
@@ -56,7 +56,7 @@
 
 #### ⭐ Recent Stars
 
-- [ostris/ai-toolkit](https://github.com/ostris/ai-toolkit) - Various AI scripts. Mostly Stable Diffusion stuff. (4 days ago)
+- [ostris/ai-toolkit](https://github.com/ostris/ai-toolkit) - Various AI scripts. Mostly Stable Diffusion stuff. (5 days ago)
 - [mat3u/comfoair-esp32](https://github.com/mat3u/comfoair-esp32) - Interact with Zehnder Comfoair with esp32 (1 week ago)
 - [yoziru/esphome-zehnder-comfoair](https://github.com/yoziru/esphome-zehnder-comfoair) - Interact with Zehnder Comfoair Q using ESPHome and Home Assistant (1 week ago)
 - [julianpas/esphome-comfoair](https://github.com/julianpas/esphome-comfoair) - ESPHome configuration to drive Zehnder ComfoAir devices. (1 week ago)
