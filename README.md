@@ -55,6 +55,7 @@
 
 #### ⭐ Recent Stars
 
+- [adithya-s-k/omniparse](https://github.com/adithya-s-k/omniparse) - Ingest, parse, and optimize any data format ➡️ from documents to multimedia ➡️ for enhanced compatibility with GenAI frameworks (today)
 - [ostris/ai-toolkit](https://github.com/ostris/ai-toolkit) - Various AI scripts. Mostly Stable Diffusion stuff. (1 week ago)
 - [mat3u/comfoair-esp32](https://github.com/mat3u/comfoair-esp32) - Interact with Zehnder Comfoair with esp32 (2 weeks ago)
 - [yoziru/esphome-zehnder-comfoair](https://github.com/yoziru/esphome-zehnder-comfoair) - Interact with Zehnder Comfoair Q using ESPHome and Home Assistant (2 weeks ago)
@@ -64,7 +65,6 @@
 - [pgflo/pg_flo](https://github.com/pgflo/pg_flo) - Stream, transform, and route PostgreSQL data in real-time. (1 month ago)
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (1 month ago)
 - [barvian/number-flow](https://github.com/barvian/number-flow) - An animated number component for React, Vue, and Svelte. (2 months ago)
-- [distribworks/dkron](https://github.com/distribworks/dkron) - Dkron - Distributed, fault tolerant job scheduling system https://dkron.io (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
