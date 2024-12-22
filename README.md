@@ -21,7 +21,7 @@
 
 #### 🔭 Recent Releases
 
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v1.1.42](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v1.1.42), 3 days ago) - Provides an Home Assistant addon for Ollama
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v1.1.42](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v1.1.42), 4 days ago) - Provides an Home Assistant addon for Ollama
 - [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) ([2.7.3](https://github.com/andrew-codechimp/HA-Battery-Notes/releases/tag/2.7.3), 2 weeks ago) - A Home Assistant integration to provide battery notes of devices
 
 #### 🔨 Recent Pull Requests
@@ -41,7 +41,7 @@
 
 - [Docker: failed to get stream processor for application/vnd.in-toto&#43;json](https://wolf-u.li/docker-failed-to-get-stream-processor-for-application-vnd-in-toto-json/) (4 months ago)
 - [Using Ollama with AMD RX 6700 (gfx1031) or other older cards on Windows](https://wolf-u.li/using-ollama-with-amd-rx-6700-gfx1031-or-other-older-cards-on-windows/) (4 months ago)
-- [Home Assistant: ZHA OTA Updates](https://wolf-u.li/homeassistant-zha-ota-updates/) (4 months ago)
+- [Home Assistant: ZHA OTA Updates](https://wolf-u.li/homeassistant-zha-ota-updates/) (5 months ago)
 - [ESPHome &#39;ota&#39; requires a &#39;platform&#39; key but it was not specified.](https://wolf-u.li/esphome-ota-requires-a-platform-key-but-it-was-not-specified/) (6 months ago)
 - [BIGTREETECH Relay 1.2: Change Timeout and enable turning on by pin](https://wolf-u.li/en/bigtreetech-relay-1.2-change-timeout-and-enable-turning-on-by-pin) (9 months ago)
 
@@ -55,7 +55,7 @@
 
 #### ⭐ Recent Stars
 
-- [adithya-s-k/omniparse](https://github.com/adithya-s-k/omniparse) - Ingest, parse, and optimize any data format ➡️ from documents to multimedia ➡️ for enhanced compatibility with GenAI frameworks (4 days ago)
+- [adithya-s-k/omniparse](https://github.com/adithya-s-k/omniparse) - Ingest, parse, and optimize any data format ➡️ from documents to multimedia ➡️ for enhanced compatibility with GenAI frameworks (5 days ago)
 - [ostris/ai-toolkit](https://github.com/ostris/ai-toolkit) - Various AI scripts. Mostly Stable Diffusion stuff. (1 week ago)
 - [mat3u/comfoair-esp32](https://github.com/mat3u/comfoair-esp32) - Interact with Zehnder Comfoair with esp32 (2 weeks ago)
 - [yoziru/esphome-zehnder-comfoair](https://github.com/yoziru/esphome-zehnder-comfoair) - Interact with Zehnder Comfoair Q using ESPHome and Home Assistant (2 weeks ago)
