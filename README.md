@@ -57,7 +57,7 @@
 
 - [AndySymons/HEATHER-Home-Heating-Control-for-Home-Assistant-](https://github.com/AndySymons/HEATHER-Home-Heating-Control-for-Home-Assistant-) - Full home heating control system for Home Assistant (1 week ago)
 - [ostat/gridfinity_extended_openscad](https://github.com/ostat/gridfinity_extended_openscad) - Gridfinity Extended OpenSCAD Model (1 week ago)
-- [adithya-s-k/omniparse](https://github.com/adithya-s-k/omniparse) - Ingest, parse, and optimize any data format ➡️ from documents to multimedia ➡️ for enhanced compatibility with GenAI frameworks (3 weeks ago)
+- [adithya-s-k/omniparse](https://github.com/adithya-s-k/omniparse) - Ingest, parse, and optimize any data format ➡️ from documents to multimedia ➡️ for enhanced compatibility with GenAI frameworks (4 weeks ago)
 - [ostris/ai-toolkit](https://github.com/ostris/ai-toolkit) - Various AI scripts. Mostly Stable Diffusion stuff. (1 month ago)
 - [mat3u/comfoair-esp32](https://github.com/mat3u/comfoair-esp32) - Interact with Zehnder Comfoair with esp32 (1 month ago)
 - [yoziru/esphome-zehnder-comfoair](https://github.com/yoziru/esphome-zehnder-comfoair) - Interact with Zehnder Comfoair Q using ESPHome and Home Assistant (1 month ago)
