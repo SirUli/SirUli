@@ -21,7 +21,7 @@
 
 #### 🔭 Recent Releases
 
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v1.1.43](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v1.1.43), today) - Provides an Home Assistant addon for Ollama
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v1.1.43](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v1.1.43), 1 day ago) - Provides an Home Assistant addon for Ollama
 - [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) ([2.8.1](https://github.com/andrew-codechimp/HA-Battery-Notes/releases/tag/2.8.1), 1 week ago) - A Home Assistant integration to provide battery notes of devices
 
 #### 🔨 Recent Pull Requests
@@ -29,7 +29,7 @@
 - [Update Pre-commit hooks and enforce git fetch to be successful](https://github.com/staticdev/ansible-role-pyenv/pull/274) on [staticdev/ansible-role-pyenv](https://github.com/staticdev/ansible-role-pyenv) (6 months ago)
 - [docs(display): Add docs for btt hdmi5](https://github.com/jon-harper/OmniBox/pull/129) on [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) (1 year ago)
 - [feat(btt_hdmi5): Add BIGTREETECH HDMI5 Display](https://github.com/jon-harper/OmniBox/pull/128) on [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) (1 year ago)
-- [docs(datasource): Add additional examples for custom datasource](https://github.com/renovatebot/renovate/pull/23558) on [renovatebot/renovate](https://github.com/renovatebot/renovate) (1 year ago)
+- [docs(datasource): Add additional examples for custom datasource](https://github.com/renovatebot/renovate/pull/23558) on [renovatebot/renovate](https://github.com/renovatebot/renovate) (2 years ago)
 - [fix: Add more details in README](https://github.com/SirUli/FroniusSmartmeter/pull/12) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (2 years ago)
 - [Feature prepare 0.11](https://github.com/SirUli/FroniusSmartmeter/pull/11) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (2 years ago)
 - [Move README to Markdown](https://github.com/kwindrem/ShutdownMonitor/pull/3) on [kwindrem/ShutdownMonitor](https://github.com/kwindrem/ShutdownMonitor) (2 years ago)
@@ -50,7 +50,7 @@
 - [Verbindung von Wickelfalzrohren (Spiro)](https://wolf-u.li/verbindung-von-wickelfalzrohren/) (1 week ago)
 - [Welcher Dübel für welche Stockschraubengröße?](https://wolf-u.li/welcher-d%C3%BCbel-f%C3%BCr-welche-stockschraubengroesse/) (1 week ago)
 - [Kombiniertes Kabel für 230v und KNX](https://wolf-u.li/kombiniertes-kabel-fuer-230v-und-knx/) (3 months ago)
-- [Gira Steckdose mit LED-Orientierungsleuchte (z.b. 417003) - Bilder und Ansichten](https://wolf-u.li/gira-steckdose-mit-led-leuchte-417003/) (7 months ago)
+- [Gira Steckdose mit LED-Orientierungsleuchte (z.b. 417003) - Bilder und Ansichten](https://wolf-u.li/gira-steckdose-mit-led-leuchte-417003/) (8 months ago)
 - [Empfehlungen für die Verkabelung von lifepo4 Akkus](https://wolf-u.li/empfehlungen-fuer-die-verkabelung-von-lifepo4-akkus/) (8 months ago)
 
 #### ⭐ Recent Stars
