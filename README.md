@@ -55,6 +55,7 @@
 
 #### ⭐ Recent Stars
 
+- [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🚀 The OpenAPI to TypeScript codegen. Generate clients, SDKs, validators, and more. Support: @mrlubos (today)
 - [ByronLeeeee/Ollama-For-AMD-Installer](https://github.com/ByronLeeeee/Ollama-For-AMD-Installer) -  (2 days ago)
 - [bb-qq/r8152](https://github.com/bb-qq/r8152) - Synology DSM driver for Realtek RTL8152/RTL8153/RTL8156 based adapters (2 weeks ago)
 - [AndySymons/HEATHER-2-Heating-Control-for-Home-Assistant-](https://github.com/AndySymons/HEATHER-2-Heating-Control-for-Home-Assistant-) - Full home heating control system for Home Assistant (3 weeks ago)
@@ -64,7 +65,6 @@
 - [mat3u/comfoair-esp32](https://github.com/mat3u/comfoair-esp32) - Interact with Zehnder Comfoair with esp32 (1 month ago)
 - [yoziru/esphome-zehnder-comfoair](https://github.com/yoziru/esphome-zehnder-comfoair) - Interact with Zehnder Comfoair Q using ESPHome and Home Assistant (1 month ago)
 - [julianpas/esphome-comfoair](https://github.com/julianpas/esphome-comfoair) - ESPHome configuration to drive Zehnder ComfoAir devices. (1 month ago)
-- [sap-linuxlab/community.sap_install](https://github.com/sap-linuxlab/community.sap_install) - Automation for SAP - Collection of Ansible Roles for various SAP software installation (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
