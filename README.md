@@ -22,7 +22,7 @@
 #### 🔭 Recent Releases
 
 - [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) ([2.8.3](https://github.com/andrew-codechimp/HA-Battery-Notes/releases/tag/2.8.3), 2 weeks ago) - A Home Assistant integration to provide battery notes of devices
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v1.1.45](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v1.1.45), 2 weeks ago) - Provides an Home Assistant addon for Ollama
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v1.1.45](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v1.1.45), 3 weeks ago) - Provides an Home Assistant addon for Ollama
 
 #### 🔨 Recent Pull Requests
 
@@ -39,7 +39,7 @@
 
 #### 📜 My recent blog posts (English)
 
-- [Home Assistant diskspace full but no idea where the data is](https://wolf-u.li/homeassistant-diskspace-full-but-no-idea-where-data-is/) (2 weeks ago)
+- [Home Assistant diskspace full but no idea where the data is](https://wolf-u.li/homeassistant-diskspace-full-but-no-idea-where-data-is/) (3 weeks ago)
 - [Docker: failed to get stream processor for application/vnd.in-toto&#43;json](https://wolf-u.li/docker-failed-to-get-stream-processor-for-application-vnd-in-toto-json/) (6 months ago)
 - [Using Ollama with AMD RX 6700 (gfx1031) or other older cards on Windows](https://wolf-u.li/using-ollama-with-amd-rx-6700-gfx1031-or-other-older-cards-on-windows/) (6 months ago)
 - [Home Assistant: ZHA OTA Updates](https://wolf-u.li/homeassistant-zha-ota-updates/) (6 months ago)
@@ -47,7 +47,7 @@
 
 #### 📜 My recent blog posts (German)
 
-- [Wie schneidet man Estrich mit einem Winkelschleifer](https://wolf-u.li/wie-schneidet-man-estrich-mit-einem-winkelschleifer/) (2 weeks ago)
+- [Wie schneidet man Estrich mit einem Winkelschleifer](https://wolf-u.li/wie-schneidet-man-estrich-mit-einem-winkelschleifer/) (3 weeks ago)
 - [Berechnung von Druckverlust in Leitungen (z.B. Trinkwasser) und Rohren](https://wolf-u.li/berechnung-von-druckverlust-in-leitungen-trinkwasser-und-rohren/) (3 weeks ago)
 - [Verbindung von Wickelfalzrohren (Spiro)](https://wolf-u.li/verbindung-von-wickelfalzrohren/) (1 month ago)
 - [Welcher Dübel für welche Stockschraubengröße?](https://wolf-u.li/welcher-d%C3%BCbel-f%C3%BCr-welche-stockschraubengroesse/) (1 month ago)
