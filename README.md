@@ -39,11 +39,11 @@
 
 #### 📜 My recent blog posts (English)
 
+- [VMware ESXi 7 and Realtek NICs (e.g. RTL8125) won&#39;t work](https://wolf-u.li/vmware-esxi-7-and-realtek-nics/) (1 day ago)
 - [Home Assistant diskspace full but no idea where the data is](https://wolf-u.li/homeassistant-diskspace-full-but-no-idea-where-data-is/) (3 weeks ago)
 - [Docker: failed to get stream processor for application/vnd.in-toto&#43;json](https://wolf-u.li/docker-failed-to-get-stream-processor-for-application-vnd-in-toto-json/) (6 months ago)
 - [Using Ollama with AMD RX 6700 (gfx1031) or other older cards on Windows](https://wolf-u.li/using-ollama-with-amd-rx-6700-gfx1031-or-other-older-cards-on-windows/) (6 months ago)
 - [Home Assistant: ZHA OTA Updates](https://wolf-u.li/homeassistant-zha-ota-updates/) (6 months ago)
-- [ESPHome &#39;ota&#39; requires a &#39;platform&#39; key but it was not specified.](https://wolf-u.li/esphome-ota-requires-a-platform-key-but-it-was-not-specified/) (7 months ago)
 
 #### 📜 My recent blog posts (German)
 
