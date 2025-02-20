@@ -21,7 +21,7 @@
 
 #### 🔭 Recent Releases
 
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v1.1.49](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v1.1.49), 3 days ago) - Provides an Home Assistant addon for Ollama
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v1.1.49](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v1.1.49), 4 days ago) - Provides an Home Assistant addon for Ollama
 - [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) ([2.9.1](https://github.com/andrew-codechimp/HA-Battery-Notes/releases/tag/2.9.1), 1 week ago) - A Home Assistant integration to provide battery notes of devices
 
 #### 🔨 Recent Pull Requests
@@ -55,7 +55,7 @@
 
 #### ⭐ Recent Stars
 
-- [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🚀 The OpenAPI to TypeScript codegen. Generate clients, SDKs, validators, and more. Support: @mrlubos (2 weeks ago)
+- [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🚀 The OpenAPI to TypeScript codegen. Generate clients, SDKs, validators, and more. Support: @mrlubos (3 weeks ago)
 - [ByronLeeeee/Ollama-For-AMD-Installer](https://github.com/ByronLeeeee/Ollama-For-AMD-Installer) -  (3 weeks ago)
 - [bb-qq/r8152](https://github.com/bb-qq/r8152) - Synology DSM driver for Realtek RTL8152/RTL8153/RTL8156 based adapters (1 month ago)
 - [AndySymons/HEATHER-2-Heating-Control-for-Home-Assistant-](https://github.com/AndySymons/HEATHER-2-Heating-Control-for-Home-Assistant-) - Full home heating control system for Home Assistant (1 month ago)
