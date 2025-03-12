@@ -21,8 +21,8 @@
 
 #### 🔭 Recent Releases
 
-- [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) ([2.9.5](https://github.com/andrew-codechimp/HA-Battery-Notes/releases/tag/2.9.5), 6 days ago) - A Home Assistant integration to provide battery notes of devices
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.0.1](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.0.1), 6 days ago) - Provides an Home Assistant addon for Ollama
+- [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) ([2.9.5](https://github.com/andrew-codechimp/HA-Battery-Notes/releases/tag/2.9.5), 1 week ago) - A Home Assistant integration to provide battery notes of devices
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.0.1](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.0.1), 1 week ago) - Provides an Home Assistant addon for Ollama
 
 #### 🔨 Recent Pull Requests
 
@@ -55,7 +55,7 @@
 
 #### ⭐ Recent Stars
 
-- [JuergenLeber/home-assistant-optolink](https://github.com/JuergenLeber/home-assistant-optolink) - Instructions to connect a Viessmann Optolink heating to Home-Assistant using a PoE powered WT32-ETH01 EVO board based on ESP32-C3 (6 days ago)
+- [JuergenLeber/home-assistant-optolink](https://github.com/JuergenLeber/home-assistant-optolink) - Instructions to connect a Viessmann Optolink heating to Home-Assistant using a PoE powered WT32-ETH01 EVO board based on ESP32-C3 (1 week ago)
 - [michidk/vscli](https://github.com/michidk/vscli) - A CLI/TUI that simplifies launching VSCode projects, with a focus on dev containers (1 week ago)
 - [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🚀 The OpenAPI to TypeScript codegen. Generate clients, SDKs, validators, and more. Support: @mrlubos (1 month ago)
 - [ByronLeeeee/Ollama-For-AMD-Installer](https://github.com/ByronLeeeee/Ollama-For-AMD-Installer) - This project simplifies the installation process of likelovewant&#39;s library, making it easier for users to manage and update their AMD GPU-compatible Ollama installations. (1 month ago)
