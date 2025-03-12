@@ -73,8 +73,8 @@ For more information, see [the sponsors page](https://github.com/sponsors/SirUli
 
 #### 👯 Recent followers
 
+- [PhateValleyman](https://github.com/PhateValleyman)
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
 - [openinertia](https://github.com/openinertia)
 - [jelspace](https://github.com/jelspace)
 - [zeon-neon](https://github.com/zeon-neon)
-- [decoderwhoami](https://github.com/decoderwhoami)
