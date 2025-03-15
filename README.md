@@ -55,6 +55,7 @@
 
 #### ⭐ Recent Stars
 
+- [rstrouse/ESPSomfy-RTS-HA](https://github.com/rstrouse/ESPSomfy-RTS-HA) - Control your somfy shades in Home Assistant (today)
 - [JuergenLeber/home-assistant-optolink](https://github.com/JuergenLeber/home-assistant-optolink) - Instructions to connect a Viessmann Optolink heating to Home-Assistant using a PoE powered WT32-ETH01 EVO board based on ESP32-C3 (1 week ago)
 - [michidk/vscli](https://github.com/michidk/vscli) - A CLI/TUI that simplifies launching VSCode projects, with a focus on dev containers (2 weeks ago)
 - [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🚀 The OpenAPI to TypeScript codegen. Generate clients, SDKs, validators, and more. Support: @mrlubos (1 month ago)
@@ -64,7 +65,6 @@
 - [ostat/gridfinity_extended_openscad](https://github.com/ostat/gridfinity_extended_openscad) - Gridfinity Extended OpenSCAD Model (2 months ago)
 - [adithya-s-k/omniparse](https://github.com/adithya-s-k/omniparse) - Ingest, parse, and optimize any data format ➡️ from documents to multimedia ➡️ for enhanced compatibility with GenAI frameworks (2 months ago)
 - [ostris/ai-toolkit](https://github.com/ostris/ai-toolkit) - Various AI scripts. Mostly Stable Diffusion stuff. (3 months ago)
-- [mat3u/comfoair-esp32](https://github.com/mat3u/comfoair-esp32) - Interact with Zehnder Comfoair with esp32 (3 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
