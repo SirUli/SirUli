@@ -21,7 +21,7 @@
 
 #### 🔭 Recent Releases
 
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.0.7](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.0.7), 3 days ago) - Provides an Home Assistant addon for Ollama
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.0.7](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.0.7), 4 days ago) - Provides an Home Assistant addon for Ollama
 - [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) ([2.9.9](https://github.com/andrew-codechimp/HA-Battery-Notes/releases/tag/2.9.9), 1 week ago) - A Home Assistant integration to provide battery notes of devices
 
 #### 🔨 Recent Pull Requests
@@ -39,9 +39,9 @@
 
 #### 📜 My recent blog posts (English)
 
-- [estk.me eSIM - Difference between ESTKME-AIR, ESTKME-ESS and ESTKME-MEG](https://wolf-u.li/estk-me-difference-between-air-dro-ess/) (4 days ago)
-- [estk.me eSIM Card Reader Red - SCardListReaders() failed: 8010002E](https://wolf-u.li/estk-me-esim-card-reader-red-scardlistreaders-failed-8010002e/) (4 days ago)
-- [estk.me eSIM Card Reader Red - SCardEstablishContext() failed: 8010001D on Linux](https://wolf-u.li/estk-me-esim-card-reader-red-scardestablishcontext-failed-8010001d/) (4 days ago)
+- [estk.me eSIM - Difference between ESTKME-AIR, ESTKME-ESS and ESTKME-MEG](https://wolf-u.li/estk-me-difference-between-air-dro-ess/) (5 days ago)
+- [estk.me eSIM Card Reader Red - SCardListReaders() failed: 8010002E](https://wolf-u.li/estk-me-esim-card-reader-red-scardlistreaders-failed-8010002e/) (5 days ago)
+- [estk.me eSIM Card Reader Red - SCardEstablishContext() failed: 8010001D on Linux](https://wolf-u.li/estk-me-esim-card-reader-red-scardestablishcontext-failed-8010001d/) (5 days ago)
 - [ASRock DeskMini 310: Dead? No LED? No Noise? - Solution!](https://wolf-u.li/asrock-deskmini-310-dead-no-led-no-noise-solution/) (2 months ago)
 - [VMware ESXi 7 and Realtek NICs (e.g. RTL8125) won&#39;t work](https://wolf-u.li/vmware-esxi-7-and-realtek-nics/) (2 months ago)
 
@@ -55,7 +55,7 @@
 
 #### ⭐ Recent Stars
 
-- [rstrouse/ESPSomfy-RTS-HA](https://github.com/rstrouse/ESPSomfy-RTS-HA) - Control your somfy shades in Home Assistant (3 weeks ago)
+- [rstrouse/ESPSomfy-RTS-HA](https://github.com/rstrouse/ESPSomfy-RTS-HA) - Control your somfy shades in Home Assistant (4 weeks ago)
 - [JuergenLeber/home-assistant-optolink](https://github.com/JuergenLeber/home-assistant-optolink) - Instructions to connect a Viessmann Optolink heating to Home-Assistant using a PoE powered WT32-ETH01 EVO board based on ESP32-C3 (1 month ago)
 - [michidk/vscli](https://github.com/michidk/vscli) - A CLI/TUI that simplifies launching VSCode projects, with a focus on dev containers (1 month ago)
 - [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🚀 The OpenAPI to TypeScript codegen. Generate clients, SDKs, validators, and more. Support: @mrlubos (2 months ago)
