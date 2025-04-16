@@ -21,7 +21,7 @@
 
 #### 🔭 Recent Releases
 
-- [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) ([2.9.10](https://github.com/andrew-codechimp/HA-Battery-Notes/releases/tag/2.9.10), 1 day ago) - A Home Assistant integration to provide battery notes of devices
+- [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) ([2.9.10](https://github.com/andrew-codechimp/HA-Battery-Notes/releases/tag/2.9.10), 2 days ago) - A Home Assistant integration to provide battery notes of devices
 - [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.0.7](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.0.7), 1 week ago) - Provides an Home Assistant addon for Ollama
 
 #### 🔨 Recent Pull Requests
@@ -63,7 +63,7 @@
 - [bb-qq/r8152](https://github.com/bb-qq/r8152) - Synology DSM driver for Realtek RTL8152/RTL8153/RTL8156 based adapters (3 months ago)
 - [AndySymons/HEATHER-2-Heating-Control-for-Home-Assistant-](https://github.com/AndySymons/HEATHER-2-Heating-Control-for-Home-Assistant-) - Full home heating control system for Home Assistant (3 months ago)
 - [ostat/gridfinity_extended_openscad](https://github.com/ostat/gridfinity_extended_openscad) - Gridfinity Extended OpenSCAD Model (3 months ago)
-- [adithya-s-k/omniparse](https://github.com/adithya-s-k/omniparse) - Ingest, parse, and optimize any data format ➡️ from documents to multimedia ➡️ for enhanced compatibility with GenAI frameworks (3 months ago)
+- [adithya-s-k/omniparse](https://github.com/adithya-s-k/omniparse) - Ingest, parse, and optimize any data format ➡️ from documents to multimedia ➡️ for enhanced compatibility with GenAI frameworks (4 months ago)
 - [ostris/ai-toolkit](https://github.com/ostris/ai-toolkit) - Various AI scripts. Mostly Stable Diffusion stuff. (4 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
