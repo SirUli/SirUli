@@ -54,6 +54,7 @@
 
 #### ⭐ Recent Stars
 
+- [mhaeuser/Battery-Toolkit](https://github.com/mhaeuser/Battery-Toolkit) - Control the platform power state of your Apple Silicon Mac. (today)
 - [rstrouse/ESPSomfy-RTS-HA](https://github.com/rstrouse/ESPSomfy-RTS-HA) - Control your somfy shades in Home Assistant (2 months ago)
 - [JuergenLeber/home-assistant-optolink](https://github.com/JuergenLeber/home-assistant-optolink) - Instructions to connect a Viessmann Optolink heating to Home-Assistant using a PoE powered WT32-ETH01 EVO board based on ESP32-C3 (3 months ago)
 - [michidk/vscli](https://github.com/michidk/vscli) - A CLI/TUI that simplifies launching VSCode projects, with a focus on dev containers (3 months ago)
@@ -63,7 +64,6 @@
 - [AndySymons/HEATHER-2-Heating-Control-for-Home-Assistant-](https://github.com/AndySymons/HEATHER-2-Heating-Control-for-Home-Assistant-) - Full home heating control system for Home Assistant (5 months ago)
 - [ostat/gridfinity_extended_openscad](https://github.com/ostat/gridfinity_extended_openscad) - Gridfinity Extended OpenSCAD Model (5 months ago)
 - [adithya-s-k/omniparse](https://github.com/adithya-s-k/omniparse) - Ingest, parse, and optimize any data format ➡️ from documents to multimedia ➡️ for enhanced compatibility with GenAI frameworks (5 months ago)
-- [ostris/ai-toolkit](https://github.com/ostris/ai-toolkit) - The ultimate training toolkit for finetuning diffusion models (5 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
