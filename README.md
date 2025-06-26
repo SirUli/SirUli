@@ -55,7 +55,7 @@
 #### ⭐ Recent Stars
 
 - [marmelab/shadcn-admin-kit](https://github.com/marmelab/shadcn-admin-kit) - Component kit to build your Admin app with shadcn/ui (1 week ago)
-- [mhaeuser/Battery-Toolkit](https://github.com/mhaeuser/Battery-Toolkit) - Control the platform power state of your Apple Silicon Mac. (2 weeks ago)
+- [mhaeuser/Battery-Toolkit](https://github.com/mhaeuser/Battery-Toolkit) - Control the platform power state of your Apple Silicon Mac. (3 weeks ago)
 - [rstrouse/ESPSomfy-RTS-HA](https://github.com/rstrouse/ESPSomfy-RTS-HA) - Control your somfy shades in Home Assistant (3 months ago)
 - [JuergenLeber/home-assistant-optolink](https://github.com/JuergenLeber/home-assistant-optolink) - Instructions to connect a Viessmann Optolink heating to Home-Assistant using a PoE powered WT32-ETH01 EVO board based on ESP32-C3 (3 months ago)
 - [michidk/vscli](https://github.com/michidk/vscli) - A CLI/TUI that simplifies launching VSCode projects, with a focus on dev containers (3 months ago)
