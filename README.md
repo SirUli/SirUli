@@ -52,6 +52,7 @@
 
 #### ⭐ Recent Stars
 
+- [jlumbroso/passage-of-time-mcp](https://github.com/jlumbroso/passage-of-time-mcp) - 🤖🕰️ An MCP server that gives language models temporal awareness and time calculation abilities. Teaching AI the significance of the passage of time through collaborative tool development. (today)
 - [marmelab/shadcn-admin-kit](https://github.com/marmelab/shadcn-admin-kit) - Component kit to build your Admin app with shadcn/ui (1 month ago)
 - [mhaeuser/Battery-Toolkit](https://github.com/mhaeuser/Battery-Toolkit) - Control the platform power state of your Apple Silicon Mac. (1 month ago)
 - [rstrouse/ESPSomfy-RTS-HA](https://github.com/rstrouse/ESPSomfy-RTS-HA) - Control your somfy shades in Home Assistant (4 months ago)
@@ -61,7 +62,6 @@
 - [ByronLeeeee/Ollama-For-AMD-Installer](https://github.com/ByronLeeeee/Ollama-For-AMD-Installer) - This project simplifies the installation process of likelovewant&#39;s library, making it easier for users to manage and update their AMD GPU-compatible Ollama installations. (5 months ago)
 - [bb-qq/r8152](https://github.com/bb-qq/r8152) - Synology DSM driver for Realtek RTL8152/RTL8153/RTL8156 based adapters (6 months ago)
 - [AndySymons/HEATHER-2-Heating-Control-for-Home-Assistant-](https://github.com/AndySymons/HEATHER-2-Heating-Control-for-Home-Assistant-) - Full home heating control system for Home Assistant (6 months ago)
-- [ostat/gridfinity_extended_openscad](https://github.com/ostat/gridfinity_extended_openscad) - Gridfinity Extended OpenSCAD Model (6 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
