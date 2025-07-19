@@ -52,10 +52,10 @@
 
 #### ⭐ Recent Stars
 
-- [mikelebowitz/karakeep-frontend](https://github.com/mikelebowitz/karakeep-frontend) - Testing a new frontend for Karakeep, the excellent modern bookmark management system, focused on speeding up triage. Built with React-Admin, DaisyUI, Claude Code, and very little idea what I&#39;m doing. (today)
-- [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui) - Frontend for DataRentgen (today)
-- [smartcommunitylab/react-admin-packages](https://github.com/smartcommunitylab/react-admin-packages) - React Admin additional packages (today)
-- [jlumbroso/passage-of-time-mcp](https://github.com/jlumbroso/passage-of-time-mcp) - 🤖🕰️ An MCP server that gives language models temporal awareness and time calculation abilities. Teaching AI the significance of the passage of time through collaborative tool development. (today)
+- [mikelebowitz/karakeep-frontend](https://github.com/mikelebowitz/karakeep-frontend) - Testing a new frontend for Karakeep, the excellent modern bookmark management system, focused on speeding up triage. Built with React-Admin, DaisyUI, Claude Code, and very little idea what I&#39;m doing. (1 day ago)
+- [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui) - Frontend for DataRentgen (1 day ago)
+- [smartcommunitylab/react-admin-packages](https://github.com/smartcommunitylab/react-admin-packages) - React Admin additional packages (1 day ago)
+- [jlumbroso/passage-of-time-mcp](https://github.com/jlumbroso/passage-of-time-mcp) - 🤖🕰️ An MCP server that gives language models temporal awareness and time calculation abilities. Teaching AI the significance of the passage of time through collaborative tool development. (1 day ago)
 - [marmelab/shadcn-admin-kit](https://github.com/marmelab/shadcn-admin-kit) - Component kit to build your Admin app with shadcn/ui (1 month ago)
 - [mhaeuser/Battery-Toolkit](https://github.com/mhaeuser/Battery-Toolkit) - Control the platform power state of your Apple Silicon Mac. (1 month ago)
 - [rstrouse/ESPSomfy-RTS-HA](https://github.com/rstrouse/ESPSomfy-RTS-HA) - Control your somfy shades in Home Assistant (4 months ago)
