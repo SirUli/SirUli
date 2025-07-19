@@ -52,6 +52,9 @@
 
 #### ⭐ Recent Stars
 
+- [ElVit/esphome_components](https://github.com/ElVit/esphome_components) -  (today)
+- [kamaradclimber/heishamon-homeassistant](https://github.com/kamaradclimber/heishamon-homeassistant) - An integration for heatpumps handled by heishamon (today)
+- [Egyras/HeishaMon](https://github.com/Egyras/HeishaMon) - Panasonic Aquarea air-water H, J, K and L series protocol decrypt (today)
 - [mikelebowitz/karakeep-frontend](https://github.com/mikelebowitz/karakeep-frontend) - Testing a new frontend for Karakeep, the excellent modern bookmark management system, focused on speeding up triage. Built with React-Admin, DaisyUI, Claude Code, and very little idea what I&#39;m doing. (1 day ago)
 - [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui) - Frontend for DataRentgen (1 day ago)
 - [smartcommunitylab/react-admin-packages](https://github.com/smartcommunitylab/react-admin-packages) - React Admin additional packages (1 day ago)
@@ -59,9 +62,6 @@
 - [marmelab/shadcn-admin-kit](https://github.com/marmelab/shadcn-admin-kit) - Component kit to build your Admin app with shadcn/ui (1 month ago)
 - [mhaeuser/Battery-Toolkit](https://github.com/mhaeuser/Battery-Toolkit) - Control the platform power state of your Apple Silicon Mac. (1 month ago)
 - [rstrouse/ESPSomfy-RTS-HA](https://github.com/rstrouse/ESPSomfy-RTS-HA) - Control your somfy shades in Home Assistant (4 months ago)
-- [JuergenLeber/home-assistant-optolink](https://github.com/JuergenLeber/home-assistant-optolink) - Instructions to connect a Viessmann Optolink heating to Home-Assistant using a PoE powered WT32-ETH01 EVO board based on ESP32-C3 (4 months ago)
-- [michidk/vscli](https://github.com/michidk/vscli) - A CLI/TUI that simplifies launching VSCode projects, with a focus on dev containers (4 months ago)
-- [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🚀 The OpenAPI to TypeScript codegen. Generate clients, SDKs, validators, and more. Support: @mrlubos (5 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
