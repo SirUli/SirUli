@@ -52,6 +52,7 @@
 
 #### ⭐ Recent Stars
 
+- [jonasclaes/n8n-nodes-paperless-ngx](https://github.com/jonasclaes/n8n-nodes-paperless-ngx) - Custom n8n node for Paperless ngx (today)
 - [ElVit/esphome_components](https://github.com/ElVit/esphome_components) -  (today)
 - [kamaradclimber/heishamon-homeassistant](https://github.com/kamaradclimber/heishamon-homeassistant) - An integration for heatpumps handled by heishamon (today)
 - [Egyras/HeishaMon](https://github.com/Egyras/HeishaMon) - Panasonic Aquarea air-water H, J, K and L series protocol decrypt (today)
@@ -61,7 +62,6 @@
 - [jlumbroso/passage-of-time-mcp](https://github.com/jlumbroso/passage-of-time-mcp) - 🤖🕰️ An MCP server that gives language models temporal awareness and time calculation abilities. Teaching AI the significance of the passage of time through collaborative tool development. (1 day ago)
 - [marmelab/shadcn-admin-kit](https://github.com/marmelab/shadcn-admin-kit) - Component kit to build your Admin app with shadcn/ui (1 month ago)
 - [mhaeuser/Battery-Toolkit](https://github.com/mhaeuser/Battery-Toolkit) - Control the platform power state of your Apple Silicon Mac. (1 month ago)
-- [rstrouse/ESPSomfy-RTS-HA](https://github.com/rstrouse/ESPSomfy-RTS-HA) - Control your somfy shades in Home Assistant (4 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
