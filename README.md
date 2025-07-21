@@ -52,16 +52,16 @@
 
 #### ⭐ Recent Stars
 
-- [terschawebIT/n8n-nodes-paperless-ngx](https://github.com/terschawebIT/n8n-nodes-paperless-ngx) - Custom n8n node for Paperless ngx (today)
-- [Duetting/ha_eos_addon](https://github.com/Duetting/ha_eos_addon) - Home Assistant EOS addon (today)
-- [jonasclaes/n8n-nodes-paperless-ngx](https://github.com/jonasclaes/n8n-nodes-paperless-ngx) - Custom n8n node for Paperless ngx (1 day ago)
-- [ElVit/esphome_components](https://github.com/ElVit/esphome_components) -  (1 day ago)
-- [kamaradclimber/heishamon-homeassistant](https://github.com/kamaradclimber/heishamon-homeassistant) - An integration for heatpumps handled by heishamon (1 day ago)
-- [Egyras/HeishaMon](https://github.com/Egyras/HeishaMon) - Panasonic Aquarea air-water H, J, K and L series protocol decrypt (1 day ago)
-- [mikelebowitz/karakeep-frontend](https://github.com/mikelebowitz/karakeep-frontend) - Testing a new frontend for Karakeep, the excellent modern bookmark management system, focused on speeding up triage. Built with React-Admin, DaisyUI, Claude Code, and very little idea what I&#39;m doing. (2 days ago)
-- [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui) - Frontend for DataRentgen (2 days ago)
-- [smartcommunitylab/react-admin-packages](https://github.com/smartcommunitylab/react-admin-packages) - React Admin additional packages (2 days ago)
-- [jlumbroso/passage-of-time-mcp](https://github.com/jlumbroso/passage-of-time-mcp) - 🤖🕰️ An MCP server that gives language models temporal awareness and time calculation abilities. Teaching AI the significance of the passage of time through collaborative tool development. (2 days ago)
+- [terschawebIT/n8n-nodes-paperless-ngx](https://github.com/terschawebIT/n8n-nodes-paperless-ngx) - Custom n8n node for Paperless ngx (1 day ago)
+- [Duetting/ha_eos_addon](https://github.com/Duetting/ha_eos_addon) - Home Assistant EOS addon (1 day ago)
+- [jonasclaes/n8n-nodes-paperless-ngx](https://github.com/jonasclaes/n8n-nodes-paperless-ngx) - Custom n8n node for Paperless ngx (2 days ago)
+- [ElVit/esphome_components](https://github.com/ElVit/esphome_components) -  (2 days ago)
+- [kamaradclimber/heishamon-homeassistant](https://github.com/kamaradclimber/heishamon-homeassistant) - An integration for heatpumps handled by heishamon (2 days ago)
+- [Egyras/HeishaMon](https://github.com/Egyras/HeishaMon) - Panasonic Aquarea air-water H, J, K and L series protocol decrypt (2 days ago)
+- [mikelebowitz/karakeep-frontend](https://github.com/mikelebowitz/karakeep-frontend) - Testing a new frontend for Karakeep, the excellent modern bookmark management system, focused on speeding up triage. Built with React-Admin, DaisyUI, Claude Code, and very little idea what I&#39;m doing. (3 days ago)
+- [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui) - Frontend for DataRentgen (3 days ago)
+- [smartcommunitylab/react-admin-packages](https://github.com/smartcommunitylab/react-admin-packages) - React Admin additional packages (3 days ago)
+- [jlumbroso/passage-of-time-mcp](https://github.com/jlumbroso/passage-of-time-mcp) - 🤖🕰️ An MCP server that gives language models temporal awareness and time calculation abilities. Teaching AI the significance of the passage of time through collaborative tool development. (3 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
