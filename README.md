@@ -19,7 +19,7 @@
 
 #### 🔭 Recent Releases
 
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.0.20](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.0.20), 1 week ago) - Provides an Home Assistant addon for Ollama
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.0.20](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.0.20), 2 weeks ago) - Provides an Home Assistant addon for Ollama
 
 #### 🔨 Recent Pull Requests
 
@@ -52,16 +52,16 @@
 
 #### ⭐ Recent Stars
 
-- [tidwall/pogocache](https://github.com/tidwall/pogocache) - Fast caching software with a focus on low latency and cpu efficiency. (today)
-- [spoonnotfound/fake-ollama](https://github.com/spoonnotfound/fake-ollama) -  (1 day ago)
-- [terschawebIT/n8n-nodes-paperless-ngx](https://github.com/terschawebIT/n8n-nodes-paperless-ngx) - Custom n8n node for Paperless ngx (2 days ago)
-- [Duetting/ha_eos_addon](https://github.com/Duetting/ha_eos_addon) - Home Assistant EOS addon (2 days ago)
-- [jonasclaes/n8n-nodes-paperless-ngx](https://github.com/jonasclaes/n8n-nodes-paperless-ngx) - Custom n8n node for Paperless ngx (3 days ago)
-- [ElVit/esphome_components](https://github.com/ElVit/esphome_components) -  (3 days ago)
-- [kamaradclimber/heishamon-homeassistant](https://github.com/kamaradclimber/heishamon-homeassistant) - An integration for heatpumps handled by heishamon (3 days ago)
-- [Egyras/HeishaMon](https://github.com/Egyras/HeishaMon) - Panasonic Aquarea air-water H, J, K and L series protocol decrypt (3 days ago)
-- [mikelebowitz/karakeep-frontend](https://github.com/mikelebowitz/karakeep-frontend) - Testing a new frontend for Karakeep, the excellent modern bookmark management system, focused on speeding up triage. Built with React-Admin, DaisyUI, Claude Code, and very little idea what I&#39;m doing. (4 days ago)
-- [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui) - Frontend for DataRentgen (4 days ago)
+- [tidwall/pogocache](https://github.com/tidwall/pogocache) - Fast caching software with a focus on low latency and cpu efficiency. (1 day ago)
+- [spoonnotfound/fake-ollama](https://github.com/spoonnotfound/fake-ollama) -  (2 days ago)
+- [terschawebIT/n8n-nodes-paperless-ngx](https://github.com/terschawebIT/n8n-nodes-paperless-ngx) - Custom n8n node for Paperless ngx (3 days ago)
+- [Duetting/ha_eos_addon](https://github.com/Duetting/ha_eos_addon) - Home Assistant EOS addon (3 days ago)
+- [jonasclaes/n8n-nodes-paperless-ngx](https://github.com/jonasclaes/n8n-nodes-paperless-ngx) - Custom n8n node for Paperless ngx (4 days ago)
+- [ElVit/esphome_components](https://github.com/ElVit/esphome_components) -  (4 days ago)
+- [kamaradclimber/heishamon-homeassistant](https://github.com/kamaradclimber/heishamon-homeassistant) - An integration for heatpumps handled by heishamon (4 days ago)
+- [Egyras/HeishaMon](https://github.com/Egyras/HeishaMon) - Panasonic Aquarea air-water H, J, K and L series protocol decrypt (4 days ago)
+- [mikelebowitz/karakeep-frontend](https://github.com/mikelebowitz/karakeep-frontend) - Testing a new frontend for Karakeep, the excellent modern bookmark management system, focused on speeding up triage. Built with React-Admin, DaisyUI, Claude Code, and very little idea what I&#39;m doing. (5 days ago)
+- [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui) - Frontend for DataRentgen (5 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
