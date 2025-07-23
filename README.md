@@ -60,7 +60,7 @@
 - [ElVit/esphome_components](https://github.com/ElVit/esphome_components) -  (4 days ago)
 - [kamaradclimber/heishamon-homeassistant](https://github.com/kamaradclimber/heishamon-homeassistant) - An integration for heatpumps handled by heishamon (4 days ago)
 - [Egyras/HeishaMon](https://github.com/Egyras/HeishaMon) - Panasonic Aquarea air-water H, J, K and L series protocol decrypt (4 days ago)
-- [mikelebowitz/karakeep-frontend](https://github.com/mikelebowitz/karakeep-frontend) - Testing a new frontend for Karakeep, the excellent modern bookmark management system, focused on speeding up triage. Built with React-Admin, DaisyUI, Claude Code, and very little idea what I&#39;m doing. (5 days ago)
+- [mikelebowitz/karakeep-frontend](https://github.com/mikelebowitz/karakeep-frontend) - Experimental React UI for the excellent Karakeep bookmark management system. Features advanced search, filtering, and bulk operations. Built with Refine &#43; DaisyUI. (5 days ago)
 - [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui) - Frontend for DataRentgen (5 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
