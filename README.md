@@ -52,6 +52,7 @@
 
 #### ⭐ Recent Stars
 
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely &amp; Orchids.app (And other Open Sourced) System Prompts, Tools &amp; AI Models. (today)
 - [tidwall/pogocache](https://github.com/tidwall/pogocache) - Fast caching software with a focus on low latency and cpu efficiency. (3 days ago)
 - [spoonnotfound/fake-ollama](https://github.com/spoonnotfound/fake-ollama) -  (4 days ago)
 - [terschawebIT/n8n-nodes-paperless-ngx](https://github.com/terschawebIT/n8n-nodes-paperless-ngx) - Custom n8n node for Paperless ngx (5 days ago)
@@ -61,7 +62,6 @@
 - [kamaradclimber/heishamon-homeassistant](https://github.com/kamaradclimber/heishamon-homeassistant) - An integration for heatpumps handled by heishamon (6 days ago)
 - [Egyras/HeishaMon](https://github.com/Egyras/HeishaMon) - Panasonic Aquarea air-water H, J, K and L series protocol decrypt (6 days ago)
 - [mikelebowitz/karakeep-frontend](https://github.com/mikelebowitz/karakeep-frontend) - Experimental React UI for the excellent Karakeep bookmark management system. Features advanced search, filtering, and bulk operations. Built with Refine &#43; DaisyUI. (1 week ago)
-- [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui) - Frontend for DataRentgen (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
