@@ -23,7 +23,7 @@
 
 #### 🔨 Recent Pull Requests
 
-- [feat: Overhaul the addon with new options](https://github.com/SirUli/homeassistant-ollama-addon/pull/93) on [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) (4 months ago)
+- [feat: Overhaul the addon with new options](https://github.com/SirUli/homeassistant-ollama-addon/pull/93) on [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) (5 months ago)
 - [Update Pre-commit hooks and enforce git fetch to be successful](https://github.com/staticdev/ansible-role-pyenv/pull/274) on [staticdev/ansible-role-pyenv](https://github.com/staticdev/ansible-role-pyenv) (1 year ago)
 - [docs(display): Add docs for btt hdmi5](https://github.com/jon-harper/OmniBox/pull/129) on [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) (2 years ago)
 - [feat(btt_hdmi5): Add BIGTREETECH HDMI5 Display](https://github.com/jon-harper/OmniBox/pull/128) on [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) (2 years ago)
@@ -52,16 +52,16 @@
 
 #### ⭐ Recent Stars
 
-- [tidwall/pogocache](https://github.com/tidwall/pogocache) - Fast caching software with a focus on low latency and cpu efficiency. (2 days ago)
-- [spoonnotfound/fake-ollama](https://github.com/spoonnotfound/fake-ollama) -  (3 days ago)
-- [terschawebIT/n8n-nodes-paperless-ngx](https://github.com/terschawebIT/n8n-nodes-paperless-ngx) - Custom n8n node for Paperless ngx (4 days ago)
-- [Duetting/ha_eos_addon](https://github.com/Duetting/ha_eos_addon) - Home Assistant EOS addon (4 days ago)
-- [jonasclaes/n8n-nodes-paperless-ngx](https://github.com/jonasclaes/n8n-nodes-paperless-ngx) - Custom n8n node for Paperless ngx (5 days ago)
-- [ElVit/esphome_components](https://github.com/ElVit/esphome_components) -  (5 days ago)
-- [kamaradclimber/heishamon-homeassistant](https://github.com/kamaradclimber/heishamon-homeassistant) - An integration for heatpumps handled by heishamon (5 days ago)
-- [Egyras/HeishaMon](https://github.com/Egyras/HeishaMon) - Panasonic Aquarea air-water H, J, K and L series protocol decrypt (5 days ago)
-- [mikelebowitz/karakeep-frontend](https://github.com/mikelebowitz/karakeep-frontend) - Experimental React UI for the excellent Karakeep bookmark management system. Features advanced search, filtering, and bulk operations. Built with Refine &#43; DaisyUI. (6 days ago)
-- [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui) - Frontend for DataRentgen (6 days ago)
+- [tidwall/pogocache](https://github.com/tidwall/pogocache) - Fast caching software with a focus on low latency and cpu efficiency. (3 days ago)
+- [spoonnotfound/fake-ollama](https://github.com/spoonnotfound/fake-ollama) -  (4 days ago)
+- [terschawebIT/n8n-nodes-paperless-ngx](https://github.com/terschawebIT/n8n-nodes-paperless-ngx) - Custom n8n node for Paperless ngx (5 days ago)
+- [Duetting/ha_eos_addon](https://github.com/Duetting/ha_eos_addon) - Home Assistant EOS addon (5 days ago)
+- [jonasclaes/n8n-nodes-paperless-ngx](https://github.com/jonasclaes/n8n-nodes-paperless-ngx) - Custom n8n node for Paperless ngx (6 days ago)
+- [ElVit/esphome_components](https://github.com/ElVit/esphome_components) -  (6 days ago)
+- [kamaradclimber/heishamon-homeassistant](https://github.com/kamaradclimber/heishamon-homeassistant) - An integration for heatpumps handled by heishamon (6 days ago)
+- [Egyras/HeishaMon](https://github.com/Egyras/HeishaMon) - Panasonic Aquarea air-water H, J, K and L series protocol decrypt (6 days ago)
+- [mikelebowitz/karakeep-frontend](https://github.com/mikelebowitz/karakeep-frontend) - Experimental React UI for the excellent Karakeep bookmark management system. Features advanced search, filtering, and bulk operations. Built with Refine &#43; DaisyUI. (1 week ago)
+- [MobileTeleSystems/data-rentgen-ui](https://github.com/MobileTeleSystems/data-rentgen-ui) - Frontend for DataRentgen (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
