@@ -19,7 +19,7 @@
 
 #### 🔭 Recent Releases
 
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.0.21](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.0.21), today) - Provides an Home Assistant addon for Ollama
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.0.22](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.0.22), today) - Provides an Home Assistant addon for Ollama
 
 #### 🔨 Recent Pull Requests
 
