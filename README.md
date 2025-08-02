@@ -19,7 +19,7 @@
 
 #### 🔭 Recent Releases
 
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.0.22](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.0.22), 1 day ago) - Provides an Home Assistant addon for Ollama
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.0.22](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.0.22), 2 days ago) - Provides an Home Assistant addon for Ollama
 
 #### 🔨 Recent Pull Requests
 
@@ -57,10 +57,10 @@
 - [spoonnotfound/fake-ollama](https://github.com/spoonnotfound/fake-ollama) -  (1 week ago)
 - [terschawebIT/n8n-nodes-paperless-ngx](https://github.com/terschawebIT/n8n-nodes-paperless-ngx) - Custom n8n node for Paperless ngx (1 week ago)
 - [Duetting/ha_eos_addon](https://github.com/Duetting/ha_eos_addon) - Home Assistant EOS addon (1 week ago)
-- [jonasclaes/n8n-nodes-paperless-ngx](https://github.com/jonasclaes/n8n-nodes-paperless-ngx) - Custom n8n node for Paperless ngx (1 week ago)
-- [ElVit/esphome_components](https://github.com/ElVit/esphome_components) -  (1 week ago)
-- [kamaradclimber/heishamon-homeassistant](https://github.com/kamaradclimber/heishamon-homeassistant) - An integration for heatpumps handled by heishamon (1 week ago)
-- [Egyras/HeishaMon](https://github.com/Egyras/HeishaMon) - Panasonic Aquarea air-water H, J, K and L series protocol decrypt (1 week ago)
+- [jonasclaes/n8n-nodes-paperless-ngx](https://github.com/jonasclaes/n8n-nodes-paperless-ngx) - Custom n8n node for Paperless ngx (2 weeks ago)
+- [ElVit/esphome_components](https://github.com/ElVit/esphome_components) -  (2 weeks ago)
+- [kamaradclimber/heishamon-homeassistant](https://github.com/kamaradclimber/heishamon-homeassistant) - An integration for heatpumps handled by heishamon (2 weeks ago)
+- [Egyras/HeishaMon](https://github.com/Egyras/HeishaMon) - Panasonic Aquarea air-water H, J, K and L series protocol decrypt (2 weeks ago)
 - [mikelebowitz/karakeep-frontend](https://github.com/mikelebowitz/karakeep-frontend) - Experimental React UI for the excellent Karakeep bookmark management system. Features advanced search, filtering, and bulk operations. Built with Refine &#43; DaisyUI. (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
