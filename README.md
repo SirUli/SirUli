@@ -19,7 +19,7 @@
 
 #### 🔭 Recent Releases
 
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.0.22](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.0.22), 3 days ago) - Provides an Home Assistant addon for Ollama
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.0.22](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.0.22), 4 days ago) - Provides an Home Assistant addon for Ollama
 
 #### 🔨 Recent Pull Requests
 
@@ -47,14 +47,14 @@
 - [ASRock DeskMini 310: Tot? Keine LED? Keine Geräusche? Lösung](https://wolf-u.li/asrock-deskmini-310-tot-keine-led-keine-ger%C3%A4usche-loesung/) (5 months ago)
 - [Wie schneidet man Estrich mit einem Winkelschleifer](https://wolf-u.li/wie-schneidet-man-estrich-mit-einem-winkelschleifer/) (6 months ago)
 - [Berechnung von Druckverlust in Leitungen (z.B. Trinkwasser) und Rohren](https://wolf-u.li/berechnung-von-druckverlust-in-leitungen-trinkwasser-und-rohren/) (6 months ago)
-- [Verbindung von Wickelfalzrohren (Spiro)](https://wolf-u.li/verbindung-von-wickelfalzrohren/) (6 months ago)
+- [Verbindung von Wickelfalzrohren (Spiro)](https://wolf-u.li/verbindung-von-wickelfalzrohren/) (7 months ago)
 - [Welcher Dübel für welche Stockschraubengröße?](https://wolf-u.li/welcher-d%C3%BCbel-f%C3%BCr-welche-stockschraubengroesse/) (7 months ago)
 
 #### ⭐ Recent Stars
 
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely &amp; Orchids.app (And other Open Sourced) System Prompts, Tools &amp; AI Models. (1 week ago)
 - [tidwall/pogocache](https://github.com/tidwall/pogocache) - Fast caching software with a focus on low latency and cpu efficiency. (1 week ago)
-- [spoonnotfound/fake-ollama](https://github.com/spoonnotfound/fake-ollama) -  (1 week ago)
+- [spoonnotfound/fake-ollama](https://github.com/spoonnotfound/fake-ollama) -  (2 weeks ago)
 - [terschawebIT/n8n-nodes-paperless-ngx](https://github.com/terschawebIT/n8n-nodes-paperless-ngx) - Custom n8n node for Paperless ngx (2 weeks ago)
 - [Duetting/ha_eos_addon](https://github.com/Duetting/ha_eos_addon) - Home Assistant EOS addon (2 weeks ago)
 - [jonasclaes/n8n-nodes-paperless-ngx](https://github.com/jonasclaes/n8n-nodes-paperless-ngx) - Custom n8n node for Paperless ngx (2 weeks ago)
