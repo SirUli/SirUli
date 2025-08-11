@@ -19,7 +19,7 @@
 
 #### 🔭 Recent Releases
 
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.0.25](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.0.25), 4 days ago) - Provides an Home Assistant addon for Ollama
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.0.25](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.0.25), 5 days ago) - Provides an Home Assistant addon for Ollama
 
 #### 🔨 Recent Pull Requests
 
@@ -52,10 +52,10 @@
 
 #### ⭐ Recent Stars
 
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) - Provides an Home Assistant addon for Ollama (5 days ago)
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) - Provides an Home Assistant addon for Ollama (6 days ago)
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely &amp; Orchids.app (And other Open Sourced) System Prompts, Tools &amp; AI Models. (2 weeks ago)
 - [tidwall/pogocache](https://github.com/tidwall/pogocache) - Fast caching software with a focus on low latency and cpu efficiency. (2 weeks ago)
-- [spoonnotfound/fake-ollama](https://github.com/spoonnotfound/fake-ollama) -  (2 weeks ago)
+- [spoonnotfound/fake-ollama](https://github.com/spoonnotfound/fake-ollama) -  (3 weeks ago)
 - [terschawebIT/n8n-nodes-paperless-ngx](https://github.com/terschawebIT/n8n-nodes-paperless-ngx) - Custom n8n node for Paperless ngx (3 weeks ago)
 - [Duetting/ha_eos_addon](https://github.com/Duetting/ha_eos_addon) - Home Assistant EOS addon (3 weeks ago)
 - [jonasclaes/n8n-nodes-paperless-ngx](https://github.com/jonasclaes/n8n-nodes-paperless-ngx) - Custom n8n node for Paperless ngx (3 weeks ago)
