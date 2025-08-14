@@ -19,7 +19,7 @@
 
 #### 🔭 Recent Releases
 
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.0.27](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.0.27), 1 day ago) - Provides an Home Assistant addon for Ollama
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.0.27](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.0.27), 2 days ago) - Provides an Home Assistant addon for Ollama
 
 #### 🔨 Recent Pull Requests
 
@@ -52,7 +52,7 @@
 
 #### ⭐ Recent Stars
 
-- [omnara-ai/omnara](https://github.com/omnara-ai/omnara) - Omnara (YC S25) - Talk to Your AI Agents from Anywhere! (today)
+- [omnara-ai/omnara](https://github.com/omnara-ai/omnara) - Omnara (YC S25) - Talk to Your AI Agents from Anywhere! (1 day ago)
 - [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) - Provides an Home Assistant addon for Ollama (1 week ago)
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely &amp; Orchids.app (And other Open Sourced) System Prompts, Tools &amp; AI Models. (2 weeks ago)
 - [tidwall/pogocache](https://github.com/tidwall/pogocache) - Fast caching software with a focus on low latency and cpu efficiency. (3 weeks ago)
