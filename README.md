@@ -70,8 +70,8 @@ For more information, see [the sponsors page](https://github.com/sponsors/SirUli
 
 #### 👯 Recent followers
 
-- [lrepo52](https://github.com/lrepo52)
 - [Alpha-Exile](https://github.com/Alpha-Exile)
 - [lruLk](https://github.com/lruLk)
 - [identities](https://github.com/identities)
 - [standardgalactic](https://github.com/standardgalactic)
+- [PhateValleyman](https://github.com/PhateValleyman)
