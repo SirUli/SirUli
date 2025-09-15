@@ -70,8 +70,8 @@ For more information, see [the sponsors page](https://github.com/sponsors/SirUli
 
 #### 👯 Recent followers
 
+- [NamesMT](https://github.com/NamesMT)
 - [slavaGanzin](https://github.com/slavaGanzin)
 - [Alpha-Exile](https://github.com/Alpha-Exile)
 - [lruLk](https://github.com/lruLk)
 - [identities](https://github.com/identities)
-- [standardgalactic](https://github.com/standardgalactic)
