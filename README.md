@@ -19,12 +19,12 @@
 
 #### 🔭 Recent Releases
 
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.0.35](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.0.35), 2 days ago) - Provides an Home Assistant addon for Ollama
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.0.35](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.0.35), 3 days ago) - Provides an Home Assistant addon for Ollama
 
 #### 🔨 Recent Pull Requests
 
 - [Typos and many small formatting topics](https://github.com/bsc-org/bsc/pull/1) on [bsc-org/bsc](https://github.com/bsc-org/bsc) (3 weeks ago)
-- [feat: Overhaul the addon with new options](https://github.com/SirUli/homeassistant-ollama-addon/pull/93) on [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) (6 months ago)
+- [feat: Overhaul the addon with new options](https://github.com/SirUli/homeassistant-ollama-addon/pull/93) on [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) (7 months ago)
 - [Update Pre-commit hooks and enforce git fetch to be successful](https://github.com/staticdev/ansible-role-pyenv/pull/274) on [staticdev/ansible-role-pyenv](https://github.com/staticdev/ansible-role-pyenv) (1 year ago)
 - [docs(display): Add docs for btt hdmi5](https://github.com/jon-harper/OmniBox/pull/129) on [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) (2 years ago)
 - [feat(btt_hdmi5): Add BIGTREETECH HDMI5 Display](https://github.com/jon-harper/OmniBox/pull/128) on [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) (2 years ago)
@@ -36,7 +36,7 @@
 
 #### 📜 My recent blog posts (English)
 
-- [Alliwava U58 with Ryzen 7 5825U: Reduction of the fan noise](https://wolf-u.li/alliwava-u58-ryzen-7-5825u-fan-noise/) (3 weeks ago)
+- [Alliwava U58 with Ryzen 7 5825U: Reduction of the fan noise](https://wolf-u.li/alliwava-u58-ryzen-7-5825u-fan-noise/) (4 weeks ago)
 - [estk.me eSIM - Difference between ESTKME-AIR, ESTKME-ESS and ESTKME-MEG](https://wolf-u.li/estk-me-difference-between-air-dro-ess/) (5 months ago)
 - [estk.me eSIM Card Reader Red - SCardListReaders() failed: 8010002E](https://wolf-u.li/estk-me-esim-card-reader-red-scardlistreaders-failed-8010002e/) (5 months ago)
 - [estk.me eSIM Card Reader Red - SCardEstablishContext() failed: 8010001D on Linux](https://wolf-u.li/estk-me-esim-card-reader-red-scardestablishcontext-failed-8010001d/) (5 months ago)
@@ -58,7 +58,7 @@
 - [ai-republic/bms-to-inverter](https://github.com/ai-republic/bms-to-inverter) - Use, monitor and control any battery brand with any inverter! Application to read and monitor data from BMSes and write data to an inverter using any protocol (e.g. UART, RS485, ModBus or CAN) (1 month ago)
 - [omnara-ai/omnara](https://github.com/omnara-ai/omnara) - Omnara (YC S25) - Talk to Your AI Agents from Anywhere! (1 month ago)
 - [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) - Provides an Home Assistant addon for Ollama (1 month ago)
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia &amp; v0. (And other Open Sourced) System Prompts, Internal Tools &amp; AI Models (1 month ago)
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia &amp; v0. (And other Open Sourced) System Prompts, Internal Tools &amp; AI Models (2 months ago)
 - [tidwall/pogocache](https://github.com/tidwall/pogocache) - Fast caching software with a focus on low latency and cpu efficiency. (2 months ago)
 - [spoonnotfound/fake-ollama](https://github.com/spoonnotfound/fake-ollama) -  (2 months ago)
 - [terschawebIT/n8n-nodes-paperless-ngx](https://github.com/terschawebIT/n8n-nodes-paperless-ngx) - Custom n8n node for Paperless ngx (2 months ago)
