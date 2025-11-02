@@ -19,7 +19,7 @@
 
 #### 🔭 Recent Releases
 
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.0.41](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.0.41), 2 days ago) - Provides an Home Assistant addon for Ollama
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.0.41](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.0.41), 3 days ago) - Provides an Home Assistant addon for Ollama
 
 #### 🔨 Recent Pull Requests
 
@@ -47,12 +47,12 @@
 - [ASRock DeskMini 310: Tot? Keine LED? Keine Geräusche? Lösung](https://wolf-u.li/asrock-deskmini-310-tot-keine-led-keine-ger%C3%A4usche-loesung/) (8 months ago)
 - [Wie schneidet man Estrich mit einem Winkelschleifer](https://wolf-u.li/wie-schneidet-man-estrich-mit-einem-winkelschleifer/) (9 months ago)
 - [Berechnung von Druckverlust in Leitungen (z.B. Trinkwasser) und Rohren](https://wolf-u.li/berechnung-von-druckverlust-in-leitungen-trinkwasser-und-rohren/) (9 months ago)
-- [Verbindung von Wickelfalzrohren (Spiro)](https://wolf-u.li/verbindung-von-wickelfalzrohren/) (9 months ago)
+- [Verbindung von Wickelfalzrohren (Spiro)](https://wolf-u.li/verbindung-von-wickelfalzrohren/) (10 months ago)
 - [Welcher Dübel für welche Stockschraubengröße?](https://wolf-u.li/welcher-d%C3%BCbel-f%C3%BCr-welche-stockschraubengroesse/) (10 months ago)
 
 #### ⭐ Recent Stars
 
-- [saihgupr/HomeAssistantTimeMachine](https://github.com/saihgupr/HomeAssistantTimeMachine) - Home Assistant Time Machine is a web-based tool that acts as a &#34;Time Machine&#34; for your Home Assistant configuration. (2 days ago)
+- [saihgupr/HomeAssistantTimeMachine](https://github.com/saihgupr/HomeAssistantTimeMachine) - Home Assistant Time Machine is a web-based tool that acts as a &#34;Time Machine&#34; for your Home Assistant configuration. (3 days ago)
 - [Sleeper85/esphome-yambms](https://github.com/Sleeper85/esphome-yambms) - Yet another multi-BMS Merging Solution (2 months ago)
 - [InventoCasa/ha-advanced-blueprints](https://github.com/InventoCasa/ha-advanced-blueprints) - Advanced Blueprints combined with pyscript for extra useful automations (2 months ago)
 - [kellerza/sunsynk](https://github.com/kellerza/sunsynk) - Deye/Sunsynk Inverter Python library and Home Assistant OS Addon (2 months ago)
