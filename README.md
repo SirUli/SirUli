@@ -19,7 +19,7 @@
 
 #### 🔭 Recent Releases
 
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.0.42](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.0.42), 2 days ago) - Provides an Home Assistant addon for Ollama
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.0.42](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.0.42), 3 days ago) - Provides an Home Assistant addon for Ollama
 
 #### 🔨 Recent Pull Requests
 
@@ -46,12 +46,13 @@
 
 - [ASRock DeskMini 310: Tot? Keine LED? Keine Geräusche? Lösung](https://wolf-u.li/asrock-deskmini-310-tot-keine-led-keine-ger%C3%A4usche-loesung/) (9 months ago)
 - [Wie schneidet man Estrich mit einem Winkelschleifer](https://wolf-u.li/wie-schneidet-man-estrich-mit-einem-winkelschleifer/) (9 months ago)
-- [Berechnung von Druckverlust in Leitungen (z.B. Trinkwasser) und Rohren](https://wolf-u.li/berechnung-von-druckverlust-in-leitungen-trinkwasser-und-rohren/) (9 months ago)
+- [Berechnung von Druckverlust in Leitungen (z.B. Trinkwasser) und Rohren](https://wolf-u.li/berechnung-von-druckverlust-in-leitungen-trinkwasser-und-rohren/) (10 months ago)
 - [Verbindung von Wickelfalzrohren (Spiro)](https://wolf-u.li/verbindung-von-wickelfalzrohren/) (10 months ago)
 - [Welcher Dübel für welche Stockschraubengröße?](https://wolf-u.li/welcher-d%C3%BCbel-f%C3%BCr-welche-stockschraubengroesse/) (10 months ago)
 
 #### ⭐ Recent Stars
 
+- [Rem0o/FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) - This is the release repository for Fan Control, a highly customizable fan controlling software for Windows. (1 day ago)
 - [saihgupr/HomeAssistantTimeMachine](https://github.com/saihgupr/HomeAssistantTimeMachine) - Home Assistant Time Machine is a web-based tool that acts as a &#34;Time Machine&#34; for your Home Assistant configuration. (1 week ago)
 - [Sleeper85/esphome-yambms](https://github.com/Sleeper85/esphome-yambms) - Yet another multi-BMS Merging Solution (2 months ago)
 - [InventoCasa/ha-advanced-blueprints](https://github.com/InventoCasa/ha-advanced-blueprints) - Advanced Blueprints combined with pyscript for extra useful automations (2 months ago)
@@ -61,7 +62,6 @@
 - [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) - Provides an Home Assistant addon for Ollama (3 months ago)
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia &amp; v0. (And other Open Sourced) System Prompts, Internal Tools &amp; AI Models (3 months ago)
 - [pogocache/pogocache](https://github.com/pogocache/pogocache) - Fast caching software with a focus on low latency and cpu efficiency. (3 months ago)
-- [spoonnotfound/fake-ollama](https://github.com/spoonnotfound/fake-ollama) -  (3 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
