@@ -19,7 +19,7 @@
 
 #### 🔭 Recent Releases
 
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.0.44](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.0.44), 3 days ago) - Provides an Home Assistant addon for Ollama
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.0.44](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.0.44), 4 days ago) - Provides an Home Assistant addon for Ollama
 
 #### 🔨 Recent Pull Requests
 
@@ -36,7 +36,7 @@
 
 #### 📜 My recent blog posts (English)
 
-- [Alliwava U58 with Ryzen 7 5825U: Reduction of the fan noise](https://wolf-u.li/alliwava-u58-ryzen-7-5825u-fan-noise/) (2 months ago)
+- [Alliwava U58 with Ryzen 7 5825U: Reduction of the fan noise](https://wolf-u.li/alliwava-u58-ryzen-7-5825u-fan-noise/) (3 months ago)
 - [estk.me eSIM - Difference between ESTKME-AIR, ESTKME-ESS and ESTKME-MEG](https://wolf-u.li/estk-me-difference-between-air-dro-ess/) (7 months ago)
 - [estk.me eSIM Card Reader Red - SCardListReaders() failed: 8010002E](https://wolf-u.li/estk-me-esim-card-reader-red-scardlistreaders-failed-8010002e/) (7 months ago)
 - [estk.me eSIM Card Reader Red - SCardEstablishContext() failed: 8010001D on Linux](https://wolf-u.li/estk-me-esim-card-reader-red-scardestablishcontext-failed-8010001d/) (7 months ago)
@@ -52,9 +52,9 @@
 
 #### ⭐ Recent Stars
 
-- [TECH7Fox/asterisk-hass-addons](https://github.com/TECH7Fox/asterisk-hass-addons) - Asterisk add-on for Home Assistant (3 days ago)
-- [TECH7Fox/asterisk-hass-integration](https://github.com/TECH7Fox/asterisk-hass-integration) - Asterisk integration for Home Assistant (3 days ago)
-- [TECH7Fox/sip-hass-docs](https://github.com/TECH7Fox/sip-hass-docs) - Documentation for HA SIP (3 days ago)
+- [TECH7Fox/asterisk-hass-addons](https://github.com/TECH7Fox/asterisk-hass-addons) - Asterisk add-on for Home Assistant (4 days ago)
+- [TECH7Fox/asterisk-hass-integration](https://github.com/TECH7Fox/asterisk-hass-integration) - Asterisk integration for Home Assistant (4 days ago)
+- [TECH7Fox/sip-hass-docs](https://github.com/TECH7Fox/sip-hass-docs) - Documentation for HA SIP (4 days ago)
 - [Rem0o/FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) - This is the release repository for Fan Control, a highly customizable fan controlling software for Windows. (2 weeks ago)
 - [saihgupr/HomeAssistantTimeMachine](https://github.com/saihgupr/HomeAssistantTimeMachine) - Home Assistant Time Machine is a web-based tool that acts as a &#34;Time Machine&#34; for your Home Assistant configuration. (3 weeks ago)
 - [Sleeper85/esphome-yambms](https://github.com/Sleeper85/esphome-yambms) - Yet another multi-BMS Merging Solution (2 months ago)
@@ -71,7 +71,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/SirUli
 #### 👯 Recent followers
 
 - [emilycodestar](https://github.com/emilycodestar)
-- [CelaDaniel](https://github.com/CelaDaniel)
 - [lrepo52](https://github.com/lrepo52)
 - [slavaGanzin](https://github.com/slavaGanzin)
 - [Alpha-Exile](https://github.com/Alpha-Exile)
+- [lruLk](https://github.com/lruLk)
