@@ -19,11 +19,11 @@
 
 #### 🔭 Recent Releases
 
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.0.44](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.0.44), 5 days ago) - Provides an Home Assistant addon for Ollama
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.0.44](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.0.44), 6 days ago) - Provides an Home Assistant addon for Ollama
 
 #### 🔨 Recent Pull Requests
 
-- [Typos and many small formatting topics](https://github.com/bsc-org/bsc/pull/1) on [bsc-org/bsc](https://github.com/bsc-org/bsc) (2 months ago)
+- [Typos and many small formatting topics](https://github.com/bsc-org/bsc/pull/1) on [bsc-org/bsc](https://github.com/bsc-org/bsc) (3 months ago)
 - [feat: Overhaul the addon with new options](https://github.com/SirUli/homeassistant-ollama-addon/pull/93) on [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) (9 months ago)
 - [Update Pre-commit hooks and enforce git fetch to be successful](https://github.com/staticdev/ansible-role-pyenv/pull/274) on [staticdev/ansible-role-pyenv](https://github.com/staticdev/ansible-role-pyenv) (1 year ago)
 - [docs(display): Add docs for btt hdmi5](https://github.com/jon-harper/OmniBox/pull/129) on [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) (2 years ago)
@@ -52,12 +52,12 @@
 
 #### ⭐ Recent Stars
 
-- [TECH7Fox/asterisk-hass-addons](https://github.com/TECH7Fox/asterisk-hass-addons) - Asterisk add-on for Home Assistant (5 days ago)
-- [TECH7Fox/asterisk-hass-integration](https://github.com/TECH7Fox/asterisk-hass-integration) - Asterisk integration for Home Assistant (5 days ago)
-- [TECH7Fox/sip-hass-docs](https://github.com/TECH7Fox/sip-hass-docs) - Documentation for HA SIP (5 days ago)
+- [TECH7Fox/asterisk-hass-addons](https://github.com/TECH7Fox/asterisk-hass-addons) - Asterisk add-on for Home Assistant (6 days ago)
+- [TECH7Fox/asterisk-hass-integration](https://github.com/TECH7Fox/asterisk-hass-integration) - Asterisk integration for Home Assistant (6 days ago)
+- [TECH7Fox/sip-hass-docs](https://github.com/TECH7Fox/sip-hass-docs) - Documentation for HA SIP (6 days ago)
 - [Rem0o/FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) - This is the release repository for Fan Control, a highly customizable fan controlling software for Windows. (2 weeks ago)
 - [saihgupr/HomeAssistantTimeMachine](https://github.com/saihgupr/HomeAssistantTimeMachine) - Home Assistant Time Machine is a web-based tool that acts as a &#34;Time Machine&#34; for your Home Assistant configuration. (3 weeks ago)
-- [Sleeper85/esphome-yambms](https://github.com/Sleeper85/esphome-yambms) - Yet another multi-BMS Merging Solution (2 months ago)
+- [Sleeper85/esphome-yambms](https://github.com/Sleeper85/esphome-yambms) - Yet another multi-BMS Merging Solution (3 months ago)
 - [InventoCasa/ha-advanced-blueprints](https://github.com/InventoCasa/ha-advanced-blueprints) - Advanced Blueprints combined with pyscript for extra useful automations (3 months ago)
 - [kellerza/sunsynk](https://github.com/kellerza/sunsynk) - Deye/Sunsynk Inverter Python library and Home Assistant OS Addon (3 months ago)
 - [ai-republic/bms-to-inverter](https://github.com/ai-republic/bms-to-inverter) - Use, monitor and control any battery brand with any inverter! Application to read and monitor data from BMSes and write data to an inverter using any protocol (e.g. UART, RS485, ModBus or CAN) (3 months ago)
