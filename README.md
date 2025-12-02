@@ -19,7 +19,7 @@
 
 #### 🔭 Recent Releases
 
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.0.45](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.0.45), 5 days ago) - Provides an Home Assistant addon for Ollama
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.0.45](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.0.45), 6 days ago) - Provides an Home Assistant addon for Ollama
 
 #### 🔨 Recent Pull Requests
 
@@ -47,7 +47,7 @@
 - [ASRock DeskMini 310: Tot? Keine LED? Keine Geräusche? Lösung](https://wolf-u.li/asrock-deskmini-310-tot-keine-led-keine-ger%C3%A4usche-loesung/) (9 months ago)
 - [Wie schneidet man Estrich mit einem Winkelschleifer](https://wolf-u.li/wie-schneidet-man-estrich-mit-einem-winkelschleifer/) (10 months ago)
 - [Berechnung von Druckverlust in Leitungen (z.B. Trinkwasser) und Rohren](https://wolf-u.li/berechnung-von-druckverlust-in-leitungen-trinkwasser-und-rohren/) (10 months ago)
-- [Verbindung von Wickelfalzrohren (Spiro)](https://wolf-u.li/verbindung-von-wickelfalzrohren/) (10 months ago)
+- [Verbindung von Wickelfalzrohren (Spiro)](https://wolf-u.li/verbindung-von-wickelfalzrohren/) (11 months ago)
 - [Welcher Dübel für welche Stockschraubengröße?](https://wolf-u.li/welcher-d%C3%BCbel-f%C3%BCr-welche-stockschraubengroesse/) (11 months ago)
 
 #### ⭐ Recent Stars
@@ -70,8 +70,8 @@ For more information, see [the sponsors page](https://github.com/sponsors/SirUli
 
 #### 👯 Recent followers
 
-- [NamesMT](https://github.com/NamesMT)
 - [TWART016](https://github.com/TWART016)
 - [emilycodestar](https://github.com/emilycodestar)
 - [lrepo52](https://github.com/lrepo52)
 - [slavaGanzin](https://github.com/slavaGanzin)
+- [Alpha-Exile](https://github.com/Alpha-Exile)
