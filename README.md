@@ -19,7 +19,7 @@
 
 #### 🔭 Recent Releases
 
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.0.45](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.0.45), 6 days ago) - Provides an Home Assistant addon for Ollama
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.0.45](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.0.45), 1 week ago) - Provides an Home Assistant addon for Ollama
 
 #### 🔨 Recent Pull Requests
 
@@ -37,9 +37,9 @@
 #### 📜 My recent blog posts (English)
 
 - [Alliwava U58 with Ryzen 7 5825U: Reduction of the fan noise](https://wolf-u.li/alliwava-u58-ryzen-7-5825u-fan-noise/) (3 months ago)
-- [estk.me eSIM - Difference between ESTKME-AIR, ESTKME-ESS and ESTKME-MEG](https://wolf-u.li/estk-me-difference-between-air-dro-ess/) (7 months ago)
-- [estk.me eSIM Card Reader Red - SCardListReaders() failed: 8010002E](https://wolf-u.li/estk-me-esim-card-reader-red-scardlistreaders-failed-8010002e/) (7 months ago)
-- [estk.me eSIM Card Reader Red - SCardEstablishContext() failed: 8010001D on Linux](https://wolf-u.li/estk-me-esim-card-reader-red-scardestablishcontext-failed-8010001d/) (7 months ago)
+- [estk.me eSIM - Difference between ESTKME-AIR, ESTKME-ESS and ESTKME-MEG](https://wolf-u.li/estk-me-difference-between-air-dro-ess/) (8 months ago)
+- [estk.me eSIM Card Reader Red - SCardListReaders() failed: 8010002E](https://wolf-u.li/estk-me-esim-card-reader-red-scardlistreaders-failed-8010002e/) (8 months ago)
+- [estk.me eSIM Card Reader Red - SCardEstablishContext() failed: 8010001D on Linux](https://wolf-u.li/estk-me-esim-card-reader-red-scardestablishcontext-failed-8010001d/) (8 months ago)
 - [ASRock DeskMini 310: Dead? No LED? No Noise? - Solution!](https://wolf-u.li/asrock-deskmini-310-dead-no-led-no-noise-solution/) (9 months ago)
 
 #### 📜 My recent blog posts (German)
