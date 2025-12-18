@@ -19,7 +19,7 @@
 
 #### 🔭 Recent Releases
 
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.0.49](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.0.49), 1 day ago) - Provides an Home Assistant addon for Ollama
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.0.49](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.0.49), 2 days ago) - Provides an Home Assistant addon for Ollama
 
 #### 🔨 Recent Pull Requests
 
@@ -32,7 +32,7 @@
 - [fix: Add more details in README](https://github.com/SirUli/FroniusSmartmeter/pull/12) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (2 years ago)
 - [Feature prepare 0.11](https://github.com/SirUli/FroniusSmartmeter/pull/11) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (2 years ago)
 - [Move README to Markdown](https://github.com/kwindrem/ShutdownMonitor/pull/3) on [kwindrem/ShutdownMonitor](https://github.com/kwindrem/ShutdownMonitor) (2 years ago)
-- [Release of v1.10](https://github.com/SirUli/FroniusSmartmeter/pull/7) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (2 years ago)
+- [Release of v1.10](https://github.com/SirUli/FroniusSmartmeter/pull/7) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (3 years ago)
 
 #### 📜 My recent blog posts (English)
 
@@ -52,16 +52,16 @@
 
 #### ⭐ Recent Stars
 
-- [TECH7Fox/asterisk-hass-addons](https://github.com/TECH7Fox/asterisk-hass-addons) - Asterisk add-on for Home Assistant (3 weeks ago)
-- [TECH7Fox/asterisk-hass-integration](https://github.com/TECH7Fox/asterisk-hass-integration) - Asterisk integration for Home Assistant (3 weeks ago)
-- [TECH7Fox/sip-hass-docs](https://github.com/TECH7Fox/sip-hass-docs) - Documentation for HA SIP (3 weeks ago)
+- [TECH7Fox/asterisk-hass-addons](https://github.com/TECH7Fox/asterisk-hass-addons) - Asterisk add-on for Home Assistant (4 weeks ago)
+- [TECH7Fox/asterisk-hass-integration](https://github.com/TECH7Fox/asterisk-hass-integration) - Asterisk integration for Home Assistant (4 weeks ago)
+- [TECH7Fox/sip-hass-docs](https://github.com/TECH7Fox/sip-hass-docs) - Documentation for HA SIP (4 weeks ago)
 - [Rem0o/FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) - This is the release repository for Fan Control, a highly customizable fan controlling software for Windows. (1 month ago)
-- [saihgupr/HomeAssistantTimeMachine](https://github.com/saihgupr/HomeAssistantTimeMachine) - Home Assistant Time Machine is a web-based tool that acts as a &#34;Time Machine&#34; for your Home Assistant configuration. (1 month ago)
 - [Sleeper85/esphome-yambms](https://github.com/Sleeper85/esphome-yambms) - Yet another multi-BMS Merging Solution (3 months ago)
 - [InventoCasa/ha-advanced-blueprints](https://github.com/InventoCasa/ha-advanced-blueprints) - Advanced Blueprints combined with pyscript for extra useful automations (3 months ago)
 - [kellerza/sunsynk](https://github.com/kellerza/sunsynk) - Deye/Sunsynk Inverter Python library and Home Assistant OS Addon (4 months ago)
 - [ai-republic/bms-to-inverter](https://github.com/ai-republic/bms-to-inverter) - Use, monitor and control any battery brand with any inverter! Application to read and monitor data from BMSes and write data to an inverter using any protocol (e.g. UART, RS485, ModBus or CAN) (4 months ago)
 - [omnara-ai/omnara](https://github.com/omnara-ai/omnara) - Omnara (YC S25) - Talk to Your AI Agents from Anywhere! (4 months ago)
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) - Provides an Home Assistant addon for Ollama (4 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
