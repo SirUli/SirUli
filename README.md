@@ -44,7 +44,7 @@
 
 #### 📜 My recent blog posts (German)
 
-- [Fritz!Box 7590 AX auf Fritz!Box 5690 Pro umziehen](https://wolf-u.li/fritzbox-7590ax-auf-fritzbox-5690-pro-umziehen/) (2 weeks ago)
+- [Fritz!Box 7590 AX auf Fritz!Box 5690 Pro umziehen](https://wolf-u.li/fritzbox-7590ax-auf-fritzbox-5690-pro-umziehen/) (3 weeks ago)
 - [ASRock DeskMini 310: Tot? Keine LED? Keine Geräusche? Lösung](https://wolf-u.li/asrock-deskmini-310-tot-keine-led-keine-ger%C3%A4usche-loesung/) (10 months ago)
 - [Wie schneidet man Estrich mit einem Winkelschleifer](https://wolf-u.li/wie-schneidet-man-estrich-mit-einem-winkelschleifer/) (11 months ago)
 - [Berechnung von Druckverlust in Leitungen (z.B. Trinkwasser) und Rohren](https://wolf-u.li/berechnung-von-druckverlust-in-leitungen-trinkwasser-und-rohren/) (11 months ago)
