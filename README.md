@@ -19,7 +19,7 @@
 
 #### 🔭 Recent Releases
 
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.0.50](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.0.50), 1 week ago) - Provides an Home Assistant addon for Ollama
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.0.50](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.0.50), 2 weeks ago) - Provides an Home Assistant addon for Ollama
 
 #### 🔨 Recent Pull Requests
 
@@ -37,9 +37,9 @@
 #### 📜 My recent blog posts (English)
 
 - [Alliwava U58 with Ryzen 7 5825U: Reduction of the fan noise](https://wolf-u.li/alliwava-u58-ryzen-7-5825u-fan-noise/) (4 months ago)
-- [estk.me eSIM - Difference between ESTKME-AIR, ESTKME-ESS and ESTKME-MEG](https://wolf-u.li/estk-me-difference-between-air-dro-ess/) (8 months ago)
-- [estk.me eSIM Card Reader Red - SCardListReaders() failed: 8010002E](https://wolf-u.li/estk-me-esim-card-reader-red-scardlistreaders-failed-8010002e/) (8 months ago)
-- [estk.me eSIM Card Reader Red - SCardEstablishContext() failed: 8010001D on Linux](https://wolf-u.li/estk-me-esim-card-reader-red-scardestablishcontext-failed-8010001d/) (8 months ago)
+- [estk.me eSIM - Difference between ESTKME-AIR, ESTKME-ESS and ESTKME-MEG](https://wolf-u.li/estk-me-difference-between-air-dro-ess/) (9 months ago)
+- [estk.me eSIM Card Reader Red - SCardListReaders() failed: 8010002E](https://wolf-u.li/estk-me-esim-card-reader-red-scardlistreaders-failed-8010002e/) (9 months ago)
+- [estk.me eSIM Card Reader Red - SCardEstablishContext() failed: 8010001D on Linux](https://wolf-u.li/estk-me-esim-card-reader-red-scardestablishcontext-failed-8010001d/) (9 months ago)
 - [ASRock DeskMini 310: Dead? No LED? No Noise? - Solution!](https://wolf-u.li/asrock-deskmini-310-dead-no-led-no-noise-solution/) (10 months ago)
 
 #### 📜 My recent blog posts (German)
@@ -61,7 +61,7 @@
 - [kellerza/sunsynk](https://github.com/kellerza/sunsynk) - Deye/Sunsynk Inverter Python library and Home Assistant OS Addon (4 months ago)
 - [ai-republic/bms-to-inverter](https://github.com/ai-republic/bms-to-inverter) - Use, monitor and control any battery brand with any inverter! Application to read and monitor data from BMSes and write data to an inverter using any protocol (e.g. UART, RS485, ModBus or CAN) (4 months ago)
 - [omnara-ai/omnara](https://github.com/omnara-ai/omnara) - Omnara (YC S25) - Talk to Your AI Agents from Anywhere! (4 months ago)
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) - Provides an Home Assistant addon for Ollama (4 months ago)
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) - Provides an Home Assistant addon for Ollama (5 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
