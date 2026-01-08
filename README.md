@@ -55,7 +55,7 @@
 - [TECH7Fox/asterisk-hass-addons](https://github.com/TECH7Fox/asterisk-hass-addons) - Asterisk add-on for Home Assistant (1 month ago)
 - [TECH7Fox/asterisk-hass-integration](https://github.com/TECH7Fox/asterisk-hass-integration) - Asterisk integration for Home Assistant (1 month ago)
 - [TECH7Fox/sip-hass-docs](https://github.com/TECH7Fox/sip-hass-docs) - Documentation for HA SIP (1 month ago)
-- [Rem0o/FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) - This is the release repository for Fan Control, a highly customizable fan controlling software for Windows. (1 month ago)
+- [Rem0o/FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) - This is the release repository for Fan Control, a highly customizable fan controlling software for Windows. (2 months ago)
 - [Sleeper85/esphome-yambms](https://github.com/Sleeper85/esphome-yambms) - Yet another multi-BMS Merging Solution (4 months ago)
 - [InventoCasa/ha-advanced-blueprints](https://github.com/InventoCasa/ha-advanced-blueprints) - Advanced Blueprints combined with pyscript for extra useful automations (4 months ago)
 - [kellerza/sunsynk](https://github.com/kellerza/sunsynk) - Deye/Sunsynk Inverter Python library and Home Assistant OS Addon (4 months ago)
