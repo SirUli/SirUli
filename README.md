@@ -21,8 +21,8 @@
 
 #### 🔨 Recent Pull Requests
 
-- [Add many Heatpumps to HeatPumpType.md](https://github.com/Egyras/HeishaMon/pull/783) on [Egyras/HeishaMon](https://github.com/Egyras/HeishaMon) (1 week ago)
-- [Add many Heatpumps to HeatPumpType.md](https://github.com/SirUli/HeishaMon/pull/1) on [SirUli/HeishaMon](https://github.com/SirUli/HeishaMon) (1 week ago)
+- [Add many Heatpumps to HeatPumpType.md](https://github.com/Egyras/HeishaMon/pull/783) on [Egyras/HeishaMon](https://github.com/Egyras/HeishaMon) (2 weeks ago)
+- [Add many Heatpumps to HeatPumpType.md](https://github.com/SirUli/HeishaMon/pull/1) on [SirUli/HeishaMon](https://github.com/SirUli/HeishaMon) (2 weeks ago)
 - [Typos and many small formatting topics](https://github.com/bsc-org/bsc/pull/1) on [bsc-org/bsc](https://github.com/bsc-org/bsc) (5 months ago)
 - [feat: Overhaul the addon with new options](https://github.com/SirUli/homeassistant-ollama-addon/pull/93) on [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) (11 months ago)
 - [Update Pre-commit hooks and enforce git fetch to be successful](https://github.com/staticdev/ansible-role-pyenv/pull/274) on [staticdev/ansible-role-pyenv](https://github.com/staticdev/ansible-role-pyenv) (2 years ago)
@@ -30,7 +30,7 @@
 - [feat(btt_hdmi5): Add BIGTREETECH HDMI5 Display](https://github.com/jon-harper/OmniBox/pull/128) on [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) (2 years ago)
 - [docs(datasource): Add additional examples for custom datasource](https://github.com/renovatebot/renovate/pull/23558) on [renovatebot/renovate](https://github.com/renovatebot/renovate) (2 years ago)
 - [fix: Add more details in README](https://github.com/SirUli/FroniusSmartmeter/pull/12) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (2 years ago)
-- [Feature prepare 0.11](https://github.com/SirUli/FroniusSmartmeter/pull/11) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (2 years ago)
+- [Feature prepare 0.11](https://github.com/SirUli/FroniusSmartmeter/pull/11) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (3 years ago)
 
 #### 📜 My recent blog posts (English)
 
