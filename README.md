@@ -24,7 +24,7 @@
 - [Add many Heatpumps to HeatPumpType.md](https://github.com/Egyras/HeishaMon/pull/783) on [Egyras/HeishaMon](https://github.com/Egyras/HeishaMon) (2 weeks ago)
 - [Add many Heatpumps to HeatPumpType.md](https://github.com/SirUli/HeishaMon/pull/1) on [SirUli/HeishaMon](https://github.com/SirUli/HeishaMon) (2 weeks ago)
 - [Typos and many small formatting topics](https://github.com/bsc-org/bsc/pull/1) on [bsc-org/bsc](https://github.com/bsc-org/bsc) (5 months ago)
-- [feat: Overhaul the addon with new options](https://github.com/SirUli/homeassistant-ollama-addon/pull/93) on [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) (11 months ago)
+- [feat: Overhaul the addon with new options](https://github.com/SirUli/homeassistant-ollama-addon/pull/93) on [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) (1 year ago)
 - [Update Pre-commit hooks and enforce git fetch to be successful](https://github.com/staticdev/ansible-role-pyenv/pull/274) on [staticdev/ansible-role-pyenv](https://github.com/staticdev/ansible-role-pyenv) (2 years ago)
 - [docs(display): Add docs for btt hdmi5](https://github.com/jon-harper/OmniBox/pull/129) on [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) (2 years ago)
 - [feat(btt_hdmi5): Add BIGTREETECH HDMI5 Display](https://github.com/jon-harper/OmniBox/pull/128) on [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) (2 years ago)
