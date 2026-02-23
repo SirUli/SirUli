@@ -68,8 +68,8 @@ For more information, see [the sponsors page](https://github.com/sponsors/SirUli
 
 #### 👯 Recent followers
 
+- [FTCHD](https://github.com/FTCHD)
 - [TWART016](https://github.com/TWART016)
 - [lrepo52](https://github.com/lrepo52)
 - [slavaGanzin](https://github.com/slavaGanzin)
 - [Alpha-Exile](https://github.com/Alpha-Exile)
-- [lruLk](https://github.com/lruLk)
