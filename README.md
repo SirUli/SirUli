@@ -21,8 +21,8 @@
 
 #### 🔨 Recent Pull Requests
 
-- [Add many Heatpumps to HeatPumpType.md](https://github.com/Egyras/HeishaMon/pull/783) on [Egyras/HeishaMon](https://github.com/Egyras/HeishaMon) (3 weeks ago)
-- [Add many Heatpumps to HeatPumpType.md](https://github.com/SirUli/HeishaMon/pull/1) on [SirUli/HeishaMon](https://github.com/SirUli/HeishaMon) (3 weeks ago)
+- [Add many Heatpumps to HeatPumpType.md](https://github.com/Egyras/HeishaMon/pull/783) on [Egyras/HeishaMon](https://github.com/Egyras/HeishaMon) (4 weeks ago)
+- [Add many Heatpumps to HeatPumpType.md](https://github.com/SirUli/HeishaMon/pull/1) on [SirUli/HeishaMon](https://github.com/SirUli/HeishaMon) (4 weeks ago)
 - [Typos and many small formatting topics](https://github.com/bsc-org/bsc/pull/1) on [bsc-org/bsc](https://github.com/bsc-org/bsc) (6 months ago)
 - [feat: Overhaul the addon with new options](https://github.com/SirUli/homeassistant-ollama-addon/pull/93) on [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) (1 year ago)
 - [Update Pre-commit hooks and enforce git fetch to be successful](https://github.com/staticdev/ansible-role-pyenv/pull/274) on [staticdev/ansible-role-pyenv](https://github.com/staticdev/ansible-role-pyenv) (2 years ago)
@@ -35,9 +35,9 @@
 #### 📜 My recent blog posts (English)
 
 - [Alliwava U58 with Ryzen 7 5825U: Reduction of the fan noise](https://wolf-u.li/alliwava-u58-ryzen-7-5825u-fan-noise/) (6 months ago)
-- [estk.me eSIM - Difference between ESTKME-AIR, ESTKME-ESS and ESTKME-MEG](https://wolf-u.li/estk-me-difference-between-air-dro-ess/) (10 months ago)
-- [estk.me eSIM Card Reader Red - SCardListReaders() failed: 8010002E](https://wolf-u.li/estk-me-esim-card-reader-red-scardlistreaders-failed-8010002e/) (10 months ago)
-- [estk.me eSIM Card Reader Red - SCardEstablishContext() failed: 8010001D on Linux](https://wolf-u.li/estk-me-esim-card-reader-red-scardestablishcontext-failed-8010001d/) (10 months ago)
+- [estk.me eSIM - Difference between ESTKME-AIR, ESTKME-ESS and ESTKME-MEG](https://wolf-u.li/estk-me-difference-between-air-dro-ess/) (11 months ago)
+- [estk.me eSIM Card Reader Red - SCardListReaders() failed: 8010002E](https://wolf-u.li/estk-me-esim-card-reader-red-scardlistreaders-failed-8010002e/) (11 months ago)
+- [estk.me eSIM Card Reader Red - SCardEstablishContext() failed: 8010001D on Linux](https://wolf-u.li/estk-me-esim-card-reader-red-scardestablishcontext-failed-8010001d/) (11 months ago)
 - [ASRock DeskMini 310: Dead? No LED? No Noise? - Solution!](https://wolf-u.li/asrock-deskmini-310-dead-no-led-no-noise-solution/) (1 year ago)
 
 #### 📜 My recent blog posts (German)
