@@ -21,7 +21,7 @@
 
 #### 🔨 Recent Pull Requests
 
-- [Add many Heatpumps to HeatPumpType.md](https://github.com/Egyras/HeishaMon/pull/783) on [Egyras/HeishaMon](https://github.com/Egyras/HeishaMon) (1 month ago)
+- [Add many Heatpumps to HeatPumpType.md](https://github.com/heishamon/HeishaMon/pull/783) on [heishamon/HeishaMon](https://github.com/heishamon/HeishaMon) (1 month ago)
 - [Add many Heatpumps to HeatPumpType.md](https://github.com/SirUli/HeishaMon/pull/1) on [SirUli/HeishaMon](https://github.com/SirUli/HeishaMon) (1 month ago)
 - [Typos and many small formatting topics](https://github.com/bsc-org/bsc/pull/1) on [bsc-org/bsc](https://github.com/bsc-org/bsc) (6 months ago)
 - [feat: Overhaul the addon with new options](https://github.com/SirUli/homeassistant-ollama-addon/pull/93) on [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) (1 year ago)
@@ -50,16 +50,16 @@
 
 #### ⭐ Recent Stars
 
+- [SirUli/wolf-u.li](https://github.com/SirUli/wolf-u.li) - Website Repository for wolf-u.li (1 day ago)
 - [TECH7Fox/asterisk-hass-addons](https://github.com/TECH7Fox/asterisk-hass-addons) - Asterisk add-on for Home Assistant (3 months ago)
 - [TECH7Fox/asterisk-hass-integration](https://github.com/TECH7Fox/asterisk-hass-integration) - Asterisk integration for Home Assistant (3 months ago)
 - [TECH7Fox/sip-hass-docs](https://github.com/TECH7Fox/sip-hass-docs) - Documentation for HA SIP (3 months ago)
-- [Rem0o/FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) - This is the release repository for Fan Control, a highly customizable fan controlling software for Windows. (3 months ago)
+- [Rem0o/FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) - This is the release repository for Fan Control, a highly customizable fan controlling software for Windows. (4 months ago)
 - [saihgupr/HomeAssistantTimeMachine](https://github.com/saihgupr/HomeAssistantTimeMachine) - Home Assistant Time Machine is a web-based tool that acts as a &#34;Time Machine&#34; for your Home Assistant configuration. (4 months ago)
 - [Sleeper85/esphome-yambms](https://github.com/Sleeper85/esphome-yambms) - Yet another multi-BMS Merging Solution (6 months ago)
 - [InventoCasa/ha-advanced-blueprints](https://github.com/InventoCasa/ha-advanced-blueprints) - Advanced Blueprints combined with pyscript for extra useful automations (6 months ago)
 - [kellerza/sunsynk](https://github.com/kellerza/sunsynk) - Deye/Sunsynk Inverter Python library and Home Assistant OS Addon (6 months ago)
 - [ai-republic/bms-to-inverter](https://github.com/ai-republic/bms-to-inverter) - Use, monitor and control any battery brand with any inverter! Application to read and monitor data from BMSes and write data to an inverter using any protocol (e.g. UART, RS485, ModBus or CAN) (6 months ago)
-- [omnara-ai/omnara](https://github.com/omnara-ai/omnara) - Omnara (YC S25) - Talk to Your AI Agents from Anywhere! (6 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
