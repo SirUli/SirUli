@@ -49,16 +49,16 @@
 
 #### ⭐ Recent Stars
 
+- [openclaw/openclaw-ansible](https://github.com/openclaw/openclaw-ansible) - Automated, hardened Clawdbot installation with Tailscale VPN, UFW firewall, and Docker isolation (1 day ago)
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (1 day ago)
+- [openclaw/lobster](https://github.com/openclaw/lobster) - Lobster is a Openclaw-native workflow shell: a typed, local-first “macro engine” that turns skills/tools into composable pipelines and safe automations—and lets Openclaw call those workflows in one step. (1 day ago)
+- [h4gen/fints-agent-cli](https://github.com/h4gen/fints-agent-cli) - FinTS banking CLI for humans and agents. Works great with Claude Code/Cowork, Codex, OpenClaw. (1 day ago)
+- [msp1974/ViewAssist_Companion_App](https://github.com/msp1974/ViewAssist_Companion_App) - An Android app and Home Assistant integration to support the View Assist integration (1 day ago)
+- [dinki/View-Assist](https://github.com/dinki/View-Assist) - View Assist provides visual feedback for the Home Assistant Assist Voice Assistant (1 day ago)
 - [SirUli/wolf-u.li](https://github.com/SirUli/wolf-u.li) - Website Repository for wolf-u.li (3 weeks ago)
 - [TECH7Fox/asterisk-hass-addons](https://github.com/TECH7Fox/asterisk-hass-addons) - Asterisk add-on for Home Assistant (4 months ago)
 - [TECH7Fox/asterisk-hass-integration](https://github.com/TECH7Fox/asterisk-hass-integration) - Asterisk integration for Home Assistant (4 months ago)
 - [TECH7Fox/sip-hass-docs](https://github.com/TECH7Fox/sip-hass-docs) - Documentation for HA SIP (4 months ago)
-- [Rem0o/FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) - This is the release repository for Fan Control, a highly customizable fan controlling software for Windows. (4 months ago)
-- [saihgupr/HomeAssistantTimeMachine](https://github.com/saihgupr/HomeAssistantTimeMachine) - Home Assistant Time Machine is a web-based tool that acts as a &#34;Time Machine&#34; for your Home Assistant configuration. (5 months ago)
-- [Sleeper85/esphome-yambms](https://github.com/Sleeper85/esphome-yambms) - Yet another multi-BMS Merging Solution (7 months ago)
-- [InventoCasa/ha-advanced-blueprints](https://github.com/InventoCasa/ha-advanced-blueprints) - Advanced Blueprints combined with pyscript for extra useful automations (7 months ago)
-- [kellerza/sunsynk](https://github.com/kellerza/sunsynk) - Deye/Sunsynk Inverter Python library and Home Assistant OS Addon (7 months ago)
-- [ai-republic/bms-to-inverter](https://github.com/ai-republic/bms-to-inverter) - Use, monitor and control any battery brand with any inverter! Application to read and monitor data from BMSes and write data to an inverter using any protocol (e.g. UART, RS485, ModBus or CAN) (7 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
