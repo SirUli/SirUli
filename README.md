@@ -2,7 +2,7 @@
 
 #### 👷 Recent Contributions
 
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) - Provides an Home Assistant addon for Ollama (2 days ago)
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) - Provides an Home Assistant addon for Ollama (3 days ago)
 
 #### 🌱 Latest projects
 
@@ -19,11 +19,11 @@
 
 #### 🔭 Recent Releases
 
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.0.78](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.0.78), 2 days ago) - Provides an Home Assistant addon for Ollama
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.0.79](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.0.79), 1 day ago) - Provides an Home Assistant addon for Ollama
 
 #### 🔨 Recent Pull Requests
 
-- [Add many Heatpumps to HeatPumpType.md](https://github.com/heishamon/HeishaMon/pull/783) on [heishamon/HeishaMon](https://github.com/heishamon/HeishaMon) (1 month ago)
+- [Add many Heatpumps to HeatPumpType.md](https://github.com/heishamon/HeishaMon/pull/783) on [heishamon/HeishaMon](https://github.com/heishamon/HeishaMon) (2 months ago)
 - [Typos and many small formatting topics](https://github.com/bsc-org/bsc/pull/1) on [bsc-org/bsc](https://github.com/bsc-org/bsc) (7 months ago)
 - [feat: Overhaul the addon with new options](https://github.com/SirUli/homeassistant-ollama-addon/pull/93) on [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) (1 year ago)
 - [Update Pre-commit hooks and enforce git fetch to be successful](https://github.com/staticdev/ansible-role-pyenv/pull/274) on [staticdev/ansible-role-pyenv](https://github.com/staticdev/ansible-role-pyenv) (2 years ago)
@@ -51,12 +51,12 @@
 
 #### ⭐ Recent Stars
 
-- [openclaw/openclaw-ansible](https://github.com/openclaw/openclaw-ansible) - Automated, hardened Clawdbot installation with Tailscale VPN, UFW firewall, and Docker isolation (5 days ago)
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (5 days ago)
-- [openclaw/lobster](https://github.com/openclaw/lobster) - Lobster is a Openclaw-native workflow shell: a typed, local-first “macro engine” that turns skills/tools into composable pipelines and safe automations—and lets Openclaw call those workflows in one step. (5 days ago)
-- [h4gen/fints-agent-cli](https://github.com/h4gen/fints-agent-cli) - FinTS banking CLI for humans and agents. Works great with Claude Code/Cowork, Codex, OpenClaw. (5 days ago)
-- [msp1974/ViewAssist_Companion_App](https://github.com/msp1974/ViewAssist_Companion_App) - An Android app and Home Assistant integration to support the View Assist integration (5 days ago)
-- [dinki/View-Assist](https://github.com/dinki/View-Assist) - View Assist provides visual feedback for the Home Assistant Assist Voice Assistant (5 days ago)
+- [openclaw/openclaw-ansible](https://github.com/openclaw/openclaw-ansible) - Automated, hardened Clawdbot installation with Tailscale VPN, UFW firewall, and Docker isolation (6 days ago)
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (6 days ago)
+- [openclaw/lobster](https://github.com/openclaw/lobster) - Lobster is a Openclaw-native workflow shell: a typed, local-first “macro engine” that turns skills/tools into composable pipelines and safe automations—and lets Openclaw call those workflows in one step. (6 days ago)
+- [h4gen/fints-agent-cli](https://github.com/h4gen/fints-agent-cli) - FinTS banking CLI for humans and agents. Works great with Claude Code/Cowork, Codex, OpenClaw. (6 days ago)
+- [msp1974/ViewAssist_Companion_App](https://github.com/msp1974/ViewAssist_Companion_App) - An Android app and Home Assistant integration to support the View Assist integration (6 days ago)
+- [dinki/View-Assist](https://github.com/dinki/View-Assist) - View Assist provides visual feedback for the Home Assistant Assist Voice Assistant (6 days ago)
 - [SirUli/wolf-u.li](https://github.com/SirUli/wolf-u.li) - Website Repository for wolf-u.li (3 weeks ago)
 - [TECH7Fox/asterisk-hass-addons](https://github.com/TECH7Fox/asterisk-hass-addons) - Asterisk add-on for Home Assistant (4 months ago)
 - [TECH7Fox/asterisk-hass-integration](https://github.com/TECH7Fox/asterisk-hass-integration) - Asterisk integration for Home Assistant (4 months ago)
