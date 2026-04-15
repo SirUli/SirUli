@@ -19,7 +19,7 @@
 
 #### 🔭 Recent Releases
 
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.0.86](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.0.86), 1 day ago) - Provides an Home Assistant addon for Ollama
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.0.87](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.0.87), 1 day ago) - Provides an Home Assistant addon for Ollama
 
 #### 🔨 Recent Pull Requests
 
@@ -51,16 +51,16 @@
 
 #### ⭐ Recent Stars
 
-- [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The highest-scoring AI memory system ever benchmarked. And it&#39;s free. (5 days ago)
-- [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26 (6 days ago)
+- [rolandroick/heisha-weather-control](https://github.com/rolandroick/heisha-weather-control) - Ein intelligentes Home Assistant Add-On zur Steuerung von Panasonic Wärmepumpen mit HeishaMon über MQTT, integrierter Wettervorhersage und lernendem Algorithmus für optimale Energieeffizienz. (1 day ago)
+- [area6199/HeishamonScripts](https://github.com/area6199/HeishamonScripts) - Skripts for Heishamon panasonic Heatpump (1 day ago)
+- [fbloemhof/HeishaMonRules](https://github.com/fbloemhof/HeishaMonRules) -  (1 day ago)
+- [dennisbakhuis/bakhuis_heishamon_rules](https://github.com/dennisbakhuis/bakhuis_heishamon_rules) -  (1 day ago)
+- [klaashoekstra94/heishamon_rules_minify](https://github.com/klaashoekstra94/heishamon_rules_minify) - A Python CLI to minify Heishamon rules (1 day ago)
+- [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it&#39;s free. (6 days ago)
+- [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26 (1 week ago)
 - [openclaw/openclaw-ansible](https://github.com/openclaw/openclaw-ansible) - Automated, hardened Clawdbot installation with Tailscale VPN, UFW firewall, and Docker isolation (2 weeks ago)
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (2 weeks ago)
 - [openclaw/lobster](https://github.com/openclaw/lobster) - Lobster is a Openclaw-native workflow shell: a typed, local-first “macro engine” that turns skills/tools into composable pipelines and safe automations—and lets Openclaw call those workflows in one step. (2 weeks ago)
-- [h4gen/fints-agent-cli](https://github.com/h4gen/fints-agent-cli) - FinTS banking CLI for humans and agents. Works great with Claude Code/Cowork, Codex, OpenClaw. (2 weeks ago)
-- [msp1974/ViewAssist_Companion_App](https://github.com/msp1974/ViewAssist_Companion_App) - An Android app and Home Assistant integration to support the View Assist integration (2 weeks ago)
-- [dinki/View-Assist](https://github.com/dinki/View-Assist) - View Assist provides visual feedback for the Home Assistant Assist Voice Assistant (2 weeks ago)
-- [SirUli/wolf-u.li](https://github.com/SirUli/wolf-u.li) - Website Repository for wolf-u.li (1 month ago)
-- [TECH7Fox/asterisk-hass-addons](https://github.com/TECH7Fox/asterisk-hass-addons) - Asterisk add-on for Home Assistant (4 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
