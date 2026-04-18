@@ -19,7 +19,7 @@
 
 #### 🔭 Recent Releases
 
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.0.87](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.0.87), 3 days ago) - Provides an Home Assistant addon for Ollama
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.0.88](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.0.88), today) - Provides an Home Assistant addon for Ollama
 
 #### 🔨 Recent Pull Requests
 
@@ -51,16 +51,16 @@
 
 #### ⭐ Recent Stars
 
-- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan&#39;s exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA (2 days ago)
-- [rolandroick/heisha-weather-control](https://github.com/rolandroick/heisha-weather-control) - Ein intelligentes Home Assistant Add-On zur Steuerung von Panasonic Wärmepumpen mit HeishaMon über MQTT, integrierter Wettervorhersage und lernendem Algorithmus für optimale Energieeffizienz. (3 days ago)
-- [area6199/HeishamonScripts](https://github.com/area6199/HeishamonScripts) - Skripts for Heishamon panasonic Heatpump (3 days ago)
-- [fbloemhof/HeishaMonRules](https://github.com/fbloemhof/HeishaMonRules) -  (3 days ago)
-- [dennisbakhuis/bakhuis_heishamon_rules](https://github.com/dennisbakhuis/bakhuis_heishamon_rules) -  (3 days ago)
-- [klaashoekstra94/heishamon_rules_minify](https://github.com/klaashoekstra94/heishamon_rules_minify) - A Python CLI to minify Heishamon rules (3 days ago)
+- [nyxtron/paperless-aissist](https://github.com/nyxtron/paperless-aissist) -  (today)
+- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan&#39;s exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA (3 days ago)
+- [rolandroick/heisha-weather-control](https://github.com/rolandroick/heisha-weather-control) - Ein intelligentes Home Assistant Add-On zur Steuerung von Panasonic Wärmepumpen mit HeishaMon über MQTT, integrierter Wettervorhersage und lernendem Algorithmus für optimale Energieeffizienz. (4 days ago)
+- [area6199/HeishamonScripts](https://github.com/area6199/HeishamonScripts) - Skripts for Heishamon panasonic Heatpump (4 days ago)
+- [fbloemhof/HeishaMonRules](https://github.com/fbloemhof/HeishaMonRules) -  (4 days ago)
+- [dennisbakhuis/bakhuis_heishamon_rules](https://github.com/dennisbakhuis/bakhuis_heishamon_rules) -  (4 days ago)
+- [klaashoekstra94/heishamon_rules_minify](https://github.com/klaashoekstra94/heishamon_rules_minify) - A Python CLI to minify Heishamon rules (4 days ago)
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it&#39;s free. (1 week ago)
 - [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26 (1 week ago)
 - [openclaw/openclaw-ansible](https://github.com/openclaw/openclaw-ansible) - Automated, hardened Clawdbot installation with Tailscale VPN, UFW firewall, and Docker isolation (2 weeks ago)
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
