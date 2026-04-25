@@ -19,12 +19,12 @@
 
 #### 🔭 Recent Releases
 
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.0.89](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.0.89), 1 day ago) - Provides an Home Assistant addon for Ollama
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.0.91](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.0.91), today) - Provides an Home Assistant addon for Ollama
 
 #### 🔨 Recent Pull Requests
 
 - [Add many Heatpumps to HeatPumpType.md](https://github.com/heishamon/HeishaMon/pull/783) on [heishamon/HeishaMon](https://github.com/heishamon/HeishaMon) (2 months ago)
-- [Typos and many small formatting topics](https://github.com/bsc-org/bsc/pull/1) on [bsc-org/bsc](https://github.com/bsc-org/bsc) (7 months ago)
+- [Typos and many small formatting topics](https://github.com/bsc-org/bsc/pull/1) on [bsc-org/bsc](https://github.com/bsc-org/bsc) (8 months ago)
 - [feat: Overhaul the addon with new options](https://github.com/SirUli/homeassistant-ollama-addon/pull/93) on [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) (1 year ago)
 - [Update Pre-commit hooks and enforce git fetch to be successful](https://github.com/staticdev/ansible-role-pyenv/pull/274) on [staticdev/ansible-role-pyenv](https://github.com/staticdev/ansible-role-pyenv) (2 years ago)
 - [docs(display): Add docs for btt hdmi5](https://github.com/jon-harper/OmniBox/pull/129) on [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) (2 years ago)
@@ -51,7 +51,7 @@
 
 #### ⭐ Recent Stars
 
-- [nyxtron/paperless-aissist](https://github.com/nyxtron/paperless-aissist) -  (6 days ago)
+- [nyxtron/paperless-aissist](https://github.com/nyxtron/paperless-aissist) -  (1 week ago)
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan&#39;s exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA (1 week ago)
 - [rolandroick/heisha-weather-control](https://github.com/rolandroick/heisha-weather-control) - Ein intelligentes Home Assistant Add-On zur Steuerung von Panasonic Wärmepumpen mit HeishaMon über MQTT, integrierter Wettervorhersage und lernendem Algorithmus für optimale Energieeffizienz. (1 week ago)
 - [area6199/HeishamonScripts](https://github.com/area6199/HeishamonScripts) - Skripts for Heishamon panasonic Heatpump (1 week ago)
