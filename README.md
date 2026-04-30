@@ -19,7 +19,7 @@
 
 #### 🔭 Recent Releases
 
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.0.92](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.0.92), 1 day ago) - Provides an Home Assistant addon for Ollama
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.0.92](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.0.92), 2 days ago) - Provides an Home Assistant addon for Ollama
 
 #### 🔨 Recent Pull Requests
 
@@ -58,7 +58,7 @@
 - [fbloemhof/HeishaMonRules](https://github.com/fbloemhof/HeishaMonRules) -  (2 weeks ago)
 - [dennisbakhuis/bakhuis_heishamon_rules](https://github.com/dennisbakhuis/bakhuis_heishamon_rules) -  (2 weeks ago)
 - [klaashoekstra94/heishamon_rules_minify](https://github.com/klaashoekstra94/heishamon_rules_minify) - A Python CLI to minify Heishamon rules (2 weeks ago)
-- [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it&#39;s free. (2 weeks ago)
+- [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it&#39;s free. (3 weeks ago)
 - [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26 (3 weeks ago)
 - [openclaw/openclaw-ansible](https://github.com/openclaw/openclaw-ansible) - Automated, hardened Clawdbot installation with Tailscale VPN, UFW firewall, and Docker isolation (1 month ago)
 
