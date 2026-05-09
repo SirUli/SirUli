@@ -19,7 +19,7 @@
 
 #### 🔭 Recent Releases
 
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.0.96](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.0.96), today) - Provides an Home Assistant addon for Ollama
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.0.96](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.0.96), 1 day ago) - Provides an Home Assistant addon for Ollama
 
 #### 🔨 Recent Pull Requests
 
@@ -43,7 +43,7 @@
 
 #### 📜 My recent blog posts (German)
 
-- [Fensterkontakt für Roto R8 Dachfenster](https://wolf-u.li/fensterkontakt-fuer-roto-r8-dachfenster/) (2 months ago)
+- [Fensterkontakt für Roto R8 Dachfenster](https://wolf-u.li/fensterkontakt-fuer-roto-r8-dachfenster/) (3 months ago)
 - [Fritz!Box 7590 AX auf Fritz!Box 5690 Pro umziehen](https://wolf-u.li/fritzbox-7590ax-auf-fritzbox-5690-pro-umziehen/) (5 months ago)
 - [ASRock DeskMini 310: Tot? Keine LED? Keine Geräusche? Lösung](https://wolf-u.li/asrock-deskmini-310-tot-keine-led-keine-ger%C3%A4usche-loesung/) (1 year ago)
 - [Wie schneidet man Estrich mit einem Winkelschleifer](https://wolf-u.li/wie-schneidet-man-estrich-mit-einem-winkelschleifer/) (1 year ago)
@@ -51,15 +51,15 @@
 
 #### ⭐ Recent Stars
 
-- [raphaelm/python-fints](https://github.com/raphaelm/python-fints) - Pure-python FinTS (formerly known as HBCI) implementation (2 days ago)
-- [nyxtron/paperless-aissist](https://github.com/nyxtron/paperless-aissist) -  (2 weeks ago)
+- [raphaelm/python-fints](https://github.com/raphaelm/python-fints) - Pure-python FinTS (formerly known as HBCI) implementation (3 days ago)
+- [nyxtron/paperless-aissist](https://github.com/nyxtron/paperless-aissist) -  (3 weeks ago)
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan&#39;s exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA (3 weeks ago)
 - [rolandroick/heisha-weather-control](https://github.com/rolandroick/heisha-weather-control) - Ein intelligentes Home Assistant Add-On zur Steuerung von Panasonic Wärmepumpen mit HeishaMon über MQTT, integrierter Wettervorhersage und lernendem Algorithmus für optimale Energieeffizienz. (3 weeks ago)
 - [area6199/HeishamonScripts](https://github.com/area6199/HeishamonScripts) - Skripts for Heishamon panasonic Heatpump (3 weeks ago)
 - [fbloemhof/HeishaMonRules](https://github.com/fbloemhof/HeishaMonRules) -  (3 weeks ago)
 - [dennisbakhuis/bakhuis_heishamon_rules](https://github.com/dennisbakhuis/bakhuis_heishamon_rules) -  (3 weeks ago)
 - [klaashoekstra94/heishamon_rules_minify](https://github.com/klaashoekstra94/heishamon_rules_minify) - A Python CLI to minify Heishamon rules (3 weeks ago)
-- [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it&#39;s free. (4 weeks ago)
+- [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it&#39;s free. (1 month ago)
 - [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26 (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
