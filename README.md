@@ -19,7 +19,7 @@
 
 #### 🔭 Recent Releases
 
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.0.96](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.0.96), 4 days ago) - Provides an Home Assistant addon for Ollama
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.0.97](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.0.97), today) - Provides an Home Assistant addon for Ollama
 
 #### 🔨 Recent Pull Requests
 
@@ -51,16 +51,16 @@
 
 #### ⭐ Recent Stars
 
-- [raphaelm/python-fints](https://github.com/raphaelm/python-fints) - Pure-python FinTS (formerly known as HBCI) implementation (6 days ago)
-- [nyxtron/paperless-aissist](https://github.com/nyxtron/paperless-aissist) -  (3 weeks ago)
-- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan&#39;s exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA (3 weeks ago)
-- [rolandroick/heisha-weather-control](https://github.com/rolandroick/heisha-weather-control) - Ein intelligentes Home Assistant Add-On zur Steuerung von Panasonic Wärmepumpen mit HeishaMon über MQTT, integrierter Wettervorhersage und lernendem Algorithmus für optimale Energieeffizienz. (4 weeks ago)
-- [area6199/HeishamonScripts](https://github.com/area6199/HeishamonScripts) - Skripts for Heishamon panasonic Heatpump (4 weeks ago)
-- [fbloemhof/HeishaMonRules](https://github.com/fbloemhof/HeishaMonRules) -  (4 weeks ago)
-- [dennisbakhuis/bakhuis_heishamon_rules](https://github.com/dennisbakhuis/bakhuis_heishamon_rules) -  (4 weeks ago)
-- [klaashoekstra94/heishamon_rules_minify](https://github.com/klaashoekstra94/heishamon_rules_minify) - A Python CLI to minify Heishamon rules (4 weeks ago)
-- [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it&#39;s free. (1 month ago)
-- [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26 (1 month ago)
+- [guwidoe/immich-admintools](https://github.com/guwidoe/immich-admintools) - Enhanced job monitoring and tooling for immich (1 day ago)
+- [donnchawp/immich-shared-library](https://github.com/donnchawp/immich-shared-library) - A Docker container that syncs face and ML data from one account to another for real partner sharing (1 day ago)
+- [apetersson/immich_ml_balancer](https://github.com/apetersson/immich_ml_balancer) - A simple nginx based load balancer configured to be used with multiple immich_machine_learning backends (1 day ago)
+- [felix19350/tailscale-immich](https://github.com/felix19350/tailscale-immich) - Updates the official Immich Docker compose file by adding a Tailscale side car so that the Immich server can be shared over the Inernet (1 day ago)
+- [epheterson/immich-apple-silicon](https://github.com/epheterson/immich-apple-silicon) - Maximize Apple Silicon usage with Immich in Docker — ML, VideoToolbox transcoding, Core Image thumbnails (1 day ago)
+- [drolosoft/immich-photo-manager](https://github.com/drolosoft/immich-photo-manager) - 📸🧹🗺️ MCP server for intelligent photo management with Immich — search, curate geographic albums, clean up libraries, and publish galleries (1 day ago)
+- [titatom/immich-gpt](https://github.com/titatom/immich-gpt) - AI metadata and album creation for Immich (1 day ago)
+- [tlwhittaker/awesome-immich](https://github.com/tlwhittaker/awesome-immich) - A curated list of awesome Immich plugins, tools, and community projects (1 day ago)
+- [timasoft/immich-analyze](https://github.com/timasoft/immich-analyze) - AI-powered image description generator for Immich that analyzes photos with Ollama models and updates database metadata (1 day ago)
+- [barryw/PaperlessMCP](https://github.com/barryw/PaperlessMCP) - A Model Context Protocol (MCP) server for Paperless-ngx document management (1 day ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
