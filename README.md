@@ -19,7 +19,7 @@
 
 #### 🔭 Recent Releases
 
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.0.97](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.0.97), today) - Provides an Home Assistant addon for Ollama
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.0.97](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.0.97), 1 day ago) - Provides an Home Assistant addon for Ollama
 
 #### 🔨 Recent Pull Requests
 
@@ -51,16 +51,16 @@
 
 #### ⭐ Recent Stars
 
-- [guwidoe/immich-admintools](https://github.com/guwidoe/immich-admintools) - Enhanced job monitoring and tooling for immich (1 day ago)
-- [donnchawp/immich-shared-library](https://github.com/donnchawp/immich-shared-library) - A Docker container that syncs face and ML data from one account to another for real partner sharing (1 day ago)
-- [apetersson/immich_ml_balancer](https://github.com/apetersson/immich_ml_balancer) - A simple nginx based load balancer configured to be used with multiple immich_machine_learning backends (1 day ago)
-- [felix19350/tailscale-immich](https://github.com/felix19350/tailscale-immich) - Updates the official Immich Docker compose file by adding a Tailscale side car so that the Immich server can be shared over the Inernet (1 day ago)
-- [epheterson/immich-apple-silicon](https://github.com/epheterson/immich-apple-silicon) - Maximize Apple Silicon usage with Immich in Docker — ML, VideoToolbox transcoding, Core Image thumbnails (1 day ago)
-- [drolosoft/immich-photo-manager](https://github.com/drolosoft/immich-photo-manager) - 📸🧹🗺️ MCP server for intelligent photo management with Immich — search, curate geographic albums, clean up libraries, and publish galleries (1 day ago)
-- [titatom/immich-gpt](https://github.com/titatom/immich-gpt) - AI metadata and album creation for Immich (1 day ago)
-- [tlwhittaker/awesome-immich](https://github.com/tlwhittaker/awesome-immich) - A curated list of awesome Immich plugins, tools, and community projects (1 day ago)
-- [timasoft/immich-analyze](https://github.com/timasoft/immich-analyze) - AI-powered image description generator for Immich that analyzes photos with Ollama models and updates database metadata (1 day ago)
-- [barryw/PaperlessMCP](https://github.com/barryw/PaperlessMCP) - A Model Context Protocol (MCP) server for Paperless-ngx document management (1 day ago)
+- [guwidoe/immich-admintools](https://github.com/guwidoe/immich-admintools) - Enhanced job monitoring and tooling for immich (2 days ago)
+- [donnchawp/immich-shared-library](https://github.com/donnchawp/immich-shared-library) - A Docker container that syncs face and ML data from one account to another for real partner sharing (2 days ago)
+- [apetersson/immich_ml_balancer](https://github.com/apetersson/immich_ml_balancer) - A simple nginx based load balancer configured to be used with multiple immich_machine_learning backends (2 days ago)
+- [felix19350/tailscale-immich](https://github.com/felix19350/tailscale-immich) - Updates the official Immich Docker compose file by adding a Tailscale side car so that the Immich server can be shared over the Inernet (2 days ago)
+- [epheterson/immich-apple-silicon](https://github.com/epheterson/immich-apple-silicon) - Maximize Apple Silicon usage with Immich in Docker — ML, VideoToolbox transcoding, Core Image thumbnails (2 days ago)
+- [drolosoft/immich-photo-manager](https://github.com/drolosoft/immich-photo-manager) - 📸🧹🗺️ MCP server for intelligent photo management with Immich — search, curate geographic albums, clean up libraries, and publish galleries (2 days ago)
+- [titatom/immich-gpt](https://github.com/titatom/immich-gpt) - AI metadata and album creation for Immich (2 days ago)
+- [tlwhittaker/awesome-immich](https://github.com/tlwhittaker/awesome-immich) - A curated list of awesome Immich plugins, tools, and community projects (2 days ago)
+- [timasoft/immich-analyze](https://github.com/timasoft/immich-analyze) - AI-powered image description generator for Immich that analyzes photos with Ollama models and updates database metadata (2 days ago)
+- [barryw/PaperlessMCP](https://github.com/barryw/PaperlessMCP) - A Model Context Protocol (MCP) server for Paperless-ngx document management (2 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
