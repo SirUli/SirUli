@@ -52,15 +52,15 @@
 #### ⭐ Recent Stars
 
 - [francescopace/espectre](https://github.com/francescopace/espectre) - 🛜 ESPectre 👻  - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration. (1 week ago)
-- [guwidoe/immich-admintools](https://github.com/guwidoe/immich-admintools) - Enhanced job monitoring and tooling for immich (1 week ago)
-- [donnchawp/immich-shared-library](https://github.com/donnchawp/immich-shared-library) - A Docker container that syncs face and ML data from one account to another for real partner sharing (1 week ago)
-- [apetersson/immich_ml_balancer](https://github.com/apetersson/immich_ml_balancer) - A simple nginx based load balancer configured to be used with multiple immich_machine_learning backends (1 week ago)
-- [felix19350/tailscale-immich](https://github.com/felix19350/tailscale-immich) - Updates the official Immich Docker compose file by adding a Tailscale side car so that the Immich server can be shared over the Inernet (1 week ago)
-- [epheterson/immich-apple-silicon](https://github.com/epheterson/immich-apple-silicon) - Maximize Apple Silicon usage with Immich in Docker — ML, VideoToolbox transcoding, Core Image thumbnails (1 week ago)
-- [drolosoft/immich-photo-manager](https://github.com/drolosoft/immich-photo-manager) - 📸🧹🗺️ MCP server for intelligent photo management with Immich — search, curate geographic albums, clean up libraries, and publish galleries (1 week ago)
-- [titatom/immich-gpt](https://github.com/titatom/immich-gpt) - AI metadata and album creation for Immich (1 week ago)
-- [tlwhittaker/awesome-immich](https://github.com/tlwhittaker/awesome-immich) - A curated list of awesome Immich plugins, tools, and community projects (1 week ago)
-- [timasoft/immich-analyze](https://github.com/timasoft/immich-analyze) - AI-powered image description generator for Immich that analyzes photos with Ollama models and updates database metadata (1 week ago)
+- [guwidoe/immich-admintools](https://github.com/guwidoe/immich-admintools) - Enhanced job monitoring and tooling for immich (2 weeks ago)
+- [donnchawp/immich-shared-library](https://github.com/donnchawp/immich-shared-library) - A Docker container that syncs face and ML data from one account to another for real partner sharing (2 weeks ago)
+- [apetersson/immich_ml_balancer](https://github.com/apetersson/immich_ml_balancer) - A simple nginx based load balancer configured to be used with multiple immich_machine_learning backends (2 weeks ago)
+- [felix19350/tailscale-immich](https://github.com/felix19350/tailscale-immich) - Updates the official Immich Docker compose file by adding a Tailscale side car so that the Immich server can be shared over the Inernet (2 weeks ago)
+- [epheterson/immich-apple-silicon](https://github.com/epheterson/immich-apple-silicon) - Maximize Apple Silicon usage with Immich in Docker — ML, VideoToolbox transcoding, Core Image thumbnails (2 weeks ago)
+- [drolosoft/immich-photo-manager](https://github.com/drolosoft/immich-photo-manager) - 📸🧹🗺️ MCP server for intelligent photo management with Immich — search, curate geographic albums, clean up libraries, and publish galleries (2 weeks ago)
+- [titatom/immich-gpt](https://github.com/titatom/immich-gpt) - AI metadata and album creation for Immich (2 weeks ago)
+- [tlwhittaker/awesome-immich](https://github.com/tlwhittaker/awesome-immich) - A curated list of awesome Immich plugins, tools, and community projects (2 weeks ago)
+- [timasoft/immich-analyze](https://github.com/timasoft/immich-analyze) - AI-powered image description generator for Immich that analyzes photos with Ollama models and updates database metadata (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
