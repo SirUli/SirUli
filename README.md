@@ -19,7 +19,7 @@
 
 #### 🔭 Recent Releases
 
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.0.98](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.0.98), 1 week ago) - Provides an Home Assistant addon for Ollama
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.0.98](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.0.98), 2 weeks ago) - Provides an Home Assistant addon for Ollama
 
 #### 🔨 Recent Pull Requests
 
@@ -51,7 +51,7 @@
 
 #### ⭐ Recent Stars
 
-- [francescopace/espectre](https://github.com/francescopace/espectre) - 🛜 ESPectre 👻  - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration. (1 week ago)
+- [francescopace/espectre](https://github.com/francescopace/espectre) - 🛜 ESPectre 👻  - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration. (2 weeks ago)
 - [guwidoe/immich-admintools](https://github.com/guwidoe/immich-admintools) - Enhanced job monitoring and tooling for immich (2 weeks ago)
 - [donnchawp/immich-shared-library](https://github.com/donnchawp/immich-shared-library) - A Docker container that syncs face and ML data from one account to another for real partner sharing (2 weeks ago)
 - [apetersson/immich_ml_balancer](https://github.com/apetersson/immich_ml_balancer) - A simple nginx based load balancer configured to be used with multiple immich_machine_learning backends (2 weeks ago)
