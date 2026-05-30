@@ -51,6 +51,7 @@
 
 #### ⭐ Recent Stars
 
+- [ArnaudCrl/immich-automated-selfie-timelapse](https://github.com/ArnaudCrl/immich-automated-selfie-timelapse) - Automated face extraction, resizing and alignment suitable to make a selfie timelapse video. (1 day ago)
 - [francescopace/espectre](https://github.com/francescopace/espectre) - 🛜 ESPectre 👻  - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration. (2 weeks ago)
 - [guwidoe/immich-admintools](https://github.com/guwidoe/immich-admintools) - Enhanced job monitoring and tooling for immich (2 weeks ago)
 - [donnchawp/immich-shared-library](https://github.com/donnchawp/immich-shared-library) - A Docker container that syncs face and ML data from one account to another for real partner sharing (2 weeks ago)
@@ -60,7 +61,6 @@
 - [drolosoft/immich-photo-manager](https://github.com/drolosoft/immich-photo-manager) - 📸🧹🗺️ MCP server for intelligent photo management with Immich — search, curate geographic albums, clean up libraries, and publish galleries (2 weeks ago)
 - [titatom/immich-gpt](https://github.com/titatom/immich-gpt) - AI metadata and album creation for Immich (2 weeks ago)
 - [tlwhittaker/awesome-immich](https://github.com/tlwhittaker/awesome-immich) - A curated list of awesome Immich plugins, tools, and community projects (2 weeks ago)
-- [timasoft/immich-analyze](https://github.com/timasoft/immich-analyze) - AI-powered image description generator for Immich that analyzes photos with Ollama models and updates database metadata (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
