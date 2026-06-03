@@ -19,11 +19,11 @@
 
 #### 🔭 Recent Releases
 
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.0.98](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.0.98), 2 weeks ago) - Provides an Home Assistant addon for Ollama
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.0.99](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.0.99), 1 day ago) - Provides an Home Assistant addon for Ollama
 
 #### 🔨 Recent Pull Requests
 
-- [Add many Heatpumps to HeatPumpType.md](https://github.com/heishamon/HeishaMon/pull/783) on [heishamon/HeishaMon](https://github.com/heishamon/HeishaMon) (3 months ago)
+- [Add many Heatpumps to HeatPumpType.md](https://github.com/heishamon/HeishaMon/pull/783) on [heishamon/HeishaMon](https://github.com/heishamon/HeishaMon) (4 months ago)
 - [Typos and many small formatting topics](https://github.com/bsc-org/bsc/pull/1) on [bsc-org/bsc](https://github.com/bsc-org/bsc) (9 months ago)
 - [feat: Overhaul the addon with new options](https://github.com/SirUli/homeassistant-ollama-addon/pull/93) on [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) (1 year ago)
 - [Update Pre-commit hooks and enforce git fetch to be successful](https://github.com/staticdev/ansible-role-pyenv/pull/274) on [staticdev/ansible-role-pyenv](https://github.com/staticdev/ansible-role-pyenv) (2 years ago)
@@ -51,7 +51,7 @@
 
 #### ⭐ Recent Stars
 
-- [ArnaudCrl/immich-automated-selfie-timelapse](https://github.com/ArnaudCrl/immich-automated-selfie-timelapse) - Automated face extraction, resizing and alignment suitable to make a selfie timelapse video. (4 days ago)
+- [ArnaudCrl/immich-automated-selfie-timelapse](https://github.com/ArnaudCrl/immich-automated-selfie-timelapse) - Automated face extraction, resizing and alignment suitable to make a selfie timelapse video. (5 days ago)
 - [francescopace/espectre](https://github.com/francescopace/espectre) - 🛜 ESPectre 👻  - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration. (2 weeks ago)
 - [guwidoe/immich-admintools](https://github.com/guwidoe/immich-admintools) - Enhanced job monitoring and tooling for immich (3 weeks ago)
 - [donnchawp/immich-shared-library](https://github.com/donnchawp/immich-shared-library) - A Docker container that syncs face and ML data from one account to another for real partner sharing (3 weeks ago)
