@@ -19,7 +19,7 @@
 
 #### 🔭 Recent Releases
 
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.0.104](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.0.104), 1 day ago) - Provides an Home Assistant addon for Ollama
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.0.104](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.0.104), 2 days ago) - Provides an Home Assistant addon for Ollama
 
 #### 🔨 Recent Pull Requests
 
@@ -30,8 +30,6 @@
 - [docs(display): Add docs for btt hdmi5](https://github.com/jon-harper/OmniBox/pull/129) on [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) (2 years ago)
 - [feat(btt_hdmi5): Add BIGTREETECH HDMI5 Display](https://github.com/jon-harper/OmniBox/pull/128) on [jon-harper/OmniBox](https://github.com/jon-harper/OmniBox) (2 years ago)
 - [docs(datasource): Add additional examples for custom datasource](https://github.com/renovatebot/renovate/pull/23558) on [renovatebot/renovate](https://github.com/renovatebot/renovate) (2 years ago)
-- [fix: Add more details in README](https://github.com/SirUli/FroniusSmartmeter/pull/12) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (3 years ago)
-- [Feature prepare 0.11](https://github.com/SirUli/FroniusSmartmeter/pull/11) on [SirUli/FroniusSmartmeter](https://github.com/SirUli/FroniusSmartmeter) (3 years ago)
 
 #### 📜 My recent blog posts (English)
 
@@ -51,6 +49,7 @@
 
 #### ⭐ Recent Stars
 
+- [TECH7Fox/sipcore-hass-integration](https://github.com/TECH7Fox/sipcore-hass-integration) - A SIP client inside home assistant! (1 day ago)
 - [ArnaudCrl/immich-automated-selfie-timelapse](https://github.com/ArnaudCrl/immich-automated-selfie-timelapse) - Automated face extraction, resizing and alignment suitable to make a selfie timelapse video. (1 week ago)
 - [francescopace/espectre](https://github.com/francescopace/espectre) - 🛜 ESPectre 👻  - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration. (3 weeks ago)
 - [guwidoe/immich-admintools](https://github.com/guwidoe/immich-admintools) - Enhanced job monitoring and tooling for immich (3 weeks ago)
@@ -60,7 +59,6 @@
 - [epheterson/immich-apple-silicon](https://github.com/epheterson/immich-apple-silicon) - Maximize Apple Silicon usage with Immich in Docker — ML, VideoToolbox transcoding, Core Image thumbnails (3 weeks ago)
 - [drolosoft/immich-photo-manager](https://github.com/drolosoft/immich-photo-manager) - 📸🧹🗺️ MCP server for intelligent photo management with Immich — search, curate geographic albums, clean up libraries, and publish galleries (3 weeks ago)
 - [titatom/immich-gpt](https://github.com/titatom/immich-gpt) - AI metadata and album creation for Immich (3 weeks ago)
-- [tlwhittaker/awesome-immich](https://github.com/tlwhittaker/awesome-immich) - A curated list of awesome Immich plugins, tools, and community projects (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
