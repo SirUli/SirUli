@@ -19,7 +19,7 @@
 
 #### 🔭 Recent Releases
 
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.0.105](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.0.105), 3 days ago) - Provides an Home Assistant addon for Ollama
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.0.105](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.0.105), 4 days ago) - Provides an Home Assistant addon for Ollama
 
 #### 🔨 Recent Pull Requests
 
@@ -46,8 +46,8 @@
 
 #### ⭐ Recent Stars
 
-- [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local (5 days ago)
-- [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) - A vector index built on TurboQuant, written in Rust with Python bindings (5 days ago)
+- [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local (6 days ago)
+- [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) - A vector index built on TurboQuant, written in Rust with Python bindings (6 days ago)
 - [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control =&gt; entity-level diffs, blame, and impact analysis on top of git. 26 languages via tree-sitter. Built for coding agents. (1 week ago)
 - [TECH7Fox/sipcore-hass-integration](https://github.com/TECH7Fox/sipcore-hass-integration) - A SIP client inside home assistant! (1 week ago)
 - [ArnaudCrl/immich-automated-selfie-timelapse](https://github.com/ArnaudCrl/immich-automated-selfie-timelapse) - Automated face extraction, resizing and alignment suitable to make a selfie timelapse video. (2 weeks ago)
