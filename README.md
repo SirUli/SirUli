@@ -19,12 +19,12 @@
 
 #### 🔭 Recent Releases
 
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.0.108](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.0.108), 2 days ago) - A Home Assistant App (ex addon) to provide Ollama for AI
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.0.108](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.0.108), 3 days ago) - A Home Assistant App (ex addon) to provide Ollama for AI
 
 #### 🔨 Recent Pull Requests
 
 - [Add many Heatpumps to HeatPumpType.md](https://github.com/heishamon/HeishaMon/pull/783) on [heishamon/HeishaMon](https://github.com/heishamon/HeishaMon) (4 months ago)
-- [Typos and many small formatting topics](https://github.com/bsc-org/bsc/pull/1) on [bsc-org/bsc](https://github.com/bsc-org/bsc) (9 months ago)
+- [Typos and many small formatting topics](https://github.com/bsc-org/bsc/pull/1) on [bsc-org/bsc](https://github.com/bsc-org/bsc) (10 months ago)
 - [feat: Overhaul the addon with new options](https://github.com/SirUli/homeassistant-ollama-addon/pull/93) on [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) (1 year ago)
 - [Update Pre-commit hooks and enforce git fetch to be successful](https://github.com/staticdev/ansible-role-pyenv/pull/274) on [staticdev/ansible-role-pyenv](https://github.com/staticdev/ansible-role-pyenv) (2 years ago)
 
