@@ -2,7 +2,7 @@
 
 #### 👷 Recent Contributions
 
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) - A Home Assistant App (ex addon) to provide Ollama for AI (1 day ago)
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) - A Home Assistant App (ex addon) to provide Ollama for AI (2 days ago)
 
 #### 🌱 Latest projects
 
@@ -19,12 +19,12 @@
 
 #### 🔭 Recent Releases
 
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.2.0](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.2.0), 1 day ago) - A Home Assistant App (ex addon) to provide Ollama for AI
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.2.0](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.2.0), 2 days ago) - A Home Assistant App (ex addon) to provide Ollama for AI
 
 #### 🔨 Recent Pull Requests
 
-- [feat: Authentication via API Keys and move home](https://github.com/SirUli/homeassistant-ollama-addon/pull/311) on [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) (1 day ago)
-- [fix: Add /dev/kfd to list of devices for rocm](https://github.com/SirUli/homeassistant-ollama-addon/pull/310) on [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) (1 day ago)
+- [feat: Authentication via API Keys and move home](https://github.com/SirUli/homeassistant-ollama-addon/pull/311) on [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) (2 days ago)
+- [fix: Add /dev/kfd to list of devices for rocm](https://github.com/SirUli/homeassistant-ollama-addon/pull/310) on [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) (2 days ago)
 - [Add many Heatpumps to HeatPumpType.md](https://github.com/heishamon/HeishaMon/pull/783) on [heishamon/HeishaMon](https://github.com/heishamon/HeishaMon) (5 months ago)
 - [Typos and many small formatting topics](https://github.com/bsc-org/bsc/pull/1) on [bsc-org/bsc](https://github.com/bsc-org/bsc) (10 months ago)
 
@@ -38,17 +38,17 @@
 
 #### 📜 My recent blog posts (German)
 
-- [Fensterkontakt für Roto R8 Dachfenster](https://wolf-u.li/fensterkontakt-fuer-roto-r8-dachfenster/) (4 months ago)
+- [Fensterkontakt für Roto R8 Dachfenster](https://wolf-u.li/fensterkontakt-fuer-roto-r8-dachfenster/) (5 months ago)
 - [Fritz!Box 7590 AX auf Fritz!Box 5690 Pro umziehen](https://wolf-u.li/fritzbox-7590ax-auf-fritzbox-5690-pro-umziehen/) (7 months ago)
 - [ASRock DeskMini 310: Tot? Keine LED? Keine Geräusche? Lösung](https://wolf-u.li/asrock-deskmini-310-tot-keine-led-keine-ger%C3%A4usche-loesung/) (1 year ago)
 - [Wie schneidet man Estrich mit einem Winkelschleifer](https://wolf-u.li/wie-schneidet-man-estrich-mit-einem-winkelschleifer/) (1 year ago)
-- [Berechnung von Druckverlust in Leitungen (z.B. Trinkwasser) und Rohren](https://wolf-u.li/berechnung-von-druckverlust-in-leitungen-trinkwasser-und-rohren/) (1 year ago)
+- [Berechnung von Druckverlust in Leitungen (z.B. Trinkwasser) und Rohren](https://wolf-u.li/berechnung-von-druckverlust-in-leitungen-trinkwasser-und-rohren/) (2 years ago)
 
 #### ⭐ Recent Stars
 
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local (3 weeks ago)
 - [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) - A vector index built on TurboQuant, written in Rust with Python bindings (3 weeks ago)
-- [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control =&gt; entity-level diffs, blame, and impact analysis on top of git. 28 languages via tree-sitter. Built for coding agents. (4 weeks ago)
+- [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control =&gt; entity-level diffs, blame, and impact analysis on top of git. 28 languages via tree-sitter. Built for coding agents. (1 month ago)
 - [TECH7Fox/sipcore-hass-integration](https://github.com/TECH7Fox/sipcore-hass-integration) - A SIP client inside home assistant! (1 month ago)
 - [ArnaudCrl/immich-automated-selfie-timelapse](https://github.com/ArnaudCrl/immich-automated-selfie-timelapse) - Automated face extraction, resizing and alignment suitable to make a selfie timelapse video. (1 month ago)
 - [francescopace/espectre](https://github.com/francescopace/espectre) - 🛜 ESPectre 👻  - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration. (1 month ago)
@@ -64,8 +64,8 @@ For more information, see [the sponsors page](https://github.com/sponsors/SirUli
 
 #### 👯 Recent followers
 
-- [procerezo](https://github.com/procerezo)
 - [TWART016](https://github.com/TWART016)
 - [lrepo52](https://github.com/lrepo52)
 - [slavaGanzin](https://github.com/slavaGanzin)
 - [Alpha-Exile](https://github.com/Alpha-Exile)
+- [lruLk](https://github.com/lruLk)
