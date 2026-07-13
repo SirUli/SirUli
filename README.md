@@ -2,7 +2,7 @@
 
 #### 👷 Recent Contributions
 
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) - A Home Assistant App (ex addon) to provide Ollama for AI (6 days ago)
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) - A Home Assistant App (ex addon) to provide Ollama for AI (1 week ago)
 
 #### 🌱 Latest projects
 
@@ -19,12 +19,12 @@
 
 #### 🔭 Recent Releases
 
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.2.0](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.2.0), 6 days ago) - A Home Assistant App (ex addon) to provide Ollama for AI
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.2.0](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.2.0), 1 week ago) - A Home Assistant App (ex addon) to provide Ollama for AI
 
 #### 🔨 Recent Pull Requests
 
-- [feat: Authentication via API Keys and move home](https://github.com/SirUli/homeassistant-ollama-addon/pull/311) on [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) (6 days ago)
-- [fix: Add /dev/kfd to list of devices for rocm](https://github.com/SirUli/homeassistant-ollama-addon/pull/310) on [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) (6 days ago)
+- [feat: Authentication via API Keys and move home](https://github.com/SirUli/homeassistant-ollama-addon/pull/311) on [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) (1 week ago)
+- [fix: Add /dev/kfd to list of devices for rocm](https://github.com/SirUli/homeassistant-ollama-addon/pull/310) on [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) (1 week ago)
 - [Add many Heatpumps to HeatPumpType.md](https://github.com/heishamon/HeishaMon/pull/783) on [heishamon/HeishaMon](https://github.com/heishamon/HeishaMon) (5 months ago)
 - [Typos and many small formatting topics](https://github.com/bsc-org/bsc/pull/1) on [bsc-org/bsc](https://github.com/bsc-org/bsc) (10 months ago)
 
@@ -41,7 +41,7 @@
 - [Fensterkontakt für Roto R8 Dachfenster](https://wolf-u.li/fensterkontakt-fuer-roto-r8-dachfenster/) (5 months ago)
 - [Fritz!Box 7590 AX auf Fritz!Box 5690 Pro umziehen](https://wolf-u.li/fritzbox-7590ax-auf-fritzbox-5690-pro-umziehen/) (7 months ago)
 - [ASRock DeskMini 310: Tot? Keine LED? Keine Geräusche? Lösung](https://wolf-u.li/asrock-deskmini-310-tot-keine-led-keine-ger%C3%A4usche-loesung/) (1 year ago)
-- [Wie schneidet man Estrich mit einem Winkelschleifer](https://wolf-u.li/wie-schneidet-man-estrich-mit-einem-winkelschleifer/) (1 year ago)
+- [Wie schneidet man Estrich mit einem Winkelschleifer](https://wolf-u.li/wie-schneidet-man-estrich-mit-einem-winkelschleifer/) (2 years ago)
 - [Berechnung von Druckverlust in Leitungen (z.B. Trinkwasser) und Rohren](https://wolf-u.li/berechnung-von-druckverlust-in-leitungen-trinkwasser-und-rohren/) (2 years ago)
 
 #### ⭐ Recent Stars
