@@ -19,7 +19,7 @@
 
 #### 🔭 Recent Releases
 
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.2.2](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.2.2), 2 days ago) - A Home Assistant App (ex addon) to provide Ollama for AI
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.2.2](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.2.2), 3 days ago) - A Home Assistant App (ex addon) to provide Ollama for AI
 
 #### 🔨 Recent Pull Requests
 
@@ -64,8 +64,8 @@ For more information, see [the sponsors page](https://github.com/sponsors/SirUli
 
 #### 👯 Recent followers
 
+- [helallao](https://github.com/helallao)
 - [get-chill](https://github.com/get-chill)
 - [TWART016](https://github.com/TWART016)
 - [lrepo52](https://github.com/lrepo52)
 - [slavaGanzin](https://github.com/slavaGanzin)
-- [Alpha-Exile](https://github.com/Alpha-Exile)
