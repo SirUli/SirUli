@@ -19,7 +19,7 @@
 
 #### 🔭 Recent Releases
 
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.2.4](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.2.4), 6 days ago) - A Home Assistant App (ex addon) to provide Ollama for AI
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.2.4](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.2.4), 1 week ago) - A Home Assistant App (ex addon) to provide Ollama for AI
 
 #### 🔨 Recent Pull Requests
 
@@ -39,7 +39,7 @@
 #### 📜 My recent blog posts (German)
 
 - [Fensterkontakt für Roto R8 Dachfenster](https://wolf-u.li/fensterkontakt-fuer-roto-r8-dachfenster/) (5 months ago)
-- [Fritz!Box 7590 AX auf Fritz!Box 5690 Pro umziehen](https://wolf-u.li/fritzbox-7590ax-auf-fritzbox-5690-pro-umziehen/) (7 months ago)
+- [Fritz!Box 7590 AX auf Fritz!Box 5690 Pro umziehen](https://wolf-u.li/fritzbox-7590ax-auf-fritzbox-5690-pro-umziehen/) (8 months ago)
 - [ASRock DeskMini 310: Tot? Keine LED? Keine Geräusche? Lösung](https://wolf-u.li/asrock-deskmini-310-tot-keine-led-keine-ger%C3%A4usche-loesung/) (2 years ago)
 - [Wie schneidet man Estrich mit einem Winkelschleifer](https://wolf-u.li/wie-schneidet-man-estrich-mit-einem-winkelschleifer/) (2 years ago)
 - [Berechnung von Druckverlust in Leitungen (z.B. Trinkwasser) und Rohren](https://wolf-u.li/berechnung-von-druckverlust-in-leitungen-trinkwasser-und-rohren/) (2 years ago)
