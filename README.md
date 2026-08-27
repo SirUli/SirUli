@@ -19,7 +19,7 @@
 
 #### 🔭 Recent Releases
 
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.2.11](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.2.11), 5 days ago) - A Home Assistant App (ex addon) to provide Ollama for AI
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.2.13](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.2.13), today) - A Home Assistant App (ex addon) to provide Ollama for AI
 
 #### 🔨 Recent Pull Requests
 
@@ -52,7 +52,7 @@
 - [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) - A vector index built on TurboQuant, written in Rust with Python bindings (2 months ago)
 - [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control =&gt; entity-level diffs, blame, and impact analysis on top of git. 28 languages via tree-sitter. Built for coding agents. (2 months ago)
 - [TECH7Fox/sipcore-hass-integration](https://github.com/TECH7Fox/sipcore-hass-integration) - A SIP client inside home assistant! (2 months ago)
-- [ArnaudCrl/immich-automated-selfie-timelapse](https://github.com/ArnaudCrl/immich-automated-selfie-timelapse) - Automated face extraction, resizing and alignment suitable to make a selfie timelapse video. (2 months ago)
+- [ArnaudCrl/immich-automated-selfie-timelapse](https://github.com/ArnaudCrl/immich-automated-selfie-timelapse) - Automated face extraction, resizing and alignment suitable to make a selfie timelapse video. (3 months ago)
 - [francescopace/espectre](https://github.com/francescopace/espectre) - ESPectre - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration. (3 months ago)
 - [guwidoe/immich-admintools](https://github.com/guwidoe/immich-admintools) - Enhanced job monitoring and tooling for immich (3 months ago)
 - [donnchawp/immich-shared-library](https://github.com/donnchawp/immich-shared-library) - A Docker container that syncs face and ML data from one account to another for real partner sharing (3 months ago)
