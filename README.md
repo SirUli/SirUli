@@ -19,7 +19,7 @@
 
 #### 🔭 Recent Releases
 
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.2.15](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.2.15), 1 day ago) - A Home Assistant App (ex addon) to provide Ollama for AI
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.2.15](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.2.15), 2 days ago) - A Home Assistant App (ex addon) to provide Ollama for AI
 
 #### 🔨 Recent Pull Requests
 
@@ -46,7 +46,7 @@
 
 #### ⭐ Recent Stars
 
-- [mikopp/ha_innova_DEH-_hejluft_hrds-](https://github.com/mikopp/ha_innova_DEH-_hejluft_hrds-) - Home assistant custom component for the italian dehumidifier Innova DEH&#43; also known as HRDS&#43; in Austria (4 days ago)
+- [mikopp/ha_innova_DEH-_hejluft_hrds-](https://github.com/mikopp/ha_innova_DEH-_hejluft_hrds-) - Home assistant custom component for the italian dehumidifier Innova DEH&#43; also known as HRDS&#43; in Austria (5 days ago)
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (3 weeks ago)
 - [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP &#43; hooks. (3 weeks ago)
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local (2 months ago)
