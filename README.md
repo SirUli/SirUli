@@ -19,7 +19,7 @@
 
 #### 🔭 Recent Releases
 
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.2.16](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.2.16), 2 days ago) - A Home Assistant App (ex addon) to provide Ollama for AI
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.2.16](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.2.16), 3 days ago) - A Home Assistant App (ex addon) to provide Ollama for AI
 
 #### 🔨 Recent Pull Requests
 
@@ -46,7 +46,7 @@
 
 #### ⭐ Recent Stars
 
-- [ostat/vacuum-hose-adapter-openscad](https://github.com/ostat/vacuum-hose-adapter-openscad) - OpenScad vacuum hose adapter generator (4 days ago)
+- [ostat/vacuum-hose-adapter-openscad](https://github.com/ostat/vacuum-hose-adapter-openscad) - OpenScad vacuum hose adapter generator (5 days ago)
 - [IamBlum/pm-copilot](https://github.com/IamBlum/pm-copilot) - A co-pilot for Claude that learns how you work and runs your weekly PM overhead: morning brief, weekly prep, open loops, and self-improvement. Tool-agnostic; runs in Claude Cowork or Claude Code. (1 week ago)
 - [mikopp/ha_innova_DEH-_hejluft_hrds-](https://github.com/mikopp/ha_innova_DEH-_hejluft_hrds-) - Home assistant custom component for the italian dehumidifier Innova DEH&#43; also known as HRDS&#43; in Austria (1 week ago)
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (1 month ago)
