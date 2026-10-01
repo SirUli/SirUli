@@ -19,13 +19,13 @@
 
 #### 🔭 Recent Releases
 
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.2.21](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.2.21), today) - A Home Assistant App (ex addon) to provide Ollama for AI
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.2.21](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.2.21), 1 day ago) - A Home Assistant App (ex addon) to provide Ollama for AI
 
 #### 🔨 Recent Pull Requests
 
 - [feat: Authentication via API Keys and move home](https://github.com/SirUli/homeassistant-ollama-addon/pull/311) on [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) (2 months ago)
 - [fix: Add /dev/kfd to list of devices for rocm](https://github.com/SirUli/homeassistant-ollama-addon/pull/310) on [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) (2 months ago)
-- [Add many Heatpumps to HeatPumpType.md](https://github.com/heishamon/HeishaMon/pull/783) on [heishamon/HeishaMon](https://github.com/heishamon/HeishaMon) (7 months ago)
+- [Add many Heatpumps to HeatPumpType.md](https://github.com/heishamon/HeishaMon/pull/783) on [heishamon/HeishaMon](https://github.com/heishamon/HeishaMon) (8 months ago)
 - [Typos and many small formatting topics](https://github.com/bsc-org/bsc/pull/1) on [bsc-org/bsc](https://github.com/bsc-org/bsc) (1 year ago)
 
 #### 📜 My recent blog posts (English)
@@ -47,7 +47,7 @@
 #### ⭐ Recent Stars
 
 - [n-IA-hane/esphome-intercom](https://github.com/n-IA-hane/esphome-intercom) - VoIP Stack for ESPHome and Home Assistant - local SIP phones, HA softphone/router, phonebook, softphone accounts and optional trunk calls (1 week ago)
-- [conorbronsdon/avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) - Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, Codex, and Hermes. (1 week ago)
+- [conorbronsdon/avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) - Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, Codex, and Hermes. (2 weeks ago)
 - [ostat/vacuum-hose-adapter-openscad](https://github.com/ostat/vacuum-hose-adapter-openscad) - OpenScad vacuum hose adapter generator (3 weeks ago)
 - [IamBlum/pm-copilot](https://github.com/IamBlum/pm-copilot) - A co-pilot for Claude that learns how you work and runs your weekly PM overhead: morning brief, weekly prep, open loops, and self-improvement. Tool-agnostic; runs in Claude Cowork or Claude Code. (3 weeks ago)
 - [mikopp/ha_innova_DEH-_hejluft_hrds-](https://github.com/mikopp/ha_innova_DEH-_hejluft_hrds-) - Home assistant custom component for the italian dehumidifier Innova DEH&#43; also known as HRDS&#43; in Austria (1 month ago)
