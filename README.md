@@ -19,13 +19,13 @@
 
 #### 🔭 Recent Releases
 
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.2.35](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.2.35), 1 day ago) - A Home Assistant App (ex addon) to provide Ollama for AI
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.2.35](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.2.35), 2 days ago) - A Home Assistant App (ex addon) to provide Ollama for AI
 
 #### 🔨 Recent Pull Requests
 
 - [feat: Authentication via API Keys and move home](https://github.com/SirUli/homeassistant-ollama-addon/pull/311) on [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) (3 months ago)
 - [fix: Add /dev/kfd to list of devices for rocm](https://github.com/SirUli/homeassistant-ollama-addon/pull/310) on [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) (3 months ago)
-- [Add many Heatpumps to HeatPumpType.md](https://github.com/heishamon/HeishaMon/pull/783) on [heishamon/HeishaMon](https://github.com/heishamon/HeishaMon) (8 months ago)
+- [Add many Heatpumps to HeatPumpType.md](https://github.com/heishamon/HeishaMon/pull/783) on [heishamon/HeishaMon](https://github.com/heishamon/HeishaMon) (9 months ago)
 - [Typos and many small formatting topics](https://github.com/bsc-org/bsc/pull/1) on [bsc-org/bsc](https://github.com/bsc-org/bsc) (1 year ago)
 
 #### 📜 My recent blog posts (English)
@@ -47,7 +47,7 @@
 #### ⭐ Recent Stars
 
 - [adamoberley/HABirdDashboard](https://github.com/adamoberley/HABirdDashboard) - A live bird collage card for your Home Assistant dashboard. (1 week ago)
-- [aaddrick/building-with-decision-models](https://github.com/aaddrick/building-with-decision-models) - Unofficial skill for building with decision models (Jev, Clef, pplx-decider, ai_decide, Ollama): typed decisions, calibrated confidence, provider differences, and prior art sorted by implementation shape. (2 weeks ago)
+- [aaddrick/building-with-decision-models](https://github.com/aaddrick/building-with-decision-models) - Unofficial skill for building with decision models (Jev, Clef, pplx-decider, ai_decide, Ollama): typed decisions, calibrated confidence, provider differences, and prior art sorted by implementation shape. (3 weeks ago)
 - [storytold/lightcraft](https://github.com/storytold/lightcraft) - LightCraft: An open-source non-destructive photo editor written by scratch in pure Rust (3 weeks ago)
 - [n-IA-hane/esphome-intercom](https://github.com/n-IA-hane/esphome-intercom) - VoIP Stack for Home Assistant and ESPHome: SIP audio/video calls, dashboard phones, ESP32 intercoms, ring groups, trunks and call routing through HA automations. (1 month ago)
 - [conorbronsdon/avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) - Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, Codex, and Hermes. (1 month ago)
