@@ -2,7 +2,7 @@
 
 #### 👷 Recent Contributions
 
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) - A Home Assistant App (ex addon) to provide Ollama for AI (2 months ago)
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) - A Home Assistant App (ex addon) to provide Ollama for AI (3 months ago)
 
 #### 🌱 Latest projects
 
@@ -19,7 +19,7 @@
 
 #### 🔭 Recent Releases
 
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.2.37](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.2.37), 2 days ago) - A Home Assistant App (ex addon) to provide Ollama for AI
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.2.37](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.2.37), 3 days ago) - A Home Assistant App (ex addon) to provide Ollama for AI
 
 #### 🔨 Recent Pull Requests
 
@@ -47,15 +47,15 @@
 #### ⭐ Recent Stars
 
 - [adamoberley/HABirdDashboard](https://github.com/adamoberley/HABirdDashboard) - A live bird collage card for your Home Assistant dashboard. (2 weeks ago)
-- [aaddrick/building-with-decision-models](https://github.com/aaddrick/building-with-decision-models) - Unofficial skill for building with decision models (Jev, Clef, pplx-decider, ai_decide, Ollama): typed decisions, calibrated confidence, provider differences, and prior art sorted by implementation shape. (4 weeks ago)
-- [storytold/lightcraft](https://github.com/storytold/lightcraft) - LightCraft: An open-source non-destructive photo editor written by scratch in pure Rust (1 month ago)
+- [aaddrick/building-with-decision-models](https://github.com/aaddrick/building-with-decision-models) - Unofficial skill for building with decision models (Jev, Clef, pplx-decider, ai_decide, Ollama): typed decisions, calibrated confidence, provider differences, and prior art sorted by implementation shape. (1 month ago)
+- [storytold/lightcraft](https://github.com/storytold/lightcraft) - LightCraft: An open-source non-destructive photo editor written from scratch in pure Rust (1 month ago)
 - [n-IA-hane/esphome-intercom](https://github.com/n-IA-hane/esphome-intercom) - VoIP Stack for Home Assistant and ESPHome: SIP audio/video calls, dashboard phones, ESP32 intercoms, ring groups, trunks and call routing through HA automations. (1 month ago)
 - [conorbronsdon/avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) - Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, Codex, and Hermes. (1 month ago)
 - [ostat/vacuum-hose-adapter-openscad](https://github.com/ostat/vacuum-hose-adapter-openscad) - OpenScad vacuum hose adapter generator (2 months ago)
 - [IamBlum/pm-copilot](https://github.com/IamBlum/pm-copilot) - A co-pilot for Claude that learns how you work and runs your weekly PM overhead: morning brief, weekly prep, open loops, and self-improvement. Tool-agnostic; runs in Claude Cowork or Claude Code. (2 months ago)
 - [mikopp/homeassistant-innova-hrds](https://github.com/mikopp/homeassistant-innova-hrds) - Home Assistant (HACS) integration for the hej.luft HRDS&#43; dehumidifier: local control and monitoring over Modbus TCP, no cloud (2 months ago)
-- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (2 months ago)
-- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Free, local plugin that keeps tool output out of your coding agent&#39;s context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OpenCode, Gemini CLI, Copilot CLI and 4 more agents. Zero telemetry. (2 months ago)
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (3 months ago)
+- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Free, local plugin that keeps tool output out of your coding agent&#39;s context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OpenCode, Gemini CLI, Copilot CLI and 4 more agents. Zero telemetry. (3 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
