@@ -2,7 +2,7 @@
 
 #### 👷 Recent Contributions
 
-- [SirUli/semantic-release-plugin-force-publish](https://github.com/SirUli/semantic-release-plugin-force-publish) - Allows to force a release through semantic release (5 days ago)
+- [SirUli/semantic-release-plugin-force-publish](https://github.com/SirUli/semantic-release-plugin-force-publish) - Allows to force a release through semantic release (6 days ago)
 - [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) - A Home Assistant App (ex addon) to provide Ollama for AI (3 months ago)
 
 #### 🌱 Latest projects
@@ -20,17 +20,17 @@
 
 #### 🔭 Recent Releases
 
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.2.38](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.2.38), 4 days ago) - A Home Assistant App (ex addon) to provide Ollama for AI
-- [SirUli/semantic-release-plugin-force-publish](https://github.com/SirUli/semantic-release-plugin-force-publish) ([v1.0.0](https://github.com/SirUli/semantic-release-plugin-force-publish/releases/tag/v1.0.0), 5 days ago) - Allows to force a release through semantic release
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.2.38](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.2.38), 5 days ago) - A Home Assistant App (ex addon) to provide Ollama for AI
+- [SirUli/semantic-release-plugin-force-publish](https://github.com/SirUli/semantic-release-plugin-force-publish) ([v1.0.0](https://github.com/SirUli/semantic-release-plugin-force-publish/releases/tag/v1.0.0), 6 days ago) - Allows to force a release through semantic release
 
 #### 🔨 Recent Pull Requests
 
-- [ci: fix self-release plugin config](https://github.com/SirUli/semantic-release-plugin-force-publish/pull/14) on [SirUli/semantic-release-plugin-force-publish](https://github.com/SirUli/semantic-release-plugin-force-publish) (5 days ago)
-- [README rewrite and self-release with the plugin](https://github.com/SirUli/semantic-release-plugin-force-publish/pull/13) on [SirUli/semantic-release-plugin-force-publish](https://github.com/SirUli/semantic-release-plugin-force-publish) (5 days ago)
-- [Scoped package name, README, self-release](https://github.com/SirUli/semantic-release-plugin-force-publish/pull/12) on [SirUli/semantic-release-plugin-force-publish](https://github.com/SirUli/semantic-release-plugin-force-publish) (5 days ago)
-- [ci: upload coverage to GitHub Code Quality](https://github.com/SirUli/semantic-release-plugin-force-publish/pull/11) on [SirUli/semantic-release-plugin-force-publish](https://github.com/SirUli/semantic-release-plugin-force-publish) (5 days ago)
-- [ci: post coverage report as PR comment](https://github.com/SirUli/semantic-release-plugin-force-publish/pull/10) on [SirUli/semantic-release-plugin-force-publish](https://github.com/SirUli/semantic-release-plugin-force-publish) (5 days ago)
-- [build(deps): update vitest 5, add vite, yarn 4.18.1; npm trusted publishing](https://github.com/SirUli/semantic-release-plugin-force-publish/pull/9) on [SirUli/semantic-release-plugin-force-publish](https://github.com/SirUli/semantic-release-plugin-force-publish) (5 days ago)
+- [ci: fix self-release plugin config](https://github.com/SirUli/semantic-release-plugin-force-publish/pull/14) on [SirUli/semantic-release-plugin-force-publish](https://github.com/SirUli/semantic-release-plugin-force-publish) (6 days ago)
+- [README rewrite and self-release with the plugin](https://github.com/SirUli/semantic-release-plugin-force-publish/pull/13) on [SirUli/semantic-release-plugin-force-publish](https://github.com/SirUli/semantic-release-plugin-force-publish) (6 days ago)
+- [Scoped package name, README, self-release](https://github.com/SirUli/semantic-release-plugin-force-publish/pull/12) on [SirUli/semantic-release-plugin-force-publish](https://github.com/SirUli/semantic-release-plugin-force-publish) (6 days ago)
+- [ci: upload coverage to GitHub Code Quality](https://github.com/SirUli/semantic-release-plugin-force-publish/pull/11) on [SirUli/semantic-release-plugin-force-publish](https://github.com/SirUli/semantic-release-plugin-force-publish) (6 days ago)
+- [ci: post coverage report as PR comment](https://github.com/SirUli/semantic-release-plugin-force-publish/pull/10) on [SirUli/semantic-release-plugin-force-publish](https://github.com/SirUli/semantic-release-plugin-force-publish) (6 days ago)
+- [build(deps): update vitest 5, add vite, yarn 4.18.1; npm trusted publishing](https://github.com/SirUli/semantic-release-plugin-force-publish/pull/9) on [SirUli/semantic-release-plugin-force-publish](https://github.com/SirUli/semantic-release-plugin-force-publish) (6 days ago)
 - [feat: Authentication via API Keys and move home](https://github.com/SirUli/homeassistant-ollama-addon/pull/311) on [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) (4 months ago)
 - [fix: Add /dev/kfd to list of devices for rocm](https://github.com/SirUli/homeassistant-ollama-addon/pull/310) on [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) (4 months ago)
 
@@ -61,7 +61,7 @@
 - [IamBlum/pm-copilot](https://github.com/IamBlum/pm-copilot) - A co-pilot for Claude that learns how you work and runs your weekly PM overhead: morning brief, weekly prep, open loops, and self-improvement. Tool-agnostic; runs in Claude Cowork or Claude Code. (2 months ago)
 - [mikopp/homeassistant-innova-hrds](https://github.com/mikopp/homeassistant-innova-hrds) - Home Assistant (HACS) integration for the hej.luft HRDS&#43; dehumidifier: local control and monitoring over Modbus TCP, no cloud (2 months ago)
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (3 months ago)
-- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Free, local plugin that keeps tool output out of your coding agent&#39;s context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OpenCode, Gemini CLI, Copilot CLI and 4 more agents. Zero telemetry. (3 months ago)
+- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Free, local plugin that keeps tool output out of your coding agent&#39;s context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OMP, OpenCode, Gemini CLI, Copilot CLI and 4 more agents. Zero telemetry. (3 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
