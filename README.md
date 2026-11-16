@@ -2,7 +2,7 @@
 
 #### 👷 Recent Contributions
 
-- [SirUli/semantic-release-plugin-force-publish](https://github.com/SirUli/semantic-release-plugin-force-publish) - Allows to force a release through semantic release (6 days ago)
+- [SirUli/semantic-release-plugin-force-publish](https://github.com/SirUli/semantic-release-plugin-force-publish) - Allows to force a release through semantic release (1 week ago)
 - [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) - A Home Assistant App (ex addon) to provide Ollama for AI (3 months ago)
 
 #### 🌱 Latest projects
@@ -20,17 +20,17 @@
 
 #### 🔭 Recent Releases
 
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.2.38](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.2.38), 5 days ago) - A Home Assistant App (ex addon) to provide Ollama for AI
-- [SirUli/semantic-release-plugin-force-publish](https://github.com/SirUli/semantic-release-plugin-force-publish) ([v1.0.0](https://github.com/SirUli/semantic-release-plugin-force-publish/releases/tag/v1.0.0), 6 days ago) - Allows to force a release through semantic release
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.2.38](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.2.38), 6 days ago) - A Home Assistant App (ex addon) to provide Ollama for AI
+- [SirUli/semantic-release-plugin-force-publish](https://github.com/SirUli/semantic-release-plugin-force-publish) ([v1.0.0](https://github.com/SirUli/semantic-release-plugin-force-publish/releases/tag/v1.0.0), 1 week ago) - Allows to force a release through semantic release
 
 #### 🔨 Recent Pull Requests
 
-- [ci: fix self-release plugin config](https://github.com/SirUli/semantic-release-plugin-force-publish/pull/14) on [SirUli/semantic-release-plugin-force-publish](https://github.com/SirUli/semantic-release-plugin-force-publish) (6 days ago)
-- [README rewrite and self-release with the plugin](https://github.com/SirUli/semantic-release-plugin-force-publish/pull/13) on [SirUli/semantic-release-plugin-force-publish](https://github.com/SirUli/semantic-release-plugin-force-publish) (6 days ago)
-- [Scoped package name, README, self-release](https://github.com/SirUli/semantic-release-plugin-force-publish/pull/12) on [SirUli/semantic-release-plugin-force-publish](https://github.com/SirUli/semantic-release-plugin-force-publish) (6 days ago)
-- [ci: upload coverage to GitHub Code Quality](https://github.com/SirUli/semantic-release-plugin-force-publish/pull/11) on [SirUli/semantic-release-plugin-force-publish](https://github.com/SirUli/semantic-release-plugin-force-publish) (6 days ago)
-- [ci: post coverage report as PR comment](https://github.com/SirUli/semantic-release-plugin-force-publish/pull/10) on [SirUli/semantic-release-plugin-force-publish](https://github.com/SirUli/semantic-release-plugin-force-publish) (6 days ago)
-- [build(deps): update vitest 5, add vite, yarn 4.18.1; npm trusted publishing](https://github.com/SirUli/semantic-release-plugin-force-publish/pull/9) on [SirUli/semantic-release-plugin-force-publish](https://github.com/SirUli/semantic-release-plugin-force-publish) (6 days ago)
+- [ci: fix self-release plugin config](https://github.com/SirUli/semantic-release-plugin-force-publish/pull/14) on [SirUli/semantic-release-plugin-force-publish](https://github.com/SirUli/semantic-release-plugin-force-publish) (1 week ago)
+- [README rewrite and self-release with the plugin](https://github.com/SirUli/semantic-release-plugin-force-publish/pull/13) on [SirUli/semantic-release-plugin-force-publish](https://github.com/SirUli/semantic-release-plugin-force-publish) (1 week ago)
+- [Scoped package name, README, self-release](https://github.com/SirUli/semantic-release-plugin-force-publish/pull/12) on [SirUli/semantic-release-plugin-force-publish](https://github.com/SirUli/semantic-release-plugin-force-publish) (1 week ago)
+- [ci: upload coverage to GitHub Code Quality](https://github.com/SirUli/semantic-release-plugin-force-publish/pull/11) on [SirUli/semantic-release-plugin-force-publish](https://github.com/SirUli/semantic-release-plugin-force-publish) (1 week ago)
+- [ci: post coverage report as PR comment](https://github.com/SirUli/semantic-release-plugin-force-publish/pull/10) on [SirUli/semantic-release-plugin-force-publish](https://github.com/SirUli/semantic-release-plugin-force-publish) (1 week ago)
+- [build(deps): update vitest 5, add vite, yarn 4.18.1; npm trusted publishing](https://github.com/SirUli/semantic-release-plugin-force-publish/pull/9) on [SirUli/semantic-release-plugin-force-publish](https://github.com/SirUli/semantic-release-plugin-force-publish) (1 week ago)
 - [feat: Authentication via API Keys and move home](https://github.com/SirUli/homeassistant-ollama-addon/pull/311) on [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) (4 months ago)
 - [fix: Add /dev/kfd to list of devices for rocm](https://github.com/SirUli/homeassistant-ollama-addon/pull/310) on [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) (4 months ago)
 
@@ -56,7 +56,7 @@
 - [aaddrick/building-with-decision-models](https://github.com/aaddrick/building-with-decision-models) - Unofficial skill for building with decision models (Jev, Clef, pplx-decider, ai_decide, Ollama): typed decisions, calibrated confidence, provider differences, and prior art sorted by implementation shape. (1 month ago)
 - [storytold/lightcraft](https://github.com/storytold/lightcraft) - LightCraft: An open-source non-destructive photo editor written from scratch in pure Rust (1 month ago)
 - [n-IA-hane/esphome-intercom](https://github.com/n-IA-hane/esphome-intercom) - VoIP Stack for Home Assistant and ESPHome: SIP audio/video calls, dashboard phones, ESP32 intercoms, ring groups, trunks and call routing through HA automations. (1 month ago)
-- [conorbronsdon/avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) - Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, Codex, and Hermes. (1 month ago)
+- [conorbronsdon/avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) - Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, Codex, and Hermes. (2 months ago)
 - [ostat/vacuum-hose-adapter-openscad](https://github.com/ostat/vacuum-hose-adapter-openscad) - OpenScad vacuum hose adapter generator (2 months ago)
 - [IamBlum/pm-copilot](https://github.com/IamBlum/pm-copilot) - A co-pilot for Claude that learns how you work and runs your weekly PM overhead: morning brief, weekly prep, open loops, and self-improvement. Tool-agnostic; runs in Claude Cowork or Claude Code. (2 months ago)
 - [mikopp/homeassistant-innova-hrds](https://github.com/mikopp/homeassistant-innova-hrds) - Home Assistant (HACS) integration for the hej.luft HRDS&#43; dehumidifier: local control and monitoring over Modbus TCP, no cloud (2 months ago)
