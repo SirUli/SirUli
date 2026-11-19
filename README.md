@@ -54,10 +54,10 @@
 
 #### ⭐ Recent Stars
 
-- [adamoberley/HABirdDashboard](https://github.com/adamoberley/HABirdDashboard) - A live bird collage card for your Home Assistant dashboard. (3 weeks ago)
+- [adamoberley/HABirdDashboard](https://github.com/adamoberley/HABirdDashboard) - A live bird collage card for your Home Assistant dashboard. (4 weeks ago)
 - [aaddrick/building-with-decision-models](https://github.com/aaddrick/building-with-decision-models) - Unofficial skill for building with decision models (Jev, Clef, pplx-decider, ai_decide, Ollama): typed decisions, calibrated confidence, provider differences, and prior art sorted by implementation shape. (1 month ago)
 - [storytold/lightcraft](https://github.com/storytold/lightcraft) - LightCraft: An open-source non-destructive photo editor written from scratch in pure Rust (1 month ago)
-- [n-IA-hane/esphome-intercom](https://github.com/n-IA-hane/esphome-intercom) - VoIP Stack for Home Assistant and ESPHome: SIP audio/video calls, dashboard phones, ESP32 intercoms, ring groups, trunks and call routing through HA automations. (1 month ago)
+- [n-IA-hane/esphome-intercom](https://github.com/n-IA-hane/esphome-intercom) - VoIP Stack for Home Assistant and ESPHome: SIP audio/video calls, dashboard phones, ESP32 intercoms, ring groups, trunks and call routing through HA automations. (2 months ago)
 - [conorbronsdon/avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) - Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, Codex, and Hermes. (2 months ago)
 - [ostat/vacuum-hose-adapter-openscad](https://github.com/ostat/vacuum-hose-adapter-openscad) - OpenScad vacuum hose adapter generator (2 months ago)
 - [IamBlum/pm-copilot](https://github.com/IamBlum/pm-copilot) - A co-pilot for Claude that learns how you work and runs your weekly PM overhead: morning brief, weekly prep, open loops, and self-improvement. Tool-agnostic; runs in Claude Cowork or Claude Code. (2 months ago)
