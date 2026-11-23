@@ -2,7 +2,7 @@
 
 #### 👷 Recent Contributions
 
-- [SirUli/semantic-release-plugin-force-publish](https://github.com/SirUli/semantic-release-plugin-force-publish) - Allows to force a release through semantic release (1 week ago)
+- [SirUli/semantic-release-plugin-force-publish](https://github.com/SirUli/semantic-release-plugin-force-publish) - Allows to force a release through semantic release (2 weeks ago)
 - [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) - A Home Assistant App (ex addon) to provide Ollama for AI (3 months ago)
 
 #### 🌱 Latest projects
@@ -20,17 +20,17 @@
 
 #### 🔭 Recent Releases
 
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.2.39](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.2.39), 1 day ago) - A Home Assistant App (ex addon) to provide Ollama for AI
-- [SirUli/semantic-release-plugin-force-publish](https://github.com/SirUli/semantic-release-plugin-force-publish) ([v1.0.0](https://github.com/SirUli/semantic-release-plugin-force-publish/releases/tag/v1.0.0), 1 week ago) - Allows to force a release through semantic release
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.2.39](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.2.39), 2 days ago) - A Home Assistant App (ex addon) to provide Ollama for AI
+- [SirUli/semantic-release-plugin-force-publish](https://github.com/SirUli/semantic-release-plugin-force-publish) ([v1.0.0](https://github.com/SirUli/semantic-release-plugin-force-publish/releases/tag/v1.0.0), 2 weeks ago) - Allows to force a release through semantic release
 
 #### 🔨 Recent Pull Requests
 
-- [ci: fix self-release plugin config](https://github.com/SirUli/semantic-release-plugin-force-publish/pull/14) on [SirUli/semantic-release-plugin-force-publish](https://github.com/SirUli/semantic-release-plugin-force-publish) (1 week ago)
-- [README rewrite and self-release with the plugin](https://github.com/SirUli/semantic-release-plugin-force-publish/pull/13) on [SirUli/semantic-release-plugin-force-publish](https://github.com/SirUli/semantic-release-plugin-force-publish) (1 week ago)
-- [Scoped package name, README, self-release](https://github.com/SirUli/semantic-release-plugin-force-publish/pull/12) on [SirUli/semantic-release-plugin-force-publish](https://github.com/SirUli/semantic-release-plugin-force-publish) (1 week ago)
-- [ci: upload coverage to GitHub Code Quality](https://github.com/SirUli/semantic-release-plugin-force-publish/pull/11) on [SirUli/semantic-release-plugin-force-publish](https://github.com/SirUli/semantic-release-plugin-force-publish) (1 week ago)
-- [ci: post coverage report as PR comment](https://github.com/SirUli/semantic-release-plugin-force-publish/pull/10) on [SirUli/semantic-release-plugin-force-publish](https://github.com/SirUli/semantic-release-plugin-force-publish) (1 week ago)
-- [build(deps): update vitest 5, add vite, yarn 4.18.1; npm trusted publishing](https://github.com/SirUli/semantic-release-plugin-force-publish/pull/9) on [SirUli/semantic-release-plugin-force-publish](https://github.com/SirUli/semantic-release-plugin-force-publish) (1 week ago)
+- [ci: fix self-release plugin config](https://github.com/SirUli/semantic-release-plugin-force-publish/pull/14) on [SirUli/semantic-release-plugin-force-publish](https://github.com/SirUli/semantic-release-plugin-force-publish) (2 weeks ago)
+- [README rewrite and self-release with the plugin](https://github.com/SirUli/semantic-release-plugin-force-publish/pull/13) on [SirUli/semantic-release-plugin-force-publish](https://github.com/SirUli/semantic-release-plugin-force-publish) (2 weeks ago)
+- [Scoped package name, README, self-release](https://github.com/SirUli/semantic-release-plugin-force-publish/pull/12) on [SirUli/semantic-release-plugin-force-publish](https://github.com/SirUli/semantic-release-plugin-force-publish) (2 weeks ago)
+- [ci: upload coverage to GitHub Code Quality](https://github.com/SirUli/semantic-release-plugin-force-publish/pull/11) on [SirUli/semantic-release-plugin-force-publish](https://github.com/SirUli/semantic-release-plugin-force-publish) (2 weeks ago)
+- [ci: post coverage report as PR comment](https://github.com/SirUli/semantic-release-plugin-force-publish/pull/10) on [SirUli/semantic-release-plugin-force-publish](https://github.com/SirUli/semantic-release-plugin-force-publish) (2 weeks ago)
+- [build(deps): update vitest 5, add vite, yarn 4.18.1; npm trusted publishing](https://github.com/SirUli/semantic-release-plugin-force-publish/pull/9) on [SirUli/semantic-release-plugin-force-publish](https://github.com/SirUli/semantic-release-plugin-force-publish) (2 weeks ago)
 - [feat: Authentication via API Keys and move home](https://github.com/SirUli/homeassistant-ollama-addon/pull/311) on [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) (4 months ago)
 - [fix: Add /dev/kfd to list of devices for rocm](https://github.com/SirUli/homeassistant-ollama-addon/pull/310) on [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) (4 months ago)
 - [Add many Heatpumps to HeatPumpType.md](https://github.com/heishamon/HeishaMon/pull/783) on [heishamon/HeishaMon](https://github.com/heishamon/HeishaMon) (9 months ago)
