@@ -20,7 +20,7 @@
 
 #### 🔭 Recent Releases
 
-- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.2.39](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.2.39), 2 days ago) - A Home Assistant App (ex addon) to provide Ollama for AI
+- [SirUli/homeassistant-ollama-addon](https://github.com/SirUli/homeassistant-ollama-addon) ([v2.2.39](https://github.com/SirUli/homeassistant-ollama-addon/releases/tag/v2.2.39), 3 days ago) - A Home Assistant App (ex addon) to provide Ollama for AI
 - [SirUli/semantic-release-plugin-force-publish](https://github.com/SirUli/semantic-release-plugin-force-publish) ([v1.0.0](https://github.com/SirUli/semantic-release-plugin-force-publish/releases/tag/v1.0.0), 2 weeks ago) - Allows to force a release through semantic release
 
 #### 🔨 Recent Pull Requests
